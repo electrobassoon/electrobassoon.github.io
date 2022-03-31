@@ -469,6 +469,7 @@ I_name_0 = [
 "Heinze, [Living]",
 "Heinze, [Living]",
 "Heinze, [Living]",
+"Heubner, [Living]",
 "Hewitt, Harriet Heal",
 "Holbrook, Charlotte",
 "Holbrook, Sarah Lucretia",

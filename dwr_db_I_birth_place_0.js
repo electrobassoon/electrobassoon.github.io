@@ -469,6 +469,7 @@ I_birth_place_0 = [
 "",
 "",
 "",
+"",
 "Windsor, Kennebec, Maine, United States of America",
 "Wethersfield, Genesee, New York, United States of America",
 "Genessee, Allegany, New York, United States of America",

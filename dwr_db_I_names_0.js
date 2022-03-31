@@ -8447,6 +8447,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Heubner, [Living]",
+"given": "[Living]",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Heubner"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Hewitt, Harriet Heal",
 "given": "Harriet Heal",
 "nick": "",

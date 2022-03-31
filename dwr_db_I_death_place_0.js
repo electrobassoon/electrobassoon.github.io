@@ -470,6 +470,7 @@ I_death_place_0 = [
 "",
 "",
 "",
+"",
 "Bountiful, Davis, Utah, United States of America",
 "Bountiful, Davis, Utah, United States of America",
 "East Benhar, Linlithgowshire, Scotland",
