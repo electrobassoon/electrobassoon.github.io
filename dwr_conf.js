@@ -7,12 +7,12 @@ DWR_VERSION_500 = true;
 TITLE = "Bradshaw Family Ancestors";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 107,
-    "F": 150,
-    "I": 896,
+    "C": 132,
+    "F": 153,
+    "I": 920,
     "M": 51,
-    "N": 138,
-    "P": 781,
+    "N": 144,
+    "P": 783,
     "R": 7,
     "S": 62
 };NB_GENERATIONS_MAX = 10;
