@@ -95,6 +95,7 @@ F_name_0 = [
 "Family of Kendall, Levi Newell and Clements, Eliza",
 "Family of Kendall, Levi Newell and Clements, Elizabeth",
 "Family of Kimball, Heber Chase and Doty, Eliza",
+"Family of Kleinman, Henry Benz and Spilsbury, Susan Vilate",
 "Family of Murray, William Ellis and Doty, Eliza",
 "Family of Myers, Moroni and Bradshaw, Harriet",
 "Family of Pack, John Sr and Booth, Nancy Aurelia",
@@ -152,6 +153,7 @@ F_name_0 = [
 "Family of Warren, Edward and Shaw, Emma",
 "Family of Wilbur, Melvin and Winchell, Aidah",
 "Family of Williams, John and Parry, Mary",
+"Family of Williams, Thomas Wallace and Bowers, Mary Ann",
 "Family of Williams, Thomas Wallace and Quilliam, Susannah Charlotte",
 "Family of Winslow, Clark J. and Clissold, Martha Irene"
 ]

@@ -61,6 +61,7 @@ S_text_0 = [
 "",
 "",
 "",
+"",
 "<p>\n<b>\nAuthor: \n</b>\nJanet Spilsbury\n</p>",
 "<p>\n<b>\nAuthor: \n</b>\nBeatrice Easton Alleman\n</p>"
 ]

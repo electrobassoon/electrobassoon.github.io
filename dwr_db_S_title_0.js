@@ -52,6 +52,7 @@ S_title_0 = [
 "Sketch of the Life of William Flint and Charlotte Irene Long Poll",
 "The Life Story of Albert Clements and Ada Winchell",
 "The Mountain Meadow Massacre",
+"United States Census 1850",
 "United States Census 1860",
 "United States Census, 1870",
 "United States Census, 1880",

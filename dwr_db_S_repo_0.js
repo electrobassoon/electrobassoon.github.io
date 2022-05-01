@@ -384,6 +384,14 @@ S_repo_0 = [
 [
 {
 "call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 5
+}
+],
+[
+{
+"call_number": "",
 "media_type": "Electronic",
 "note": "",
 "r_idx": 5

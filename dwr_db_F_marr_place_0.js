@@ -95,6 +95,7 @@ F_marr_place_0 = [
 "Salt Lake City, Salt Lake, Utah, United States of America",
 "Salt Lake City, Salt Lake, Utah, United States of America",
 "",
+"",
 "Nauvoo, Hancock, Illinois, United States of America",
 "",
 "Nauvoo, Hancock, Illinois, United States of America",
@@ -152,6 +153,7 @@ F_marr_place_0 = [
 "Edmonton, Middlesex, South East, England",
 "Salt Lake City, Salt Lake, Utah, United States of America",
 "Newmarket, Flintshire, Wales",
+"",
 "Salt Lake City, Salt Lake, Utah, United States of America",
 "Salt Lake City, Salt Lake, Utah, United States of America"
 ]
