@@ -90,6 +90,7 @@ F_name_0 = [
 "Family of Howard, Joseph and Richards, Caroline Elizabeth",
 "Family of Howard, Joseph and Shelton, Ann",
 "Family of Howe, Hiram D and Lyman, Lorena",
+"Family of Ingham, William H and Pack, Mary Agnes",
 "Family of Izatt, [Living] and Spilsbury, [Living]",
 "Family of Kendall, Levi and Lyman, Lorena",
 "Family of Kendall, Levi Newell and Clements, Eliza",

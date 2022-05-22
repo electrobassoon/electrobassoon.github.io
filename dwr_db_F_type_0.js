@@ -127,6 +127,7 @@ F_type_0 = [
 "Married",
 "Married",
 "Married",
+"Married",
 "Unknown",
 "Married",
 "Married",
