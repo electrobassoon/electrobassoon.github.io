@@ -7,11 +7,11 @@ DWR_VERSION_500 = true;
 TITLE = "Bradshaw Family Ancestors";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 144,
-    "F": 156,
-    "I": 947,
+    "C": 156,
+    "F": 157,
+    "I": 955,
     "M": 51,
-    "N": 150,
+    "N": 155,
     "P": 783,
     "R": 7,
     "S": 63
@@ -51,18 +51,18 @@ CHART_BACKGROUND_SCHEME1 = 3;
 CHART_BACKGROUND_SCHEME2 = 4;
 STATISTICS_CHART_OPACITY = 70;
 GRAMPS_PREFERENCES = [];
-GRAMPS_PREFERENCES['border-female-alive'] = "['#861f69', '#261111']";
-GRAMPS_PREFERENCES['border-female-dead'] = "['#000000', '#000000']";
-GRAMPS_PREFERENCES['border-male-alive'] = "['#1f4986', '#171d26']";
-GRAMPS_PREFERENCES['border-male-dead'] = "['#000000', '#000000']";
-GRAMPS_PREFERENCES['border-unknown-alive'] = "['#8e5801', '#8e5801']";
-GRAMPS_PREFERENCES['border-unknown-dead'] = "['#000000', '#000000']";
-GRAMPS_PREFERENCES['female-alive'] = "['#feccf0', '#62242D']";
-GRAMPS_PREFERENCES['female-dead'] = "['#feccf0', '#3a292b']";
-GRAMPS_PREFERENCES['male-alive'] = "['#b8cee6', '#1f344a']";
-GRAMPS_PREFERENCES['male-dead'] = "['#b8cee6', '#2d3039']";
-GRAMPS_PREFERENCES['unknown-alive'] = "['#f3dbb6', '#75507B']";
-GRAMPS_PREFERENCES['unknown-dead'] = "['#f3dbb6', '#35103b']";
+GRAMPS_PREFERENCES['border-female-alive'] = "#861f69";
+GRAMPS_PREFERENCES['border-female-dead'] = "#000000";
+GRAMPS_PREFERENCES['border-male-alive'] = "#1f4986";
+GRAMPS_PREFERENCES['border-male-dead'] = "#000000";
+GRAMPS_PREFERENCES['border-unknown-alive'] = "#8e5801";
+GRAMPS_PREFERENCES['border-unknown-dead'] = "#000000";
+GRAMPS_PREFERENCES['female-alive'] = "#feccf0";
+GRAMPS_PREFERENCES['female-dead'] = "#feccf0";
+GRAMPS_PREFERENCES['male-alive'] = "#b8cee6";
+GRAMPS_PREFERENCES['male-dead'] = "#b8cee6";
+GRAMPS_PREFERENCES['unknown-alive'] = "#f3dbb6";
+GRAMPS_PREFERENCES['unknown-dead'] = "#f3dbb6";
 SVG_TREE_COLOR_SCHEME0 = ["#ffffff", "#ffffff"];
 SVG_TREE_COLOR_SCHEME1 = ["#ff3f00", "#ffaf0f", "#ffdf57", "#ffff6f", "#9fff9f", "#6fd7ff", "#4f97ff", "#e717ff", "#e71779", "#d2aa7c", "#bd9970"];
 SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"];

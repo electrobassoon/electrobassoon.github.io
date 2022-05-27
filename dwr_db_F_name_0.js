@@ -85,6 +85,7 @@ F_name_0 = [
 "Family of Hamblin, Wallace and Rollins, Ida Minerva",
 "Family of Harmon, Willis Milton and Spilsbury, Martha Elizabeth",
 "Family of Heinze, [Living] and Rigby, [Living]",
+"Family of Hendry, Milton A and Thomson, Nettie Rose",
 "Family of Hood, Peter and O'Neil, Mary",
 "Family of Hopkins, Edward and Marrison, Hannah",
 "Family of Howard, Joseph and Richards, Caroline Elizabeth",
