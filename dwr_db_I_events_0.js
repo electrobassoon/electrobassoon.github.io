@@ -30,7 +30,7 @@ I_events_0 = [
 "part_person": [
 2
 ],
-"place": 706,
+"place": 707,
 "text": "",
 "type": "Death"
 },
@@ -45,7 +45,7 @@ I_events_0 = [
 "part_person": [
 2
 ],
-"place": 705,
+"place": 706,
 "text": "",
 "type": "Burial"
 }
@@ -206,7 +206,7 @@ I_events_0 = [
 "part_person": [
 9
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 },
@@ -223,9 +223,9 @@ I_events_0 = [
 "part_person": [
 9,
 10,
-234,
 237,
-849
+240,
+860
 ],
 "place": 468,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Weber\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 15\n</p>\n<p>\n<b>Page No.</b>: 221\n</p>\n<p>\n<b>Division of County</b>: Precinct #4\n</p>\n<p>\n<b>City, Town, Village</b>: Ogden City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-16\n</p>\n<p>\n<b>Street Address</b>: 203 13th Street\n</p>\n<p>\n<b>Name</b>: Bagley, Thomas\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: R\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 53\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Year of immigration</b>: 1903\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Year of naturalization</b>: 1911\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Mother's mother tongue</b>: English\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Salesman\n</p>\n<p>\n<b>Industry</b>: Grocery Store\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: W\n</p>\n</div>",
@@ -244,9 +244,9 @@ I_events_0 = [
 "part_person": [
 9,
 10,
-234,
 237,
-849
+240,
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-16\n</p>\n<p>\n<b>Page No.</b>: 118\n</p>\n<p>\n<b>Sheet No.</b>: 7A\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-09\n</p>\n<p>\n<b>Street Address</b>: 332 East Coatsville Avenue\n</p>\n<p>\n<b>Name</b>: Baggley, Thomas\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: 0\n</p>\n<p>\n<b>Value of home or monthly rental</b>: 5000\n</p>\n<p>\n<b>Radio set</b>: R\n</p>\n<p>\n<b>Farm?</b>: No\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 64\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 35\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Language before coming to US</b>: English\n</p>\n<p>\n<b>Year of immigration</b>: 1902\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Carpenter\n</p>\n<p>\n<b>Industry</b>: Building\n</p>\n<p>\n<b>Class of worker</b>: W\n</p>\n<p>\n<b>Employed</b>: Yes\n</p>\n<p>\n<b>Veteran</b>: No\n</p>\n</div>",
@@ -265,7 +265,7 @@ I_events_0 = [
 "part_person": [
 9,
 10,
-849
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 6\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 30-43\n</p>\n<p>\n<b>Page No.</b>: 605\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-15\n</p>\n<p>\n<b>Name</b>: Baggaley, Thomas\n</p>\n<p>\n<b>Home Owned/Rented</b>: R\n</p>\n<p>\n<b>Home value/monthly rental</b>: 1300\n</p>\n<p>\n<b>Relationship</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 75\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: no\n</p>\n<p>\n<b>Highest grade completed</b>: 6\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same House\n</p>\n<p>\n<b>At Work during week March 24-30</b>: No\n</p>\n<p>\n<b>public Emergency Work?</b>: No\n</p>\n<p>\n<b>Seeking work?</b>: No\n</p>\n<p>\n<b>Have a Job?</b>: No\n</p>\n<p>\n<b>housework (H), school (S), unable to work (U) or other (Ot)</b>: U\n</p>\n<p>\n<b># weeks worked in 1939</b>: 0\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 0\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: no\n</p>\n</div>",
@@ -314,7 +314,7 @@ I_events_0 = [
 "part_person": [
 10
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 },
@@ -331,9 +331,9 @@ I_events_0 = [
 "part_person": [
 9,
 10,
-234,
 237,
-849
+240,
+860
 ],
 "place": 468,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Weber\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 15\n</p>\n<p>\n<b>Page No.</b>: 221\n</p>\n<p>\n<b>Division of County</b>: Precinct #4\n</p>\n<p>\n<b>City, Town, Village</b>: Ogden City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-16\n</p>\n<p>\n<b>Street Address</b>: 203 13th Street\n</p>\n<p>\n<b>Name</b>: Bagley, Thomas Emerson\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 2 6/12\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: California\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -352,9 +352,9 @@ I_events_0 = [
 "part_person": [
 9,
 10,
-234,
 237,
-849
+240,
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-16\n</p>\n<p>\n<b>Page No.</b>: 118\n</p>\n<p>\n<b>Sheet No.</b>: 7A\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-09\n</p>\n<p>\n<b>Street Address</b>: 332 East Coatsville Avenue\n</p>\n<p>\n<b>Name</b>: Baggley, Thomas E\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Marital condition</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: Yes\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: California\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -373,7 +373,7 @@ I_events_0 = [
 "part_person": [
 9,
 10,
-849
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 6\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 30-43\n</p>\n<p>\n<b>Page No.</b>: 605\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-15\n</p>\n<p>\n<b>Name</b>: Baggaley, Emerson\n</p>\n<p>\n<b>Relationship</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 22\n</p>\n<p>\n<b>Marital Status</b>: S\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: yes\n</p>\n<p>\n<b>Highest grade completed</b>: C-3\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same Hosue\n</p>\n<p>\n<b>At Work during week March 24-30</b>: No\n</p>\n<p>\n<b>public Emergency Work?</b>: No\n</p>\n<p>\n<b>Seeking work?</b>: No\n</p>\n<p>\n<b>Have a Job?</b>: No\n</p>\n<p>\n<b>housework (H), school (S), unable to work (U) or other (Ot)</b>: S\n</p>\n<p>\n<b># weeks worked in 1939</b>: 0\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 0\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: no\n</p>\n</div>",
@@ -454,7 +454,7 @@ I_events_0 = [
 "part_person": [
 12
 ],
-"place": 780,
+"place": 781,
 "text": "",
 "type": "Burial"
 }
@@ -645,12 +645,12 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 17,
-74,
-75,
 77,
-85,
+78,
+80,
 88,
-90
+91,
+93
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 10\n</p>\n<p>\n<b>Sheet No.</b>: 29\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Miversville\n</p>\n<p>\n<b>Line No.</b>: 2\n</p>\n<p>\n<b>Name</b>: Bradshaw, Sarah\n</p>\n<p>\n<b>Age</b>: 39\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Keeping House\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Yes\n</p>\n<p>\n<b>Mother of foreign birth</b>: Yes\n</p>\n</div>",
@@ -668,10 +668,10 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 17,
-74,
-75,
 77,
-81
+78,
+80,
+84
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 26\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-03\n</p>\n<p>\n<b>Line No.</b>: 26\n</p>\n<p>\n<b>Family No.</b>: 7\n</p>\n<p>\n<b>Name</b>: Bradshaw, Sarah\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 44\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Married</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Keeping House\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -719,8 +719,8 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 17,
-81,
-616
+84,
+627
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 1\n</p>\n<p>\n<b>Page No.</b>: 9\n</p>\n<p>\n<b>Sheet No.</b>: 9A\n</p>\n<p>\n<b>Division of County</b>: Minersville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Minersville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-06\n</p>\n<p>\n<b>Name</b>: Bradshaw, Sarah\n</p>\n<p>\n<b>Relationship to head</b>: Mother in law\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 80\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: Wd\n</p>\n<p>\n<b>Years of present marriage</b>: 12\n</p>\n<p>\n<b>Mother of how many children</b>: 12\n</p>\n<p>\n<b>Number of children living</b>: 7\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Year of immigration</b>: 1869\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: own income\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -901,7 +901,7 @@ I_events_0 = [
 "part_person": [
 26
 ],
-"place": 716,
+"place": 717,
 "text": "",
 "type": "Death"
 },
@@ -933,20 +933,20 @@ I_events_0 = [
 "part_person": [
 26,
 36,
-111,
-112,
-113,
 114,
+115,
+116,
 117,
-119,
+120,
 122,
-123,
-124,
 125,
 126,
+127,
 128,
-130,
-131
+129,
+131,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-06\n</p>\n<p>\n<b>Name</b>: Call, Annis J\n</p>\n<p>\n<b>Relation to head</b>: Wife\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Sept\n</p>\n<p>\n<b>Year of birth</b>: 1860\n</p>\n<p>\n<b>Age</b>: 39\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 20\n</p>\n<p>\n<b>Mother of how many children</b>: 8\n</p>\n<p>\n<b>Number of children living</b>: 7\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Pennsylvania\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -964,13 +964,13 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 26,
-111,
-112,
 114,
-122,
-124,
-130,
-131
+115,
+117,
+125,
+127,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>Roll No.</b>: 221\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Page No.</b>: 73\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Chesterfield Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Call, Annis J\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 49\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 29\n</p>\n<p>\n<b>Mother of how many children</b>: 8\n</p>\n<p>\n<b>Number of children living</b>: 6\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Vermont\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -988,11 +988,11 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 26,
-111,
-112,
-114
+114,
+115,
+117
 ],
-"place": 716,
+"place": 717,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T625\n</p>\n<p>\n<b>Roll No.</b>: 288\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bingham\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 29\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 78\n</p>\n<p>\n<b>Page No.</b>: 221\n</p>\n<p>\n<b>Division of County</b>: Wapello\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-02-14\n</p>\n<p>\n<b>Street Address</b>: Whitten Lane\n</p>\n<p>\n<b>Name</b>: Call, Annis J\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 59\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Massachussets\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Mother's mother tongue</b>: English\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
 "type": "Census"
 },
@@ -1008,9 +1008,9 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 26,
-111
+114
 ],
-"place": 716,
+"place": 717,
 "text": "<div>\n<p>\n<b>Name</b>: Barlow, Annis J\n</p>\n<p>\n<b>Relationship to head</b>: wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 69\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 20\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: no\n</p>\n<p>\n<b>Able to read and write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Massachussets\n</p>\n<p>\n<b>Place of birth of mother</b>: Massachussets\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
 "type": "Census"
 },
@@ -1031,7 +1031,7 @@ I_events_0 = [
 29,
 36,
 37,
-488
+499
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1336\n</p>\n<p>\n<b>Page No.</b>: 10\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: West Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 3\n</p>\n<p>\n<b>Family No.</b>: 2\n</p>\n<p>\n<b>Name</b>: Barlow, Alice\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Massachussets\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -1123,7 +1123,7 @@ I_events_0 = [
 29,
 36,
 37,
-488
+499
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1336\n</p>\n<p>\n<b>Page No.</b>: 10\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: West Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 3\n</p>\n<p>\n<b>Family No.</b>: 2\n</p>\n<p>\n<b>Name</b>: Barlow, Jane\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Massachussets\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -1215,7 +1215,7 @@ I_events_0 = [
 29,
 36,
 37,
-488
+499
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1336\n</p>\n<p>\n<b>Page No.</b>: 10\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: West Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 3\n</p>\n<p>\n<b>Family No.</b>: 2\n</p>\n<p>\n<b>Name</b>: Barlow, Granville\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Massachussets\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -1307,7 +1307,7 @@ I_events_0 = [
 29,
 36,
 37,
-488
+499
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1336\n</p>\n<p>\n<b>Page No.</b>: 10\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: West Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 3\n</p>\n<p>\n<b>Family No.</b>: 2\n</p>\n<p>\n<b>Name</b>: Barlow, Hyrum\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 15\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: farm laborer\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Massachussets\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -1341,7 +1341,7 @@ I_events_0 = [
 "part_person": [
 30
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Death"
 },
@@ -1655,20 +1655,20 @@ I_events_0 = [
 "part_person": [
 26,
 36,
-111,
-112,
-113,
 114,
+115,
+116,
 117,
-119,
+120,
 122,
-123,
-124,
 125,
 126,
+127,
 128,
-130,
-131
+129,
+131,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-06\n</p>\n<p>\n<b>Name</b>: Call, Minniret\n</p>\n<p>\n<b>Relation to head</b>: Wife no 2\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Nov\n</p>\n<p>\n<b>Year of birth</b>: 1865\n</p>\n<p>\n<b>Age</b>: 34\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 16\n</p>\n<p>\n<b>Mother of how many children</b>: 6\n</p>\n<p>\n<b>Number of children living</b>: 5\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Pennsylvania\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -1713,7 +1713,7 @@ I_events_0 = [
 29,
 36,
 37,
-488
+499
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1336\n</p>\n<p>\n<b>Page No.</b>: 10\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: West Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 3\n</p>\n<p>\n<b>Family No.</b>: 2\n</p>\n<p>\n<b>Name</b>: Barlow, Minnie\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: attending school\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Massachussets\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -1805,7 +1805,7 @@ I_events_0 = [
 29,
 36,
 37,
-488
+499
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1336\n</p>\n<p>\n<b>Page No.</b>: 10\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: West Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 3\n</p>\n<p>\n<b>Family No.</b>: 2\n</p>\n<p>\n<b>Name</b>: Barlow, Nathan\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Occupation</b>: attending school\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Massachussets\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -2161,8 +2161,8 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 44,
-216,
-236
+219,
+239
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 344\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 112\n</p>\n<p>\n<b>Page No.</b>: 146\n</p>\n<p>\n<b>Division of County</b>: Precinct 2\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-09\n</p>\n<p>\n<b>Street Address</b>: 934 W 6th S\n</p>\n<p>\n<b>Name</b>: Clissold, Margaret\n</p>\n<p>\n<b>Relationship to head</b>: wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 23\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Year of immigration</b>: 1907\n</p>\n<p>\n<b>Naturalized or alien</b>: N.C.\n</p>\n<p>\n<b>Year of naturalization</b>: 1914\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Germany\n</p>\n<p>\n<b>Mother tongue</b>: German\n</p>\n<p>\n<b>Place of birth of father</b>: Germany\n</p>\n<p>\n<b>Father mother tongue</b>: German\n</p>\n<p>\n<b>Place of birth of mother</b>: Germany\n</p>\n<p>\n<b>Mother's mother tongue</b>: German\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -2229,22 +2229,25 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 47,
-552,
-605,
-630,
-632,
-639,
-654,
-666,
+563,
+616,
+641,
+643,
+650,
+665,
 677,
-679,
-683
+688,
+690,
+694
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 16\n</p>\n<p>\n<b>County of</b>: Salt Lake County\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Line No.</b>: 9\n</p>\n<p>\n<b>Name</b>: Pack, Nancy\n</p>\n</div>",
 "type": "Census"
 }
 ],
+[],
+[],
+[],
 [],
 [],
 [],
@@ -2275,7 +2278,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-68
+71
 ],
 "place": 144,
 "text": "",
@@ -2290,7 +2293,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-68
+71
 ],
 "place": 466,
 "text": "",
@@ -2305,7 +2308,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-68
+71
 ],
 "place": 410,
 "text": "",
@@ -2322,7 +2325,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-69
+72
 ],
 "place": 144,
 "text": "",
@@ -2337,7 +2340,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-69
+72
 ],
 "place": 144,
 "text": "",
@@ -2352,7 +2355,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-69
+72
 ],
 "place": 144,
 "text": "",
@@ -2369,7 +2372,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-70
+73
 ],
 "place": 411,
 "text": "",
@@ -2384,7 +2387,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-70
+73
 ],
 "place": 372,
 "text": "",
@@ -2399,7 +2402,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-70
+73
 ],
 "place": 370,
 "text": "",
@@ -2416,11 +2419,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-70,
-71,
-77,
-79,
-381
+73,
+74,
+80,
+82,
+386
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 133\n</p>\n<p>\n<b>Sheet No.</b>: 4B\n</p>\n<p>\n<b>City, Town, Village</b>: Lyman Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-07\n</p>\n<p>\n<b>Name</b>: Bradshaw, Clinton R.\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: Yes\n</p>\n</div>",
@@ -2437,11 +2440,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-70,
-71,
-77,
-79,
-381
+73,
+74,
+80,
+82,
+386
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: illegible\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Sheet No.</b>: 1A\n</p>\n<p>\n<b>Division of County</b>: Minersville Precinct\n</p>\n<p>\n<b>Street Address</b>: Third West Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-01\n</p>\n<p>\n<b>Name</b>: Bradshaw, Clinton\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Dec\n</p>\n<p>\n<b>Year of birth</b>: 1895\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n</div>",
@@ -2458,7 +2461,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-71
+74
 ],
 "place": 411,
 "text": "",
@@ -2473,7 +2476,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-71
+74
 ],
 "place": 587,
 "text": "",
@@ -2488,7 +2491,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-71
+74
 ],
 "place": 174,
 "text": "",
@@ -2505,11 +2508,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-70,
-71,
-77,
-79,
-381
+73,
+74,
+80,
+82,
+386
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 133\n</p>\n<p>\n<b>Sheet No.</b>: 4B\n</p>\n<p>\n<b>City, Town, Village</b>: Lyman Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-07\n</p>\n<p>\n<b>Name</b>: Bradshaw, Daniel D.\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: Yes\n</p>\n</div>",
@@ -2526,11 +2529,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-70,
-71,
-77,
-79,
-381
+73,
+74,
+80,
+82,
+386
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: illegible\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Sheet No.</b>: 1A\n</p>\n<p>\n<b>Division of County</b>: Minersville Precinct\n</p>\n<p>\n<b>Street Address</b>: Third West Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-01\n</p>\n<p>\n<b>Name</b>: Bradshaw, Delos\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: June\n</p>\n<p>\n<b>Year of birth</b>: 1897\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n</div>",
@@ -2547,7 +2550,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-72
+75
 ],
 "place": 372,
 "text": "",
@@ -2562,7 +2565,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-72
+75
 ],
 "place": 587,
 "text": "",
@@ -2577,7 +2580,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-72
+75
 ],
 "place": 174,
 "text": "",
@@ -2594,9 +2597,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-72,
-77,
-381
+75,
+80,
+386
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-31\n</p>\n<p>\n<b>Page No.</b>: 245\n</p>\n<p>\n<b>Sheet No.</b>: 16A\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-15\n</p>\n<p>\n<b>Name</b>: Bradshaw, Duella\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Marital condition</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -2613,7 +2616,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-73
+76
 ],
 "place": 59,
 "text": "",
@@ -2628,7 +2631,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-73
+76
 ],
 "place": 59,
 "text": "",
@@ -2643,7 +2646,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-73
+76
 ],
 "place": 59,
 "text": "",
@@ -2660,7 +2663,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-74
+77
 ],
 "place": 145,
 "text": "",
@@ -2678,12 +2681,12 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 17,
-74,
-75,
 77,
-85,
+78,
+80,
 88,
-90
+91,
+93
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 10\n</p>\n<p>\n<b>Sheet No.</b>: 29\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Miversville\n</p>\n<p>\n<b>Line No.</b>: 2\n</p>\n<p>\n<b>Name</b>: Bradshaw, Edward\n</p>\n<p>\n<b>Age</b>: 41\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Laborer\n</p>\n<p>\n<b>Value of real estate</b>: 100\n</p>\n<p>\n<b>Value of personal estate</b>: 100\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Yes\n</p>\n<p>\n<b>Mother of foreign birth</b>: Yes\n</p>\n</div>",
@@ -2698,7 +2701,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-74
+77
 ],
 "place": 411,
 "text": "",
@@ -2713,7 +2716,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-74
+77
 ],
 "place": 410,
 "text": "",
@@ -2731,10 +2734,10 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 17,
-74,
-75,
 77,
-81
+78,
+80,
+84
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 26\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-03\n</p>\n<p>\n<b>Line No.</b>: 26\n</p>\n<p>\n<b>Family No.</b>: 7\n</p>\n<p>\n<b>Name</b>: Bradshaw, Edward\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 53\n</p>\n<p>\n<b>Married</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Brick Mason\n</p>\n<p>\n<b>Number of months unemployed during the census year</b>: 5\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -2751,7 +2754,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-74
+77
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Page No.</b>: 956\n</p>\n<p>\n<b>Sheet No.</b>: 5A\n</p>\n<p>\n<b>Division of County</b>: Minersville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Minersville Town\n</p>\n<p>\n<b>Street Address</b>: First North Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-09\n</p>\n<p>\n<b>Name</b>: Bradshaw, Edward\n</p>\n<p>\n<b>Relation to head</b>: Head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Aug\n</p>\n<p>\n<b>Year of birth</b>: 1827\n</p>\n<p>\n<b>Age</b>: 72\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: D\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Year of immigration</b>: 1869\n</p>\n<p>\n<b>Number of years in US</b>: 30\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n</div>",
@@ -2768,7 +2771,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-75
+78
 ],
 "place": 31,
 "text": "",
@@ -2783,7 +2786,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-75
+78
 ],
 "place": 372,
 "text": "",
@@ -2798,7 +2801,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-75
+78
 ],
 "place": 370,
 "text": "",
@@ -2816,12 +2819,12 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 17,
-74,
-75,
 77,
-85,
+78,
+80,
 88,
-90
+91,
+93
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 10\n</p>\n<p>\n<b>Sheet No.</b>: 29\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Miversville\n</p>\n<p>\n<b>Line No.</b>: 2\n</p>\n<p>\n<b>Name</b>: Bradshaw, Eliza\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Yes\n</p>\n<p>\n<b>Mother of foreign birth</b>: Yes\n</p>\n</div>",
@@ -2839,10 +2842,10 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 17,
-74,
-75,
 77,
-81
+78,
+80,
+84
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 26\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-03\n</p>\n<p>\n<b>Line No.</b>: 26\n</p>\n<p>\n<b>Family No.</b>: 7\n</p>\n<p>\n<b>Name</b>: Bradshaw, Eliza\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Single</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Attended school within the census year</b>: 6\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -2859,7 +2862,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-76
+79
 ],
 "place": 644,
 "text": "",
@@ -2874,7 +2877,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-76
+79
 ],
 "place": 648,
 "text": "",
@@ -2891,7 +2894,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-77
+80
 ],
 "place": 587,
 "text": "",
@@ -2909,12 +2912,12 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 17,
-74,
-75,
 77,
-85,
+78,
+80,
 88,
-90
+91,
+93
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 10\n</p>\n<p>\n<b>Sheet No.</b>: 29\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Miversville\n</p>\n<p>\n<b>Line No.</b>: 2\n</p>\n<p>\n<b>Name</b>: Bradshaw, George\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Yes\n</p>\n<p>\n<b>Mother of foreign birth</b>: Yes\n</p>\n</div>",
@@ -2932,10 +2935,10 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 17,
-74,
-75,
 77,
-81
+78,
+80,
+84
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 26\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-03\n</p>\n<p>\n<b>Line No.</b>: 26\n</p>\n<p>\n<b>Family No.</b>: 7\n</p>\n<p>\n<b>Name</b>: Bradshaw, George\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 11 2/12\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -2952,11 +2955,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-70,
-71,
-77,
-79,
-381
+73,
+74,
+80,
+82,
+386
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: illegible\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Sheet No.</b>: 1A\n</p>\n<p>\n<b>Division of County</b>: Minersville Precinct\n</p>\n<p>\n<b>Street Address</b>: Third West Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-01\n</p>\n<p>\n<b>Name</b>: Bradshaw, George\n</p>\n<p>\n<b>Relation to head</b>: Head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Oct\n</p>\n<p>\n<b>Year of birth</b>: 1868\n</p>\n<p>\n<b>Age</b>: 31\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 8\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Months not employed</b>: 0\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n<p>\n<b>Number of farm schedule</b>: 1\n</p>\n</div>",
@@ -2973,11 +2976,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-70,
-71,
-77,
-79,
-381
+73,
+74,
+80,
+82,
+386
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 133\n</p>\n<p>\n<b>Sheet No.</b>: 4B\n</p>\n<p>\n<b>City, Town, Village</b>: Lyman Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-07\n</p>\n<p>\n<b>Name</b>: Bradshaw, George\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 41\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 18\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Nature of industry</b>: General\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: Emp\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n<p>\n<b>Number of farm schedule</b>: 60\n</p>\n</div>",
@@ -2994,9 +2997,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-72,
-77,
-381
+75,
+80,
+386
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-31\n</p>\n<p>\n<b>Page No.</b>: 245\n</p>\n<p>\n<b>Sheet No.</b>: 16A\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-15\n</p>\n<p>\n<b>Name</b>: Bradshaw, George\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Value of home or monthly rental</b>: 6950\n</p>\n<p>\n<b>Farm?</b>: No\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 61\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 23\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Carpenter\n</p>\n<p>\n<b>Industry</b>: Building\n</p>\n<p>\n<b>Class of worker</b>: O\n</p>\n<p>\n<b>Employed</b>: Yes\n</p>\n<p>\n<b>Veteran</b>: No\n</p>\n</div>",
@@ -3013,8 +3016,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-77,
-381
+80,
+386
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 6\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 30-64\n</p>\n<p>\n<b>Page No.</b>: 860\n</p>\n<p>\n<b>Sheet No.</b>: 7A\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-13\n</p>\n<p>\n<b>Street Address</b>: 2190 Lake Street\n</p>\n<p>\n<b>Name</b>: Bradshaw, George\n</p>\n<p>\n<b>Home Owned/Rented</b>: O\n</p>\n<p>\n<b>Home value/monthly rental</b>: 1200\n</p>\n<p>\n<b>Farm?</b>: No\n</p>\n<p>\n<b>Relationship</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 71\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: No\n</p>\n<p>\n<b>Highest grade completed</b>: 4\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Lyman\n</p>\n<p>\n<b>County</b>: Uinta\n</p>\n<p>\n<b>State (Territory/Country)</b>: Wyoming\n</p>\n<p>\n<b>On a Farm (Y/N)</b>: Yes\n</p>\n<p>\n<b>At Work during week March 24-30</b>: Yes\n</p>\n<p>\n<b># hours worked during week March 24-30, 1940</b>: 44\n</p>\n<p>\n<b>Occupation</b>: Carpenter\n</p>\n<p>\n<b>Industry</b>: Contractor\n</p>\n<p>\n<b>Class of worker</b>: PW\n</p>\n<p>\n<b># weeks worked in 1939</b>: 40\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 1300\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: no\n</p>\n</div>",
@@ -3029,7 +3032,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-77
+80
 ],
 "place": 587,
 "text": "",
@@ -3044,7 +3047,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-77
+80
 ],
 "place": 370,
 "text": "",
@@ -3061,7 +3064,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-78
+81
 ],
 "place": 276,
 "text": "",
@@ -3076,7 +3079,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-78
+81
 ],
 "place": 126,
 "text": "",
@@ -3093,7 +3096,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-79
+82
 ],
 "place": 411,
 "text": "",
@@ -3110,11 +3113,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-70,
-71,
-77,
-79,
-381
+73,
+74,
+80,
+82,
+386
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 133\n</p>\n<p>\n<b>Sheet No.</b>: 4B\n</p>\n<p>\n<b>City, Town, Village</b>: Lyman Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-07\n</p>\n<p>\n<b>Name</b>: Bradshaw, George C.\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: Yes\n</p>\n</div>",
@@ -3129,7 +3132,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-79
+82
 ],
 "place": 587,
 "text": "",
@@ -3144,9 +3147,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-79
+82
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 },
@@ -3161,11 +3164,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-70,
-71,
-77,
-79,
-381
+73,
+74,
+80,
+82,
+386
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: illegible\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Sheet No.</b>: 1A\n</p>\n<p>\n<b>Division of County</b>: Minersville Precinct\n</p>\n<p>\n<b>Street Address</b>: Third West Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-01\n</p>\n<p>\n<b>Name</b>: Bradshaw, Clyde\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Oct\n</p>\n<p>\n<b>Year of birth</b>: 1893\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Attended school</b>: 9\n</p>\n</div>",
@@ -3182,7 +3185,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-80
+83
 ],
 "place": 411,
 "text": "",
@@ -3197,7 +3200,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-80
+83
 ],
 "place": 411,
 "text": "",
@@ -3212,7 +3215,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-80
+83
 ],
 "place": 410,
 "text": "",
@@ -3229,7 +3232,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-81
+84
 ],
 "place": 411,
 "text": "",
@@ -3244,7 +3247,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-81
+84
 ],
 "place": 411,
 "text": "",
@@ -3259,7 +3262,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-81
+84
 ],
 "place": 410,
 "text": "",
@@ -3277,10 +3280,10 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 17,
-74,
-75,
 77,
-81
+78,
+80,
+84
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 26\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-03\n</p>\n<p>\n<b>Line No.</b>: 26\n</p>\n<p>\n<b>Family No.</b>: 7\n</p>\n<p>\n<b>Name</b>: Bradshaw, Hattie\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -3298,8 +3301,8 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 17,
-81,
-616
+84,
+627
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 1\n</p>\n<p>\n<b>Page No.</b>: 9\n</p>\n<p>\n<b>Sheet No.</b>: 9A\n</p>\n<p>\n<b>Division of County</b>: Minersville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Minersville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-06\n</p>\n<p>\n<b>Name</b>: Myers, Harriet\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 38\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 22\n</p>\n<p>\n<b>Mother of how many children</b>: 10\n</p>\n<p>\n<b>Number of children living</b>: 9\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -3316,7 +3319,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-82
+85
 ],
 "place": 50,
 "text": "",
@@ -3331,7 +3334,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-82
+85
 ],
 "place": 587,
 "text": "",
@@ -3346,7 +3349,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-82
+85
 ],
 "place": 586,
 "text": "",
@@ -3363,7 +3366,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-83
+86
 ],
 "place": 126,
 "text": "",
@@ -3378,9 +3381,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-83
+86
 ],
-"place": 708,
+"place": 709,
 "text": "",
 "type": "Death"
 },
@@ -3393,11 +3396,29 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-83
+86
 ],
-"place": 707,
+"place": 708,
 "text": "",
 "type": "Burial"
+},
+{
+"cita": [
+121
+],
+"date": "1860-06-01",
+"date_sdn": 2400563,
+"descr": "",
+"gid": "E2570",
+"media": [],
+"part_family": [],
+"part_person": [
+86,
+960
+],
+"place": 709,
+"text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 142\n</p>\n<p>\n<b>Minor Civil Division</b>: Virgin City\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-07-24\n</p>\n<p>\n<b>Post Office</b>: Tokerville\n</p>\n<p>\n<b>Line No.</b>: 23\n</p>\n<p>\n<b>Family No.</b>: 1066\n</p>\n<p>\n<b>Name</b>: Bradshaw, John\n</p>\n<p>\n<b>Age</b>: 64\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Value of real estate</b>: 75\n</p>\n<p>\n<b>Value of personal estate</b>: 150\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Illiterate and over 20</b>: Y\n</p>\n</div>",
+"type": "Census"
 }
 ],
 [
@@ -3410,7 +3431,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-84
+87
 ],
 "place": 276,
 "text": "",
@@ -3425,7 +3446,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-84
+87
 ],
 "place": 411,
 "text": "",
@@ -3442,7 +3463,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-85
+88
 ],
 "place": 59,
 "text": "",
@@ -3457,7 +3478,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-85
+88
 ],
 "place": 487,
 "text": "",
@@ -3472,7 +3493,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-85
+88
 ],
 "place": 486,
 "text": "",
@@ -3490,12 +3511,12 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 17,
-74,
-75,
 77,
-85,
+78,
+80,
 88,
-90
+91,
+93
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 10\n</p>\n<p>\n<b>Sheet No.</b>: 29\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Miversville\n</p>\n<p>\n<b>Line No.</b>: 2\n</p>\n<p>\n<b>Name</b>: Bradshaw, Martha\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Yes\n</p>\n<p>\n<b>Mother of foreign birth</b>: Yes\n</p>\n</div>",
@@ -3512,7 +3533,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-86
+89
 ],
 "place": 276,
 "text": "",
@@ -3527,7 +3548,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-86
+89
 ],
 "place": 75,
 "text": "",
@@ -3544,7 +3565,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-87
+90
 ],
 "place": 411,
 "text": "",
@@ -3559,7 +3580,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-87
+90
 ],
 "place": 411,
 "text": "",
@@ -3574,7 +3595,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-87
+90
 ],
 "place": 410,
 "text": "",
@@ -3591,7 +3612,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-88
+91
 ],
 "place": 59,
 "text": "",
@@ -3606,7 +3627,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-88
+91
 ],
 "place": 487,
 "text": "",
@@ -3621,7 +3642,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-88
+91
 ],
 "place": 410,
 "text": "",
@@ -3639,12 +3660,12 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 17,
-74,
-75,
 77,
-85,
+78,
+80,
 88,
-90
+91,
+93
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 10\n</p>\n<p>\n<b>Sheet No.</b>: 29\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Miversville\n</p>\n<p>\n<b>Line No.</b>: 2\n</p>\n<p>\n<b>Name</b>: Bradshaw, Rachel\n</p>\n<p>\n<b>Age</b>: 10\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Yes\n</p>\n<p>\n<b>Mother of foreign birth</b>: Yes\n</p>\n<p>\n<b>Attended school within the year</b>: Yes\n</p>\n</div>",
@@ -3661,7 +3682,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-89
+92
 ],
 "place": 144,
 "text": "",
@@ -3676,7 +3697,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-89
+92
 ],
 "place": 144,
 "text": "",
@@ -3693,7 +3714,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-90
+93
 ],
 "place": 144,
 "text": "",
@@ -3708,7 +3729,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-90
+93
 ],
 "place": 411,
 "text": "",
@@ -3723,7 +3744,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-90
+93
 ],
 "place": 410,
 "text": "",
@@ -3741,12 +3762,12 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 17,
-74,
-75,
 77,
-85,
+78,
+80,
 88,
-90
+91,
+93
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 10\n</p>\n<p>\n<b>Sheet No.</b>: 29\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Miversville\n</p>\n<p>\n<b>Line No.</b>: 2\n</p>\n<p>\n<b>Name</b>: Bradshaw, Samuel\n</p>\n<p>\n<b>Age</b>: 15\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Yes\n</p>\n<p>\n<b>Mother of foreign birth</b>: Yes\n</p>\n</div>",
@@ -3763,7 +3784,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-91
+94
 ],
 "place": 276,
 "text": "",
@@ -3778,9 +3799,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-91
+94
 ],
-"place": 708,
+"place": 709,
 "text": "",
 "type": "Death"
 },
@@ -3793,11 +3814,29 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-91
+94
 ],
-"place": 707,
+"place": 708,
 "text": "",
 "type": "Burial"
+},
+{
+"cita": [
+122
+],
+"date": "1870-06-01",
+"date_sdn": 2404215,
+"descr": "",
+"gid": "E2631",
+"media": [],
+"part_family": [],
+"part_person": [
+94,
+960
+],
+"place": 709,
+"text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1611\n</p>\n<p>\n<b>Page No.</b>: 3\n</p>\n<p>\n<b>Sheet No.</b>: 460\n</p>\n<p>\n<b>Minor Civil Division</b>: Virgin City\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-13\n</p>\n<p>\n<b>Post Office</b>: Virgin City\n</p>\n<p>\n<b>Line No.</b>: 11\n</p>\n<p>\n<b>Family No.</b>: 20\n</p>\n<p>\n<b>Name</b>: Bradshaw, Samuel\n</p>\n<p>\n<b>Age</b>: 47\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Value of real estate</b>: 1000\n</p>\n<p>\n<b>Value of personal estate</b>: 300\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Male citizen 21 and over</b>: Y\n</p>\n</div>",
+"type": "Census"
 }
 ],
 [
@@ -3810,7 +3849,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-92
+95
 ],
 "place": 144,
 "text": "",
@@ -3825,7 +3864,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-92
+95
 ],
 "place": 355,
 "text": "",
@@ -3840,7 +3879,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-92
+95
 ],
 "place": 354,
 "text": "",
@@ -3857,7 +3896,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-93
+96
 ],
 "place": 372,
 "text": "",
@@ -3872,7 +3911,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-93
+96
 ],
 "place": 372,
 "text": "",
@@ -3887,7 +3926,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-93
+96
 ],
 "place": 370,
 "text": "",
@@ -3904,7 +3943,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-94
+97
 ],
 "place": 117,
 "text": "",
@@ -3919,7 +3958,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-94
+97
 ],
 "place": 117,
 "text": "",
@@ -3936,7 +3975,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-95
+98
 ],
 "place": 134,
 "text": "",
@@ -3951,7 +3990,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-95
+98
 ],
 "place": 587,
 "text": "",
@@ -3966,7 +4005,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-95
+98
 ],
 "place": 586,
 "text": "",
@@ -3983,7 +4022,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-96
+99
 ],
 "place": 132,
 "text": "",
@@ -3998,7 +4037,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-96
+99
 ],
 "place": 132,
 "text": "",
@@ -4016,7 +4055,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-98
+101
 ],
 "place": 250,
 "text": "",
@@ -4031,7 +4070,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-98
+101
 ],
 "place": 473,
 "text": "",
@@ -4046,7 +4085,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-98
+101
 ],
 "place": 473,
 "text": "",
@@ -4063,7 +4102,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-99
+102
 ],
 "place": 298,
 "text": "",
@@ -4078,7 +4117,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-99
+102
 ],
 "place": 498,
 "text": "",
@@ -4093,7 +4132,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-99
+102
 ],
 "place": 467,
 "text": "",
@@ -4110,10 +4149,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-99,
-255,
-682,
-683
+102,
+259,
+693,
+694
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 178\n</p>\n<p>\n<b>Minor Civil Division</b>: 17th Ward Great Salt Lake City\n</p>\n<p>\n<b>County of</b>: Great Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-07-17\n</p>\n<p>\n<b>Post Office</b>: Great Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 13\n</p>\n<p>\n<b>Family No.</b>: 61\n</p>\n<p>\n<b>Name</b>: Brown, Austin\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -4130,11 +4169,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-99,
-254,
-255,
-256,
-284
+102,
+258,
+259,
+260,
+288
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>County of</b>: Great Salt Lake\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Family No.</b>: 470\n</p>\n<p>\n<b>Name</b>: Cravath, Austin A\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Iowa\n</p>\n</div>",
@@ -4151,7 +4190,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-100
+103
 ],
 "place": 447,
 "text": "",
@@ -4168,7 +4207,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-101
+104
 ],
 "place": 447,
 "text": "",
@@ -4190,7 +4229,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-107
+110
 ],
 "place": 377,
 "text": "",
@@ -4205,7 +4244,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-107
+110
 ],
 "place": 556,
 "text": "",
@@ -4220,7 +4259,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-107
+110
 ],
 "place": 27,
 "text": "",
@@ -4237,14 +4276,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-107,
-109,
-111,
+110,
+112,
 114,
-120,
-127,
-501,
-587
+117,
+123,
+130,
+512,
+598
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-15\n</p>\n<p>\n<b>Post Office</b>: Stoker\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 110\n</p>\n<p>\n<b>Name</b>: Call, Anson V\n</p>\n<p>\n<b>Age</b>: 26\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Accademist\n</p>\n<p>\n<b>Value of real estate</b>: 600\n</p>\n<p>\n<b>Value of personal estate</b>: 500\n</p>\n<p>\n<b>Place of birth</b>: Ohio\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -4261,9 +4300,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-108
+111
 ],
-"place": 760,
+"place": 761,
 "text": "",
 "type": "Birth"
 },
@@ -4276,7 +4315,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-108
+111
 ],
 "place": 6,
 "text": "",
@@ -4291,7 +4330,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-108
+111
 ],
 "place": 5,
 "text": "",
@@ -4308,9 +4347,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-109
+112
 ],
-"place": 760,
+"place": 761,
 "text": "",
 "type": "Birth"
 },
@@ -4323,7 +4362,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-109
+112
 ],
 "place": 68,
 "text": "",
@@ -4338,7 +4377,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-109
+112
 ],
 "place": 67,
 "text": "",
@@ -4355,14 +4394,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-107,
-109,
-111,
+110,
+112,
 114,
-120,
-127,
-501,
-587
+117,
+123,
+130,
+512,
+598
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-15\n</p>\n<p>\n<b>Post Office</b>: Stoker\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 110\n</p>\n<p>\n<b>Name</b>: Call, Charlotte V\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -4379,7 +4418,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-110
+113
 ],
 "place": -1,
 "text": "",
@@ -4394,7 +4433,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-110
+113
 ],
 "place": -1,
 "text": "",
@@ -4411,9 +4450,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-110,
-111,
-118
+113,
+114,
+121
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1336\n</p>\n<p>\n<b>Page No.</b>: 18\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: East Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-11\n</p>\n<p>\n<b>Line No.</b>: 26\n</p>\n<p>\n<b>Family No.</b>: 16\n</p>\n<p>\n<b>Name</b>: Call, Chester\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 39\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Place of birth</b>: Illinois\n</p>\n<p>\n<b>Place of birth of father</b>: Vermont\n</p>\n<p>\n<b>Place of birth of mother</b>: Vermont\n</p>\n</div>",
@@ -4430,7 +4469,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-111
+114
 ],
 "place": 68,
 "text": "",
@@ -4445,7 +4484,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-111
+114
 ],
 "place": 587,
 "text": "",
@@ -4460,7 +4499,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-111
+114
 ],
 "place": 239,
 "text": "",
@@ -4479,20 +4518,20 @@ I_events_0 = [
 "part_person": [
 26,
 36,
-111,
-112,
-113,
 114,
+115,
+116,
 117,
-119,
+120,
 122,
-123,
-124,
 125,
 126,
+127,
 128,
-130,
-131
+129,
+131,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-06\n</p>\n<p>\n<b>Name</b>: Call, Chester V\n</p>\n<p>\n<b>Relation to head</b>: Head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Oct\n</p>\n<p>\n<b>Year of birth</b>: 1859\n</p>\n<p>\n<b>Age</b>: 40\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 20\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Illinois\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Months not employed</b>: 0\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n<p>\n<b>Number of farm schedule</b>: 32\n</p>\n</div>",
@@ -4509,14 +4548,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-107,
-109,
-111,
+110,
+112,
 114,
-120,
-127,
-501,
-587
+117,
+123,
+130,
+512,
+598
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-15\n</p>\n<p>\n<b>Post Office</b>: Stoker\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 110\n</p>\n<p>\n<b>Name</b>: Call, Chester V\n</p>\n<p>\n<b>Age</b>: 8/12\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n</div>",
@@ -4533,9 +4572,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-110,
-111,
-118
+113,
+114,
+121
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1336\n</p>\n<p>\n<b>Page No.</b>: 18\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: East Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-11\n</p>\n<p>\n<b>Line No.</b>: 26\n</p>\n<p>\n<b>Family No.</b>: 16\n</p>\n<p>\n<b>Name</b>: Call, Chester\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 20\n</p>\n<p>\n<b>Relationship to head</b>: nephew\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: works on farm\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Ohio\n</p>\n<p>\n<b>Place of birth of mother</b>: Illionois\n</p>\n</div>",
@@ -4553,13 +4592,13 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 26,
-111,
-112,
 114,
-122,
-124,
-130,
-131
+115,
+117,
+125,
+127,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>Roll No.</b>: 221\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Page No.</b>: 73\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Chesterfield Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Call, Chester Vinson\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 50\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Farming\n</p>\n<p>\n<b>Nature of industry</b>: General\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: Emp\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: M\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n<p>\n<b>Number of farm schedule</b>: 48\n</p>\n</div>",
@@ -4577,11 +4616,11 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 26,
-111,
-112,
-114
+114,
+115,
+117
 ],
-"place": 716,
+"place": 717,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T625\n</p>\n<p>\n<b>Roll No.</b>: 288\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bingham\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 29\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 78\n</p>\n<p>\n<b>Page No.</b>: 221\n</p>\n<p>\n<b>Division of County</b>: Wapello\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-02-14\n</p>\n<p>\n<b>Street Address</b>: Whitten Lane\n</p>\n<p>\n<b>Name</b>: Call, Chester V\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>If owned, free or mortgaged</b>: M\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 60\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Vermont\n</p>\n<p>\n<b>Place of birth of mother</b>: Vermont\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Industry</b>: General Farmer\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: Em\n</p>\n<p>\n<b>Number of farm schedule</b>: 219\n</p>\n</div>",
 "type": "Census"
 },
@@ -4597,9 +4636,9 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 26,
-111
+114
 ],
-"place": 716,
+"place": 717,
 "text": "<div>\n<p>\n<b>Name</b>: Call, Chester V\n</p>\n<p>\n<b>Relationship to head</b>: head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 70\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 21\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: no\n</p>\n<p>\n<b>Able to read and write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Vermont\n</p>\n<p>\n<b>Place of birth of mother</b>: Vermont\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Industry</b>: General Farm\n</p>\n<p>\n<b>Class of worker</b>: O\n</p>\n<p>\n<b>Employed</b>: yes\n</p>\n<p>\n<b>Veteran</b>: no\n</p>\n<p>\n<b>Number of farm schedule</b>: 73\n</p>\n</div>",
 "type": "Census"
 }
@@ -4614,7 +4653,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-112
+115
 ],
 "place": 112,
 "text": "",
@@ -4629,9 +4668,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-112
+115
 ],
-"place": 686,
+"place": 687,
 "text": "",
 "type": "Death"
 },
@@ -4644,7 +4683,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-112
+115
 ],
 "place": 239,
 "text": "",
@@ -4663,20 +4702,20 @@ I_events_0 = [
 "part_person": [
 26,
 36,
-111,
-112,
-113,
 114,
+115,
+116,
 117,
-119,
+120,
 122,
-123,
-124,
 125,
 126,
+127,
 128,
-130,
-131
+129,
+131,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-06\n</p>\n<p>\n<b>Name</b>: Call, Earnest\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Oct\n</p>\n<p>\n<b>Year of birth</b>: 1890\n</p>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Attended school</b>: 7\n</p>\n</div>",
@@ -4694,13 +4733,13 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 26,
-111,
-112,
 114,
-122,
-124,
-130,
-131
+115,
+117,
+125,
+127,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>Roll No.</b>: 221\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Page No.</b>: 73\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Chesterfield Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Call, Ernest\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -4718,11 +4757,11 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 26,
-111,
-112,
-114
+114,
+115,
+117
 ],
-"place": 716,
+"place": 717,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T625\n</p>\n<p>\n<b>Roll No.</b>: 288\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bingham\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 29\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 78\n</p>\n<p>\n<b>Page No.</b>: 221\n</p>\n<p>\n<b>Division of County</b>: Wapello\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-02-14\n</p>\n<p>\n<b>Street Address</b>: Whitten Lane\n</p>\n<p>\n<b>Name</b>: Call, Earnest\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 29\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: Farm Laborer\n</p>\n<p>\n<b>Industry</b>: Home Farm\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: W\n</p>\n</div>",
 "type": "Census"
 }
@@ -4737,7 +4776,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-113
+116
 ],
 "place": 68,
 "text": "",
@@ -4752,7 +4791,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-113
+116
 ],
 "place": 432,
 "text": "",
@@ -4767,7 +4806,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-113
+116
 ],
 "place": 93,
 "text": "",
@@ -4786,20 +4825,20 @@ I_events_0 = [
 "part_person": [
 26,
 36,
-111,
-112,
-113,
 114,
+115,
+116,
 117,
-119,
+120,
 122,
-123,
-124,
 125,
 126,
+127,
 128,
-130,
-131
+129,
+131,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-06\n</p>\n<p>\n<b>Name</b>: Call, Elbert V\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Augst\n</p>\n<p>\n<b>Year of birth</b>: 1881\n</p>\n<p>\n<b>Age</b>: 18\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: Farm Laborer\n</p>\n<p>\n<b>Months not employed</b>: 5\n</p>\n<p>\n<b>Attended school</b>: 5\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -4816,7 +4855,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-114
+117
 ],
 "place": 112,
 "text": "",
@@ -4831,9 +4870,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-114
+117
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Death"
 },
@@ -4846,7 +4885,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-114
+117
 ],
 "place": 239,
 "text": "",
@@ -4865,20 +4904,20 @@ I_events_0 = [
 "part_person": [
 26,
 36,
-111,
-112,
-113,
 114,
+115,
+116,
 117,
-119,
+120,
 122,
-123,
-124,
 125,
 126,
+127,
 128,
-130,
-131
+129,
+131,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-06\n</p>\n<p>\n<b>Name</b>: Call, Ensign B\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Jan\n</p>\n<p>\n<b>Year of birth</b>: 1890\n</p>\n<p>\n<b>Age</b>: 7/12\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n</div>",
@@ -4895,14 +4934,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-107,
-109,
-111,
+110,
+112,
 114,
-120,
-127,
-501,
-587
+117,
+123,
+130,
+512,
+598
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-15\n</p>\n<p>\n<b>Post Office</b>: Stoker\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 110\n</p>\n<p>\n<b>Name</b>: Call, Anson B\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -4920,13 +4959,13 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 26,
-111,
-112,
 114,
-122,
-124,
-130,
-131
+115,
+117,
+125,
+127,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>Roll No.</b>: 221\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Page No.</b>: 73\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Chesterfield Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Call, Ensign V\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 10\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: yes\n</p>\n</div>",
@@ -4944,11 +4983,11 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 26,
-111,
-112,
-114
+114,
+115,
+117
 ],
-"place": 716,
+"place": 717,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T625\n</p>\n<p>\n<b>Roll No.</b>: 288\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bingham\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 29\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 78\n</p>\n<p>\n<b>Page No.</b>: 221\n</p>\n<p>\n<b>Division of County</b>: Wapello\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-02-14\n</p>\n<p>\n<b>Street Address</b>: Whitten Lane\n</p>\n<p>\n<b>Name</b>: Call, Ensign B\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 20\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1919</b>: yes\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: Farm Laborer\n</p>\n<p>\n<b>Industry</b>: Home Farm\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: W\n</p>\n</div>",
 "type": "Census"
 }
@@ -4963,7 +5002,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-115
+118
 ],
 "place": 68,
 "text": "",
@@ -4978,7 +5017,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-115
+118
 ],
 "place": 552,
 "text": "",
@@ -4993,7 +5032,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-115
+118
 ],
 "place": 551,
 "text": "",
@@ -5010,7 +5049,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-116
+119
 ],
 "place": 68,
 "text": "",
@@ -5025,7 +5064,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-116
+119
 ],
 "place": 183,
 "text": "",
@@ -5040,9 +5079,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-116
+119
 ],
-"place": 770,
+"place": 771,
 "text": "",
 "type": "Burial"
 }
@@ -5057,7 +5096,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-117
+120
 ],
 "place": 112,
 "text": "",
@@ -5072,7 +5111,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-117
+120
 ],
 "place": 517,
 "text": "",
@@ -5087,7 +5126,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-117
+120
 ],
 "place": 111,
 "text": "",
@@ -5106,20 +5145,20 @@ I_events_0 = [
 "part_person": [
 26,
 36,
-111,
-112,
-113,
 114,
+115,
+116,
 117,
-119,
+120,
 122,
-123,
-124,
 125,
 126,
+127,
 128,
-130,
-131
+129,
+131,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-06\n</p>\n<p>\n<b>Name</b>: Call, Ida M\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Augst\n</p>\n<p>\n<b>Year of birth</b>: 1888\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Attended school</b>: 7\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -5136,7 +5175,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-118
+121
 ],
 "place": 68,
 "text": "",
@@ -5151,7 +5190,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-118
+121
 ],
 "place": 587,
 "text": "",
@@ -5166,7 +5205,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-118
+121
 ],
 "place": 111,
 "text": "",
@@ -5183,9 +5222,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-110,
-111,
-118
+113,
+114,
+121
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1336\n</p>\n<p>\n<b>Page No.</b>: 18\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: East Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-11\n</p>\n<p>\n<b>Line No.</b>: 26\n</p>\n<p>\n<b>Family No.</b>: 16\n</p>\n<p>\n<b>Name</b>: Call, Ira\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Relationship to head</b>: nephew\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: works on farm\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Ohio\n</p>\n<p>\n<b>Place of birth of mother</b>: Ohio\n</p>\n</div>",
@@ -5202,7 +5241,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-119
+122
 ],
 "place": 68,
 "text": "",
@@ -5219,8 +5258,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-119,
-897
+122,
+908
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Oneida\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 46\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 240\n</p>\n<p>\n<b>Page No.</b>: 174\n</p>\n<p>\n<b>Sheet No.</b>: 15B\n</p>\n<p>\n<b>Division of County</b>: Preston Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Preston Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-05\n</p>\n<p>\n<b>Name</b>: Call, Jennie\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 25\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 7\n</p>\n<p>\n<b>Mother of how many children</b>: 3\n</p>\n<p>\n<b>Number of children living</b>: 3\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n</div>",
@@ -5235,7 +5274,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-119
+122
 ],
 "place": 554,
 "text": "",
@@ -5250,7 +5289,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-119
+122
 ],
 "place": 528,
 "text": "",
@@ -5269,20 +5308,20 @@ I_events_0 = [
 "part_person": [
 26,
 36,
-111,
-112,
-113,
 114,
+115,
+116,
 117,
-119,
+120,
 122,
-123,
-124,
 125,
 126,
+127,
 128,
-130,
-131
+129,
+131,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-06\n</p>\n<p>\n<b>Name</b>: Call, Jennie\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Nov\n</p>\n<p>\n<b>Year of birth</b>: 1885\n</p>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Attended school</b>: 5\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -5299,7 +5338,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-120
+123
 ],
 "place": 68,
 "text": "",
@@ -5314,7 +5353,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-120
+123
 ],
 "place": 6,
 "text": "",
@@ -5329,7 +5368,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-120
+123
 ],
 "place": 5,
 "text": "",
@@ -5346,14 +5385,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-107,
-109,
-111,
+110,
+112,
 114,
-120,
-127,
-501,
-587
+117,
+123,
+130,
+512,
+598
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-15\n</p>\n<p>\n<b>Post Office</b>: Stoker\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 110\n</p>\n<p>\n<b>Name</b>: Call, Joseph H\n</p>\n<p>\n<b>Age</b>: 3\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n</div>",
@@ -5370,7 +5409,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-121
+124
 ],
 "place": 68,
 "text": "",
@@ -5385,7 +5424,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-121
+124
 ],
 "place": 587,
 "text": "",
@@ -5400,7 +5439,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-121
+124
 ],
 "place": 67,
 "text": "",
@@ -5417,7 +5456,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-122
+125
 ],
 "place": 6,
 "text": "",
@@ -5432,7 +5471,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-122
+125
 ],
 "place": 621,
 "text": "",
@@ -5447,7 +5486,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-122
+125
 ],
 "place": 111,
 "text": "",
@@ -5466,20 +5505,20 @@ I_events_0 = [
 "part_person": [
 26,
 36,
-111,
-112,
-113,
 114,
+115,
+116,
 117,
-119,
+120,
 122,
-123,
-124,
 125,
 126,
+127,
 128,
-130,
-131
+129,
+131,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-06\n</p>\n<p>\n<b>Name</b>: Call, Lawrence G\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Augst\n</p>\n<p>\n<b>Year of birth</b>: 1890\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Attended school</b>: 7\n</p>\n</div>",
@@ -5497,13 +5536,13 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 26,
-111,
-112,
 114,
-122,
-124,
-130,
-131
+115,
+117,
+125,
+127,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>Roll No.</b>: 221\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Page No.</b>: 73\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Chesterfield Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Call, Granville L.\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 18\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -5520,7 +5559,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-123
+126
 ],
 "place": 112,
 "text": "",
@@ -5535,7 +5574,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-123
+126
 ],
 "place": 112,
 "text": "",
@@ -5550,7 +5589,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-123
+126
 ],
 "place": 111,
 "text": "",
@@ -5569,20 +5608,20 @@ I_events_0 = [
 "part_person": [
 26,
 36,
-111,
-112,
-113,
 114,
+115,
+116,
 117,
-119,
+120,
 122,
-123,
-124,
 125,
 126,
+127,
 128,
-130,
-131
+129,
+131,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-06\n</p>\n<p>\n<b>Name</b>: Call, Lillian\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Feby\n</p>\n<p>\n<b>Year of birth</b>: 1899\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n</div>",
@@ -5599,7 +5638,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-124
+127
 ],
 "place": 112,
 "text": "",
@@ -5614,7 +5653,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-124
+127
 ],
 "place": -1,
 "text": "",
@@ -5629,7 +5668,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-124
+127
 ],
 "place": 586,
 "text": "",
@@ -5648,20 +5687,20 @@ I_events_0 = [
 "part_person": [
 26,
 36,
-111,
-112,
-113,
 114,
+115,
+116,
 117,
-119,
+120,
 122,
-123,
-124,
 125,
 126,
+127,
 128,
-130,
-131
+129,
+131,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-06\n</p>\n<p>\n<b>Name</b>: Call, Lucy C\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Sept\n</p>\n<p>\n<b>Year of birth</b>: 1895\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n</div>",
@@ -5679,13 +5718,13 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 26,
-111,
-112,
 114,
-122,
-124,
-130,
-131
+115,
+117,
+125,
+127,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>Roll No.</b>: 221\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Page No.</b>: 73\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Chesterfield Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Call, Lucy C\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: yes\n</p>\n</div>",
@@ -5702,7 +5741,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-125
+128
 ],
 "place": 112,
 "text": "",
@@ -5717,7 +5756,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-125
+128
 ],
 "place": 621,
 "text": "",
@@ -5732,7 +5771,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-125
+128
 ],
 "place": 41,
 "text": "",
@@ -5751,20 +5790,20 @@ I_events_0 = [
 "part_person": [
 26,
 36,
-111,
-112,
-113,
 114,
+115,
+116,
 117,
-119,
+120,
 122,
-123,
-124,
 125,
 126,
+127,
 128,
-130,
-131
+129,
+131,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-06\n</p>\n<p>\n<b>Name</b>: Call, Lula\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Sept\n</p>\n<p>\n<b>Year of birth</b>: 1885\n</p>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Attended school</b>: 7\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -5781,7 +5820,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-126
+129
 ],
 "place": 68,
 "text": "",
@@ -5796,9 +5835,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-126
+129
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Death"
 },
@@ -5811,7 +5850,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-126
+129
 ],
 "place": 111,
 "text": "",
@@ -5830,20 +5869,20 @@ I_events_0 = [
 "part_person": [
 26,
 36,
-111,
-112,
-113,
 114,
+115,
+116,
 117,
-119,
+120,
 122,
-123,
-124,
 125,
 126,
+127,
 128,
-130,
-131
+129,
+131,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-06\n</p>\n<p>\n<b>Name</b>: Call, Mamie\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Nov\n</p>\n<p>\n<b>Year of birth</b>: 1887\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Attended school</b>: 5\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -5860,7 +5899,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-127
+130
 ],
 "place": 68,
 "text": "",
@@ -5875,7 +5914,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-127
+130
 ],
 "place": 365,
 "text": "",
@@ -5890,7 +5929,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-127
+130
 ],
 "place": 111,
 "text": "",
@@ -5907,14 +5946,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-107,
-109,
-111,
+110,
+112,
 114,
-120,
-127,
-501,
-587
+117,
+123,
+130,
+512,
+598
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-15\n</p>\n<p>\n<b>Post Office</b>: Stoker\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 110\n</p>\n<p>\n<b>Name</b>: Call, Mary\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n</div>",
@@ -5931,7 +5970,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-128
+131
 ],
 "place": 112,
 "text": "",
@@ -5946,7 +5985,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-128
+131
 ],
 "place": 112,
 "text": "",
@@ -5961,7 +6000,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-128
+131
 ],
 "place": 111,
 "text": "",
@@ -5980,20 +6019,20 @@ I_events_0 = [
 "part_person": [
 26,
 36,
-111,
-112,
-113,
 114,
+115,
+116,
 117,
-119,
+120,
 122,
-123,
-124,
 125,
 126,
+127,
 128,
-130,
-131
+129,
+131,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-06\n</p>\n<p>\n<b>Name</b>: Call, Minnie J\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: July\n</p>\n<p>\n<b>Year of birth</b>: 1883\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Attended school</b>: 2\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -6010,7 +6049,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-129
+132
 ],
 "place": 112,
 "text": "",
@@ -6025,7 +6064,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-129
+132
 ],
 "place": 112,
 "text": "",
@@ -6040,7 +6079,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-129
+132
 ],
 "place": 111,
 "text": "",
@@ -6057,7 +6096,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-130
+133
 ],
 "place": 112,
 "text": "",
@@ -6072,9 +6111,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-130
+133
 ],
-"place": 736,
+"place": 737,
 "text": "",
 "type": "Death"
 },
@@ -6087,9 +6126,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-130
+133
 ],
-"place": 735,
+"place": 736,
 "text": "",
 "type": "Burial"
 },
@@ -6106,20 +6145,20 @@ I_events_0 = [
 "part_person": [
 26,
 36,
-111,
-112,
-113,
 114,
+115,
+116,
 117,
-119,
+120,
 122,
-123,
-124,
 125,
 126,
+127,
 128,
-130,
-131
+129,
+131,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-06\n</p>\n<p>\n<b>Name</b>: Call, Reuben\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Feby\n</p>\n<p>\n<b>Year of birth</b>: 1893\n</p>\n<p>\n<b>Age</b>: 7\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Attended school</b>: 7\n</p>\n</div>",
@@ -6137,13 +6176,13 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 26,
-111,
-112,
 114,
-122,
-124,
-130,
-131
+115,
+117,
+125,
+127,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>Roll No.</b>: 221\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Page No.</b>: 73\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Chesterfield Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Call, Rubin\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: yes\n</p>\n</div>",
@@ -6160,7 +6199,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-131
+134
 ],
 "place": 112,
 "text": "",
@@ -6175,7 +6214,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-131
+134
 ],
 "place": 274,
 "text": "",
@@ -6190,7 +6229,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-131
+134
 ],
 "place": 239,
 "text": "",
@@ -6209,20 +6248,20 @@ I_events_0 = [
 "part_person": [
 26,
 36,
-111,
-112,
-113,
 114,
+115,
+116,
 117,
-119,
+120,
 122,
-123,
-124,
 125,
 126,
+127,
 128,
-130,
-131
+129,
+131,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-06\n</p>\n<p>\n<b>Name</b>: Call, Sidney\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Dec\n</p>\n<p>\n<b>Year of birth</b>: 1892\n</p>\n<p>\n<b>Age</b>: 7\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Attended school</b>: 7\n</p>\n</div>",
@@ -6240,13 +6279,13 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 26,
-111,
-112,
 114,
-122,
-124,
-130,
-131
+115,
+117,
+125,
+127,
+133,
+134
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>Roll No.</b>: 221\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Page No.</b>: 73\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Chesterfield Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Call, Sidney\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: yes\n</p>\n</div>",
@@ -6263,7 +6302,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-132
+135
 ],
 "place": 68,
 "text": "",
@@ -6278,7 +6317,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-132
+135
 ],
 "place": 112,
 "text": "",
@@ -6293,7 +6332,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-132
+135
 ],
 "place": 111,
 "text": "",
@@ -6314,7 +6353,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-137
+140
 ],
 "place": 536,
 "text": "",
@@ -6331,7 +6370,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-138
+141
 ],
 "place": 349,
 "text": "",
@@ -6346,7 +6385,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-138
+141
 ],
 "place": 183,
 "text": "",
@@ -6361,7 +6400,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-138
+141
 ],
 "place": 35,
 "text": "",
@@ -6378,12 +6417,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-138,
-140,
-148,
+141,
+143,
 151,
-731,
-971
+154,
+742,
+982
 ],
 "place": 119,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 72\n</p>\n<p>\n<b>Minor Civil Division</b>: Coalville Precinct\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 2\n</p>\n<p>\n<b>Family No.</b>: 142\n</p>\n<p>\n<b>Name</b>: Callis, Cecelia\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Relationship to head</b>: Step-Daughter\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: At Home\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -6400,7 +6439,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-139
+142
 ],
 "place": 536,
 "text": "",
@@ -6415,7 +6454,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-139
+142
 ],
 "place": -1,
 "text": "",
@@ -6430,7 +6469,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-139
+142
 ],
 "place": 395,
 "text": "",
@@ -6447,7 +6486,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140
+143
 ],
 "place": 157,
 "text": "",
@@ -6462,7 +6501,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140
+143
 ],
 "place": -1,
 "text": "",
@@ -6477,7 +6516,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140
+143
 ],
 "place": 586,
 "text": "",
@@ -6494,9 +6533,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140,
-150,
-642
+143,
+153,
+653
 ],
 "place": 108,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Tennessee\n</p>\n<p>\n<b>County of</b>: Hamilton\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 3\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 64\n</p>\n<p>\n<b>Page No.</b>: 8440\n</p>\n<p>\n<b>Sheet No.</b>: 17B\n</p>\n<p>\n<b>Division of County</b>: First Civil District\n</p>\n<p>\n<b>City, Town, Village</b>: Chattanooga\n</p>\n<p>\n<b>Ward of city</b>: 7\n</p>\n<p>\n<b>Name</b>: Callis, Charles A\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 44\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 7\n</p>\n<p>\n<b>Place of birth</b>: Ireland\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Minister\n</p>\n<p>\n<b>Nature of industry</b>: of Gospel\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Out of work</b>: No\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: 0\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: No\n</p>\n</div>",
@@ -6513,10 +6552,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140,
-150,
-154,
-642
+143,
+153,
+157,
+653
 ],
 "place": 108,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Tennessee\n</p>\n<p>\n<b>County of</b>: Hamilton\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 3\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 181\n</p>\n<p>\n<b>Page No.</b>: 45\n</p>\n<p>\n<b>City, Town, Village</b>: Chattanooga\n</p>\n<p>\n<b>Ward of city</b>: 7\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-21 to 1920-01-22\n</p>\n<p>\n<b>Street Address</b>: 711 Fairview Avenue\n</p>\n<p>\n<b>Name</b>: Callis, Chas A\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>If owned, free or mortgaged</b>: F\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 55\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Year of immigration</b>: 1877\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Year of naturalization</b>: 1886\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Ireland\n</p>\n<p>\n<b>Mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Mother's mother tongue</b>: English\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Minister\n</p>\n<p>\n<b>Industry</b>: Of Gospel\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: W\n</p>\n</div>",
@@ -6533,9 +6572,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140,
-154,
-642
+143,
+157,
+653
 ],
 "place": -1,
 "text": "<div>\n<p>\n<b>State of</b>: Georgia\n</p>\n<p>\n<b>County of</b>: Fulton\n</p>\n<p>\n<b>Incorporated place</b>: Atlanta Borough\n</p>\n<p>\n<b>Ward of city</b>: 4\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 4\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 61-55\n</p>\n<p>\n<b>Page No.</b>: 211\n</p>\n<p>\n<b>Sheet No.</b>: 11B\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-09\n</p>\n<p>\n<b>Name</b>: Callis, Charles A\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: R\n</p>\n<p>\n<b>Value of home or monthly rental</b>: 70\n</p>\n<p>\n<b>Farm?</b>: No\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 64\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 36\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Dublin Ireland\n</p>\n<p>\n<b>Place of birth of father</b>: Dublin Ireland\n</p>\n<p>\n<b>Place of birth of mother</b>: Dublin Ireland\n</p>\n<p>\n<b>Language before coming to US</b>: English\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Minister\n</p>\n<p>\n<b>Industry</b>: Religion\n</p>\n<p>\n<b>Class of worker</b>: W\n</p>\n<p>\n<b>Employed</b>: Yes\n</p>\n<p>\n<b>Veteran</b>: No\n</p>\n</div>",
@@ -6552,8 +6591,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140,
-642
+143,
+653
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake CIty\n</p>\n<p>\n<b>Ward of city</b>: 4\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 30-137\n</p>\n<p>\n<b>Page No.</b>: 1758\n</p>\n<p>\n<b>Sheet No.</b>: 5A\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-16\n</p>\n<p>\n<b>Name</b>: Callis, Charles A\n</p>\n<p>\n<b>Home Owned/Rented</b>: R\n</p>\n<p>\n<b>Home value/monthly rental</b>: 50\n</p>\n<p>\n<b>Relationship</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 73\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: No\n</p>\n<p>\n<b>Highest grade completed</b>: 8\n</p>\n<p>\n<b>Place of birth</b>: Ireland\n</p>\n<p>\n<b>Citizenship if foreign born</b>: No\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same House\n</p>\n<p>\n<b>At Work during week March 24-30</b>: Yes\n</p>\n<p>\n<b># hours worked during week March 24-30, 1940</b>: 40\n</p>\n<p>\n<b>Occupation</b>: Religion Teacher\n</p>\n<p>\n<b>Industry</b>: L.D.S. Church\n</p>\n<p>\n<b>Class of worker</b>: PW\n</p>\n<p>\n<b># weeks worked in 1939</b>: 52\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 4800\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: No\n</p>\n</div>",
@@ -6570,9 +6609,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140,
-731,
-968
+143,
+742,
+979
 ],
 "place": -1,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 101\n</p>\n<p>\n<b>Sheet No.</b>: 3B\n</p>\n<p>\n<b>Division of County</b>: Coalville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Coalville City\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-04\n</p>\n<p>\n<b>Name</b>: Callis, Charles A\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: June\n</p>\n<p>\n<b>Year of birth</b>: 1865\n</p>\n<p>\n<b>Age</b>: 35\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Ireland\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Year of immigration</b>: 1877\n</p>\n<p>\n<b>Number of years in US</b>: 23\n</p>\n<p>\n<b>Naturalization</b>: Na\n</p>\n<p>\n<b>Occupation</b>: Attorney At Lae\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
@@ -6589,12 +6628,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-138,
-140,
-148,
+141,
+143,
 151,
-731,
-971
+154,
+742,
+982
 ],
 "place": 119,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 72\n</p>\n<p>\n<b>Minor Civil Division</b>: Coalville Precinct\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 2\n</p>\n<p>\n<b>Family No.</b>: 142\n</p>\n<p>\n<b>Name</b>: Callis, Charles A\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 15\n</p>\n<p>\n<b>Relationship to head</b>: Step-Son\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Farm Laborer\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -6611,7 +6650,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-141
+144
 ],
 "place": 291,
 "text": "",
@@ -6626,7 +6665,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-141
+144
 ],
 "place": 291,
 "text": "",
@@ -6641,7 +6680,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-141
+144
 ],
 "place": 118,
 "text": "",
@@ -6658,7 +6697,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-142
+145
 ],
 "place": 536,
 "text": "",
@@ -6673,7 +6712,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-142
+145
 ],
 "place": -1,
 "text": "",
@@ -6690,7 +6729,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-143
+146
 ],
 "place": 536,
 "text": "",
@@ -6705,7 +6744,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-143
+146
 ],
 "place": -1,
 "text": "",
@@ -6722,7 +6761,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-144
+147
 ],
 "place": 349,
 "text": "",
@@ -6737,7 +6776,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-144
+147
 ],
 "place": 349,
 "text": "",
@@ -6754,7 +6793,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-145
+148
 ],
 "place": 536,
 "text": "",
@@ -6769,7 +6808,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-145
+148
 ],
 "place": -1,
 "text": "",
@@ -6786,7 +6825,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-146
+149
 ],
 "place": 536,
 "text": "",
@@ -6801,7 +6840,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-146
+149
 ],
 "place": -1,
 "text": "",
@@ -6816,7 +6855,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-146
+149
 ],
 "place": 536,
 "text": "",
@@ -6833,7 +6872,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-147
+150
 ],
 "place": 536,
 "text": "",
@@ -6848,7 +6887,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-147
+150
 ],
 "place": 157,
 "text": "",
@@ -6863,7 +6902,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-147
+150
 ],
 "place": 425,
 "text": "",
@@ -6880,7 +6919,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-148
+151
 ],
 "place": 349,
 "text": "",
@@ -6895,7 +6934,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-148
+151
 ],
 "place": 119,
 "text": "",
@@ -6910,7 +6949,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-148
+151
 ],
 "place": 118,
 "text": "",
@@ -6927,12 +6966,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-138,
-140,
-148,
+141,
+143,
 151,
-731,
-971
+154,
+742,
+982
 ],
 "place": 119,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 72\n</p>\n<p>\n<b>Minor Civil Division</b>: Coalville Precinct\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 2\n</p>\n<p>\n<b>Family No.</b>: 142\n</p>\n<p>\n<b>Name</b>: Callis, William\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>Relationship to head</b>: Step-Son\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Farm Laborer\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -6949,7 +6988,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-149
+152
 ],
 "place": 536,
 "text": "",
@@ -6964,7 +7003,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-149
+152
 ],
 "place": -1,
 "text": "",
@@ -6979,7 +7018,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-149
+152
 ],
 "place": 536,
 "text": "",
@@ -6996,7 +7035,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-150
+153
 ],
 "place": 108,
 "text": "",
@@ -7011,7 +7050,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-150
+153
 ],
 "place": 531,
 "text": "",
@@ -7026,7 +7065,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-150
+153
 ],
 "place": 586,
 "text": "",
@@ -7043,8 +7082,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-150,
-802
+153,
+813
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>State of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Franklin\n</p>\n<p>\n<b>Division of County</b>: Preston Precinct No 1\n</p>\n<p>\n<b>Incorporated place</b>: Preston City\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 7\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2-16\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Name</b>: Spilsbury, Josephine\n</p>\n<p>\n<b>Relationship to head</b>: Wife H\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 21\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 20\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Tennessee\n</p>\n<p>\n<b>Place of birth of father</b>: Northern Isalnd\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -7061,8 +7100,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-150,
-802
+153,
+813
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>State of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Franklin\n</p>\n<p>\n<b>Division of County</b>: 15\n</p>\n<p>\n<b>Incorporated place</b>: Preston\n</p>\n<p>\n<b>Ward of city</b>: 3\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 21-19\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-10\n</p>\n<p>\n<b>Street Address</b>: 74 West 100 North\n</p>\n<p>\n<b>Name</b>: Callis, Josephine\n</p>\n<p>\n<b>Relationship</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 31\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: No\n</p>\n<p>\n<b>Highest grade completed</b>: C4\n</p>\n<p>\n<b>Place of birth</b>: Tennessee\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same Place\n</p>\n<p>\n<b>At Work during week March 24-30</b>: No\n</p>\n<p>\n<b>public Emergency Work?</b>: No\n</p>\n<p>\n<b>Seeking work?</b>: No\n</p>\n<p>\n<b>Have a Job?</b>: No\n</p>\n<p>\n<b>housework (H), school (S), unable to work (U) or other (Ot)</b>: H\n</p>\n<p>\n<b># weeks worked in 1939</b>: 0\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 0\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: yes\n</p>\n</div>",
@@ -7079,9 +7118,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140,
-150,
-642
+143,
+153,
+653
 ],
 "place": 108,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Tennessee\n</p>\n<p>\n<b>County of</b>: Hamilton\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 3\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 64\n</p>\n<p>\n<b>Page No.</b>: 8440\n</p>\n<p>\n<b>Sheet No.</b>: 17B\n</p>\n<p>\n<b>Division of County</b>: First Civil District\n</p>\n<p>\n<b>City, Town, Village</b>: Chattanooga\n</p>\n<p>\n<b>Ward of city</b>: 7\n</p>\n<p>\n<b>Name</b>: Callis, Josephine\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Ireland\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -7098,10 +7137,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140,
-150,
-154,
-642
+143,
+153,
+157,
+653
 ],
 "place": 108,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Tennessee\n</p>\n<p>\n<b>County of</b>: Hamilton\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 3\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 181\n</p>\n<p>\n<b>Page No.</b>: 45\n</p>\n<p>\n<b>City, Town, Village</b>: Chattanooga\n</p>\n<p>\n<b>Ward of city</b>: 7\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-21 to 1920-01-22\n</p>\n<p>\n<b>Street Address</b>: 711 Fairview Avenue\n</p>\n<p>\n<b>Name</b>: Callis, Josephine\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1919</b>: Yes\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Tennessee\n</p>\n<p>\n<b>Place of birth of father</b>: Ireland\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -7118,7 +7157,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-151
+154
 ],
 "place": 349,
 "text": "",
@@ -7133,7 +7172,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-151
+154
 ],
 "place": 587,
 "text": "",
@@ -7148,7 +7187,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-151
+154
 ],
 "place": 586,
 "text": "",
@@ -7165,12 +7204,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-138,
-140,
-148,
+141,
+143,
 151,
-731,
-971
+154,
+742,
+982
 ],
 "place": 119,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 72\n</p>\n<p>\n<b>Minor Civil Division</b>: Coalville Precinct\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 2\n</p>\n<p>\n<b>Family No.</b>: 142\n</p>\n<p>\n<b>Name</b>: Callis, Lucy\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 7\n</p>\n<p>\n<b>Relationship to head</b>: Step-Daughter\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -7187,7 +7226,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-152
+155
 ],
 "place": 310,
 "text": "",
@@ -7202,7 +7241,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-152
+155
 ],
 "place": -1,
 "text": "",
@@ -7219,7 +7258,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-153
+156
 ],
 "place": 291,
 "text": "",
@@ -7234,7 +7273,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-153
+156
 ],
 "place": 291,
 "text": "",
@@ -7249,7 +7288,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-153
+156
 ],
 "place": 118,
 "text": "",
@@ -7266,7 +7305,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-154
+157
 ],
 "place": 108,
 "text": "",
@@ -7281,9 +7320,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-154
+157
 ],
-"place": 752,
+"place": 753,
 "text": "",
 "type": "Death"
 },
@@ -7296,7 +7335,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-154
+157
 ],
 "place": 586,
 "text": "",
@@ -7313,10 +7352,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140,
-150,
-154,
-642
+143,
+153,
+157,
+653
 ],
 "place": 108,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Tennessee\n</p>\n<p>\n<b>County of</b>: Hamilton\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 3\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 181\n</p>\n<p>\n<b>Page No.</b>: 45\n</p>\n<p>\n<b>City, Town, Village</b>: Chattanooga\n</p>\n<p>\n<b>Ward of city</b>: 7\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-21 to 1920-01-22\n</p>\n<p>\n<b>Street Address</b>: 711 Fairview Avenue\n</p>\n<p>\n<b>Name</b>: Callis, Paul John\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 7\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1919</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Tennessee\n</p>\n<p>\n<b>Place of birth of father</b>: Ireland\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -7333,9 +7372,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140,
-154,
-642
+143,
+157,
+653
 ],
 "place": -1,
 "text": "<div>\n<p>\n<b>State of</b>: Georgia\n</p>\n<p>\n<b>County of</b>: Fulton\n</p>\n<p>\n<b>Incorporated place</b>: Atlanta Borough\n</p>\n<p>\n<b>Ward of city</b>: 4\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 4\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 61-55\n</p>\n<p>\n<b>Page No.</b>: 211\n</p>\n<p>\n<b>Sheet No.</b>: 11B\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-09\n</p>\n<p>\n<b>Name</b>: Callis, Paul J\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Marital condition</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: Yes\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Tennessee\n</p>\n<p>\n<b>Place of birth of father</b>: Dublin Ireland\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -7352,7 +7391,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-155
+158
 ],
 "place": 333,
 "text": "",
@@ -7367,7 +7406,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-155
+158
 ],
 "place": 333,
 "text": "",
@@ -7382,7 +7421,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-155
+158
 ],
 "place": 536,
 "text": "",
@@ -7399,7 +7438,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-156
+159
 ],
 "place": 536,
 "text": "",
@@ -7414,7 +7453,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-156
+159
 ],
 "place": -1,
 "text": "",
@@ -7431,7 +7470,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-157
+160
 ],
 "place": 536,
 "text": "",
@@ -7446,7 +7485,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-157
+160
 ],
 "place": -1,
 "text": "",
@@ -7463,7 +7502,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-158
+161
 ],
 "place": 587,
 "text": "",
@@ -7478,7 +7517,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-158
+161
 ],
 "place": 587,
 "text": "",
@@ -7493,9 +7532,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-158
+161
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 }
@@ -7510,7 +7549,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-159
+162
 ],
 "place": 408,
 "text": "",
@@ -7525,7 +7564,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-159
+162
 ],
 "place": 303,
 "text": "",
@@ -7540,7 +7579,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-159
+162
 ],
 "place": 208,
 "text": "",
@@ -7587,7 +7626,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190
+193
 ],
 "place": 74,
 "text": "",
@@ -7602,7 +7641,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190
+193
 ],
 "place": -1,
 "text": "",
@@ -7619,9 +7658,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190,
-197,
-404
+193,
+200,
+409
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 243\n</p>\n<p>\n<b>Page No.</b>: 187\n</p>\n<p>\n<b>Sheet No.</b>: 6A\n</p>\n<p>\n<b>Division of County</b>: Precinct 2 Election Dist. 97\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-17\n</p>\n<p>\n<b>Name</b>: Chisholm, Albert E\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 29\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Year of immigration</b>: 1886\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Waiter\n</p>\n<p>\n<b>Nature of industry</b>: Lisnoh House\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Out of work</b>: No\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: 0\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: M\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n</div>",
@@ -7638,10 +7677,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190,
-197,
+193,
 200,
-404
+203,
+409
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 90\n</p>\n<p>\n<b>Division of County</b>: Precinct 11\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-05\n</p>\n<p>\n<b>Street Address</b>: 1759 (South) 4th East\n</p>\n<p>\n<b>Name</b>: Chisoholme, Albert E\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>If owned, free or mortgaged</b>: M\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 39\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Year of immigration</b>: 1883\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Mother's mother tongue</b>: Welsh\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Salesman\n</p>\n<p>\n<b>Industry</b>: Department Store\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: W\n</p>\n</div>",
@@ -7658,10 +7697,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190,
-197,
+193,
 200,
-404
+203,
+409
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-16\n</p>\n<p>\n<b>Page No.</b>: 125\n</p>\n<p>\n<b>Sheet No.</b>: 14B\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-12\n</p>\n<p>\n<b>Street Address</b>: 1759 (South) 4th East\n</p>\n<p>\n<b>Name</b>: Chisholm, Albert\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Value of home or monthly rental</b>: 2200\n</p>\n<p>\n<b>Farm?</b>: No\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 49\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 23\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Language before coming to US</b>: English\n</p>\n<p>\n<b>Year of immigration</b>: 1890\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Baker\n</p>\n<p>\n<b>Industry</b>: Bakery\n</p>\n<p>\n<b>Class of worker</b>: O\n</p>\n<p>\n<b>Employed</b>: Yes\n</p>\n<p>\n<b>Veteran</b>: No\n</p>\n</div>",
@@ -7676,7 +7715,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190
+193
 ],
 "place": 431,
 "text": "",
@@ -7691,7 +7730,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190
+193
 ],
 "place": 408,
 "text": "",
@@ -7708,12 +7747,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190,
-200,
-404
+193,
+203,
+409
 ],
 "place": 587,
-"text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 6\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 30-43\n</p>\n<p>\n<b>Page No.</b>: 602\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-15\n</p>\n<p>\n<b>Street Address</b>: 1757 5th East\n</p>\n<p>\n<b>Name</b>: Chisholm, Albert \n</p>\n<p>\n<b>Home Owned/Rented</b>: O\n</p>\n<p>\n<b>Home value/monthly rental</b>: 3000\n</p>\n<p>\n<b>Farm?</b>: No\n</p>\n<p>\n<b>Relationship</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 58\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: No\n</p>\n<p>\n<b>Highest grade completed</b>: 8\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same house\n</p>\n<p>\n<b>At Work during week March 24-30</b>: No\n</p>\n<p>\n<b>public Emergency Work?</b>: No\n</p>\n<p>\n<b>Seeking work?</b>: Yes\n</p>\n<p>\n<b>Have a Job?</b>: No\n</p>\n<p>\n<b>housework (H), school (S), unable to work (U) or other (Ot)</b>: Ot\n</p>\n<p>\n<b>Weeks unemployed up to March 30, 1940</b>: 78\n</p>\n<p>\n<b>Occupation</b>: Bakerer\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: no\n</p>\n</div>",
+"text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 6\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 30-43\n</p>\n<p>\n<b>Page No.</b>: 602\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-15\n</p>\n<p>\n<b>Street Address</b>: 1757 5th East\n</p>\n<p>\n<b>Name</b>: Chisholm, Albert\n</p>\n<p>\n<b>Home Owned/Rented</b>: O\n</p>\n<p>\n<b>Home value/monthly rental</b>: 3000\n</p>\n<p>\n<b>Farm?</b>: No\n</p>\n<p>\n<b>Relationship</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 58\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: No\n</p>\n<p>\n<b>Highest grade completed</b>: 8\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same house\n</p>\n<p>\n<b>At Work during week March 24-30</b>: No\n</p>\n<p>\n<b>public Emergency Work?</b>: No\n</p>\n<p>\n<b>Seeking work?</b>: Yes\n</p>\n<p>\n<b>Have a Job?</b>: No\n</p>\n<p>\n<b>housework (H), school (S), unable to work (U) or other (Ot)</b>: Ot\n</p>\n<p>\n<b>Weeks unemployed up to March 30, 1940</b>: 78\n</p>\n<p>\n<b>Occupation</b>: Bakerer\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: no\n</p>\n</div>",
 "type": "Census"
 }
 ],
@@ -7727,7 +7766,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-191
+194
 ],
 "place": 357,
 "text": "",
@@ -7742,7 +7781,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-191
+194
 ],
 "place": 357,
 "text": "",
@@ -7759,7 +7798,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-192
+195
 ],
 "place": 357,
 "text": "",
@@ -7774,7 +7813,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-192
+195
 ],
 "place": 357,
 "text": "",
@@ -7791,7 +7830,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-193
+196
 ],
 "place": 357,
 "text": "",
@@ -7806,7 +7845,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-193
+196
 ],
 "place": 468,
 "text": "",
@@ -7821,7 +7860,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-193
+196
 ],
 "place": 467,
 "text": "",
@@ -7838,7 +7877,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-194
+197
 ],
 "place": 50,
 "text": "",
@@ -7853,7 +7892,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-194
+197
 ],
 "place": 46,
 "text": "",
@@ -7868,7 +7907,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-194
+197
 ],
 "place": -1,
 "text": "",
@@ -7885,7 +7924,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-195
+198
 ],
 "place": 506,
 "text": "",
@@ -7900,7 +7939,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-195
+198
 ],
 "place": 587,
 "text": "",
@@ -7915,9 +7954,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-195
+198
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 }
@@ -7932,7 +7971,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-196
+199
 ],
 "place": 114,
 "text": "",
@@ -7947,7 +7986,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-196
+199
 ],
 "place": 468,
 "text": "",
@@ -7962,7 +8001,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-196
+199
 ],
 "place": 467,
 "text": "",
@@ -7979,7 +8018,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-197
+200
 ],
 "place": 587,
 "text": "",
@@ -7996,9 +8035,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190,
-197,
-404
+193,
+200,
+409
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 243\n</p>\n<p>\n<b>Page No.</b>: 187\n</p>\n<p>\n<b>Sheet No.</b>: 6A\n</p>\n<p>\n<b>Division of County</b>: Precinct 2 Election Dist. 97\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-17\n</p>\n<p>\n<b>Name</b>: Chisholm, Harold F\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 5\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -8015,10 +8054,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190,
-197,
+193,
 200,
-404
+203,
+409
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 90\n</p>\n<p>\n<b>Division of County</b>: Precinct 11\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-05\n</p>\n<p>\n<b>Street Address</b>: 1759 (South) 4th East\n</p>\n<p>\n<b>Name</b>: Chisoholme, Harold F\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 15\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1919</b>: Yes\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -8035,10 +8074,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190,
-197,
+193,
 200,
-404
+203,
+409
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-16\n</p>\n<p>\n<b>Page No.</b>: 125\n</p>\n<p>\n<b>Sheet No.</b>: 14B\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-12\n</p>\n<p>\n<b>Street Address</b>: 1759 (South) 4th East\n</p>\n<p>\n<b>Name</b>: Chisholm, Harold F\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 24\n</p>\n<p>\n<b>Marital condition</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Book Keeper\n</p>\n<p>\n<b>Industry</b>: Furniture Store\n</p>\n<p>\n<b>Class of worker</b>: W\n</p>\n<p>\n<b>Employed</b>: Yes\n</p>\n<p>\n<b>Veteran</b>: No\n</p>\n</div>",
@@ -8055,8 +8094,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-197,
-237
+200,
+240
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 30-7\n</p>\n<p>\n<b>Page No.</b>: 87\n</p>\n<p>\n<b>Sheet No.</b>: 1B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-04\n</p>\n<p>\n<b>Street Address</b>: 906 (S) 4th East\n</p>\n<p>\n<b>Name</b>: Chisholm, Harold Fitzgerald\n</p>\n<p>\n<b>Home Owned/Rented</b>: R\n</p>\n<p>\n<b>Home value/monthly rental</b>: 20\n</p>\n<p>\n<b>Farm?</b>: No\n</p>\n<p>\n<b>Relationship</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 35\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: No\n</p>\n<p>\n<b>Highest grade completed</b>: H4\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same house\n</p>\n<p>\n<b>At Work during week March 24-30</b>: Yes\n</p>\n<p>\n<b># hours worked during week March 24-30, 1940</b>: 48\n</p>\n<p>\n<b>Occupation</b>: Contract Manager\n</p>\n<p>\n<b>Industry</b>: Retail Furniture Co.\n</p>\n<p>\n<b>Class of worker</b>: PW\n</p>\n<p>\n<b># weeks worked in 1939</b>: 52\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 1300\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: No\n</p>\n</div>",
@@ -8071,7 +8110,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-197
+200
 ],
 "place": 587,
 "text": "",
@@ -8086,9 +8125,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-197
+200
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 }
@@ -8103,7 +8142,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-198
+201
 ],
 "place": 50,
 "text": "",
@@ -8118,7 +8157,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-198
+201
 ],
 "place": 531,
 "text": "",
@@ -8133,7 +8172,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-198
+201
 ],
 "place": 530,
 "text": "",
@@ -8150,7 +8189,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-199
+202
 ],
 "place": 263,
 "text": "",
@@ -8165,7 +8204,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-199
+202
 ],
 "place": 357,
 "text": "",
@@ -8180,7 +8219,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-199
+202
 ],
 "place": 356,
 "text": "",
@@ -8197,7 +8236,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-200
+203
 ],
 "place": 587,
 "text": "",
@@ -8212,7 +8251,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-200
+203
 ],
 "place": 587,
 "text": "",
@@ -8227,9 +8266,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-200
+203
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 },
@@ -8244,10 +8283,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190,
-197,
+193,
 200,
-404
+203,
+409
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 90\n</p>\n<p>\n<b>Division of County</b>: Precinct 11\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-05\n</p>\n<p>\n<b>Street Address</b>: 1759 (South) 4th East\n</p>\n<p>\n<b>Name</b>: Chisoholme, Lois M\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1919</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -8264,10 +8303,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190,
-197,
+193,
 200,
-404
+203,
+409
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-16\n</p>\n<p>\n<b>Page No.</b>: 125\n</p>\n<p>\n<b>Sheet No.</b>: 14B\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-12\n</p>\n<p>\n<b>Street Address</b>: 1759 (South) 4th East\n</p>\n<p>\n<b>Name</b>: Chisholm, Lois\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Marital condition</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: Yes\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -8284,9 +8323,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190,
-200,
-404
+193,
+203,
+409
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 6\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 30-43\n</p>\n<p>\n<b>Page No.</b>: 602\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-15\n</p>\n<p>\n<b>Street Address</b>: 1757 5th East\n</p>\n<p>\n<b>Name</b>: Chisholm, Lois\n</p>\n<p>\n<b>Relationship</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 25\n</p>\n<p>\n<b>Marital Status</b>: S\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: No\n</p>\n<p>\n<b>Highest grade completed</b>: C-2\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same house\n</p>\n<p>\n<b>At Work during week March 24-30</b>: Yes\n</p>\n<p>\n<b># hours worked during week March 24-30, 1940</b>: 42\n</p>\n<p>\n<b>Occupation</b>: Sales Lady\n</p>\n<p>\n<b>Industry</b>: Dept Store\n</p>\n<p>\n<b>Class of worker</b>: PW\n</p>\n<p>\n<b># weeks worked in 1939</b>: 52\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 900\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: no\n</p>\n</div>",
@@ -8303,7 +8342,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-201
+204
 ],
 "place": 367,
 "text": "",
@@ -8318,7 +8357,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-201
+204
 ],
 "place": 367,
 "text": "",
@@ -8333,7 +8372,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-201
+204
 ],
 "place": 367,
 "text": "",
@@ -8350,7 +8389,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-202
+205
 ],
 "place": 50,
 "text": "",
@@ -8365,7 +8404,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-202
+205
 ],
 "place": -1,
 "text": "",
@@ -8383,7 +8422,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-204
+207
 ],
 "place": 188,
 "text": "",
@@ -8398,7 +8437,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-204
+207
 ],
 "place": 635,
 "text": "",
@@ -8413,7 +8452,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-204
+207
 ],
 "place": 262,
 "text": "",
@@ -8430,11 +8469,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-204,
-206,
+207,
 209,
-211,
-974
+212,
+214,
+985
 ],
 "place": 524,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 188\n</p>\n<p>\n<b>Page No.</b>: 102\n</p>\n<p>\n<b>Minor Civil Division</b>: District Polk\n</p>\n<p>\n<b>County of</b>: Pottawattamie\n</p>\n<p>\n<b>State of</b>: Iowa\n</p>\n<p>\n<b>Enumeration Date</b>: 1950-10-03\n</p>\n<p>\n<b>Line No.</b>: 25\n</p>\n<p>\n<b>Family No.</b>: 605\n</p>\n<p>\n<b>Name</b>: Clemins, Aidah\n</p>\n<p>\n<b>Age</b>: 10\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Missouri\n</p>\n</div>",
@@ -8451,7 +8490,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-205
+208
 ],
 "place": 207,
 "text": "",
@@ -8466,7 +8505,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-205
+208
 ],
 "place": 635,
 "text": "",
@@ -8481,7 +8520,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-205
+208
 ],
 "place": 262,
 "text": "",
@@ -8498,7 +8537,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-206
+209
 ],
 "place": 435,
 "text": "",
@@ -8513,7 +8552,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-206
+209
 ],
 "place": 129,
 "text": "",
@@ -8528,7 +8567,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-206
+209
 ],
 "place": 484,
 "text": "",
@@ -8545,11 +8584,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-204,
-206,
+207,
 209,
-211,
-974
+212,
+214,
+985
 ],
 "place": 524,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 188\n</p>\n<p>\n<b>Page No.</b>: 102\n</p>\n<p>\n<b>Minor Civil Division</b>: District Polk\n</p>\n<p>\n<b>County of</b>: Pottawattamie\n</p>\n<p>\n<b>State of</b>: Iowa\n</p>\n<p>\n<b>Enumeration Date</b>: 1950-10-03\n</p>\n<p>\n<b>Line No.</b>: 25\n</p>\n<p>\n<b>Family No.</b>: 605\n</p>\n<p>\n<b>Name</b>: Clemins, Nephi\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Missouri\n</p>\n</div>",
@@ -8566,7 +8605,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-207
+210
 ],
 "place": 207,
 "text": "",
@@ -8581,7 +8620,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-207
+210
 ],
 "place": 388,
 "text": "",
@@ -8596,7 +8635,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-207
+210
 ],
 "place": 387,
 "text": "",
@@ -8613,7 +8652,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-208
+211
 ],
 "place": 202,
 "text": "",
@@ -8628,7 +8667,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-208
+211
 ],
 "place": 389,
 "text": "",
@@ -8643,7 +8682,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-208
+211
 ],
 "place": 184,
 "text": "",
@@ -8660,12 +8699,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-208,
-562,
-567,
+211,
 573,
-577,
-578
+578,
+584,
+588,
+589
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 27\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-04\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 11\n</p>\n<p>\n<b>Family No.</b>: 1945\n</p>\n<p>\n<b>Name</b>: Kendall, Eliza\n</p>\n<p>\n<b>Age</b>: 25\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Ohio\n</p>\n</div>",
@@ -8682,9 +8721,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-208,
-574,
-578
+211,
+585,
+589
 ],
 "place": 389,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1687\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 157\n</p>\n<p>\n<b>Page No.</b>: 68\n</p>\n<p>\n<b>Sheet No.</b>: 12B\n</p>\n<p>\n<b>Division of County</b>: Mapleton Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-23\n</p>\n<p>\n<b>Name</b>: Kendall, Eliza\n</p>\n<p>\n<b>Relation to head</b>: wife\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: March\n</p>\n<p>\n<b>Year of birth</b>: 1834\n</p>\n<p>\n<b>Age</b>: 66\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 52\n</p>\n<p>\n<b>Mother of how many children</b>: 13\n</p>\n<p>\n<b>Number of children living</b>: 8\n</p>\n<p>\n<b>Place of birth</b>: Ohio\n</p>\n<p>\n<b>Place of birth of mother</b>: New York\n</p>\n<p>\n<b>Can read</b>: no\n</p>\n<p>\n<b>Can write</b>: no\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -8701,7 +8740,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209
+212
 ],
 "place": 339,
 "text": "",
@@ -8716,7 +8755,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209
+212
 ],
 "place": 485,
 "text": "",
@@ -8731,7 +8770,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209
+212
 ],
 "place": 484,
 "text": "",
@@ -8748,16 +8787,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-569,
-572,
-578,
+212,
 580,
-581,
 583,
-584,
-585,
-586
+589,
+591,
+592,
+594,
+595,
+596,
+597
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21\n</p>\n<p>\n<b>Sheet No.</b>: 334\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-09\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 148\n</p>\n<p>\n<b>Name</b>: Kendall, Elizabeth\n</p>\n<p>\n<b>Age</b>: 34\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Keeping House\n</p>\n<p>\n<b>Place of birth</b>: Missouri\n</p>\n</div>",
@@ -8774,12 +8813,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-572,
-580,
-584,
-586,
-974
+212,
+583,
+591,
+595,
+597,
+985
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 278\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-04\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 7\n</p>\n<p>\n<b>Family No.</b>: 1946\n</p>\n<p>\n<b>Name</b>: Kenell, Elizabeth\n</p>\n<p>\n<b>Age</b>: 23\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Value of real estate</b>: 100\n</p>\n<p>\n<b>Value of personal estate</b>: 150\n</p>\n<p>\n<b>Place of birth</b>: Mo\n</p>\n</div>",
@@ -8796,15 +8835,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-564,
-569,
-574,
-578,
-581,
-582,
-583,
-585
+212,
+575,
+580,
+585,
+589,
+592,
+593,
+594,
+596
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 18\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 82\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville City & Precinct\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 42\n</p>\n<p>\n<b>Name</b>: Kendall, Elizabeth\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 42\n</p>\n<p>\n<b>Relationship to head</b>: wife\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Keeping House\n</p>\n<p>\n<b>Place of birth</b>: Missouri\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: New York\n</p>\n</div>",
@@ -8821,11 +8860,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-204,
-206,
+207,
 209,
-211,
-974
+212,
+214,
+985
 ],
 "place": 524,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 188\n</p>\n<p>\n<b>Page No.</b>: 102\n</p>\n<p>\n<b>Minor Civil Division</b>: District Polk\n</p>\n<p>\n<b>County of</b>: Pottawattamie\n</p>\n<p>\n<b>State of</b>: Iowa\n</p>\n<p>\n<b>Enumeration Date</b>: 1950-10-03\n</p>\n<p>\n<b>Line No.</b>: 25\n</p>\n<p>\n<b>Family No.</b>: 605\n</p>\n<p>\n<b>Name</b>: Clemins, Elizabeth\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Missouri\n</p>\n</div>",
@@ -8842,9 +8881,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-582,
-585
+212,
+593,
+596
 ],
 "place": 485,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 231\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 140\n</p>\n<p>\n<b>Page No.</b>: 174\n</p>\n<p>\n<b>Sheet No.</b>: 6B\n</p>\n<p>\n<b>Division of County</b>: Oxford Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Cotton wood village\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-07\n</p>\n<p>\n<b>Name</b>: Kendall, Elizabeth\n</p>\n<p>\n<b>Relation to head</b>: mother\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: May\n</p>\n<p>\n<b>Year of birth</b>: 1836\n</p>\n<p>\n<b>Age</b>: 64\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: Wd\n</p>\n<p>\n<b>Mother of how many children</b>: 13\n</p>\n<p>\n<b>Number of children living</b>: 11\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -8861,7 +8900,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209
+212
 ],
 "place": 485,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>Roll No.</b>: 221\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 46\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 34\n</p>\n<p>\n<b>Page No.</b>: 169\n</p>\n<p>\n<b>Sheet No.</b>: 7B\n</p>\n<p>\n<b>Division of County</b>: Oxford Precinct\n</p>\n<p>\n<b>Name</b>: Kendall, Elizabeth\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 73\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: Wd\n</p>\n<p>\n<b>Mother of how many children</b>: 12\n</p>\n<p>\n<b>Number of children living</b>: 10\n</p>\n<p>\n<b>Place of birth</b>: Missouri\n</p>\n<p>\n<b>Place of birth of father</b>: Ohio\n</p>\n<p>\n<b>Place of birth of mother</b>: United States\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Nursing\n</p>\n<p>\n<b>Nature of industry</b>: Private Families\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: Oa\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n</div>",
@@ -8878,7 +8917,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209
+212
 ],
 "place": 485,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T625\n</p>\n<p>\n<b>Roll No.</b>: 288\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 43\n</p>\n<p>\n<b>Page No.</b>: 111\n</p>\n<p>\n<b>Division of County</b>: 3B\n</p>\n<p>\n<b>Name of Institution</b>: Oxford Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-19\n</p>\n<p>\n<b>Street Address</b>: Town of Oxford\n</p>\n<p>\n<b>Name</b>: Kendall, Elizabeth\n</p>\n<p>\n<b>Relationship to head</b>: head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>If owned, free or mortgaged</b>: F\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 83\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: W\n</p>\n<p>\n<b>Able to read</b>: no\n</p>\n<p>\n<b>Able to write</b>: no\n</p>\n<p>\n<b>Place of birth</b>: Missouri\n</p>\n<p>\n<b>Place of birth of father</b>: United States\n</p>\n<p>\n<b>Place of birth of mother</b>: United States\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -8895,7 +8934,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-210
+213
 ],
 "place": 213,
 "text": "",
@@ -8910,9 +8949,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-210
+213
 ],
-"place": 724,
+"place": 725,
 "text": "",
 "type": "Death"
 }
@@ -8927,7 +8966,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-211
+214
 ],
 "place": 534,
 "text": "",
@@ -8942,7 +8981,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-211
+214
 ],
 "place": 485,
 "text": "",
@@ -8957,7 +8996,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-211
+214
 ],
 "place": 484,
 "text": "",
@@ -8974,11 +9013,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-204,
-206,
+207,
 209,
-211,
-974
+212,
+214,
+985
 ],
 "place": 524,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 188\n</p>\n<p>\n<b>Page No.</b>: 102\n</p>\n<p>\n<b>Minor Civil Division</b>: District Polk\n</p>\n<p>\n<b>County of</b>: Pottawattamie\n</p>\n<p>\n<b>State of</b>: Iowa\n</p>\n<p>\n<b>Enumeration Date</b>: 1950-10-03\n</p>\n<p>\n<b>Line No.</b>: 25\n</p>\n<p>\n<b>Family No.</b>: 605\n</p>\n<p>\n<b>Name</b>: Clemins, James\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n</div>",
@@ -8995,7 +9034,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-212
+215
 ],
 "place": 207,
 "text": "",
@@ -9010,7 +9049,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-212
+215
 ],
 "place": 269,
 "text": "",
@@ -9025,7 +9064,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-212
+215
 ],
 "place": 268,
 "text": "",
@@ -9042,7 +9081,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-213
+216
 ],
 "place": 214,
 "text": "",
@@ -9057,7 +9096,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-213
+216
 ],
 "place": 277,
 "text": "",
@@ -9074,7 +9113,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-214
+217
 ],
 "place": 587,
 "text": "",
@@ -9089,7 +9128,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-214
+217
 ],
 "place": 587,
 "text": "",
@@ -9104,7 +9143,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-214
+217
 ],
 "place": 586,
 "text": "",
@@ -9121,7 +9160,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-215
+218
 ],
 "place": 59,
 "text": "",
@@ -9136,7 +9175,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-215
+218
 ],
 "place": -1,
 "text": "",
@@ -9153,7 +9192,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-216
+219
 ],
 "place": 587,
 "text": "",
@@ -9170,12 +9209,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-216,
-217,
-224,
-234,
+219,
+220,
+227,
 237,
-849
+240,
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 95\n</p>\n<p>\n<b>Page No.</b>: 105\n</p>\n<p>\n<b>Sheet No.</b>: 7B\n</p>\n<p>\n<b>Division of County</b>: Voting District #1\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: Waterloo\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-19\n</p>\n<p>\n<b>Name</b>: Clissold, Albert E\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 33\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 14\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Elevator Man\n</p>\n<p>\n<b>Nature of industry</b>: Molse House\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Out of work</b>: No\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: No\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n</div>",
@@ -9190,7 +9229,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-216
+219
 ],
 "place": 587,
 "text": "",
@@ -9205,7 +9244,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-216
+219
 ],
 "place": 587,
 "text": "",
@@ -9222,10 +9261,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-216,
-217,
-224,
-849
+219,
+220,
+227,
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 42\n</p>\n<p>\n<b>Page No.</b>: 162\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Fourth Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 4\n</p>\n<p>\n<b>Street Address</b>: 624 Seventh Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-02\n</p>\n<p>\n<b>Name</b>: Clissold, Albert G. E.\n</p>\n<p>\n<b>Relation to head</b>: Head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Jan\n</p>\n<p>\n<b>Year of birth</b>: 1876\n</p>\n<p>\n<b>Age</b>: 24\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 4\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Occupation</b>: Shoemaker\n</p>\n<p>\n<b>Months not employed</b>: 0\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: R\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n</div>",
@@ -9243,8 +9282,8 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 44,
-216,
-236
+219,
+239
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 344\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 112\n</p>\n<p>\n<b>Page No.</b>: 146\n</p>\n<p>\n<b>Division of County</b>: Precinct 2\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-09\n</p>\n<p>\n<b>Street Address</b>: 934 W 6th S\n</p>\n<p>\n<b>Name</b>: Clissold, Albert\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>If owned, free or mortgaged</b>: M\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 43\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Mother's mother tongue</b>: English\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Truck Driver\n</p>\n<p>\n<b>Industry</b>: Dept. Store\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: W\n</p>\n</div>",
@@ -9261,7 +9300,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-217
+220
 ],
 "place": 587,
 "text": "",
@@ -9276,7 +9315,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-217
+220
 ],
 "place": 267,
 "text": "",
@@ -9291,7 +9330,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-217
+220
 ],
 "place": 434,
 "text": "",
@@ -9308,12 +9347,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-216,
-217,
-224,
-234,
+219,
+220,
+227,
 237,
-849
+240,
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 95\n</p>\n<p>\n<b>Page No.</b>: 105\n</p>\n<p>\n<b>Sheet No.</b>: 7B\n</p>\n<p>\n<b>Division of County</b>: Voting District #1\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: Waterloo\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-19\n</p>\n<p>\n<b>Name</b>: Clissold, Albert\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: Yes\n</p>\n</div>",
@@ -9330,10 +9369,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-216,
-217,
-224,
-849
+219,
+220,
+227,
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 42\n</p>\n<p>\n<b>Page No.</b>: 162\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Fourth Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 4\n</p>\n<p>\n<b>Street Address</b>: 624 Seventh Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-02\n</p>\n<p>\n<b>Name</b>: Clissold, Robert\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Dec\n</p>\n<p>\n<b>Year of birth</b>: 1896\n</p>\n<p>\n<b>Age</b>: 3\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n</div>",
@@ -9350,7 +9389,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-218
+221
 ],
 "place": 587,
 "text": "",
@@ -9365,7 +9404,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-218
+221
 ],
 "place": 587,
 "text": "",
@@ -9380,7 +9419,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-218
+221
 ],
 "place": 586,
 "text": "",
@@ -9397,7 +9436,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-219
+222
 ],
 "place": 587,
 "text": "",
@@ -9412,7 +9451,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-219
+222
 ],
 "place": 595,
 "text": "",
@@ -9427,7 +9466,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-219
+222
 ],
 "place": 586,
 "text": "",
@@ -9444,7 +9483,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-220
+223
 ],
 "place": 59,
 "text": "",
@@ -9459,7 +9498,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-220
+223
 ],
 "place": 587,
 "text": "",
@@ -9474,7 +9513,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-220
+223
 ],
 "place": 586,
 "text": "",
@@ -9491,8 +9530,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-220,
-941
+223,
+952
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1611\n</p>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 575\n</p>\n<p>\n<b>Minor Civil Division</b>: 6th Ward Salt Lake City\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-24\n</p>\n<p>\n<b>Post Office</b>: Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 29\n</p>\n<p>\n<b>Family No.</b>: 6\n</p>\n<p>\n<b>Name</b>: Clissold, Charles E\n</p>\n<p>\n<b>Age</b>: 22\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Silversmith\n</p>\n<p>\n<b>Value of personal estate</b>: 300\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -9509,13 +9548,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-220,
 223,
-231,
-235,
-239,
-240,
-604
+226,
+234,
+238,
+242,
+243,
+615
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1684\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 42\n</p>\n<p>\n<b>Page No.</b>: 163\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Fourth Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 4\n</p>\n<p>\n<b>Street Address</b>: 375 M Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-04\n</p>\n<p>\n<b>Name</b>: Clissold, Charles E\n</p>\n<p>\n<b>Relation to head</b>: Head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: May\n</p>\n<p>\n<b>Year of birth</b>: 1848\n</p>\n<p>\n<b>Age</b>: 52\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 18\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Year of immigration</b>: 1870\n</p>\n<p>\n<b>Number of years in US</b>: 30\n</p>\n<p>\n<b>Naturalization</b>: Na\n</p>\n<p>\n<b>Occupation</b>: Shoemaker\n</p>\n<p>\n<b>Months not employed</b>: 0\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n</div>",
@@ -9532,7 +9571,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-221
+224
 ],
 "place": 587,
 "text": "",
@@ -9547,7 +9586,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-221
+224
 ],
 "place": 587,
 "text": "",
@@ -9562,7 +9601,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-221
+224
 ],
 "place": 586,
 "text": "",
@@ -9579,7 +9618,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-222
+225
 ],
 "place": 587,
 "text": "",
@@ -9594,7 +9633,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-222
+225
 ],
 "place": 587,
 "text": "",
@@ -9611,7 +9650,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-223
+226
 ],
 "place": 587,
 "text": "",
@@ -9626,7 +9665,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-223
+226
 ],
 "place": -1,
 "text": "",
@@ -9641,9 +9680,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-223
+226
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 },
@@ -9658,13 +9697,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-220,
 223,
-231,
-235,
-239,
-240,
-604
+226,
+234,
+238,
+242,
+243,
+615
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1684\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 42\n</p>\n<p>\n<b>Page No.</b>: 163\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Fourth Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 4\n</p>\n<p>\n<b>Street Address</b>: 375 M Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-04\n</p>\n<p>\n<b>Name</b>: Clissold, Edith A\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Feb\n</p>\n<p>\n<b>Year of birth</b>: 1890\n</p>\n<p>\n<b>Age</b>: 10\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: Student\n</p>\n<p>\n<b>Attended school</b>: 9\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
@@ -9681,7 +9720,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-224
+227
 ],
 "place": 587,
 "text": "",
@@ -9696,7 +9735,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-224
+227
 ],
 "place": 587,
 "text": "",
@@ -9711,7 +9750,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-224
+227
 ],
 "place": 586,
 "text": "",
@@ -9728,12 +9767,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-216,
-217,
-224,
-234,
+219,
+220,
+227,
 237,
-849
+240,
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 95\n</p>\n<p>\n<b>Page No.</b>: 105\n</p>\n<p>\n<b>Sheet No.</b>: 7B\n</p>\n<p>\n<b>Division of County</b>: Voting District #1\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: Waterloo\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-19\n</p>\n<p>\n<b>Name</b>: Clissold, Edward\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: Yes\n</p>\n</div>",
@@ -9750,10 +9789,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-216,
-217,
-224,
-849
+219,
+220,
+227,
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 42\n</p>\n<p>\n<b>Page No.</b>: 162\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Fourth Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 4\n</p>\n<p>\n<b>Street Address</b>: 624 Seventh Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-02\n</p>\n<p>\n<b>Name</b>: Clissold, Edward\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Apr\n</p>\n<p>\n<b>Year of birth</b>: 1898\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n</div>",
@@ -9770,7 +9809,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-225
+228
 ],
 "place": 59,
 "text": "",
@@ -9785,7 +9824,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-225
+228
 ],
 "place": 593,
 "text": "",
@@ -9800,7 +9839,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-225
+228
 ],
 "place": 593,
 "text": "",
@@ -9817,7 +9856,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-226
+229
 ],
 "place": 587,
 "text": "",
@@ -9832,7 +9871,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-226
+229
 ],
 "place": 587,
 "text": "",
@@ -9847,7 +9886,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-226
+229
 ],
 "place": 586,
 "text": "",
@@ -9864,7 +9903,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-227
+230
 ],
 "place": 59,
 "text": "",
@@ -9879,7 +9918,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-227
+230
 ],
 "place": 587,
 "text": "",
@@ -9894,7 +9933,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-227
+230
 ],
 "place": 586,
 "text": "",
@@ -9911,7 +9950,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-228
+231
 ],
 "place": 587,
 "text": "",
@@ -9926,7 +9965,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-228
+231
 ],
 "place": 365,
 "text": "",
@@ -9941,7 +9980,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-228
+231
 ],
 "place": 279,
 "text": "",
@@ -9958,7 +9997,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-229
+232
 ],
 "place": 650,
 "text": "",
@@ -9973,7 +10012,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-229
+232
 ],
 "place": 587,
 "text": "",
@@ -9988,7 +10027,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-229
+232
 ],
 "place": 586,
 "text": "",
@@ -10005,7 +10044,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-230
+233
 ],
 "place": 59,
 "text": "",
@@ -10020,7 +10059,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-230
+233
 ],
 "place": 59,
 "text": "",
@@ -10035,7 +10074,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-230
+233
 ],
 "place": 636,
 "text": "",
@@ -10052,7 +10091,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-231
+234
 ],
 "place": 587,
 "text": "",
@@ -10067,7 +10106,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-231
+234
 ],
 "place": 290,
 "text": "",
@@ -10082,7 +10121,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-231
+234
 ],
 "place": 30,
 "text": "",
@@ -10099,13 +10138,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-220,
 223,
-231,
-235,
-239,
-240,
-604
+226,
+234,
+238,
+242,
+243,
+615
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1684\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 42\n</p>\n<p>\n<b>Page No.</b>: 163\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Fourth Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 4\n</p>\n<p>\n<b>Street Address</b>: 375 M Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-04\n</p>\n<p>\n<b>Name</b>: Clissold, Harry E\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Mar\n</p>\n<p>\n<b>Year of birth</b>: 1893\n</p>\n<p>\n<b>Age</b>: 7\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: Student\n</p>\n<p>\n<b>Attended school</b>: 9\n</p>\n</div>",
@@ -10122,7 +10161,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-232
+235
 ],
 "place": 587,
 "text": "",
@@ -10137,7 +10176,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-232
+235
 ],
 "place": -1,
 "text": "",
@@ -10152,7 +10191,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-232
+235
 ],
 "place": 586,
 "text": "",
@@ -10169,7 +10208,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-233
+236
 ],
 "place": 587,
 "text": "",
@@ -10184,7 +10223,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-233
+236
 ],
 "place": 587,
 "text": "",
@@ -10199,7 +10238,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-233
+236
 ],
 "place": 586,
 "text": "",
@@ -10216,8 +10255,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-234,
-237
+237,
+240
 ],
 "place": 587,
 "text": "",
@@ -10232,7 +10271,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-234
+237
 ],
 "place": 587,
 "text": "",
@@ -10247,7 +10286,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-234
+237
 ],
 "place": 586,
 "text": "",
@@ -10264,12 +10303,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-216,
-217,
-224,
-234,
+219,
+220,
+227,
 237,
-849
+240,
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 95\n</p>\n<p>\n<b>Page No.</b>: 105\n</p>\n<p>\n<b>Sheet No.</b>: 7B\n</p>\n<p>\n<b>Division of County</b>: Voting District #1\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: Waterloo\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-19\n</p>\n<p>\n<b>Name</b>: Clissold, Eugene\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -10288,9 +10327,9 @@ I_events_0 = [
 "part_person": [
 9,
 10,
-234,
 237,
-849
+240,
+860
 ],
 "place": 468,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Weber\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 15\n</p>\n<p>\n<b>Page No.</b>: 221\n</p>\n<p>\n<b>Division of County</b>: Precinct #4\n</p>\n<p>\n<b>City, Town, Village</b>: Ogden City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-16\n</p>\n<p>\n<b>Street Address</b>: 203 13th Street\n</p>\n<p>\n<b>Name</b>: Bagley, Eugene\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1919</b>: Yes\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -10309,9 +10348,9 @@ I_events_0 = [
 "part_person": [
 9,
 10,
-234,
 237,
-849
+240,
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-16\n</p>\n<p>\n<b>Page No.</b>: 118\n</p>\n<p>\n<b>Sheet No.</b>: 7A\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-09\n</p>\n<p>\n<b>Street Address</b>: 332 East Coatsville Avenue\n</p>\n<p>\n<b>Name</b>: Clissold, Le Roy E\n</p>\n<p>\n<b>Relationship to head</b>: Step-Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 24\n</p>\n<p>\n<b>Marital condition</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Bookkeeper\n</p>\n<p>\n<b>Industry</b>: Bank\n</p>\n<p>\n<b>Class of worker</b>: W\n</p>\n<p>\n<b>Employed</b>: Yes\n</p>\n<p>\n<b>Veteran</b>: No\n</p>\n</div>",
@@ -10328,7 +10367,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-235
+238
 ],
 "place": 587,
 "text": "",
@@ -10343,7 +10382,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-235
+238
 ],
 "place": 88,
 "text": "",
@@ -10358,7 +10397,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-235
+238
 ],
 "place": 563,
 "text": "",
@@ -10375,13 +10414,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-220,
 223,
-231,
-235,
-239,
-240,
-604
+226,
+234,
+238,
+242,
+243,
+615
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1684\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 42\n</p>\n<p>\n<b>Page No.</b>: 163\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Fourth Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 4\n</p>\n<p>\n<b>Street Address</b>: 375 M Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-04\n</p>\n<p>\n<b>Name</b>: Clissold, Pearl L\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Aug\n</p>\n<p>\n<b>Year of birth</b>: 1887\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: Student\n</p>\n<p>\n<b>Attended school</b>: 9\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
@@ -10398,7 +10437,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-236
+239
 ],
 "place": 587,
 "text": "",
@@ -10413,7 +10452,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-236
+239
 ],
 "place": 523,
 "text": "",
@@ -10431,8 +10470,8 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 44,
-216,
-236
+219,
+239
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 344\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 112\n</p>\n<p>\n<b>Page No.</b>: 146\n</p>\n<p>\n<b>Division of County</b>: Precinct 2\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-09\n</p>\n<p>\n<b>Street Address</b>: 934 W 6th S\n</p>\n<p>\n<b>Name</b>: Clissold, Marian\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 2 4/12\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Germany\n</p>\n<p>\n<b>Mother's mother tongue</b>: German\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -10449,8 +10488,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-234,
-237
+237,
+240
 ],
 "place": 587,
 "text": "",
@@ -10467,12 +10506,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-216,
-217,
-224,
-234,
+219,
+220,
+227,
 237,
-849
+240,
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 95\n</p>\n<p>\n<b>Page No.</b>: 105\n</p>\n<p>\n<b>Sheet No.</b>: 7B\n</p>\n<p>\n<b>Division of County</b>: Voting District #1\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: Waterloo\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-19\n</p>\n<p>\n<b>Name</b>: Clissold, Irene\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -10491,9 +10530,9 @@ I_events_0 = [
 "part_person": [
 9,
 10,
-234,
 237,
-849
+240,
+860
 ],
 "place": 468,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Weber\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 15\n</p>\n<p>\n<b>Page No.</b>: 221\n</p>\n<p>\n<b>Division of County</b>: Precinct #4\n</p>\n<p>\n<b>City, Town, Village</b>: Ogden City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-16\n</p>\n<p>\n<b>Street Address</b>: 203 13th Street\n</p>\n<p>\n<b>Name</b>: Bagley, Martha Irene\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1919</b>: Yes\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -10512,9 +10551,9 @@ I_events_0 = [
 "part_person": [
 9,
 10,
-234,
 237,
-849
+240,
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-16\n</p>\n<p>\n<b>Page No.</b>: 118\n</p>\n<p>\n<b>Sheet No.</b>: 7A\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-09\n</p>\n<p>\n<b>Street Address</b>: 332 East Coatsville Avenue\n</p>\n<p>\n<b>Name</b>: Clissold, Martha I\n</p>\n<p>\n<b>Relationship to head</b>: Step-Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 24\n</p>\n<p>\n<b>Marital condition</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Cashier\n</p>\n<p>\n<b>Industry</b>: Insurance\n</p>\n<p>\n<b>Class of worker</b>: W\n</p>\n<p>\n<b>Employed</b>: Yes\n</p>\n</div>",
@@ -10531,11 +10570,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-197,
-237
+200,
+240
 ],
 "place": 587,
-"text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 30-7\n</p>\n<p>\n<b>Page No.</b>: 87\n</p>\n<p>\n<b>Sheet No.</b>: 1B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-04\n</p>\n<p>\n<b>Street Address</b>: 906 (S) 4th East\n</p>\n<p>\n<b>Name</b>: Chisholm, Irene \n</p>\n<p>\n<b>Relationship</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 34\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: No\n</p>\n<p>\n<b>Highest grade completed</b>: H4\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Sameplace\n</p>\n<p>\n<b>On a Farm (Y/N)</b>: No\n</p>\n<p>\n<b>At Work during week March 24-30</b>: No\n</p>\n<p>\n<b>public Emergency Work?</b>: No\n</p>\n<p>\n<b>Seeking work?</b>: No\n</p>\n<p>\n<b>Have a Job?</b>: No\n</p>\n<p>\n<b>housework (H), school (S), unable to work (U) or other (Ot)</b>: H\n</p>\n<p>\n<b># weeks worked in 1939</b>: 0\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 0\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: No\n</p>\n</div>",
+"text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 30-7\n</p>\n<p>\n<b>Page No.</b>: 87\n</p>\n<p>\n<b>Sheet No.</b>: 1B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-04\n</p>\n<p>\n<b>Street Address</b>: 906 (S) 4th East\n</p>\n<p>\n<b>Name</b>: Chisholm, Irene\n</p>\n<p>\n<b>Relationship</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 34\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: No\n</p>\n<p>\n<b>Highest grade completed</b>: H4\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Sameplace\n</p>\n<p>\n<b>On a Farm (Y/N)</b>: No\n</p>\n<p>\n<b>At Work during week March 24-30</b>: No\n</p>\n<p>\n<b>public Emergency Work?</b>: No\n</p>\n<p>\n<b>Seeking work?</b>: No\n</p>\n<p>\n<b>Have a Job?</b>: No\n</p>\n<p>\n<b>housework (H), school (S), unable to work (U) or other (Ot)</b>: H\n</p>\n<p>\n<b># weeks worked in 1939</b>: 0\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 0\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: No\n</p>\n</div>",
 "type": "Census"
 },
 {
@@ -10547,7 +10586,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-237
+240
 ],
 "place": 587,
 "text": "",
@@ -10562,9 +10601,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-237
+240
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 }
@@ -10579,7 +10618,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-238
+241
 ],
 "place": 59,
 "text": "",
@@ -10594,7 +10633,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-238
+241
 ],
 "place": 365,
 "text": "",
@@ -10609,9 +10648,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-238
+241
 ],
-"place": 698,
+"place": 699,
 "text": "",
 "type": "Burial"
 }
@@ -10626,7 +10665,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-239
+242
 ],
 "place": 587,
 "text": "",
@@ -10641,7 +10680,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-239
+242
 ],
 "place": 587,
 "text": "",
@@ -10656,9 +10695,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-239
+242
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 },
@@ -10673,13 +10712,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-220,
 223,
-231,
-235,
-239,
-240,
-604
+226,
+234,
+238,
+242,
+243,
+615
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1684\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 42\n</p>\n<p>\n<b>Page No.</b>: 163\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Fourth Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 4\n</p>\n<p>\n<b>Street Address</b>: 375 M Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-04\n</p>\n<p>\n<b>Name</b>: Clissold, Stanley\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: July\n</p>\n<p>\n<b>Year of birth</b>: 1895\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n</div>",
@@ -10696,7 +10735,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-240
+243
 ],
 "place": 587,
 "text": "",
@@ -10711,7 +10750,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-240
+243
 ],
 "place": 365,
 "text": "",
@@ -10726,7 +10765,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-240
+243
 ],
 "place": 205,
 "text": "",
@@ -10743,13 +10782,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-220,
 223,
-231,
-235,
-239,
-240,
-604
+226,
+234,
+238,
+242,
+243,
+615
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1684\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 42\n</p>\n<p>\n<b>Page No.</b>: 163\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Fourth Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 4\n</p>\n<p>\n<b>Street Address</b>: 375 M Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-04\n</p>\n<p>\n<b>Name</b>: Clissold, Walter C\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Oct\n</p>\n<p>\n<b>Year of birth</b>: 1898\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n</div>",
@@ -10766,7 +10805,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-241
+244
 ],
 "place": 647,
 "text": "",
@@ -10781,7 +10820,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-241
+244
 ],
 "place": 103,
 "text": "",
@@ -10796,13 +10835,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-241
+244
 ],
 "place": 586,
 "text": "",
 "type": "Burial"
 }
 ],
+[],
 [
 {
 "cita": [],
@@ -10813,7 +10853,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-242
+246
 ],
 "place": 675,
 "text": "",
@@ -10828,7 +10868,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-242
+246
 ],
 "place": 411,
 "text": "",
@@ -10843,7 +10883,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-242
+246
 ],
 "place": 410,
 "text": "",
@@ -10860,9 +10900,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-242,
-477,
-480
+246,
+488,
+491
 ],
 "place": 49,
 "text": "<div>\n<p>\n<b>Page No.</b>: 5\n</p>\n<p>\n<b>Sheet No.</b>: A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 106\n</p>\n<p>\n<b>Minor Civil Division</b>: Star Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-15\n</p>\n<p>\n<b>Line No.</b>: 5\n</p>\n<p>\n<b>Name</b>: Hamblin, M. A.\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 42\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Widowed, divorced</b>: Y\n</p>\n<p>\n<b>Occupation</b>: housekeeper\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Ohio\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -10879,14 +10919,34 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-242,
-467,
-476,
-477,
-480
+246,
+478,
+487,
+488,
+491
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 5\n</p>\n<p>\n<b>Sheet No.</b>: 27\n</p>\n<p>\n<b>Minor Civil Division</b>: District no. 7 Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 33\n</p>\n<p>\n<b>Family No.</b>: 32\n</p>\n<p>\n<b>Name</b>: Stoddard, Mary A\n</p>\n<p>\n<b>Age</b>: 34\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: keeps house\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
+"type": "Census"
+},
+{
+"cita": [
+124
+],
+"date": "1860-06-01",
+"date_sdn": 2400563,
+"descr": "",
+"gid": "E2636",
+"media": [],
+"part_family": [],
+"part_person": [
+246,
+478,
+486,
+487
+],
+"place": 679,
+"text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 153\n</p>\n<p>\n<b>Sheet No.</b>: 1038\n</p>\n<p>\n<b>Minor Civil Division</b>: Tonaquint\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-07-27\n</p>\n<p>\n<b>Post Office</b>: Santa Clara\n</p>\n<p>\n<b>Line No.</b>: 7\n</p>\n<p>\n<b>Family No.</b>: 1130\n</p>\n<p>\n<b>Name</b>: Hamblin, Mary Ann\n</p>\n<p>\n<b>Age</b>: 23\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n</div>",
 "type": "Census"
 }
 ],
@@ -10900,7 +10960,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-243
+247
 ],
 "place": 494,
 "text": "",
@@ -10915,7 +10975,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-243
+247
 ],
 "place": 499,
 "text": "",
@@ -10932,7 +10992,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-244
+248
 ],
 "place": 398,
 "text": "",
@@ -10947,7 +11007,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-244
+248
 ],
 "place": 587,
 "text": "",
@@ -10962,7 +11022,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-244
+248
 ],
 "place": 586,
 "text": "",
@@ -10987,7 +11047,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-253
+257
 ],
 "place": 452,
 "text": "",
@@ -11002,7 +11062,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-253
+257
 ],
 "place": 435,
 "text": "",
@@ -11017,7 +11077,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-253
+257
 ],
 "place": 435,
 "text": "",
@@ -11034,9 +11094,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-254
+258
 ],
-"place": 749,
+"place": 750,
 "text": "",
 "type": "Birth"
 },
@@ -11049,7 +11109,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-254
+258
 ],
 "place": 72,
 "text": "",
@@ -11064,7 +11124,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-254
+258
 ],
 "place": 71,
 "text": "",
@@ -11081,11 +11141,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-99,
-254,
-255,
-256,
-284
+102,
+258,
+259,
+260,
+288
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>County of</b>: Great Salt Lake\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Family No.</b>: 470\n</p>\n<p>\n<b>Name</b>: Cravath, Helen\n</p>\n<p>\n<b>Age</b>: 15\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n</div>",
@@ -11102,9 +11162,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255
+259
 ],
-"place": 749,
+"place": 750,
 "text": "",
 "type": "Birth"
 },
@@ -11117,7 +11177,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255
+259
 ],
 "place": 587,
 "text": "",
@@ -11132,7 +11192,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255
+259
 ],
 "place": 586,
 "text": "",
@@ -11149,13 +11209,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-642,
-652,
-662,
+259,
+653,
+663,
 673,
-683,
-684
+684,
+694,
+695
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>Page No.</b>: 136\n</p>\n<p>\n<b>Sheet No.</b>: 14A\n</p>\n<p>\n<b>Division of County</b>: Kamas Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Kamas Village\n</p>\n<p>\n<b>Name</b>: Pack, Laura C\n</p>\n<p>\n<b>Relation to head</b>: Wife\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Jan\n</p>\n<p>\n<b>Year of birth</b>: 1840\n</p>\n<p>\n<b>Age</b>: 60\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 42\n</p>\n<p>\n<b>Mother of how many children</b>: 11\n</p>\n<p>\n<b>Number of children living</b>: 8\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: New York\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -11172,20 +11232,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-624,
-640,
-642,
-647,
-650,
+259,
+635,
+651,
+653,
 658,
-660,
-662,
-663,
+661,
 669,
+671,
 673,
-682,
-683
+674,
+680,
+684,
+693,
+694
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21 or 26\n</p>\n<p>\n<b>Sheet No.</b>: 32A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 73\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-16\n</p>\n<p>\n<b>Line No.</b>: 36\n</p>\n<p>\n<b>Family No.</b>: 43\n</p>\n<p>\n<b>Name</b>: Pack, Laura C\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 40\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Married</b>: M\n</p>\n<p>\n<b>Occupation</b>: Housekeeping\n</p>\n<p>\n<b>Place of birth</b>: Ill\n</p>\n<p>\n<b>Place of birth of father</b>: N. Y.\n</p>\n<p>\n<b>Place of birth of mother</b>: N. Y.\n</p>\n</div>",
@@ -11202,10 +11262,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-99,
-255,
-682,
-683
+102,
+259,
+693,
+694
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 178\n</p>\n<p>\n<b>Minor Civil Division</b>: 17th Ward Great Salt Lake City\n</p>\n<p>\n<b>County of</b>: Great Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-07-17\n</p>\n<p>\n<b>Post Office</b>: Great Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 13\n</p>\n<p>\n<b>Family No.</b>: 61\n</p>\n<p>\n<b>Name</b>: Pack, Laura\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n</div>",
@@ -11222,11 +11282,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-99,
-254,
-255,
-256,
-284
+102,
+258,
+259,
+260,
+288
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>County of</b>: Great Salt Lake\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Family No.</b>: 470\n</p>\n<p>\n<b>Name</b>: Cravath, Lory\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Now York\n</p>\n</div>",
@@ -11243,10 +11303,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-551,
-670,
-673
+259,
+562,
+681,
+684
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 96\n</p>\n<p>\n<b>Page No.</b>: 144\n</p>\n<p>\n<b>Sheet No.</b>: 25B\n</p>\n<p>\n<b>Division of County</b>: 2nd District\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-20\n</p>\n<p>\n<b>Name</b>: Pack, Laura\n</p>\n<p>\n<b>Relationship to head</b>: Mother in Law\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 70\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: Wd\n</p>\n<p>\n<b>Mother of how many children</b>: 11\n</p>\n<p>\n<b>Number of children living</b>: 7\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: New York\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n</div>",
@@ -11263,9 +11323,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-256
+260
 ],
-"place": 749,
+"place": 750,
 "text": "",
 "type": "Birth"
 },
@@ -11278,7 +11338,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-256
+260
 ],
 "place": 587,
 "text": "",
@@ -11293,7 +11353,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-256
+260
 ],
 "place": 586,
 "text": "",
@@ -11310,11 +11370,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-99,
-254,
-255,
-256,
-284
+102,
+258,
+259,
+260,
+288
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>County of</b>: Great Salt Lake\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Family No.</b>: 470\n</p>\n<p>\n<b>Name</b>: Cravath, Mary\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -11331,7 +11391,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-257
+261
 ],
 "place": 447,
 "text": "",
@@ -11346,7 +11406,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-257
+261
 ],
 "place": -1,
 "text": "",
@@ -11363,7 +11423,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-258
+262
 ],
 "place": 367,
 "text": "",
@@ -11378,7 +11438,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-258
+262
 ],
 "place": 587,
 "text": "",
@@ -11393,7 +11453,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-258
+262
 ],
 "place": 586,
 "text": "",
@@ -11410,7 +11470,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-259
+263
 ],
 "place": 474,
 "text": "",
@@ -11427,9 +11487,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-260
+264
 ],
-"place": 747,
+"place": 748,
 "text": "",
 "type": "Birth"
 },
@@ -11442,7 +11502,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-260
+264
 ],
 "place": 673,
 "text": "",
@@ -11457,7 +11517,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-260
+264
 ],
 "place": 672,
 "text": "",
@@ -11474,7 +11534,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-261
+265
 ],
 "place": 244,
 "text": "",
@@ -11489,9 +11549,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-261
+265
 ],
-"place": 747,
+"place": 748,
 "text": "",
 "type": "Death"
 },
@@ -11504,9 +11564,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-261
+265
 ],
-"place": 746,
+"place": 747,
 "text": "",
 "type": "Burial"
 }
@@ -11521,7 +11581,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-262
+266
 ],
 "place": 474,
 "text": "",
@@ -11538,9 +11598,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-263
+267
 ],
-"place": 747,
+"place": 748,
 "text": "",
 "type": "Birth"
 },
@@ -11553,7 +11613,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-263
+267
 ],
 "place": 531,
 "text": "",
@@ -11568,9 +11628,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-263
+267
 ],
-"place": 753,
+"place": 754,
 "text": "",
 "type": "Burial"
 }
@@ -11585,7 +11645,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-264
+268
 ],
 "place": 635,
 "text": "",
@@ -11600,7 +11660,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-264
+268
 ],
 "place": 635,
 "text": "",
@@ -11615,7 +11675,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-264
+268
 ],
 "place": 262,
 "text": "",
@@ -11632,7 +11692,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-265
+269
 ],
 "place": 635,
 "text": "",
@@ -11647,7 +11707,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-265
+269
 ],
 "place": 559,
 "text": "",
@@ -11664,7 +11724,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-266
+270
 ],
 "place": 635,
 "text": "",
@@ -11679,7 +11739,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-266
+270
 ],
 "place": 635,
 "text": "",
@@ -11694,7 +11754,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-266
+270
 ],
 "place": 262,
 "text": "",
@@ -11711,7 +11771,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267
+271
 ],
 "place": 576,
 "text": "",
@@ -11726,7 +11786,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267
+271
 ],
 "place": 37,
 "text": "",
@@ -11741,7 +11801,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267
+271
 ],
 "place": 36,
 "text": "",
@@ -11758,15 +11818,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-292,
+271,
 296,
-304,
-313,
-316,
-318,
-319,
-321
+300,
+308,
+317,
+320,
+322,
+323,
+325
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 26\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-10\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Family No.</b>: 176\n</p>\n<p>\n<b>Name</b>: Durfee, Celestia\n</p>\n<p>\n<b>Age</b>: 38\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Keeping House\n</p>\n<p>\n<b>Place of birth</b>: Pennsylvania\n</p>\n</div>",
@@ -11783,11 +11843,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-292,
-313,
-316,
-321
+271,
+296,
+317,
+320,
+325
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 299\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-07\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 5\n</p>\n<p>\n<b>Family No.</b>: 2075\n</p>\n<p>\n<b>Name</b>: Durphy, Celestia\n</p>\n<p>\n<b>Age</b>: 28\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Penn\n</p>\n</div>",
@@ -11804,11 +11864,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-313,
-326
+271,
+317,
+330
 ],
-"place": 697,
+"place": 698,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 128\n</p>\n<p>\n<b>Sheet No.</b>: 255\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Family No.</b>: 130\n</p>\n<p>\n<b>Name</b>: Durfee, Celestia\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Pennsylvania\n</p>\n<p>\n<b>Married within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
@@ -11823,13 +11883,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-296,
-304,
-313,
-318,
-319,
-334
+271,
+300,
+308,
+317,
+322,
+323,
+338
 ],
 "place": 607,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 42\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Bend Precinct\n</p>\n<p>\n<b>County of</b>: Sevier\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-24\n</p>\n<p>\n<b>Line No.</b>: 31\n</p>\n<p>\n<b>Family No.</b>: 402\n</p>\n<p>\n<b>Name</b>: Durfee, Celestia\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 48\n</p>\n<p>\n<b>Relationship to head</b>: wife\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Keeps House\n</p>\n<p>\n<b>Place of birth</b>: Pennsylvania\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Connecticut\n</p>\n</div>",
@@ -11846,12 +11906,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-296,
-313,
-318,
-319,
-334
+271,
+300,
+317,
+322,
+323,
+338
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 31\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 82\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville City and Precinct\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-14\n</p>\n<p>\n<b>Line No.</b>: 21\n</p>\n<p>\n<b>Family No.</b>: 321\n</p>\n<p>\n<b>Name</b>: Durfee, Celestia\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 48\n</p>\n<p>\n<b>Relationship to head</b>: wife\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Keeping House\n</p>\n<p>\n<b>Place of birth</b>: Pennsylvania\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Pennsylvania\n</p>\n</div>",
@@ -11868,7 +11928,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-268
+272
 ],
 "place": 635,
 "text": "",
@@ -11883,7 +11943,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-268
+272
 ],
 "place": 514,
 "text": "",
@@ -11898,7 +11958,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-268
+272
 ],
 "place": 513,
 "text": "",
@@ -11915,7 +11975,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-269
+273
 ],
 "place": 657,
 "text": "",
@@ -11930,7 +11990,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-269
+273
 ],
 "place": 37,
 "text": "",
@@ -11945,7 +12005,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-269
+273
 ],
 "place": 36,
 "text": "",
@@ -11962,7 +12022,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-270
+274
 ],
 "place": 657,
 "text": "",
@@ -11977,7 +12037,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-270
+274
 ],
 "place": 657,
 "text": "",
@@ -11994,7 +12054,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-271
+275
 ],
 "place": 315,
 "text": "",
@@ -12009,7 +12069,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-271
+275
 ],
 "place": 635,
 "text": "",
@@ -12024,7 +12084,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-271
+275
 ],
 "place": 262,
 "text": "",
@@ -12041,7 +12101,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-272
+276
 ],
 "place": 576,
 "text": "",
@@ -12056,7 +12116,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-272
+276
 ],
 "place": 37,
 "text": "",
@@ -12071,7 +12131,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-272
+276
 ],
 "place": 36,
 "text": "",
@@ -12088,7 +12148,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-273
+277
 ],
 "place": 657,
 "text": "",
@@ -12103,7 +12163,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-273
+277
 ],
 "place": 576,
 "text": "",
@@ -12120,7 +12180,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-274
+278
 ],
 "place": 576,
 "text": "",
@@ -12135,7 +12195,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-274
+278
 ],
 "place": 37,
 "text": "",
@@ -12150,7 +12210,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-274
+278
 ],
 "place": 36,
 "text": "",
@@ -12167,7 +12227,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-275
+279
 ],
 "place": 318,
 "text": "",
@@ -12182,7 +12242,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-275
+279
 ],
 "place": 657,
 "text": "",
@@ -12197,7 +12257,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-275
+279
 ],
 "place": 318,
 "text": "",
@@ -12214,7 +12274,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-276
+280
 ],
 "place": 318,
 "text": "",
@@ -12229,7 +12289,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-276
+280
 ],
 "place": 435,
 "text": "",
@@ -12244,7 +12304,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-276
+280
 ],
 "place": 435,
 "text": "",
@@ -12261,7 +12321,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-277
+281
 ],
 "place": 576,
 "text": "",
@@ -12276,7 +12336,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-277
+281
 ],
 "place": 104,
 "text": "",
@@ -12291,7 +12351,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-277
+281
 ],
 "place": 104,
 "text": "",
@@ -12308,7 +12368,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-278
+282
 ],
 "place": 576,
 "text": "",
@@ -12323,7 +12383,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-278
+282
 ],
 "place": 576,
 "text": "",
@@ -12340,7 +12400,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-279
+283
 ],
 "place": 576,
 "text": "",
@@ -12355,7 +12415,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-279
+283
 ],
 "place": 37,
 "text": "",
@@ -12370,7 +12430,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-279
+283
 ],
 "place": 36,
 "text": "",
@@ -12387,7 +12447,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-280
+284
 ],
 "place": 657,
 "text": "",
@@ -12402,7 +12462,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-280
+284
 ],
 "place": 657,
 "text": "",
@@ -12419,7 +12479,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-281
+285
 ],
 "place": 576,
 "text": "",
@@ -12434,7 +12494,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-281
+285
 ],
 "place": 635,
 "text": "",
@@ -12449,7 +12509,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-281
+285
 ],
 "place": 262,
 "text": "",
@@ -12466,7 +12526,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-282
+286
 ],
 "place": 657,
 "text": "",
@@ -12481,7 +12541,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-282
+286
 ],
 "place": 634,
 "text": "",
@@ -12496,7 +12556,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-282
+286
 ],
 "place": 614,
 "text": "",
@@ -12513,7 +12573,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-283
+287
 ],
 "place": 65,
 "text": "",
@@ -12528,7 +12588,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-283
+287
 ],
 "place": 338,
 "text": "",
@@ -12543,7 +12603,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-283
+287
 ],
 "place": 337,
 "text": "",
@@ -12560,7 +12620,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-284
+288
 ],
 "place": 13,
 "text": "",
@@ -12575,7 +12635,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-284
+288
 ],
 "place": 296,
 "text": "",
@@ -12590,7 +12650,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-284
+288
 ],
 "place": 586,
 "text": "",
@@ -12607,11 +12667,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-99,
-254,
-255,
-256,
-284
+102,
+258,
+259,
+260,
+288
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>County of</b>: Great Salt Lake\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Family No.</b>: 470\n</p>\n<p>\n<b>Name</b>: Brown, Eliza\n</p>\n<p>\n<b>Age</b>: 43\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n</div>",
@@ -12634,7 +12694,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-291
+295
 ],
 "place": 19,
 "text": "",
@@ -12649,7 +12709,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-291
+295
 ],
 "place": 621,
 "text": "",
@@ -12666,7 +12726,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-292
+296
 ],
 "place": 102,
 "text": "",
@@ -12681,7 +12741,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-292
+296
 ],
 "place": 635,
 "text": "",
@@ -12696,7 +12756,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-292
+296
 ],
 "place": 36,
 "text": "",
@@ -12713,15 +12773,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-292,
+271,
 296,
-304,
-313,
-316,
-318,
-319,
-321
+300,
+308,
+317,
+320,
+322,
+323,
+325
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 26\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-10\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Family No.</b>: 176\n</p>\n<p>\n<b>Name</b>: Durfee, Almira\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: No Occupation\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -12738,11 +12798,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-292,
-313,
-316,
-321
+271,
+296,
+317,
+320,
+325
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 299\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-07\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 5\n</p>\n<p>\n<b>Family No.</b>: 2075\n</p>\n<p>\n<b>Name</b>: Durphy, Almira D\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -12759,7 +12819,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-293
+297
 ],
 "place": 84,
 "text": "",
@@ -12776,7 +12836,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-293
+297
 ],
 "place": 355,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Cache\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Page No.</b>: 144\n</p>\n<p>\n<b>Division of County</b>: Logan Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Logan City\n</p>\n<p>\n<b>Ward of city</b>: 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-13\n</p>\n<p>\n<b>Street Address</b>: 307 Country Road\n</p>\n<p>\n<b>Name</b>: Durffy, Alvin\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: R\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 23\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Laborer\n</p>\n<p>\n<b>Industry</b>: Farm\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: W\n</p>\n</div>",
@@ -12793,7 +12853,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-293
+297
 ],
 "place": 273,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Incorporated place</b>: Hurricane Town\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 27-8\n</p>\n<p>\n<b>Page No.</b>: 29\n</p>\n<p>\n<b>Sheet No.</b>: 8A\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-11\n</p>\n<p>\n<b>Name</b>: Durfee, Alvin\n</p>\n<p>\n<b>Home Owned/Rented</b>: O\n</p>\n<p>\n<b>Home value/monthly rental</b>: 350\n</p>\n<p>\n<b>Farm?</b>: No\n</p>\n<p>\n<b>Relationship</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 43\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: No\n</p>\n<p>\n<b>Highest grade completed</b>: 8\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same Place\n</p>\n<p>\n<b>County</b>: Washington\n</p>\n<p>\n<b>State (Territory/Country)</b>: Utah\n</p>\n<p>\n<b>On a Farm (Y/N)</b>: no\n</p>\n<p>\n<b>At Work during week March 24-30</b>: no\n</p>\n<p>\n<b>public Emergency Work?</b>: yes\n</p>\n<p>\n<b>Weeks unemployed up to March 30, 1940</b>: 43\n</p>\n<p>\n<b>Occupation</b>: Blacksmith\n</p>\n<p>\n<b>Industry</b>: WPA\n</p>\n<p>\n<b>Class of worker</b>: GW\n</p>\n<p>\n<b># weeks worked in 1939</b>: 26\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 530\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: Yes\n</p>\n</div>",
@@ -12808,7 +12868,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-293
+297
 ],
 "place": 265,
 "text": "",
@@ -12823,7 +12883,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-293
+297
 ],
 "place": 329,
 "text": "",
@@ -12840,7 +12900,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-294
+298
 ],
 "place": 37,
 "text": "",
@@ -12855,9 +12915,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-294
+298
 ],
-"place": 684,
+"place": 685,
 "text": "",
 "type": "Death"
 },
@@ -12870,7 +12930,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-294
+298
 ],
 "place": 401,
 "text": "",
@@ -12887,7 +12947,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-295
+299
 ],
 "place": 37,
 "text": "",
@@ -12904,10 +12964,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-295,
-328,
-586,
-897
+299,
+332,
+597,
+908
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Franklin\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 158\n</p>\n<p>\n<b>Page No.</b>: 139\n</p>\n<p>\n<b>Division of County</b>: Precinct No. 1\n</p>\n<p>\n<b>City, Town, Village</b>: Preston City\n</p>\n<p>\n<b>Ward of city</b>: 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-17\n</p>\n<p>\n<b>Street Address</b>: Farm\n</p>\n<p>\n<b>Name</b>: Tolman, Cecelia\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 32\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -12922,7 +12982,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-295
+299
 ],
 "place": 273,
 "text": "",
@@ -12937,7 +12997,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-295
+299
 ],
 "place": 527,
 "text": "",
@@ -12954,9 +13014,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-295,
-897,
-898
+299,
+908,
+909
 ],
 "place": 408,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Division of County</b>: Precinct 1\n</p>\n<p>\n<b>Unincorporated place</b>: East Mill Creek\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-97\n</p>\n<p>\n<b>Page No.</b>: 210\n</p>\n<p>\n<b>Sheet No.</b>: 1B\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-02\n</p>\n<p>\n<b>Street Address</b>: Mill Creek Canyon Road\n</p>\n<p>\n<b>Name</b>: Tolman, Cecelia A\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 42\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 30\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: no\n</p>\n<p>\n<b>Able to read and write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -12973,8 +13033,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-295,
-897
+299,
+908
 ],
 "place": 265,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Division of County</b>: E.P. 1\n</p>\n<p>\n<b>Unincorporated place</b>: Holladay\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-3\n</p>\n<p>\n<b>Page No.</b>: 49\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-09\n</p>\n<p>\n<b>Street Address</b>: 4863 Viemont St.\n</p>\n<p>\n<b>Name</b>: Durfee, Cecelia A\n</p>\n<p>\n<b>Relationship</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 52\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: no\n</p>\n<p>\n<b>Highest grade completed</b>: 8\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same House\n</p>\n<p>\n<b>At Work during week March 24-30</b>: no\n</p>\n<p>\n<b>public Emergency Work?</b>: no\n</p>\n<p>\n<b>Seeking work?</b>: no\n</p>\n<p>\n<b>Have a Job?</b>: no\n</p>\n<p>\n<b>housework (H), school (S), unable to work (U) or other (Ot)</b>: H\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: no\n</p>\n</div>",
@@ -12991,7 +13051,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-296
+300
 ],
 "place": 635,
 "text": "",
@@ -13006,7 +13066,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-296
+300
 ],
 "place": 548,
 "text": "",
@@ -13021,7 +13081,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-296
+300
 ],
 "place": 36,
 "text": "",
@@ -13038,15 +13098,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-292,
+271,
 296,
-304,
-313,
-316,
-318,
-319,
-321
+300,
+308,
+317,
+320,
+322,
+323,
+325
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 26\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-10\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Family No.</b>: 176\n</p>\n<p>\n<b>Name</b>: Durfee, Celestia\n</p>\n<p>\n<b>Age</b>: 5\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -13063,13 +13123,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-296,
-304,
-313,
-318,
-319,
-334
+271,
+300,
+308,
+317,
+322,
+323,
+338
 ],
 "place": 607,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 42\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Bend Precinct\n</p>\n<p>\n<b>County of</b>: Sevier\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-24\n</p>\n<p>\n<b>Line No.</b>: 31\n</p>\n<p>\n<b>Family No.</b>: 402\n</p>\n<p>\n<b>Name</b>: Durfee, Celestia C\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 15\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Pennsylvania\n</p>\n</div>",
@@ -13086,12 +13146,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-296,
-313,
-318,
-319,
-334
+271,
+300,
+317,
+322,
+323,
+338
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 31\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 82\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville City and Precinct\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-14\n</p>\n<p>\n<b>Line No.</b>: 21\n</p>\n<p>\n<b>Family No.</b>: 321\n</p>\n<p>\n<b>Name</b>: Durfee, Celestia C\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 15\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: At Home\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Pennsylvania\n</p>\n</div>",
@@ -13108,7 +13168,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-297
+301
 ],
 "place": 37,
 "text": "",
@@ -13123,7 +13183,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-297
+301
 ],
 "place": 587,
 "text": "",
@@ -13138,7 +13198,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-297
+301
 ],
 "place": 57,
 "text": "",
@@ -13155,11 +13215,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-297,
-308,
-316,
-331,
-586
+301,
+312,
+320,
+335,
+597
 ],
 "place": 607,
 "text": "<div>\n<p>\n<b>Page No.</b>: 42\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Bend Preccinct\n</p>\n<p>\n<b>County of</b>: Sevier\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-24\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 403\n</p>\n<p>\n<b>Name</b>: Durfee, Celestia\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n</div>",
@@ -13176,7 +13236,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-298
+302
 ],
 "place": 12,
 "text": "",
@@ -13191,7 +13251,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-298
+302
 ],
 "place": 460,
 "text": "",
@@ -13206,7 +13266,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-298
+302
 ],
 "place": 564,
 "text": "",
@@ -13223,7 +13283,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-299
+303
 ],
 "place": 84,
 "text": "",
@@ -13238,7 +13298,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-299
+303
 ],
 "place": 368,
 "text": "",
@@ -13253,7 +13313,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-299
+303
 ],
 "place": 482,
 "text": "",
@@ -13270,7 +13330,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-300
+304
 ],
 "place": 37,
 "text": "",
@@ -13285,9 +13345,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-300
+304
 ],
-"place": 679,
+"place": 680,
 "text": "",
 "type": "Death"
 },
@@ -13300,7 +13360,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-300
+304
 ],
 "place": 36,
 "text": "",
@@ -13317,7 +13377,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-301
+305
 ],
 "place": 336,
 "text": "",
@@ -13332,9 +13392,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-301
+305
 ],
-"place": 715,
+"place": 716,
 "text": "",
 "type": "Death"
 },
@@ -13347,9 +13407,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-301
+305
 ],
-"place": 714,
+"place": 715,
 "text": "",
 "type": "Burial"
 }
@@ -13364,7 +13424,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-302
+306
 ],
 "place": 37,
 "text": "",
@@ -13379,7 +13439,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-302
+306
 ],
 "place": 265,
 "text": "",
@@ -13394,7 +13454,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-302
+306
 ],
 "place": 36,
 "text": "",
@@ -13411,7 +13471,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-303
+307
 ],
 "place": 336,
 "text": "",
@@ -13426,7 +13486,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-303
+307
 ],
 "place": 468,
 "text": "",
@@ -13441,7 +13501,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-303
+307
 ],
 "place": 467,
 "text": "",
@@ -13458,7 +13518,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-304
+308
 ],
 "place": 635,
 "text": "",
@@ -13473,7 +13533,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-304
+308
 ],
 "place": 538,
 "text": "",
@@ -13488,7 +13548,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-304
+308
 ],
 "place": 38,
 "text": "",
@@ -13505,15 +13565,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-292,
+271,
 296,
-304,
-313,
-316,
-318,
-319,
-321
+300,
+308,
+317,
+320,
+322,
+323,
+325
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 26\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-10\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Family No.</b>: 176\n</p>\n<p>\n<b>Name</b>: Durfee, Edmond F\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -13530,13 +13590,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-296,
-304,
-313,
-318,
-319,
-334
+271,
+300,
+308,
+317,
+322,
+323,
+338
 ],
 "place": 607,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 42\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Bend Precinct\n</p>\n<p>\n<b>County of</b>: Sevier\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-24\n</p>\n<p>\n<b>Line No.</b>: 31\n</p>\n<p>\n<b>Family No.</b>: 402\n</p>\n<p>\n<b>Name</b>: Durfee, Edmond F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 18\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Farm Help\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Pennsylvania\n</p>\n</div>",
@@ -13553,7 +13613,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-305
+309
 ],
 "place": 336,
 "text": "",
@@ -13568,9 +13628,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-305
+309
 ],
-"place": 767,
+"place": 768,
 "text": "",
 "type": "Death"
 },
@@ -13583,7 +13643,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-305
+309
 ],
 "place": 572,
 "text": "",
@@ -13600,7 +13660,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-306
+310
 ],
 "place": 678,
 "text": "",
@@ -13615,7 +13675,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-306
+310
 ],
 "place": 423,
 "text": "",
@@ -13630,7 +13690,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-306
+310
 ],
 "place": 472,
 "text": "",
@@ -13647,7 +13707,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-307
+311
 ],
 "place": 102,
 "text": "",
@@ -13662,7 +13722,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-307
+311
 ],
 "place": 37,
 "text": "",
@@ -13677,7 +13737,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-307
+311
 ],
 "place": 36,
 "text": "",
@@ -13694,7 +13754,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-308
+312
 ],
 "place": 37,
 "text": "",
@@ -13709,7 +13769,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-308
+312
 ],
 "place": 468,
 "text": "",
@@ -13724,9 +13784,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-308
+312
 ],
-"place": 722,
+"place": 723,
 "text": "",
 "type": "Burial"
 },
@@ -13741,14 +13801,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-297,
-308,
-316,
-331,
-586
+301,
+312,
+320,
+335,
+597
 ],
 "place": 607,
-"text": "<div>\n<p>\n<b>Page No.</b>: 42\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Bend Preccinct\n</p>\n<p>\n<b>County of</b>: Sevier\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-24\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 403\n</p>\n<p>\n<b>Name</b>: Durfee, Elizabeth \n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 3/12\n</p>\n<p>\n<b>Month, if born within the census year</b>: April\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n</div>",
+"text": "<div>\n<p>\n<b>Page No.</b>: 42\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Bend Preccinct\n</p>\n<p>\n<b>County of</b>: Sevier\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-24\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 403\n</p>\n<p>\n<b>Name</b>: Durfee, Elizabeth\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 3/12\n</p>\n<p>\n<b>Month, if born within the census year</b>: April\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n</div>",
 "type": "Census"
 }
 ],
@@ -13762,7 +13822,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-309
+313
 ],
 "place": 120,
 "text": "",
@@ -13777,7 +13837,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-309
+313
 ],
 "place": 362,
 "text": "",
@@ -13792,9 +13852,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-309
+313
 ],
-"place": 705,
+"place": 706,
 "text": "",
 "type": "Burial"
 }
@@ -13809,7 +13869,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-310
+314
 ],
 "place": 19,
 "text": "",
@@ -13824,7 +13884,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-310
+314
 ],
 "place": 19,
 "text": "",
@@ -13841,7 +13901,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-311
+315
 ],
 "place": 37,
 "text": "",
@@ -13856,7 +13916,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-311
+315
 ],
 "place": 37,
 "text": "",
@@ -13871,7 +13931,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-311
+315
 ],
 "place": 36,
 "text": "",
@@ -13888,7 +13948,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-312
+316
 ],
 "place": 19,
 "text": "",
@@ -13903,7 +13963,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-312
+316
 ],
 "place": 19,
 "text": "",
@@ -13920,9 +13980,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-313
+317
 ],
-"place": 759,
+"place": 760,
 "text": "",
 "type": "Birth"
 },
@@ -13935,7 +13995,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-313
+317
 ],
 "place": 37,
 "text": "",
@@ -13950,7 +14010,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-313
+317
 ],
 "place": 36,
 "text": "",
@@ -13967,15 +14027,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-292,
+271,
 296,
-304,
-313,
-316,
-318,
-319,
-321
+300,
+308,
+317,
+320,
+322,
+323,
+325
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 26\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-10\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Family No.</b>: 176\n</p>\n<p>\n<b>Name</b>: Durfee, Jabez\n</p>\n<p>\n<b>Age</b>: 42\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Value of real estate</b>: 800\n</p>\n<p>\n<b>Value of personal estate</b>: 600\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n<p>\n<b>Male citizen 21 and over</b>: Y\n</p>\n</div>",
@@ -13992,11 +14052,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-292,
-313,
-316,
-321
+271,
+296,
+317,
+320,
+325
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 299\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-07\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 5\n</p>\n<p>\n<b>Family No.</b>: 2075\n</p>\n<p>\n<b>Name</b>: Durphy, Jabez\n</p>\n<p>\n<b>Age</b>: 32\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Value of real estate</b>: 15\n</p>\n</div>",
@@ -14013,11 +14073,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-313,
-326
+271,
+317,
+330
 ],
-"place": 697,
+"place": 698,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 128\n</p>\n<p>\n<b>Sheet No.</b>: 255\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Family No.</b>: 130\n</p>\n<p>\n<b>Name</b>: Durfee, Jabez\n</p>\n<p>\n<b>Age</b>: 22\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n<p>\n<b>Married within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
@@ -14032,13 +14092,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-296,
-304,
-313,
-318,
-319,
-334
+271,
+300,
+308,
+317,
+322,
+323,
+338
 ],
 "place": 607,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 42\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Bend Precinct\n</p>\n<p>\n<b>County of</b>: Sevier\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-24\n</p>\n<p>\n<b>Line No.</b>: 31\n</p>\n<p>\n<b>Family No.</b>: 402\n</p>\n<p>\n<b>Name</b>: Durfee, Jabez\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 52\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n</div>",
@@ -14055,12 +14115,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-296,
-313,
-318,
-319,
-334
+271,
+300,
+317,
+322,
+323,
+338
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 31\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 82\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville City and Precinct\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-14\n</p>\n<p>\n<b>Line No.</b>: 21\n</p>\n<p>\n<b>Family No.</b>: 321\n</p>\n<p>\n<b>Name</b>: Durfee, Jabez\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 52\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n</div>",
@@ -14077,7 +14137,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-314
+318
 ],
 "place": 678,
 "text": "",
@@ -14092,9 +14152,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-314
+318
 ],
-"place": 751,
+"place": 752,
 "text": "",
 "type": "Death"
 },
@@ -14107,9 +14167,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-314
+318
 ],
-"place": 751,
+"place": 752,
 "text": "",
 "type": "Burial"
 }
@@ -14124,7 +14184,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-315
+319
 ],
 "place": 37,
 "text": "",
@@ -14139,7 +14199,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-315
+319
 ],
 "place": -1,
 "text": "",
@@ -14154,7 +14214,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-315
+319
 ],
 "place": 83,
 "text": "",
@@ -14171,7 +14231,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-316
+320
 ],
 "place": 102,
 "text": "",
@@ -14186,7 +14246,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-316
+320
 ],
 "place": 373,
 "text": "",
@@ -14201,7 +14261,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-316
+320
 ],
 "place": 37,
 "text": "",
@@ -14218,11 +14278,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-297,
-308,
-316,
-331,
-586
+301,
+312,
+320,
+335,
+597
 ],
 "place": 607,
 "text": "<div>\n<p>\n<b>Page No.</b>: 42\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Bend Preccinct\n</p>\n<p>\n<b>County of</b>: Sevier\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-24\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 403\n</p>\n<p>\n<b>Name</b>: Durfee, Jabez E\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 26\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Pennsylvania\n</p>\n</div>",
@@ -14239,15 +14299,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-292,
+271,
 296,
-304,
-313,
-316,
-318,
-319,
-321
+300,
+308,
+317,
+320,
+322,
+323,
+325
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 26\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-10\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Family No.</b>: 176\n</p>\n<p>\n<b>Name</b>: Durfee, Erastus\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At Home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -14264,11 +14324,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-292,
-313,
-316,
-321
+271,
+296,
+317,
+320,
+325
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 299\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-07\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 5\n</p>\n<p>\n<b>Family No.</b>: 2075\n</p>\n<p>\n<b>Name</b>: Durphy, Jabez E\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -14285,7 +14345,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-317
+321
 ],
 "place": 336,
 "text": "",
@@ -14300,7 +14360,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-317
+321
 ],
 "place": 127,
 "text": "",
@@ -14315,7 +14375,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-317
+321
 ],
 "place": 127,
 "text": "",
@@ -14332,7 +14392,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-318
+322
 ],
 "place": 635,
 "text": "",
@@ -14347,7 +14407,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-318
+322
 ],
 "place": 531,
 "text": "",
@@ -14362,7 +14422,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-318
+322
 ],
 "place": 530,
 "text": "",
@@ -14379,15 +14439,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-292,
+271,
 296,
-304,
-313,
-316,
-318,
-319,
-321
+300,
+308,
+317,
+320,
+322,
+323,
+325
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 26\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-10\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Family No.</b>: 176\n</p>\n<p>\n<b>Name</b>: Durfee, John D\n</p>\n<p>\n<b>Age</b>: 3\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At Home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -14404,13 +14464,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-296,
-304,
-313,
-318,
-319,
-334
+271,
+300,
+308,
+317,
+322,
+323,
+338
 ],
 "place": 607,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 42\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Bend Precinct\n</p>\n<p>\n<b>County of</b>: Sevier\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-24\n</p>\n<p>\n<b>Line No.</b>: 31\n</p>\n<p>\n<b>Family No.</b>: 402\n</p>\n<p>\n<b>Name</b>: Durfee, John D\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Pennsylvania\n</p>\n</div>",
@@ -14427,12 +14487,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-296,
-313,
-318,
-319,
-334
+271,
+300,
+317,
+322,
+323,
+338
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 31\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 82\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville City and Precinct\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-14\n</p>\n<p>\n<b>Line No.</b>: 21\n</p>\n<p>\n<b>Family No.</b>: 321\n</p>\n<p>\n<b>Name</b>: Durfee, John D\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: At Home\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Pennsylvania\n</p>\n</div>",
@@ -14449,7 +14509,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-319
+323
 ],
 "place": 635,
 "text": "",
@@ -14464,7 +14524,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-319
+323
 ],
 "place": 37,
 "text": "",
@@ -14479,7 +14539,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-319
+323
 ],
 "place": 36,
 "text": "",
@@ -14496,15 +14556,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-292,
+271,
 296,
-304,
-313,
-316,
-318,
-319,
-321
+300,
+308,
+317,
+320,
+322,
+323,
+325
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 26\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-10\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Family No.</b>: 176\n</p>\n<p>\n<b>Name</b>: Durfee, LeGrand\n</p>\n<p>\n<b>Age</b>: 5/12\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Month, if born within the year</b>: Dec\n</p>\n</div>",
@@ -14521,13 +14581,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-296,
-304,
-313,
-318,
-319,
-334
+271,
+300,
+308,
+317,
+322,
+323,
+338
 ],
 "place": 607,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 42\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Bend Precinct\n</p>\n<p>\n<b>County of</b>: Sevier\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-24\n</p>\n<p>\n<b>Line No.</b>: 31\n</p>\n<p>\n<b>Family No.</b>: 402\n</p>\n<p>\n<b>Name</b>: Durfee, LeGrand\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 10\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Pennsylvania\n</p>\n</div>",
@@ -14544,12 +14604,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-296,
-313,
-318,
-319,
-334
+271,
+300,
+317,
+322,
+323,
+338
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 31\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 82\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville City and Precinct\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-14\n</p>\n<p>\n<b>Line No.</b>: 21\n</p>\n<p>\n<b>Family No.</b>: 321\n</p>\n<p>\n<b>Name</b>: Durfee, LeGrand\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 10\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Pennsylvania\n</p>\n</div>",
@@ -14566,7 +14626,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-320
+324
 ],
 "place": 120,
 "text": "",
@@ -14581,7 +14641,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-320
+324
 ],
 "place": 587,
 "text": "",
@@ -14596,7 +14656,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-320
+324
 ],
 "place": 184,
 "text": "",
@@ -14613,7 +14673,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-321
+325
 ],
 "place": 635,
 "text": "",
@@ -14628,7 +14688,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-321
+325
 ],
 "place": 581,
 "text": "",
@@ -14643,7 +14703,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-321
+325
 ],
 "place": 427,
 "text": "",
@@ -14660,15 +14720,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-292,
+271,
 296,
-304,
-313,
-316,
-318,
-319,
-321
+300,
+308,
+317,
+320,
+322,
+323,
+325
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 26\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-10\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Family No.</b>: 176\n</p>\n<p>\n<b>Name</b>: Durfee, Marie E\n</p>\n<p>\n<b>Age</b>: 18\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: No Occupation\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -14685,11 +14745,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-292,
-313,
-316,
-321
+271,
+296,
+317,
+320,
+325
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 299\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-07\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 5\n</p>\n<p>\n<b>Family No.</b>: 2075\n</p>\n<p>\n<b>Name</b>: Durphy, Mariah E\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -14706,7 +14766,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-322
+326
 ],
 "place": 336,
 "text": "",
@@ -14721,7 +14781,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-322
+326
 ],
 "place": 615,
 "text": "",
@@ -14736,7 +14796,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-322
+326
 ],
 "place": 614,
 "text": "",
@@ -14753,7 +14813,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-323
+327
 ],
 "place": 19,
 "text": "",
@@ -14768,7 +14828,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-323
+327
 ],
 "place": 531,
 "text": "",
@@ -14783,7 +14843,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-323
+327
 ],
 "place": 530,
 "text": "",
@@ -14800,7 +14860,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-324
+328
 ],
 "place": 373,
 "text": "",
@@ -14815,7 +14875,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-324
+328
 ],
 "place": 587,
 "text": "",
@@ -14830,9 +14890,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-324
+328
 ],
-"place": 699,
+"place": 700,
 "text": "",
 "type": "Burial"
 },
@@ -14847,8 +14907,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-324,
-333
+328,
+337
 ],
 "place": -1,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Incorporated place</b>: Hurricane Town\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 27-8\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-11\n</p>\n<p>\n<b>Street Address</b>: 3rd West\n</p>\n<p>\n<b>Name</b>: Durfee, Milo Vaughn\n</p>\n<p>\n<b>Relationship</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 8\n</p>\n<p>\n<b>Marital Status</b>: S\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: Yes\n</p>\n<p>\n<b>Highest grade completed</b>: 2\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: same place\n</p>\n<p>\n<b>County</b>: Washington\n</p>\n<p>\n<b>State (Territory/Country)</b>: Utah\n</p>\n<p>\n<b>On a Farm (Y/N)</b>: no\n</p>\n</div>",
@@ -14865,7 +14925,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-325
+329
 ],
 "place": 120,
 "text": "",
@@ -14880,7 +14940,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-325
+329
 ],
 "place": 120,
 "text": "",
@@ -14895,7 +14955,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-325
+329
 ],
 "place": 156,
 "text": "",
@@ -14912,7 +14972,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-326
+330
 ],
 "place": 319,
 "text": "",
@@ -14927,9 +14987,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-326
+330
 ],
-"place": 734,
+"place": 735,
 "text": "",
 "type": "Death"
 },
@@ -14942,9 +15002,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-326
+330
 ],
-"place": 733,
+"place": 734,
 "text": "",
 "type": "Burial"
 },
@@ -14959,11 +15019,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-313,
-326
+271,
+317,
+330
 ],
-"place": 697,
+"place": 698,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 128\n</p>\n<p>\n<b>Sheet No.</b>: 255\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Family No.</b>: 130\n</p>\n<p>\n<b>Name</b>: Durfee, Nephi\n</p>\n<p>\n<b>Age</b>: 15\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Ohio\n</p>\n</div>",
 "type": "Census"
 }
@@ -14978,7 +15038,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-327
+331
 ],
 "place": 120,
 "text": "",
@@ -14993,7 +15053,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-327
+331
 ],
 "place": 531,
 "text": "",
@@ -15008,7 +15068,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-327
+331
 ],
 "place": 323,
 "text": "",
@@ -15025,7 +15085,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-328
+332
 ],
 "place": 12,
 "text": "",
@@ -15040,9 +15100,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-328
+332
 ],
-"place": 684,
+"place": 685,
 "text": "",
 "type": "Death"
 },
@@ -15055,7 +15115,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-328
+332
 ],
 "place": 57,
 "text": "",
@@ -15072,10 +15132,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-295,
-328,
-586,
-897
+299,
+332,
+597,
+908
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Franklin\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 158\n</p>\n<p>\n<b>Page No.</b>: 139\n</p>\n<p>\n<b>Division of County</b>: Precinct No. 1\n</p>\n<p>\n<b>City, Town, Village</b>: Preston City\n</p>\n<p>\n<b>Ward of city</b>: 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-17\n</p>\n<p>\n<b>Street Address</b>: Farm\n</p>\n<p>\n<b>Name</b>: Durfee, Perry\n</p>\n<p>\n<b>Relationship to head</b>: Brother  in law\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 29\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Industry</b>: Farm\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: W\n</p>\n</div>",
@@ -15092,7 +15152,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-329
+333
 ],
 "place": 37,
 "text": "",
@@ -15107,7 +15167,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-329
+333
 ],
 "place": 84,
 "text": "",
@@ -15122,7 +15182,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-329
+333
 ],
 "place": 83,
 "text": "",
@@ -15139,7 +15199,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-330
+334
 ],
 "place": 12,
 "text": "",
@@ -15154,7 +15214,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-330
+334
 ],
 "place": 242,
 "text": "",
@@ -15169,7 +15229,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-330
+334
 ],
 "place": 36,
 "text": "",
@@ -15186,7 +15246,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-331
+335
 ],
 "place": 635,
 "text": "",
@@ -15201,9 +15261,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-331
+335
 ],
-"place": 684,
+"place": 685,
 "text": "",
 "type": "Death"
 },
@@ -15218,11 +15278,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-297,
-308,
-316,
-331,
-586
+301,
+312,
+320,
+335,
+597
 ],
 "place": 607,
 "text": "<div>\n<p>\n<b>Page No.</b>: 42\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Bend Preccinct\n</p>\n<p>\n<b>County of</b>: Sevier\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-24\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 403\n</p>\n<p>\n<b>Name</b>: Durfee, Ann\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 5\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n</div>",
@@ -15239,7 +15299,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-332
+336
 ],
 "place": 336,
 "text": "",
@@ -15254,7 +15314,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-332
+336
 ],
 "place": 635,
 "text": "",
@@ -15269,7 +15329,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-332
+336
 ],
 "place": 262,
 "text": "",
@@ -15286,7 +15346,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-333
+337
 ],
 "place": 352,
 "text": "",
@@ -15301,7 +15361,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-333
+337
 ],
 "place": 273,
 "text": "",
@@ -15316,7 +15376,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-333
+337
 ],
 "place": 329,
 "text": "",
@@ -15333,8 +15393,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-324,
-333
+328,
+337
 ],
 "place": -1,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Incorporated place</b>: Hurricane Town\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 27-8\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-11\n</p>\n<p>\n<b>Street Address</b>: 3rd West\n</p>\n<p>\n<b>Name</b>: Durfee, Tolman Leon\n</p>\n<p>\n<b>Relationship</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 6\n</p>\n<p>\n<b>Marital Status</b>: S\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: Yes\n</p>\n<p>\n<b>Highest grade completed</b>: 0\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: same place\n</p>\n<p>\n<b>County</b>: Washington\n</p>\n<p>\n<b>State (Territory/Country)</b>: Utah\n</p>\n<p>\n<b>On a Farm (Y/N)</b>: no\n</p>\n</div>",
@@ -15351,7 +15411,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-334
+338
 ],
 "place": 635,
 "text": "",
@@ -15366,7 +15426,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-334
+338
 ],
 "place": 635,
 "text": "",
@@ -15381,7 +15441,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-334
+338
 ],
 "place": 530,
 "text": "",
@@ -15398,13 +15458,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-296,
-304,
-313,
-318,
-319,
-334
+271,
+300,
+308,
+317,
+322,
+323,
+338
 ],
 "place": 607,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 42\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Bend Precinct\n</p>\n<p>\n<b>County of</b>: Sevier\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-24\n</p>\n<p>\n<b>Line No.</b>: 31\n</p>\n<p>\n<b>Family No.</b>: 402\n</p>\n<p>\n<b>Name</b>: Durfee, Vilate\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 7\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Pennsylvania\n</p>\n</div>",
@@ -15421,12 +15481,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267,
-296,
-313,
-318,
-319,
-334
+271,
+300,
+317,
+322,
+323,
+338
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 31\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 82\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville City and Precinct\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-14\n</p>\n<p>\n<b>Line No.</b>: 21\n</p>\n<p>\n<b>Family No.</b>: 321\n</p>\n<p>\n<b>Name</b>: Durfee, Vilate\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Pennsylvania\n</p>\n</div>",
@@ -15443,7 +15503,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-335
+339
 ],
 "place": 635,
 "text": "",
@@ -15458,7 +15518,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-335
+339
 ],
 "place": 635,
 "text": "",
@@ -15473,7 +15533,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-335
+339
 ],
 "place": 262,
 "text": "",
@@ -15490,7 +15550,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-336
+340
 ],
 "place": 19,
 "text": "",
@@ -15505,7 +15565,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-336
+340
 ],
 "place": 413,
 "text": "",
@@ -15523,7 +15583,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338
+342
 ],
 "place": 17,
 "text": "",
@@ -15538,7 +15598,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338
+342
 ],
 "place": -1,
 "text": "",
@@ -15553,7 +15613,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338
+342
 ],
 "place": 182,
 "text": "",
@@ -15570,13 +15630,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338,
-348,
+342,
 352,
-353,
-354,
+356,
 357,
-511
+358,
+361,
+522
 ],
 "place": 17,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 124\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 59\n</p>\n<p>\n<b>Sheet No.</b>: 4A\n</p>\n<p>\n<b>Division of County</b>: Almy Precinct No 1, Election District No 2\n</p>\n<p>\n<b>City, Town, Village</b>: Town of Almy\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Easton, Alexander\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Jan\n</p>\n<p>\n<b>Year of birth</b>: 1894\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Attended school</b>: 8\n</p>\n</div>",
@@ -15593,15 +15653,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338,
 342,
-345,
-348,
+346,
+349,
 352,
-354,
 356,
-357,
-511
+358,
+360,
+361,
+522
 ],
 "place": 147,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 128\n</p>\n<p>\n<b>Page No.</b>: 81\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Diamondville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Diamondville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-07\n</p>\n<p>\n<b>Name</b>: Easton, Alexander\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: miner\n</p>\n<p>\n<b>Nature of industry</b>: coal mine\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Out of work</b>: no\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: 0\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: no\n</p>\n</div>",
@@ -15618,7 +15678,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-339
+343
 ],
 "place": 521,
 "text": "",
@@ -15633,9 +15693,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-339
+343
 ],
-"place": 713,
+"place": 714,
 "text": "",
 "type": "Death"
 },
@@ -15648,7 +15708,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-339
+343
 ],
 "place": 520,
 "text": "",
@@ -15665,9 +15725,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-340
+344
 ],
-"place": 713,
+"place": 714,
 "text": "",
 "type": "Birth"
 },
@@ -15680,7 +15740,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-340
+344
 ],
 "place": 183,
 "text": "",
@@ -15695,7 +15755,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-340
+344
 ],
 "place": 16,
 "text": "",
@@ -15712,9 +15772,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-341
+345
 ],
-"place": 713,
+"place": 714,
 "text": "",
 "type": "Birth"
 },
@@ -15727,7 +15787,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-341
+345
 ],
 "place": 304,
 "text": "",
@@ -15742,7 +15802,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-341
+345
 ],
 "place": 626,
 "text": "",
@@ -15759,7 +15819,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-342
+346
 ],
 "place": 633,
 "text": "",
@@ -15774,7 +15834,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-342
+346
 ],
 "place": 587,
 "text": "",
@@ -15789,7 +15849,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-342
+346
 ],
 "place": 586,
 "text": "",
@@ -15806,15 +15866,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338,
 342,
-345,
-348,
+346,
+349,
 352,
-354,
 356,
-357,
-511
+358,
+360,
+361,
+522
 ],
 "place": 147,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 128\n</p>\n<p>\n<b>Page No.</b>: 81\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Diamondville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Diamondville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-07\n</p>\n<p>\n<b>Name</b>: Easton, Andrew A\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: yes\n</p>\n</div>",
@@ -15831,11 +15891,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-342,
-348,
-355,
-356,
-511
+346,
+352,
+359,
+360,
+522
 ],
 "place": 183,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 89\n</p>\n<p>\n<b>Page No.</b>: 5B\n</p>\n<p>\n<b>City, Town, Village</b>: Evanston Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-11\n</p>\n<p>\n<b>Street Address</b>: Morse Lee St\n</p>\n<p>\n<b>Name</b>: Easton, Andrew A\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 18\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1919</b>: no\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Father mother tongue</b>: Scotch\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Mother's mother tongue</b>: Scotch\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: pile sitter\n</p>\n<p>\n<b>Industry</b>: railroad\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: W\n</p>\n</div>",
@@ -15852,7 +15912,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-343
+347
 ],
 "place": 633,
 "text": "",
@@ -15867,7 +15927,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-343
+347
 ],
 "place": 17,
 "text": "",
@@ -15882,7 +15942,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-343
+347
 ],
 "place": 16,
 "text": "",
@@ -15899,9 +15959,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-344
+348
 ],
-"place": 713,
+"place": 714,
 "text": "",
 "type": "Birth"
 },
@@ -15914,7 +15974,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-344
+348
 ],
 "place": 587,
 "text": "",
@@ -15929,7 +15989,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-344
+348
 ],
 "place": 185,
 "text": "",
@@ -15946,7 +16006,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-345
+349
 ],
 "place": 147,
 "text": "",
@@ -15961,7 +16021,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-345
+349
 ],
 "place": 135,
 "text": "",
@@ -15976,7 +16036,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-345
+349
 ],
 "place": 507,
 "text": "",
@@ -15993,15 +16053,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338,
 342,
-345,
-348,
+346,
+349,
 352,
-354,
 356,
-357,
-511
+358,
+360,
+361,
+522
 ],
 "place": 147,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 128\n</p>\n<p>\n<b>Page No.</b>: 81\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Diamondville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Diamondville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-07\n</p>\n<p>\n<b>Name</b>: Easton, Franklin D\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 3\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -16018,9 +16078,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-346
+350
 ],
-"place": 713,
+"place": 714,
 "text": "",
 "type": "Birth"
 },
@@ -16033,7 +16093,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-346
+350
 ],
 "place": 587,
 "text": "",
@@ -16048,9 +16108,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-346
+350
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 }
@@ -16065,7 +16125,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-347
+351
 ],
 "place": 521,
 "text": "",
@@ -16080,7 +16140,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-347
+351
 ],
 "place": -1,
 "text": "",
@@ -16095,7 +16155,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-347
+351
 ],
 "place": 16,
 "text": "",
@@ -16112,7 +16172,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-348
+352
 ],
 "place": 17,
 "text": "",
@@ -16127,7 +16187,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-348
+352
 ],
 "place": 397,
 "text": "",
@@ -16142,7 +16202,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-348
+352
 ],
 "place": 182,
 "text": "",
@@ -16159,13 +16219,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338,
-348,
+342,
 352,
-353,
-354,
+356,
 357,
-511
+358,
+361,
+522
 ],
 "place": 17,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 124\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 59\n</p>\n<p>\n<b>Sheet No.</b>: 4A\n</p>\n<p>\n<b>Division of County</b>: Almy Precinct No 1, Election District No 2\n</p>\n<p>\n<b>City, Town, Village</b>: Town of Almy\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Easton, Janet\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: July\n</p>\n<p>\n<b>Year of birth</b>: 1896\n</p>\n<p>\n<b>Age</b>: 3\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n</div>",
@@ -16182,15 +16242,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338,
 342,
-345,
-348,
+346,
+349,
 352,
-354,
 356,
-357,
-511
+358,
+360,
+361,
+522
 ],
 "place": 147,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 128\n</p>\n<p>\n<b>Page No.</b>: 81\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Diamondville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Diamondville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-07\n</p>\n<p>\n<b>Name</b>: Easton, Janet\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: yes\n</p>\n</div>",
@@ -16207,11 +16267,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-342,
-348,
-355,
-356,
-511
+346,
+352,
+359,
+360,
+522
 ],
 "place": 183,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 89\n</p>\n<p>\n<b>Page No.</b>: 5B\n</p>\n<p>\n<b>City, Town, Village</b>: Evanston Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-11\n</p>\n<p>\n<b>Street Address</b>: Morse Lee St\n</p>\n<p>\n<b>Name</b>: Easton, Janet\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 23\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Father mother tongue</b>: Scotch\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Mother's mother tongue</b>: Scotch\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: housework\n</p>\n<p>\n<b>Industry</b>: Prieste? Family\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: W\n</p>\n</div>",
@@ -16228,9 +16288,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-349
+353
 ],
-"place": 713,
+"place": 714,
 "text": "",
 "type": "Birth"
 },
@@ -16243,9 +16303,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-349
+353
 ],
-"place": 713,
+"place": 714,
 "text": "",
 "type": "Death"
 }
@@ -16260,9 +16320,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-350
+354
 ],
-"place": 713,
+"place": 714,
 "text": "",
 "type": "Birth"
 },
@@ -16275,9 +16335,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-350
+354
 ],
-"place": 713,
+"place": 714,
 "text": "",
 "type": "Death"
 },
@@ -16290,7 +16350,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-350
+354
 ],
 "place": 520,
 "text": "",
@@ -16307,7 +16367,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-351
+355
 ],
 "place": 360,
 "text": "",
@@ -16322,10 +16382,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-351,
-356
+355,
+360
 ],
-"place": 713,
+"place": 714,
 "text": "",
 "type": "Birth"
 },
@@ -16338,7 +16398,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-351
+355
 ],
 "place": 360,
 "text": "",
@@ -16355,7 +16415,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-352
+356
 ],
 "place": 17,
 "text": "",
@@ -16370,7 +16430,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-352
+356
 ],
 "place": 569,
 "text": "",
@@ -16385,7 +16445,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-352
+356
 ],
 "place": 370,
 "text": "",
@@ -16402,13 +16462,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338,
-348,
+342,
 352,
-353,
-354,
+356,
 357,
-511
+358,
+361,
+522
 ],
 "place": 17,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 124\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 59\n</p>\n<p>\n<b>Sheet No.</b>: 4A\n</p>\n<p>\n<b>Division of County</b>: Almy Precinct No 1, Election District No 2\n</p>\n<p>\n<b>City, Town, Village</b>: Town of Almy\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Easton, Margaret\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: June\n</p>\n<p>\n<b>Year of birth</b>: 1899\n</p>\n<p>\n<b>Age</b>: 11/12\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n</div>",
@@ -16425,15 +16485,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338,
 342,
-345,
-348,
+346,
+349,
 352,
-354,
 356,
-357,
-511
+358,
+360,
+361,
+522
 ],
 "place": 147,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 128\n</p>\n<p>\n<b>Page No.</b>: 81\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Diamondville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Diamondville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-07\n</p>\n<p>\n<b>Name</b>: Easton, Margaret V\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 10\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: yes\n</p>\n</div>",
@@ -16450,7 +16510,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-353
+357
 ],
 "place": 17,
 "text": "",
@@ -16467,13 +16527,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338,
-348,
+342,
 352,
-353,
-354,
+356,
 357,
-511
+358,
+361,
+522
 ],
 "place": 17,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 124\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 59\n</p>\n<p>\n<b>Sheet No.</b>: 4A\n</p>\n<p>\n<b>Division of County</b>: Almy Precinct No 1, Election District No 2\n</p>\n<p>\n<b>City, Town, Village</b>: Town of Almy\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Easton, Mary\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Jan\n</p>\n<p>\n<b>Year of birth</b>: 1892\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Attended school</b>: 9\n</p>\n</div>",
@@ -16490,8 +16550,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-353,
-464
+357,
+475
 ],
 "place": 147,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 128\n</p>\n<p>\n<b>Page No.</b>: 81\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Diamondville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Diamondville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-07\n</p>\n<p>\n<b>Name</b>: Hamblin, Mary E\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 18\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 0\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: No\n</p>\n</div>",
@@ -16508,10 +16568,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-353,
-464,
-472,
-473
+357,
+475,
+483,
+484
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 99\n</p>\n<p>\n<b>Page No.</b>: 287\n</p>\n<p>\n<b>Division of County</b>: No 11 Precinct 2\n</p>\n<p>\n<b>Ward of city</b>: Millbourne\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-25 to 1920-01-27\n</p>\n<p>\n<b>Street Address</b>: Lyman City\n</p>\n<p>\n<b>Name</b>: Hambline, Mary\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 28\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Father mother tongue</b>: Scotch\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Mother's mother tongue</b>: Scotch\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -16528,9 +16588,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-353,
-464,
-473
+357,
+475,
+484
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Division of County</b>: Outside Lyman Town\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 4\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 21-16\n</p>\n<p>\n<b>Page No.</b>: 193\n</p>\n<p>\n<b>Sheet No.</b>: 1B\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-04\n</p>\n<p>\n<b>Name</b>: Hamblin, Mary\n</p>\n<p>\n<b>Relationship to head</b>: Wife H\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 38\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 18\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -16547,8 +16607,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-353,
-464
+357,
+475
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Incorporated place</b>: Lyman Town\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 4\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 21-15\n</p>\n<p>\n<b>Page No.</b>: 100\n</p>\n<p>\n<b>Sheet No.</b>: 5A\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-10\n</p>\n<p>\n<b>Street Address</b>: Block 15\n</p>\n<p>\n<b>Name</b>: Hamblin, Mary\n</p>\n<p>\n<b>Relationship</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 48\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: no\n</p>\n<p>\n<b>Highest grade completed</b>: 8\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>City (April 1, 1935)</b>: same place\n</p>\n<p>\n<b>On a Farm (Y/N)</b>: no\n</p>\n<p>\n<b>At Work during week March 24-30</b>: yes\n</p>\n<p>\n<b># hours worked during week March 24-30, 1940</b>: 65\n</p>\n<p>\n<b>Occupation</b>: Practical Nurse\n</p>\n<p>\n<b>Industry</b>: Private Home\n</p>\n<p>\n<b>Class of worker</b>: G.W.\n</p>\n<p>\n<b># weeks worked in 1939</b>: 7\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 0\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: yes\n</p>\n</div>",
@@ -16563,7 +16623,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-353
+357
 ],
 "place": 587,
 "text": "",
@@ -16578,7 +16638,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-353
+357
 ],
 "place": 370,
 "text": "",
@@ -16595,9 +16655,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-354
+358
 ],
-"place": 688,
+"place": 689,
 "text": "",
 "type": "Birth"
 },
@@ -16610,7 +16670,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-354
+358
 ],
 "place": 9,
 "text": "",
@@ -16625,7 +16685,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-354
+358
 ],
 "place": 105,
 "text": "",
@@ -16642,13 +16702,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338,
-348,
+342,
 352,
-353,
-354,
+356,
 357,
-511
+358,
+361,
+522
 ],
 "place": 17,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 124\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 59\n</p>\n<p>\n<b>Sheet No.</b>: 4A\n</p>\n<p>\n<b>Division of County</b>: Almy Precinct No 1, Election District No 2\n</p>\n<p>\n<b>City, Town, Village</b>: Town of Almy\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Easton, Peter\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Jan\n</p>\n<p>\n<b>Year of birth</b>: 1898\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n</div>",
@@ -16665,15 +16725,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338,
 342,
-345,
-348,
+346,
+349,
 352,
-354,
 356,
-357,
-511
+358,
+360,
+361,
+522
 ],
 "place": 147,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 128\n</p>\n<p>\n<b>Page No.</b>: 81\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Diamondville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Diamondville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-07\n</p>\n<p>\n<b>Name</b>: Easton, Peter W\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: yes\n</p>\n</div>",
@@ -16690,7 +16750,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-355
+359
 ],
 "place": 223,
 "text": "",
@@ -16705,7 +16765,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-355
+359
 ],
 "place": 587,
 "text": "",
@@ -16720,9 +16780,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-355
+359
 ],
-"place": 699,
+"place": 700,
 "text": "",
 "type": "Burial"
 },
@@ -16737,11 +16797,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-342,
-348,
-355,
-356,
-511
+346,
+352,
+359,
+360,
+522
 ],
 "place": 183,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 89\n</p>\n<p>\n<b>Page No.</b>: 5B\n</p>\n<p>\n<b>City, Town, Village</b>: Evanston Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-11\n</p>\n<p>\n<b>Street Address</b>: Morse Lee St\n</p>\n<p>\n<b>Name</b>: Easton, Thomas\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1919</b>: yes\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Father mother tongue</b>: Scotch\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Mother's mother tongue</b>: Scotch\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -16758,10 +16818,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-351,
-356
+355,
+360
 ],
-"place": 713,
+"place": 714,
 "text": "",
 "type": "Birth"
 },
@@ -16774,7 +16834,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-356
+360
 ],
 "place": 183,
 "text": "",
@@ -16789,7 +16849,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-356
+360
 ],
 "place": 182,
 "text": "",
@@ -16806,15 +16866,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338,
 342,
-345,
-348,
+346,
+349,
 352,
-354,
 356,
-357,
-511
+358,
+360,
+361,
+522
 ],
 "place": 147,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 128\n</p>\n<p>\n<b>Page No.</b>: 81\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Diamondville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Diamondville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-07\n</p>\n<p>\n<b>Name</b>: Easton, William\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 47\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 20\n</p>\n<p>\n<b>Place of birth</b>: Scotland\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Year of immigration</b>: 1887\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: miner\n</p>\n<p>\n<b>Nature of industry</b>: coal mine\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Out of work</b>: no\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: 0\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: R\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n</div>",
@@ -16831,11 +16891,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-342,
-348,
-355,
-356,
-511
+346,
+352,
+359,
+360,
+522
 ],
 "place": 183,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 89\n</p>\n<p>\n<b>Page No.</b>: 5B\n</p>\n<p>\n<b>City, Town, Village</b>: Evanston Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-11\n</p>\n<p>\n<b>Street Address</b>: Morse Lee St\n</p>\n<p>\n<b>Name</b>: Easton, William\n</p>\n<p>\n<b>Relationship to head</b>: head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>If owned, free or mortgaged</b>: M\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 57\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Year of immigration</b>: 1889\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Year of naturalization</b>: 1890\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Scotland\n</p>\n<p>\n<b>Mother tongue</b>: Scotch\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Father mother tongue</b>: Scotch\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Mother's mother tongue</b>: Scotch\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: missionary\n</p>\n<p>\n<b>Industry</b>: L.D.S. Church\n</p>\n</div>",
@@ -16852,7 +16912,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-357
+361
 ],
 "place": 17,
 "text": "",
@@ -16867,7 +16927,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-357
+361
 ],
 "place": 135,
 "text": "",
@@ -16882,7 +16942,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-357
+361
 ],
 "place": 626,
 "text": "",
@@ -16899,13 +16959,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338,
-348,
+342,
 352,
-353,
-354,
+356,
 357,
-511
+358,
+361,
+522
 ],
 "place": 17,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 124\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 59\n</p>\n<p>\n<b>Sheet No.</b>: 4A\n</p>\n<p>\n<b>Division of County</b>: Almy Precinct No 1, Election District No 2\n</p>\n<p>\n<b>City, Town, Village</b>: Town of Almy\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Easton, William\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: June\n</p>\n<p>\n<b>Year of birth</b>: 1890\n</p>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Attended school</b>: 9\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
@@ -16922,21 +16982,22 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338,
 342,
-345,
-348,
+346,
+349,
 352,
-354,
 356,
-357,
-511
+358,
+360,
+361,
+522
 ],
 "place": 147,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 128\n</p>\n<p>\n<b>Page No.</b>: 81\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Diamondville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Diamondville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-07\n</p>\n<p>\n<b>Name</b>: Easton, William J\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: miner\n</p>\n<p>\n<b>Nature of industry</b>: coal mine\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Out of work</b>: no\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: 0\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: no\n</p>\n</div>",
 "type": "Census"
 }
 ],
+[],
 [],
 [
 {
@@ -16948,7 +17009,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-359
+364
 ],
 "place": 169,
 "text": "",
@@ -16967,7 +17028,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-362
+367
 ],
 "place": 153,
 "text": "",
@@ -16982,7 +17043,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-362
+367
 ],
 "place": 153,
 "text": "",
@@ -16997,7 +17058,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-362
+367
 ],
 "place": 153,
 "text": "",
@@ -17014,7 +17075,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-363
+368
 ],
 "place": 153,
 "text": "",
@@ -17029,7 +17090,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-363
+368
 ],
 "place": 411,
 "text": "",
@@ -17044,7 +17105,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-363
+368
 ],
 "place": 410,
 "text": "",
@@ -17061,7 +17122,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-364
+369
 ],
 "place": 153,
 "text": "",
@@ -17076,7 +17137,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-364
+369
 ],
 "place": 153,
 "text": "",
@@ -17091,7 +17152,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-364
+369
 ],
 "place": 153,
 "text": "",
@@ -17108,7 +17169,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-365
+370
 ],
 "place": 153,
 "text": "",
@@ -17123,7 +17184,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-365
+370
 ],
 "place": 411,
 "text": "",
@@ -17138,7 +17199,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-365
+370
 ],
 "place": 410,
 "text": "",
@@ -17155,7 +17216,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-366
+371
 ],
 "place": 237,
 "text": "",
@@ -17170,7 +17231,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-366
+371
 ],
 "place": 372,
 "text": "",
@@ -17185,7 +17246,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-366
+371
 ],
 "place": 370,
 "text": "",
@@ -17202,15 +17263,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-366,
 371,
-372,
-373,
-374,
+376,
 377,
-380,
-381,
-525
+378,
+379,
+382,
+385,
+386,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 29\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07 to 1880-06-08\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 72\n</p>\n<p>\n<b>Name</b>: Eyre, Charlotte E\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 3 6/12\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -17227,7 +17288,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-367
+372
 ],
 "place": 153,
 "text": "",
@@ -17242,7 +17303,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-367
+372
 ],
 "place": 411,
 "text": "",
@@ -17257,7 +17318,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-367
+372
 ],
 "place": 410,
 "text": "",
@@ -17274,7 +17335,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-368
+373
 ],
 "place": 153,
 "text": "",
@@ -17289,7 +17350,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-368
+373
 ],
 "place": 492,
 "text": "",
@@ -17304,7 +17365,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-368
+373
 ],
 "place": 491,
 "text": "",
@@ -17321,7 +17382,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-369
+374
 ],
 "place": 153,
 "text": "",
@@ -17336,7 +17397,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-369
+374
 ],
 "place": 553,
 "text": "",
@@ -17353,7 +17414,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-370
+375
 ],
 "place": 237,
 "text": "",
@@ -17368,7 +17429,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-370
+375
 ],
 "place": 237,
 "text": "",
@@ -17383,7 +17444,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-370
+375
 ],
 "place": 410,
 "text": "",
@@ -17400,7 +17461,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-371
+376
 ],
 "place": 153,
 "text": "",
@@ -17417,15 +17478,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-366,
 371,
-372,
-373,
-374,
+376,
 377,
-380,
-381,
-525
+378,
+379,
+382,
+385,
+386,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 29\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07 to 1880-06-08\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 72\n</p>\n<p>\n<b>Name</b>: Eyre, George\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 42\n</p>\n<p>\n<b>Married</b>: M\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Illness on day of enumeration</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -17440,7 +17501,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-371
+376
 ],
 "place": 372,
 "text": "",
@@ -17455,7 +17516,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-371
+376
 ],
 "place": 370,
 "text": "",
@@ -17472,13 +17533,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-371,
-372,
-373,
-374,
+376,
 377,
+378,
 379,
-525
+382,
+384,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 4\n</p>\n<p>\n<b>Minor Civil Division</b>: District nw of Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 22\n</p>\n<p>\n<b>Name</b>: Eyre, George\n</p>\n<p>\n<b>Age</b>: 31\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Value of real estate</b>: 200\n</p>\n<p>\n<b>Value of personal estate</b>: 120\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -17495,8 +17556,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-371,
-525
+376,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Division of County</b>: Minersville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Minersville Town\n</p>\n<p>\n<b>Street Address</b>: Second West Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-02\n</p>\n<p>\n<b>Name</b>: Eyre, George\n</p>\n<p>\n<b>Relation to head</b>: Head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Apr\n</p>\n<p>\n<b>Year of birth</b>: 1838\n</p>\n<p>\n<b>Age</b>: 62\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 39\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Year of immigration</b>: 1861\n</p>\n<p>\n<b>Number of years in US</b>: 39\n</p>\n<p>\n<b>Naturalization</b>: Na\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n<p>\n<b>Number of farm schedule</b>: 6\n</p>\n</div>",
@@ -17513,8 +17574,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-371,
-525
+376,
+536
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 133\n</p>\n<p>\n<b>Page No.</b>: 131\n</p>\n<p>\n<b>Sheet No.</b>: 7B\n</p>\n<p>\n<b>Division of County</b>: Township 15 & 16 Lyman Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Lyman Villate\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-16\n</p>\n<p>\n<b>Name</b>: Eyre, George\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 72\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 49\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Year of immigration</b>: 1861\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Nature of industry</b>: General\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: OA\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n<p>\n<b>Number of farm schedule</b>: 176\n</p>\n</div>",
@@ -17531,7 +17592,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-372
+377
 ],
 "place": 411,
 "text": "",
@@ -17546,7 +17607,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-372
+377
 ],
 "place": 406,
 "text": "",
@@ -17561,7 +17622,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-372
+377
 ],
 "place": 410,
 "text": "",
@@ -17578,15 +17639,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-366,
 371,
-372,
-373,
-374,
+376,
 377,
-380,
-381,
-525
+378,
+379,
+382,
+385,
+386,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 29\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07 to 1880-06-08\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 72\n</p>\n<p>\n<b>Name</b>: Eyre, George\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Attended school within the census year</b>: 7\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -17603,13 +17664,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-371,
-372,
-373,
-374,
+376,
 377,
+378,
 379,
-525
+382,
+384,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 4\n</p>\n<p>\n<b>Minor Civil Division</b>: District nw of Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 22\n</p>\n<p>\n<b>Name</b>: Eyre, George H\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -17626,7 +17687,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-373
+378
 ],
 "place": 411,
 "text": "",
@@ -17641,7 +17702,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-373
+378
 ],
 "place": 372,
 "text": "",
@@ -17656,7 +17717,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-373
+378
 ],
 "place": 370,
 "text": "",
@@ -17673,15 +17734,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-366,
 371,
-372,
-373,
-374,
+376,
 377,
-380,
-381,
-525
+378,
+379,
+382,
+385,
+386,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 29\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07 to 1880-06-08\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 72\n</p>\n<p>\n<b>Name</b>: Eyre, Ann Eliza\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 18\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Single</b>: S\n</p>\n<p>\n<b>Occupation</b>: Assisting House\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -17698,13 +17759,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-371,
-372,
-373,
-374,
+376,
 377,
+378,
 379,
-525
+382,
+384,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 4\n</p>\n<p>\n<b>Minor Civil Division</b>: District nw of Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 22\n</p>\n<p>\n<b>Name</b>: Eyre, Hannah E\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At Home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -17721,7 +17782,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-374
+379
 ],
 "place": 411,
 "text": "",
@@ -17736,7 +17797,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-374
+379
 ],
 "place": 372,
 "text": "",
@@ -17751,7 +17812,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-374
+379
 ],
 "place": 370,
 "text": "",
@@ -17768,15 +17829,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-366,
 371,
-372,
-373,
-374,
+376,
 377,
-380,
-381,
-525
+378,
+379,
+382,
+385,
+386,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 29\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07 to 1880-06-08\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 72\n</p>\n<p>\n<b>Name</b>: Eyre, Harriet Ann\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 15\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Single</b>: S\n</p>\n<p>\n<b>Attended school within the census year</b>: 7\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -17793,13 +17854,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-371,
-372,
-373,
-374,
+376,
 377,
+378,
 379,
-525
+382,
+384,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 4\n</p>\n<p>\n<b>Minor Civil Division</b>: District nw of Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 22\n</p>\n<p>\n<b>Name</b>: Eyre, Harriet\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At Home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -17816,7 +17877,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-375
+380
 ],
 "place": 533,
 "text": "",
@@ -17831,7 +17892,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-375
+380
 ],
 "place": 248,
 "text": "",
@@ -17846,7 +17907,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-375
+380
 ],
 "place": -1,
 "text": "",
@@ -17863,7 +17924,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-376
+381
 ],
 "place": 153,
 "text": "",
@@ -17878,7 +17939,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-376
+381
 ],
 "place": 603,
 "text": "",
@@ -17893,7 +17954,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-376
+381
 ],
 "place": 603,
 "text": "",
@@ -17910,7 +17971,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-377
+382
 ],
 "place": 411,
 "text": "",
@@ -17925,7 +17986,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-377
+382
 ],
 "place": 559,
 "text": "",
@@ -17940,7 +18001,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-377
+382
 ],
 "place": 370,
 "text": "",
@@ -17957,15 +18018,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-366,
 371,
-372,
-373,
-374,
+376,
 377,
-380,
-381,
-525
+378,
+379,
+382,
+385,
+386,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 29\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07 to 1880-06-08\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 72\n</p>\n<p>\n<b>Name</b>: Eyre, James Ed\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Attended school within the census year</b>: 5\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -17982,13 +18043,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-371,
-372,
-373,
-374,
+376,
 377,
+378,
 379,
-525
+382,
+384,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 4\n</p>\n<p>\n<b>Minor Civil Division</b>: District nw of Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 22\n</p>\n<p>\n<b>Name</b>: Eyre, James E\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -18005,7 +18066,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-378
+383
 ],
 "place": 153,
 "text": "",
@@ -18020,7 +18081,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-378
+383
 ],
 "place": 131,
 "text": "",
@@ -18035,7 +18096,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-378
+383
 ],
 "place": 130,
 "text": "",
@@ -18052,7 +18113,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-379
+384
 ],
 "place": 411,
 "text": "",
@@ -18067,7 +18128,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-379
+384
 ],
 "place": 411,
 "text": "",
@@ -18082,7 +18143,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-379
+384
 ],
 "place": 410,
 "text": "",
@@ -18099,13 +18160,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-371,
-372,
-373,
-374,
+376,
 377,
+378,
 379,
-525
+382,
+384,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 4\n</p>\n<p>\n<b>Minor Civil Division</b>: District nw of Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 22\n</p>\n<p>\n<b>Name</b>: Eyre, John E\n</p>\n<p>\n<b>Age</b>: 8/12\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Month, if born within the year</b>: Oct\n</p>\n</div>",
@@ -18122,7 +18183,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-380
+385
 ],
 "place": 411,
 "text": "",
@@ -18137,7 +18198,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-380
+385
 ],
 "place": 365,
 "text": "",
@@ -18152,9 +18213,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-380
+385
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 },
@@ -18169,15 +18230,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-366,
 371,
-372,
-373,
-374,
+376,
 377,
-380,
-381,
-525
+378,
+379,
+382,
+385,
+386,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 29\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07 to 1880-06-08\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 72\n</p>\n<p>\n<b>Name</b>: Eyre, Joseph W\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Attended school within the census year</b>: 2\n</p>\n<p>\n<b>Cannot write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -18194,7 +18255,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-381
+386
 ],
 "place": 411,
 "text": "",
@@ -18209,7 +18270,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-381
+386
 ],
 "place": 587,
 "text": "",
@@ -18224,7 +18285,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-381
+386
 ],
 "place": 370,
 "text": "",
@@ -18241,11 +18302,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-70,
-71,
-77,
-79,
-381
+73,
+74,
+80,
+82,
+386
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 133\n</p>\n<p>\n<b>Sheet No.</b>: 4B\n</p>\n<p>\n<b>City, Town, Village</b>: Lyman Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-07\n</p>\n<p>\n<b>Name</b>: Bradshaw, Rebecca N\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 36\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 18\n</p>\n<p>\n<b>Mother of how many children</b>: 7\n</p>\n<p>\n<b>Number of children living</b>: 6\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n</div>",
@@ -18262,11 +18323,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-70,
-71,
-77,
-79,
-381
+73,
+74,
+80,
+82,
+386
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: illegible\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Sheet No.</b>: 1A\n</p>\n<p>\n<b>Division of County</b>: Minersville Precinct\n</p>\n<p>\n<b>Street Address</b>: Third West Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-01\n</p>\n<p>\n<b>Name</b>: Bradshaw, Rebecca\n</p>\n<p>\n<b>Relation to head</b>: Wife\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Jan\n</p>\n<p>\n<b>Year of birth</b>: 1874\n</p>\n<p>\n<b>Age</b>: 26\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 8\n</p>\n<p>\n<b>Mother of how many children</b>: 4\n</p>\n<p>\n<b>Number of children living</b>: 4\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -18283,9 +18344,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-72,
-77,
-381
+75,
+80,
+386
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-31\n</p>\n<p>\n<b>Page No.</b>: 245\n</p>\n<p>\n<b>Sheet No.</b>: 16A\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-15\n</p>\n<p>\n<b>Name</b>: Bradshaw, Rebecca N\n</p>\n<p>\n<b>Relationship to head</b>: Wife H\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 56\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 18\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -18302,8 +18363,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-77,
-381
+80,
+386
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 6\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 30-64\n</p>\n<p>\n<b>Page No.</b>: 860\n</p>\n<p>\n<b>Sheet No.</b>: 7A\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-13\n</p>\n<p>\n<b>Street Address</b>: 2190 Lake Street\n</p>\n<p>\n<b>Name</b>: Bradshaw, Rebecca E\n</p>\n<p>\n<b>Relationship</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 66\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: No\n</p>\n<p>\n<b>Highest grade completed</b>: 5\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Lyman\n</p>\n<p>\n<b>County</b>: Uinta\n</p>\n<p>\n<b>State (Territory/Country)</b>: Wyoming\n</p>\n<p>\n<b>On a Farm (Y/N)</b>: Yes\n</p>\n<p>\n<b>At Work during week March 24-30</b>: no\n</p>\n<p>\n<b>public Emergency Work?</b>: no\n</p>\n<p>\n<b>Seeking work?</b>: no\n</p>\n<p>\n<b>Have a Job?</b>: no\n</p>\n<p>\n<b>housework (H), school (S), unable to work (U) or other (Ot)</b>: H\n</p>\n<p>\n<b># weeks worked in 1939</b>: 0\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 0\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: no\n</p>\n</div>",
@@ -18320,15 +18381,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-366,
 371,
-372,
-373,
-374,
+376,
 377,
-380,
-381,
-525
+378,
+379,
+382,
+385,
+386,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 29\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07 to 1880-06-08\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 72\n</p>\n<p>\n<b>Name</b>: Eyre, Rebecca N\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -18345,7 +18406,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-382
+387
 ],
 "place": 153,
 "text": "",
@@ -18360,7 +18421,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-382
+387
 ],
 "place": 153,
 "text": "",
@@ -18377,7 +18438,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-383
+388
 ],
 "place": 153,
 "text": "",
@@ -18392,7 +18453,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-383
+388
 ],
 "place": 411,
 "text": "",
@@ -18407,7 +18468,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-383
+388
 ],
 "place": 410,
 "text": "",
@@ -18424,7 +18485,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-384
+389
 ],
 "place": 153,
 "text": "",
@@ -18439,7 +18500,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-384
+389
 ],
 "place": 58,
 "text": "",
@@ -18459,7 +18520,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388
+393
 ],
 "place": 155,
 "text": "",
@@ -18474,7 +18535,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388
+393
 ],
 "place": 587,
 "text": "",
@@ -18489,7 +18550,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388
+393
 ],
 "place": 586,
 "text": "",
@@ -18506,20 +18567,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388,
-392,
-399,
-400,
-402,
+393,
+397,
+404,
 405,
-406,
-409,
+407,
 410,
+411,
 414,
 415,
-917,
-970,
-972
+419,
+420,
+928,
+981,
+983
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 276\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 6\n</p>\n<p>\n<b>Family No.</b>: 308\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Alfreda\n</p>\n<p>\n<b>Age</b>: 5\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -18536,7 +18597,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-389
+394
 ],
 "place": 138,
 "text": "",
@@ -18551,7 +18612,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-389
+394
 ],
 "place": -1,
 "text": "",
@@ -18568,7 +18629,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-390
+395
 ],
 "place": 155,
 "text": "",
@@ -18583,7 +18644,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-390
+395
 ],
 "place": 587,
 "text": "",
@@ -18598,9 +18659,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-390
+395
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 },
@@ -18615,13 +18676,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-390,
-393,
-401,
-404,
-405,
-419,
-970
+395,
+398,
+406,
+409,
+410,
+424,
+981
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 60\n</p>\n<p>\n<b>Page No.</b>: 695\n</p>\n<p>\n<b>Sheet No.</b>: 6A\n</p>\n<p>\n<b>Division of County</b>: Draper Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-09\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Nettie\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Dec\n</p>\n<p>\n<b>Year of birth</b>: 1875\n</p>\n<p>\n<b>Age</b>: 24\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Illinois\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Occupation</b>: Dressmaker\n</p>\n<p>\n<b>Months not employed</b>: 6\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
@@ -18638,7 +18699,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-391
+396
 ],
 "place": 155,
 "text": "",
@@ -18653,7 +18714,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-391
+396
 ],
 "place": 155,
 "text": "",
@@ -18668,7 +18729,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-391
+396
 ],
 "place": 154,
 "text": "",
@@ -18685,7 +18746,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-392
+397
 ],
 "place": 155,
 "text": "",
@@ -18700,7 +18761,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-392
+397
 ],
 "place": 587,
 "text": "",
@@ -18715,7 +18776,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-392
+397
 ],
 "place": 154,
 "text": "",
@@ -18732,20 +18793,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388,
-392,
-399,
-400,
-402,
+393,
+397,
+404,
 405,
-406,
-409,
+407,
 410,
+411,
 414,
 415,
-917,
-970,
-972
+419,
+420,
+928,
+981,
+983
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 276\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 6\n</p>\n<p>\n<b>Family No.</b>: 308\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Benj F\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -18762,7 +18823,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-393
+398
 ],
 "place": 155,
 "text": "",
@@ -18777,7 +18838,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-393
+398
 ],
 "place": -1,
 "text": "",
@@ -18794,13 +18855,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-390,
-393,
-401,
-404,
-405,
-419,
-970
+395,
+398,
+406,
+409,
+410,
+424,
+981
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 60\n</p>\n<p>\n<b>Page No.</b>: 695\n</p>\n<p>\n<b>Sheet No.</b>: 6A\n</p>\n<p>\n<b>Division of County</b>: Draper Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-09\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Chloe\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Dec\n</p>\n<p>\n<b>Year of birth</b>: 1885\n</p>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Illinois\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Occupation</b>: At school\n</p>\n<p>\n<b>Attended school</b>: 7\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
@@ -18817,9 +18878,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-393,
-401,
-970
+398,
+406,
+981
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 87\n</p>\n<p>\n<b>Page No.</b>: 140\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Precinct No 8\n</p>\n<p>\n<b>City, Town, Village</b>: District No 72\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-20\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Chloe\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 24\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Illinois\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -18836,7 +18897,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-394
+399
 ],
 "place": 155,
 "text": "",
@@ -18851,7 +18912,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-394
+399
 ],
 "place": 531,
 "text": "",
@@ -18866,7 +18927,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-394
+399
 ],
 "place": 530,
 "text": "",
@@ -18883,13 +18944,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-394,
-400,
-407,
-408,
-409,
-418,
-970
+399,
+405,
+412,
+413,
+414,
+423,
+981
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 6\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Creek Ward\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-09-13\n</p>\n<p>\n<b>Post Office</b>: Draperville\n</p>\n<p>\n<b>Line No.</b>: 21\n</p>\n<p>\n<b>Family No.</b>: 48\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Cordelia\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -18906,7 +18967,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-395
+400
 ],
 "place": 138,
 "text": "",
@@ -18921,9 +18982,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-395
+400
 ],
-"place": 768,
+"place": 769,
 "text": "",
 "type": "Death"
 }
@@ -18938,7 +18999,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-396
+401
 ],
 "place": 155,
 "text": "",
@@ -18953,7 +19014,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-396
+401
 ],
 "place": 587,
 "text": "",
@@ -18968,7 +19029,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-396
+401
 ],
 "place": 586,
 "text": "",
@@ -18985,7 +19046,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-397
+402
 ],
 "place": 155,
 "text": "",
@@ -19000,7 +19061,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-397
+402
 ],
 "place": 63,
 "text": "",
@@ -19015,7 +19076,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-397
+402
 ],
 "place": 62,
 "text": "",
@@ -19032,7 +19093,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-398
+403
 ],
 "place": 155,
 "text": "",
@@ -19047,9 +19108,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-398
+403
 ],
-"place": 769,
+"place": 770,
 "text": "",
 "type": "Death"
 },
@@ -19062,7 +19123,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-398
+403
 ],
 "place": 154,
 "text": "",
@@ -19079,7 +19140,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-399
+404
 ],
 "place": 155,
 "text": "",
@@ -19094,7 +19155,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-399
+404
 ],
 "place": 587,
 "text": "",
@@ -19109,7 +19170,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-399
+404
 ],
 "place": 154,
 "text": "",
@@ -19126,20 +19187,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388,
-392,
-399,
-400,
-402,
+393,
+397,
+404,
 405,
-406,
-409,
+407,
 410,
+411,
 414,
 415,
-917,
-970,
-972
+419,
+420,
+928,
+981,
+983
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 276\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 6\n</p>\n<p>\n<b>Family No.</b>: 308\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Walter\n</p>\n<p>\n<b>Age</b>: 3\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -19156,7 +19217,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-400
+405
 ],
 "place": 138,
 "text": "",
@@ -19171,7 +19232,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-400
+405
 ],
 "place": 155,
 "text": "",
@@ -19186,7 +19247,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-400
+405
 ],
 "place": 154,
 "text": "",
@@ -19203,10 +19264,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-400,
-406,
-414,
-415
+405,
+411,
+419,
+420
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>County of</b>: Great Salt Lake\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Name</b>: Fitzgerald, John\n</p>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Canada\n</p>\n</div>",
@@ -19223,20 +19284,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388,
-392,
-399,
-400,
-402,
+393,
+397,
+404,
 405,
-406,
-409,
+407,
 410,
+411,
 414,
 415,
-917,
-970,
-972
+419,
+420,
+928,
+981,
+983
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 276\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 6\n</p>\n<p>\n<b>Family No.</b>: 308\n</p>\n<p>\n<b>Name</b>: Fitzgerald, John\n</p>\n<p>\n<b>Age</b>: 20\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Place of birth</b>: Ohio\n</p>\n</div>",
@@ -19253,13 +19314,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-394,
-400,
-407,
-408,
-409,
-418,
-970
+399,
+405,
+412,
+413,
+414,
+423,
+981
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 6\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Creek Ward\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-09-13\n</p>\n<p>\n<b>Post Office</b>: Draperville\n</p>\n<p>\n<b>Line No.</b>: 21\n</p>\n<p>\n<b>Family No.</b>: 48\n</p>\n<p>\n<b>Name</b>: Fitzgerald, John\n</p>\n<p>\n<b>Age</b>: 30\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Value of real estate</b>: 400\n</p>\n<p>\n<b>Value of personal estate</b>: 200\n</p>\n<p>\n<b>Place of birth</b>: Illinois\n</p>\n</div>",
@@ -19276,7 +19337,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-401
+406
 ],
 "place": 155,
 "text": "",
@@ -19291,7 +19352,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-401
+406
 ],
 "place": 155,
 "text": "",
@@ -19306,7 +19367,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-401
+406
 ],
 "place": 154,
 "text": "",
@@ -19323,13 +19384,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-390,
-393,
-401,
-404,
-405,
-419,
-970
+395,
+398,
+406,
+409,
+410,
+424,
+981
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 60\n</p>\n<p>\n<b>Page No.</b>: 695\n</p>\n<p>\n<b>Sheet No.</b>: 6A\n</p>\n<p>\n<b>Division of County</b>: Draper Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-09\n</p>\n<p>\n<b>Name</b>: Fitzgerald, John P\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Sept\n</p>\n<p>\n<b>Year of birth</b>: 1871\n</p>\n<p>\n<b>Age</b>: 28\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Illinois\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
@@ -19346,9 +19407,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-393,
-401,
-970
+398,
+406,
+981
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 87\n</p>\n<p>\n<b>Page No.</b>: 140\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Precinct No 8\n</p>\n<p>\n<b>City, Town, Village</b>: District No 72\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-20\n</p>\n<p>\n<b>Name</b>: Fitzgerald, John P\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 37\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Illinois\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Laborer\n</p>\n<p>\n<b>Nature of industry</b>: Odd Jobs\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Out of work</b>: No\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: 0\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -19365,7 +19426,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-402
+407
 ],
 "place": 155,
 "text": "",
@@ -19380,7 +19441,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-402
+407
 ],
 "place": 355,
 "text": "",
@@ -19395,7 +19456,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-402
+407
 ],
 "place": 354,
 "text": "",
@@ -19412,20 +19473,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388,
-392,
-399,
-400,
-402,
+393,
+397,
+404,
 405,
-406,
-409,
+407,
 410,
+411,
 414,
 415,
-917,
-970,
-972
+419,
+420,
+928,
+981,
+983
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 276\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 6\n</p>\n<p>\n<b>Family No.</b>: 308\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Julia Ann\n</p>\n<p>\n<b>Age</b>: 5\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -19442,7 +19503,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-403
+408
 ],
 "place": 155,
 "text": "",
@@ -19457,9 +19518,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-403
+408
 ],
-"place": 740,
+"place": 741,
 "text": "",
 "type": "Death"
 },
@@ -19472,9 +19533,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-403
+408
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 }
@@ -19489,7 +19550,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-404
+409
 ],
 "place": 155,
 "text": "",
@@ -19506,9 +19567,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190,
-197,
-404
+193,
+200,
+409
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 243\n</p>\n<p>\n<b>Page No.</b>: 187\n</p>\n<p>\n<b>Sheet No.</b>: 6A\n</p>\n<p>\n<b>Division of County</b>: Precinct 2 Election Dist. 97\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-17\n</p>\n<p>\n<b>Name</b>: Chisholm, Lovina\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 29\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 7\n</p>\n<p>\n<b>Mother of how many children</b>: 2\n</p>\n<p>\n<b>Number of children living</b>: 2\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Illinois\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n</div>",
@@ -19525,10 +19586,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190,
-197,
+193,
 200,
-404
+203,
+409
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 90\n</p>\n<p>\n<b>Division of County</b>: Precinct 11\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-05\n</p>\n<p>\n<b>Street Address</b>: 1759 (South) 4th East\n</p>\n<p>\n<b>Name</b>: Chisoholme, Lovina F\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 38\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Missouri\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Mother's mother tongue</b>: Welsh\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -19545,10 +19606,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190,
-197,
+193,
 200,
-404
+203,
+409
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-16\n</p>\n<p>\n<b>Page No.</b>: 125\n</p>\n<p>\n<b>Sheet No.</b>: 14B\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-12\n</p>\n<p>\n<b>Street Address</b>: 1759 (South) 4th East\n</p>\n<p>\n<b>Name</b>: Chisholm, Lovina\n</p>\n<p>\n<b>Relationship to head</b>: Wife H\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 47\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 21\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Missouri\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Helper\n</p>\n<p>\n<b>Industry</b>: Bakery\n</p>\n<p>\n<b>Class of worker</b>: W\n</p>\n<p>\n<b>Employed</b>: Yes\n</p>\n</div>",
@@ -19563,7 +19624,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-404
+409
 ],
 "place": 587,
 "text": "",
@@ -19578,7 +19639,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-404
+409
 ],
 "place": 408,
 "text": "",
@@ -19595,13 +19656,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-390,
-393,
-401,
-404,
-405,
-419,
-970
+395,
+398,
+406,
+409,
+410,
+424,
+981
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 60\n</p>\n<p>\n<b>Page No.</b>: 695\n</p>\n<p>\n<b>Sheet No.</b>: 6A\n</p>\n<p>\n<b>Division of County</b>: Draper Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-09\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Lola\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Apr\n</p>\n<p>\n<b>Year of birth</b>: 1877\n</p>\n<p>\n<b>Age</b>: 23\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Illinois\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
@@ -19618,9 +19679,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190,
-200,
-404
+193,
+203,
+409
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 6\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 30-43\n</p>\n<p>\n<b>Page No.</b>: 602\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-15\n</p>\n<p>\n<b>Street Address</b>: 1757 5th East\n</p>\n<p>\n<b>Name</b>: Chisholm, Lovina\n</p>\n<p>\n<b>Relationship</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 58\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: No\n</p>\n<p>\n<b>Highest grade completed</b>: C-1\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same house\n</p>\n<p>\n<b>At Work during week March 24-30</b>: No\n</p>\n<p>\n<b>public Emergency Work?</b>: No\n</p>\n<p>\n<b>Seeking work?</b>: No\n</p>\n<p>\n<b>Have a Job?</b>: No\n</p>\n<p>\n<b>housework (H), school (S), unable to work (U) or other (Ot)</b>: H\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: no\n</p>\n</div>",
@@ -19637,7 +19698,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-405
+410
 ],
 "place": 155,
 "text": "",
@@ -19652,7 +19713,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-405
+410
 ],
 "place": 355,
 "text": "",
@@ -19667,7 +19728,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-405
+410
 ],
 "place": 354,
 "text": "",
@@ -19684,13 +19745,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-390,
-393,
-401,
-404,
-405,
-419,
-970
+395,
+398,
+406,
+409,
+410,
+424,
+981
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 60\n</p>\n<p>\n<b>Page No.</b>: 695\n</p>\n<p>\n<b>Sheet No.</b>: 6A\n</p>\n<p>\n<b>Division of County</b>: Draper Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-09\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Laura E\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Sep\n</p>\n<p>\n<b>Year of birth</b>: 1881\n</p>\n<p>\n<b>Age</b>: 18\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Illinois\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
@@ -19707,20 +19768,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388,
-392,
-399,
-400,
-402,
+393,
+397,
+404,
 405,
-406,
-409,
+407,
 410,
+411,
 414,
 415,
-917,
-970,
-972
+419,
+420,
+928,
+981,
+983
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 276\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 6\n</p>\n<p>\n<b>Family No.</b>: 308\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Lovena E\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -19737,7 +19798,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-406
+411
 ],
 "place": 408,
 "text": "",
@@ -19752,7 +19813,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-406
+411
 ],
 "place": 155,
 "text": "",
@@ -19767,7 +19828,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-406
+411
 ],
 "place": 154,
 "text": "",
@@ -19784,10 +19845,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-400,
-406,
-414,
-415
+405,
+411,
+419,
+420
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>County of</b>: Great Salt Lake\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Manassah\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Illinois\n</p>\n</div>",
@@ -19804,20 +19865,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388,
-392,
-399,
-400,
-402,
+393,
+397,
+404,
 405,
-406,
-409,
+407,
 410,
+411,
 414,
 415,
-917,
-970,
-972
+419,
+420,
+928,
+981,
+983
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 276\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 6\n</p>\n<p>\n<b>Family No.</b>: 308\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Manassah\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -19834,7 +19895,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-407
+412
 ],
 "place": 155,
 "text": "",
@@ -19849,7 +19910,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-407
+412
 ],
 "place": 155,
 "text": "",
@@ -19864,7 +19925,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-407
+412
 ],
 "place": 154,
 "text": "",
@@ -19881,13 +19942,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-394,
-400,
-407,
-408,
-409,
-418,
-970
+399,
+405,
+412,
+413,
+414,
+423,
+981
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 6\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Creek Ward\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-09-13\n</p>\n<p>\n<b>Post Office</b>: Draperville\n</p>\n<p>\n<b>Line No.</b>: 21\n</p>\n<p>\n<b>Family No.</b>: 48\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Margaret A\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -19904,7 +19965,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-408
+413
 ],
 "place": 155,
 "text": "",
@@ -19919,7 +19980,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-408
+413
 ],
 "place": 587,
 "text": "",
@@ -19934,7 +19995,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-408
+413
 ],
 "place": 530,
 "text": "",
@@ -19951,13 +20012,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-394,
-400,
-407,
-408,
-409,
-418,
-970
+399,
+405,
+412,
+413,
+414,
+423,
+981
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 6\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Creek Ward\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-09-13\n</p>\n<p>\n<b>Post Office</b>: Draperville\n</p>\n<p>\n<b>Line No.</b>: 21\n</p>\n<p>\n<b>Family No.</b>: 48\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Martha\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -19974,7 +20035,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-409
+414
 ],
 "place": 408,
 "text": "",
@@ -19989,7 +20050,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-409
+414
 ],
 "place": 595,
 "text": "",
@@ -20004,7 +20065,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-409
+414
 ],
 "place": 594,
 "text": "",
@@ -20021,20 +20082,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388,
-392,
-399,
-400,
-402,
+393,
+397,
+404,
 405,
-406,
-409,
+407,
 410,
+411,
 414,
 415,
-917,
-970,
-972
+419,
+420,
+928,
+981,
+983
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 276\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 6\n</p>\n<p>\n<b>Family No.</b>: 308\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Mary Ann\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -20051,13 +20112,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-394,
-400,
-407,
-408,
-409,
-418,
-970
+399,
+405,
+412,
+413,
+414,
+423,
+981
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 6\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Creek Ward\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-09-13\n</p>\n<p>\n<b>Post Office</b>: Draperville\n</p>\n<p>\n<b>Line No.</b>: 21\n</p>\n<p>\n<b>Family No.</b>: 48\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Mary A\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n<p>\n<b>Cannot write</b>: Y\n</p>\n</div>",
@@ -20074,7 +20135,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-410
+415
 ],
 "place": 155,
 "text": "",
@@ -20089,7 +20150,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-410
+415
 ],
 "place": 617,
 "text": "",
@@ -20104,7 +20165,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-410
+415
 ],
 "place": 549,
 "text": "",
@@ -20121,20 +20182,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388,
-392,
-399,
-400,
-402,
+393,
+397,
+404,
 405,
-406,
-409,
+407,
 410,
+411,
 414,
 415,
-917,
-970,
-972
+419,
+420,
+928,
+981,
+983
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 276\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 6\n</p>\n<p>\n<b>Family No.</b>: 308\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Mary Ann\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -20151,7 +20212,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-411
+416
 ],
 "place": 155,
 "text": "",
@@ -20166,7 +20227,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-411
+416
 ],
 "place": 587,
 "text": "",
@@ -20181,9 +20242,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-411
+416
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 }
@@ -20198,7 +20259,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-412
+417
 ],
 "place": 155,
 "text": "",
@@ -20213,7 +20274,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-412
+417
 ],
 "place": 587,
 "text": "",
@@ -20228,7 +20289,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-412
+417
 ],
 "place": 154,
 "text": "",
@@ -20245,7 +20306,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-413
+418
 ],
 "place": 155,
 "text": "",
@@ -20260,7 +20321,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-413
+418
 ],
 "place": 587,
 "text": "",
@@ -20275,7 +20336,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-413
+418
 ],
 "place": 586,
 "text": "",
@@ -20292,7 +20353,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-414
+419
 ],
 "place": 542,
 "text": "",
@@ -20307,7 +20368,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-414
+419
 ],
 "place": 155,
 "text": "",
@@ -20322,7 +20383,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-414
+419
 ],
 "place": 154,
 "text": "",
@@ -20339,10 +20400,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-400,
-406,
-414,
-415
+405,
+411,
+419,
+420
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>County of</b>: Great Salt Lake\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Perry\n</p>\n<p>\n<b>Age</b>: 30\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Occupation</b>: Laborer\n</p>\n<p>\n<b>Value of real estate</b>: 200\n</p>\n<p>\n<b>Place of birth</b>: Pennsylvania\n</p>\n</div>",
@@ -20359,20 +20420,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388,
-392,
-399,
-400,
-402,
+393,
+397,
+404,
 405,
-406,
-409,
+407,
 410,
+411,
 414,
 415,
-917,
-970,
-972
+419,
+420,
+928,
+981,
+983
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 276\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 6\n</p>\n<p>\n<b>Family No.</b>: 308\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Perry\n</p>\n<p>\n<b>Age</b>: 45\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Value of real estate</b>: 750\n</p>\n<p>\n<b>Value of personal estate</b>: 1000\n</p>\n<p>\n<b>Place of birth</b>: Pennsylvania\n</p>\n</div>",
@@ -20389,7 +20450,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-415
+420
 ],
 "place": 408,
 "text": "",
@@ -20404,7 +20465,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-415
+420
 ],
 "place": 155,
 "text": "",
@@ -20421,10 +20482,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-400,
-406,
-414,
-415
+405,
+411,
+419,
+420
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>County of</b>: Great Salt Lake\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Perry\n</p>\n<p>\n<b>Age</b>: 4/12\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Deseret\n</p>\n</div>",
@@ -20441,20 +20502,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388,
-392,
-399,
-400,
-402,
+393,
+397,
+404,
 405,
-406,
-409,
+407,
 410,
+411,
 414,
 415,
-917,
-970,
-972
+419,
+420,
+928,
+981,
+983
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 276\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 6\n</p>\n<p>\n<b>Family No.</b>: 308\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Perry Jun\n</p>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -20471,7 +20532,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-416
+421
 ],
 "place": 155,
 "text": "",
@@ -20486,7 +20547,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-416
+421
 ],
 "place": 119,
 "text": "",
@@ -20501,7 +20562,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-416
+421
 ],
 "place": 391,
 "text": "",
@@ -20518,7 +20579,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-417
+422
 ],
 "place": 155,
 "text": "",
@@ -20533,7 +20594,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-417
+422
 ],
 "place": 155,
 "text": "",
@@ -20548,7 +20609,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-417
+422
 ],
 "place": 154,
 "text": "",
@@ -20565,7 +20626,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-418
+423
 ],
 "place": 155,
 "text": "",
@@ -20580,7 +20641,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-418
+423
 ],
 "place": 155,
 "text": "",
@@ -20595,7 +20656,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-418
+423
 ],
 "place": 154,
 "text": "",
@@ -20612,13 +20673,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-394,
-400,
-407,
-408,
-409,
-418,
-970
+399,
+405,
+412,
+413,
+414,
+423,
+981
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 6\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Creek Ward\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-09-13\n</p>\n<p>\n<b>Post Office</b>: Draperville\n</p>\n<p>\n<b>Line No.</b>: 21\n</p>\n<p>\n<b>Family No.</b>: 48\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Sarah J\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -20635,7 +20696,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-419
+424
 ],
 "place": 155,
 "text": "",
@@ -20650,7 +20711,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-419
+424
 ],
 "place": 155,
 "text": "",
@@ -20665,7 +20726,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-419
+424
 ],
 "place": 154,
 "text": "",
@@ -20682,13 +20743,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-390,
-393,
-401,
-404,
-405,
-419,
-970
+395,
+398,
+406,
+409,
+410,
+424,
+981
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 60\n</p>\n<p>\n<b>Page No.</b>: 695\n</p>\n<p>\n<b>Sheet No.</b>: 6A\n</p>\n<p>\n<b>Division of County</b>: Draper Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-09\n</p>\n<p>\n<b>Name</b>: Fitzgerald, William C\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: May\n</p>\n<p>\n<b>Year of birth</b>: 1879\n</p>\n<p>\n<b>Age</b>: 21\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Illinois\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
@@ -20705,7 +20766,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-420
+425
 ],
 "place": 645,
 "text": "",
@@ -20720,7 +20781,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-420
+425
 ],
 "place": 127,
 "text": "",
@@ -20735,7 +20796,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-420
+425
 ],
 "place": -1,
 "text": "",
@@ -20752,9 +20813,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-421
+426
 ],
-"place": 756,
+"place": 757,
 "text": "",
 "type": "Birth"
 },
@@ -20767,7 +20828,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-421
+426
 ],
 "place": 296,
 "text": "",
@@ -20782,7 +20843,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-421
+426
 ],
 "place": 391,
 "text": "",
@@ -20799,7 +20860,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-422
+427
 ],
 "place": 110,
 "text": "",
@@ -20814,9 +20875,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-422
+427
 ],
-"place": 688,
+"place": 689,
 "text": "",
 "type": "Death"
 }
@@ -20834,9 +20895,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-424,
-802,
-807
+429,
+813,
+818
 ],
 "place": 402,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Arizona\n</p>\n<p>\n<b>County of</b>: Manicopa\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 26\n</p>\n<p>\n<b>Page No.</b>: 28B\n</p>\n<p>\n<b>Division of County</b>: Precinct 5, Mesa Precinct 3\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-02-24\n</p>\n<p>\n<b>Name</b>: Spilsbury, Dorothy\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 40\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: New York\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -20853,7 +20914,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-425
+430
 ],
 "place": 334,
 "text": "",
@@ -20868,7 +20929,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-425
+430
 ],
 "place": 132,
 "text": "",
@@ -20883,7 +20944,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-425
+430
 ],
 "place": 132,
 "text": "",
@@ -20900,7 +20961,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426
+431
 ],
 "place": 102,
 "text": "",
@@ -20915,7 +20976,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426
+431
 ],
 "place": 365,
 "text": "",
@@ -20930,7 +20991,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426
+431
 ],
 "place": 205,
 "text": "",
@@ -20947,20 +21008,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426,
 431,
-432,
-434,
+436,
+437,
 439,
-441,
-443,
+444,
+446,
 448,
 453,
-454,
-721,
-772,
+458,
+459,
+732,
 783,
-845
+794,
+856
 ],
 "place": 102,
 "text": "<div>\n<p>\n<b>Page No.</b>: 165-166\n</p>\n<p>\n<b>Sheet No.</b>: 754\n</p>\n<p>\n<b>Minor Civil Division</b>: Cedar City\n</p>\n<p>\n<b>County of</b>: Iron\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Cedar\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 1215\n</p>\n<p>\n<b>Name</b>: Haight, Caleb\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -20977,7 +21038,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-427
+432
 ],
 "place": 20,
 "text": "",
@@ -20992,7 +21053,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-427
+432
 ],
 "place": 189,
 "text": "",
@@ -21009,7 +21070,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-428
+433
 ],
 "place": 422,
 "text": "",
@@ -21024,7 +21085,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-428
+433
 ],
 "place": 102,
 "text": "",
@@ -21039,7 +21100,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-428
+433
 ],
 "place": 101,
 "text": "",
@@ -21056,12 +21117,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-428,
-431,
-441,
-448,
-454,
-783
+433,
+436,
+446,
+453,
+459,
+794
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 91\n</p>\n<p>\n<b>Family No.</b>: 3\n</p>\n<p>\n<b>Name</b>: Haight, Caroline\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -21078,9 +21139,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-429
+434
 ],
-"place": 764,
+"place": 765,
 "text": "",
 "type": "Birth"
 },
@@ -21093,7 +21154,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-429
+434
 ],
 "place": 635,
 "text": "",
@@ -21108,7 +21169,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-429
+434
 ],
 "place": 262,
 "text": "",
@@ -21125,9 +21186,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-430
+435
 ],
-"place": 764,
+"place": 765,
 "text": "",
 "type": "Birth"
 },
@@ -21140,9 +21201,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-430
+435
 ],
-"place": 748,
+"place": 749,
 "text": "",
 "type": "Death"
 }
@@ -21157,7 +21218,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-431
+436
 ],
 "place": 587,
 "text": "",
@@ -21172,7 +21233,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-431
+436
 ],
 "place": 102,
 "text": "",
@@ -21187,7 +21248,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-431
+436
 ],
 "place": 101,
 "text": "",
@@ -21204,20 +21265,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426,
 431,
-432,
-434,
+436,
+437,
 439,
-441,
-443,
+444,
+446,
 448,
 453,
-454,
-721,
-772,
+458,
+459,
+732,
 783,
-845
+794,
+856
 ],
 "place": 102,
 "text": "<div>\n<p>\n<b>Page No.</b>: 165-166\n</p>\n<p>\n<b>Sheet No.</b>: 754\n</p>\n<p>\n<b>Minor Civil Division</b>: Cedar City\n</p>\n<p>\n<b>County of</b>: Iron\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Cedar\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 1215\n</p>\n<p>\n<b>Name</b>: Haight, David\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -21234,12 +21295,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-428,
-431,
-441,
-448,
-454,
-783
+433,
+436,
+446,
+453,
+459,
+794
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 91\n</p>\n<p>\n<b>Family No.</b>: 3\n</p>\n<p>\n<b>Name</b>: Haight, David\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Deseret\n</p>\n</div>",
@@ -21256,7 +21317,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-432
+437
 ],
 "place": 102,
 "text": "",
@@ -21271,7 +21332,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-432
+437
 ],
 "place": 181,
 "text": "",
@@ -21286,7 +21347,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-432
+437
 ],
 "place": 580,
 "text": "",
@@ -21303,19 +21364,19 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-432,
-435,
 437,
-439,
-441,
-443,
+440,
+442,
+444,
 446,
-449,
-452,
-453,
-721
+448,
+451,
+454,
+457,
+458,
+732
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 463\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Name</b>: Haight, Elizabeth A\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
@@ -21330,20 +21391,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426,
 431,
-432,
-434,
+436,
+437,
 439,
-441,
-443,
+444,
+446,
 448,
 453,
-454,
-721,
-772,
+458,
+459,
+732,
 783,
-845
+794,
+856
 ],
 "place": 102,
 "text": "<div>\n<p>\n<b>Page No.</b>: 165-166\n</p>\n<p>\n<b>Sheet No.</b>: 754\n</p>\n<p>\n<b>Minor Civil Division</b>: Cedar City\n</p>\n<p>\n<b>County of</b>: Iron\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Cedar\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 1215\n</p>\n<p>\n<b>Name</b>: Haight, Eliza A\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n</div>",
@@ -21360,9 +21421,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-433
+438
 ],
-"place": 764,
+"place": 765,
 "text": "",
 "type": "Birth"
 },
@@ -21375,7 +21436,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-433
+438
 ],
 "place": -1,
 "text": "",
@@ -21392,7 +21453,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-434
+439
 ],
 "place": 102,
 "text": "",
@@ -21407,7 +21468,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-434
+439
 ],
 "place": 365,
 "text": "",
@@ -21422,7 +21483,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-434
+439
 ],
 "place": 101,
 "text": "",
@@ -21439,20 +21500,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426,
 431,
-432,
-434,
+436,
+437,
 439,
-441,
-443,
+444,
+446,
 448,
 453,
-454,
-721,
-772,
+458,
+459,
+732,
 783,
-845
+794,
+856
 ],
 "place": 102,
 "text": "<div>\n<p>\n<b>Page No.</b>: 165-166\n</p>\n<p>\n<b>Sheet No.</b>: 754\n</p>\n<p>\n<b>Minor Civil Division</b>: Cedar City\n</p>\n<p>\n<b>County of</b>: Iron\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Cedar\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 1215\n</p>\n<p>\n<b>Name</b>: Haight, Emeline\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n</div>",
@@ -21469,9 +21530,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-435
+440
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -21484,7 +21545,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-435
+440
 ],
 "place": 590,
 "text": "",
@@ -21499,7 +21560,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-435
+440
 ],
 "place": 509,
 "text": "",
@@ -21516,19 +21577,19 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-432,
-435,
 437,
-439,
-441,
-443,
+440,
+442,
+444,
 446,
-449,
-452,
-453,
-721
+448,
+451,
+454,
+457,
+458,
+732
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 463\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Name</b>: Haight, Harriett\n</p>\n<p>\n<b>Age</b>: 10\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
@@ -21543,13 +21604,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-435,
-437,
 440,
-452,
-721
+442,
+445,
+457,
+732
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1336\n</p>\n<p>\n<b>Page No.</b>: 4\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Precinct\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 45\n</p>\n<p>\n<b>Family No.</b>: 32\n</p>\n<p>\n<b>Name</b>: Haight, Harriet\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 15\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Cedar City, UT\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
 "type": "Census"
 }
@@ -21564,7 +21625,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-436
+441
 ],
 "place": 161,
 "text": "",
@@ -21579,7 +21640,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-436
+441
 ],
 "place": -1,
 "text": "",
@@ -21594,7 +21655,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-436
+441
 ],
 "place": 631,
 "text": "",
@@ -21611,9 +21672,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-437
+442
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -21626,7 +21687,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-437
+442
 ],
 "place": 604,
 "text": "",
@@ -21643,19 +21704,19 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-432,
-435,
 437,
-439,
-441,
-443,
+440,
+442,
+444,
 446,
-449,
-452,
-453,
-721
+448,
+451,
+454,
+457,
+458,
+732
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 463\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Name</b>: Haight, Heber C\n</p>\n<p>\n<b>Age</b>: 2/12\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Month, if born within the year</b>: April\n</p>\n</div>",
 "type": "Census"
 },
@@ -21670,13 +21731,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-435,
-437,
 440,
-452,
-721
+442,
+445,
+457,
+732
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1336\n</p>\n<p>\n<b>Page No.</b>: 4\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Precinct\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 45\n</p>\n<p>\n<b>Family No.</b>: 32\n</p>\n<p>\n<b>Name</b>: Haight, Hector Chance\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Toquerville, UT\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
 "type": "Census"
 }
@@ -21691,9 +21752,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-438
+443
 ],
-"place": 764,
+"place": 765,
 "text": "",
 "type": "Birth"
 },
@@ -21706,7 +21767,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-438
+443
 ],
 "place": 189,
 "text": "",
@@ -21721,7 +21782,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-438
+443
 ],
 "place": 586,
 "text": "",
@@ -21738,7 +21799,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-439
+444
 ],
 "place": 102,
 "text": "",
@@ -21753,7 +21814,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-439
+444
 ],
 "place": 587,
 "text": "",
@@ -21768,7 +21829,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-439
+444
 ],
 "place": 586,
 "text": "",
@@ -21785,19 +21846,19 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-432,
-435,
 437,
-439,
-441,
-443,
+440,
+442,
+444,
 446,
-449,
-452,
-453,
-721
+448,
+451,
+454,
+457,
+458,
+732
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 463\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Name</b>: Haight, Hortencia\n</p>\n<p>\n<b>Age</b>: 5\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
@@ -21812,20 +21873,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426,
 431,
-432,
-434,
+436,
+437,
 439,
-441,
-443,
+444,
+446,
 448,
 453,
-454,
-721,
-772,
+458,
+459,
+732,
 783,
-845
+794,
+856
 ],
 "place": 102,
 "text": "<div>\n<p>\n<b>Page No.</b>: 165-166\n</p>\n<p>\n<b>Sheet No.</b>: 754\n</p>\n<p>\n<b>Minor Civil Division</b>: Cedar City\n</p>\n<p>\n<b>County of</b>: Iron\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Cedar\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 1215\n</p>\n<p>\n<b>Name</b>: Haight, Mortensia\n</p>\n<p>\n<b>Age</b>: 6/12\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n</div>",
@@ -21842,9 +21903,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-440
+445
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -21857,7 +21918,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-440
+445
 ],
 "place": 358,
 "text": "",
@@ -21872,7 +21933,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-440
+445
 ],
 "place": 659,
 "text": "",
@@ -21889,13 +21950,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-435,
-437,
 440,
-452,
-721
+442,
+445,
+457,
+732
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1336\n</p>\n<p>\n<b>Page No.</b>: 4\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Precinct\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 45\n</p>\n<p>\n<b>Family No.</b>: 32\n</p>\n<p>\n<b>Name</b>: Haight, Horton Edward\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Toquerville, UT\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
 "type": "Census"
 }
@@ -21910,9 +21971,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-441
+446
 ],
-"place": 764,
+"place": 765,
 "text": "",
 "type": "Birth"
 },
@@ -21925,7 +21986,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-441
+446
 ],
 "place": 674,
 "text": "",
@@ -21940,7 +22001,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-441
+446
 ],
 "place": 671,
 "text": "",
@@ -21957,19 +22018,19 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-432,
-435,
 437,
-439,
-441,
-443,
+440,
+442,
+444,
 446,
-449,
-452,
-453,
-721
+448,
+451,
+454,
+457,
+458,
+732
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 463\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Name</b>: Haight, Isaac\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Value of real estate</b>: 1500\n</p>\n<p>\n<b>Value of personal estate</b>: 2000\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n<p>\n<b>Male citizen 21 and over</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
@@ -21984,20 +22045,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426,
 431,
-432,
-434,
+436,
+437,
 439,
-441,
-443,
+444,
+446,
 448,
 453,
-454,
-721,
-772,
+458,
+459,
+732,
 783,
-845
+794,
+856
 ],
 "place": 102,
 "text": "<div>\n<p>\n<b>Page No.</b>: 165-166\n</p>\n<p>\n<b>Sheet No.</b>: 754\n</p>\n<p>\n<b>Minor Civil Division</b>: Cedar City\n</p>\n<p>\n<b>County of</b>: Iron\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Cedar\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 1215\n</p>\n<p>\n<b>Name</b>: Haight, Isaac C\n</p>\n<p>\n<b>Age</b>: 47\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Value of real estate</b>: 4500\n</p>\n<p>\n<b>Value of personal estate</b>: 1500\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n</div>",
@@ -22014,12 +22075,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-428,
-431,
-441,
-448,
-454,
-783
+433,
+436,
+446,
+453,
+459,
+794
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 91\n</p>\n<p>\n<b>Family No.</b>: 3\n</p>\n<p>\n<b>Name</b>: Haight, Isaac Chauncey\n</p>\n<p>\n<b>Age</b>: 38\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Occupation</b>: Laborer\n</p>\n<p>\n<b>Value of real estate</b>: 200\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n</div>",
@@ -22036,9 +22097,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-442
+447
 ],
-"place": 768,
+"place": 769,
 "text": "",
 "type": "Birth"
 },
@@ -22051,9 +22112,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-442
+447
 ],
-"place": 768,
+"place": 769,
 "text": "",
 "type": "Death"
 }
@@ -22068,7 +22129,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-443
+448
 ],
 "place": 102,
 "text": "",
@@ -22083,7 +22144,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-443
+448
 ],
 "place": 102,
 "text": "",
@@ -22098,7 +22159,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-443
+448
 ],
 "place": 101,
 "text": "",
@@ -22115,19 +22176,19 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-432,
-435,
 437,
-439,
-441,
-443,
+440,
+442,
+444,
 446,
-449,
-452,
-453,
-721
+448,
+451,
+454,
+457,
+458,
+732
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 463\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Name</b>: Haight, Isaac C\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
@@ -22142,20 +22203,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426,
 431,
-432,
-434,
+436,
+437,
 439,
-441,
-443,
+444,
+446,
 448,
 453,
-454,
-721,
-772,
+458,
+459,
+732,
 783,
-845
+794,
+856
 ],
 "place": 102,
 "text": "<div>\n<p>\n<b>Page No.</b>: 165-166\n</p>\n<p>\n<b>Sheet No.</b>: 754\n</p>\n<p>\n<b>Minor Civil Division</b>: Cedar City\n</p>\n<p>\n<b>County of</b>: Iron\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Cedar\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 1215\n</p>\n<p>\n<b>Name</b>: Haight, Isaac C\n</p>\n<p>\n<b>Age</b>: 3\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -22172,7 +22233,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-444
+449
 ],
 "place": 102,
 "text": "",
@@ -22187,7 +22248,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-444
+449
 ],
 "place": 102,
 "text": "",
@@ -22202,7 +22263,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-444
+449
 ],
 "place": -1,
 "text": "",
@@ -22219,9 +22280,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-445
+450
 ],
-"place": 764,
+"place": 765,
 "text": "",
 "type": "Birth"
 },
@@ -22234,7 +22295,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-445
+450
 ],
 "place": 587,
 "text": "",
@@ -22249,7 +22310,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-445
+450
 ],
 "place": 586,
 "text": "",
@@ -22266,7 +22327,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-446
+451
 ],
 "place": 102,
 "text": "",
@@ -22281,7 +22342,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-446
+451
 ],
 "place": 592,
 "text": "",
@@ -22296,7 +22357,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-446
+451
 ],
 "place": 586,
 "text": "",
@@ -22313,19 +22374,19 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-432,
-435,
 437,
-439,
-441,
-443,
+440,
+442,
+444,
 446,
-449,
-452,
-453,
-721
+448,
+451,
+454,
+457,
+458,
+732
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 463\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Name</b>: Haight, Marie\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 }
@@ -22340,9 +22401,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-447
+452
 ],
-"place": 764,
+"place": 765,
 "text": "",
 "type": "Birth"
 },
@@ -22355,7 +22416,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-447
+452
 ],
 "place": 193,
 "text": "",
@@ -22370,7 +22431,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-447
+452
 ],
 "place": 194,
 "text": "",
@@ -22387,7 +22448,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-448
+453
 ],
 "place": 587,
 "text": "",
@@ -22402,7 +22463,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-448
+453
 ],
 "place": 102,
 "text": "",
@@ -22417,7 +22478,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-448
+453
 ],
 "place": 101,
 "text": "",
@@ -22434,20 +22495,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426,
 431,
-432,
-434,
+436,
+437,
 439,
-441,
-443,
+444,
+446,
 448,
 453,
-454,
-721,
-772,
+458,
+459,
+732,
 783,
-845
+794,
+856
 ],
 "place": 102,
 "text": "<div>\n<p>\n<b>Page No.</b>: 165-166\n</p>\n<p>\n<b>Sheet No.</b>: 754\n</p>\n<p>\n<b>Minor Civil Division</b>: Cedar City\n</p>\n<p>\n<b>County of</b>: Iron\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Cedar\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 1215\n</p>\n<p>\n<b>Name</b>: Haight, Mary A\n</p>\n<p>\n<b>Age</b>: 10\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -22464,12 +22525,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-428,
-431,
-441,
-448,
-454,
-783
+433,
+436,
+446,
+453,
+459,
+794
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 91\n</p>\n<p>\n<b>Family No.</b>: 3\n</p>\n<p>\n<b>Name</b>: Haight, Mary\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Deseret\n</p>\n</div>",
@@ -22486,9 +22547,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-449
+454
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -22501,7 +22562,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-449
+454
 ],
 "place": 587,
 "text": "",
@@ -22516,9 +22577,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-449
+454
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 },
@@ -22533,19 +22594,19 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-432,
-435,
 437,
-439,
-441,
-443,
+440,
+442,
+444,
 446,
-449,
-452,
-453,
-721
+448,
+451,
+454,
+457,
+458,
+732
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 463\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Name</b>: Haight, Mary E\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 }
@@ -22560,7 +22621,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-450
+455
 ],
 "place": 164,
 "text": "",
@@ -22575,7 +22636,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-450
+455
 ],
 "place": 161,
 "text": "",
@@ -22592,7 +22653,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-451
+456
 ],
 "place": 102,
 "text": "",
@@ -22607,7 +22668,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-451
+456
 ],
 "place": 102,
 "text": "",
@@ -22624,9 +22685,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-452
+457
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -22639,7 +22700,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-452
+457
 ],
 "place": 587,
 "text": "",
@@ -22654,7 +22715,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-452
+457
 ],
 "place": 586,
 "text": "",
@@ -22671,19 +22732,19 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-432,
-435,
 437,
-439,
-441,
-443,
+440,
+442,
+444,
 446,
-449,
-452,
-453,
-721
+448,
+451,
+454,
+457,
+458,
+732
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 463\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Name</b>: Haight, Owen\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
@@ -22698,13 +22759,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-435,
-437,
 440,
-452,
-721
+442,
+445,
+457,
+732
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1336\n</p>\n<p>\n<b>Page No.</b>: 4\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Precinct\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 45\n</p>\n<p>\n<b>Family No.</b>: 32\n</p>\n<p>\n<b>Name</b>: Haight, Owen Price\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Toquerville, UT\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
 "type": "Census"
 }
@@ -22719,7 +22780,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453
+458
 ],
 "place": 102,
 "text": "",
@@ -22736,14 +22797,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-721,
-802,
-808,
-825
+458,
+732,
+813,
+819,
+836
 ],
-"place": 682,
-"text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 211\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Division of County</b>: Toquerville \n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Spilsbury, Roselia\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 55\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 36\n</p>\n<p>\n<b>Mother of how many children</b>: 12\n</p>\n<p>\n<b>Number of children living</b>: 7\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n</div>",
+"place": 683,
+"text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 211\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Division of County</b>: Toquerville\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Spilsbury, Roselia\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 55\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 36\n</p>\n<p>\n<b>Mother of how many children</b>: 12\n</p>\n<p>\n<b>Number of children living</b>: 7\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n</div>",
 "type": "Census"
 },
 {
@@ -22755,7 +22816,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453
+458
 ],
 "place": 587,
 "text": "",
@@ -22770,9 +22831,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453
+458
 ],
-"place": 681,
+"place": 682,
 "text": "",
 "type": "Burial"
 },
@@ -22787,11 +22848,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-808,
-825
+458,
+819,
+836
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 232\n</p>\n<p>\n<b>Page No.</b>: 70\n</p>\n<p>\n<b>Division of County</b>: Toquerville Township\n</p>\n<p>\n<b>City, Town, Village</b>: Toquerville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-02\n</p>\n<p>\n<b>Street Address</b>: Farm on State Road\n</p>\n<p>\n<b>Name</b>: Spilsbury, Roselia J.\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 65\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Mother's mother tongue</b>: English\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Mining Eng.\n</p>\n<p>\n<b>Industry</b>: Silver\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: S\n</p>\n</div>",
 "type": "Census"
 },
@@ -22806,18 +22867,18 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-795,
-805,
-807,
-808,
-809,
+458,
+806,
+816,
+818,
 819,
-824,
-825,
-828
+820,
+830,
+835,
+836,
+839
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 213\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 174\n</p>\n<p>\n<b>Page No.</b>: 179\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Toquerville Preccint\n</p>\n<p>\n<b>City, Town, Village</b>: Toquerville Town\n</p>\n<p>\n<b>Name</b>: Spilsbury, Roselia\n</p>\n<p>\n<b>Relation to head</b>: Wife\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Oct\n</p>\n<p>\n<b>Year of birth</b>: 1854\n</p>\n<p>\n<b>Age</b>: 45\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 26\n</p>\n<p>\n<b>Mother of how many children</b>: 11\n</p>\n<p>\n<b>Number of children living</b>: 8\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
 "type": "Census"
 },
@@ -22832,13 +22893,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-807,
-808,
-809,
-813
+458,
+818,
+819,
+820,
+824
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 6\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Preccint\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-03 to 1880-06-04\n</p>\n<p>\n<b>Line No.</b>: 16\n</p>\n<p>\n<b>Family No.</b>: 44\n</p>\n<p>\n<b>Name</b>: Spilsbury, Roselia\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 25\n</p>\n<p>\n<b>Occupation</b>: Housekeeper\n</p>\n<p>\n<b>Place of birth</b>: Cedar City\n</p>\n<p>\n<b>Place of birth of father</b>: York Town\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
 "type": "Census"
 },
@@ -22853,19 +22914,19 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-432,
-435,
 437,
-439,
-441,
-443,
+440,
+442,
+444,
 446,
-449,
-452,
-453,
-721
+448,
+451,
+454,
+457,
+458,
+732
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 463\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Name</b>: Haight, Roselia\n</p>\n<p>\n<b>Age</b>: 15\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
@@ -22880,20 +22941,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426,
 431,
-432,
-434,
+436,
+437,
 439,
-441,
-443,
+444,
+446,
 448,
 453,
-454,
-721,
-772,
+458,
+459,
+732,
 783,
-845
+794,
+856
 ],
 "place": 102,
 "text": "<div>\n<p>\n<b>Page No.</b>: 165-166\n</p>\n<p>\n<b>Sheet No.</b>: 754\n</p>\n<p>\n<b>Minor Civil Division</b>: Cedar City\n</p>\n<p>\n<b>County of</b>: Iron\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Cedar\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 1215\n</p>\n<p>\n<b>Name</b>: Haight, Roselia\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -22910,7 +22971,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-454
+459
 ],
 "place": 435,
 "text": "",
@@ -22925,7 +22986,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-454
+459
 ],
 "place": 102,
 "text": "",
@@ -22940,7 +23001,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-454
+459
 ],
 "place": 101,
 "text": "",
@@ -22957,20 +23018,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426,
 431,
-432,
-434,
+436,
+437,
 439,
-441,
-443,
+444,
+446,
 448,
 453,
-454,
-721,
-772,
+458,
+459,
+732,
 783,
-845
+794,
+856
 ],
 "place": 102,
 "text": "<div>\n<p>\n<b>Page No.</b>: 165-166\n</p>\n<p>\n<b>Sheet No.</b>: 754\n</p>\n<p>\n<b>Minor Civil Division</b>: Cedar City\n</p>\n<p>\n<b>County of</b>: Iron\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Cedar\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 1215\n</p>\n<p>\n<b>Name</b>: Haight, Temperance\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Illinois\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -22987,12 +23048,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-428,
-431,
-441,
-448,
-454,
-783
+433,
+436,
+446,
+453,
+459,
+794
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 91\n</p>\n<p>\n<b>Family No.</b>: 3\n</p>\n<p>\n<b>Name</b>: Haight, Temperance\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Illinois\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -23009,7 +23070,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-455
+460
 ],
 "place": 102,
 "text": "",
@@ -23024,13 +23085,19 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-455
+460
 ],
 "place": 102,
 "text": "",
 "type": "Death"
 }
 ],
+[],
+[],
+[],
+[],
+[],
+[],
 [],
 [],
 [],
@@ -23047,8 +23114,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-470
+473,
+481
 ],
 "place": 411,
 "text": "",
@@ -23063,7 +23130,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462
+473
 ],
 "place": 581,
 "text": "",
@@ -23078,7 +23145,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462
+473
 ],
 "place": 486,
 "text": "",
@@ -23095,17 +23162,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
+473,
+475,
 477,
-478,
-479,
-758
+480,
+481,
+488,
+489,
+490,
+769
 ],
-"place": 688,
+"place": 689,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 300\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 61\n</p>\n<p>\n<b>Sheet No.</b>: 10\n</p>\n<p>\n<b>Division of County</b>: Election District no 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-15\n</p>\n<p>\n<b>Name</b>: Hamblin, Addie\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Feb\n</p>\n<p>\n<b>Year of birth</b>: 1891\n</p>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: California\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Attended school</b>: 8\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
 "type": "Census"
 },
@@ -23120,15 +23187,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
-471,
+473,
+475,
 477,
-479,
-758
+480,
+481,
+482,
+488,
+490,
+769
 ],
 "place": 172,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 127\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 1A\n</p>\n<p>\n<b>Division of County</b>: Elkoh Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-18\n</p>\n<p>\n<b>Name</b>: Hamblin, Addie\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -23145,7 +23212,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-463
+474
 ],
 "place": 372,
 "text": "",
@@ -23160,7 +23227,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-463
+474
 ],
 "place": 372,
 "text": "",
@@ -23175,7 +23242,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-463
+474
 ],
 "place": 370,
 "text": "",
@@ -23192,7 +23259,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-464
+475
 ],
 "place": 411,
 "text": "",
@@ -23209,17 +23276,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
+473,
+475,
 477,
-478,
-479,
-758
+480,
+481,
+488,
+489,
+490,
+769
 ],
-"place": 688,
+"place": 689,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 300\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 61\n</p>\n<p>\n<b>Sheet No.</b>: 10\n</p>\n<p>\n<b>Division of County</b>: Election District no 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-15\n</p>\n<p>\n<b>Name</b>: Hamblin, Lee\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Dec\n</p>\n<p>\n<b>Year of birth</b>: 1885\n</p>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: California\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Attended school</b>: 8\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
 "type": "Census"
 },
@@ -23234,8 +23301,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-353,
-464
+357,
+475
 ],
 "place": 147,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 128\n</p>\n<p>\n<b>Page No.</b>: 81\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Diamondville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Diamondville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-07\n</p>\n<p>\n<b>Name</b>: Hamblin, Claudius L\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 25\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 0\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Miner\n</p>\n<p>\n<b>Nature of industry</b>: Coal Miner\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Out of work</b>: No\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: 0\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: R\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n</div>",
@@ -23252,10 +23319,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-353,
-464,
-472,
-473
+357,
+475,
+483,
+484
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 99\n</p>\n<p>\n<b>Page No.</b>: 287\n</p>\n<p>\n<b>Division of County</b>: No 11 Precinct 2\n</p>\n<p>\n<b>Ward of city</b>: Millbourne\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-25 to 1920-01-27\n</p>\n<p>\n<b>Street Address</b>: Lyman City\n</p>\n<p>\n<b>Name</b>: Hambline, Claudius Lee\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>If owned, free or mortgaged</b>: F\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 35\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: W\n</p>\n</div>",
@@ -23272,9 +23339,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-353,
-464,
-473
+357,
+475,
+484
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Division of County</b>: Outside Lyman Town\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 4\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 21-16\n</p>\n<p>\n<b>Page No.</b>: 193\n</p>\n<p>\n<b>Sheet No.</b>: 1B\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-04\n</p>\n<p>\n<b>Name</b>: Hamblin, C. L.\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Farm?</b>: Yes\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 45\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 25\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Industry</b>: General Farming\n</p>\n<p>\n<b>Class of worker</b>: O\n</p>\n<p>\n<b>Employed</b>: Yes\n</p>\n<p>\n<b>Veteran</b>: No\n</p>\n<p>\n<b>Number of farm schedule</b>: 19\n</p>\n</div>",
@@ -23291,8 +23358,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-353,
-464
+357,
+475
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Incorporated place</b>: Lyman Town\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 4\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 21-15\n</p>\n<p>\n<b>Page No.</b>: 100\n</p>\n<p>\n<b>Sheet No.</b>: 5A\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-10\n</p>\n<p>\n<b>Street Address</b>: Block 15\n</p>\n<p>\n<b>Name</b>: Hamblin, C. Lee\n</p>\n<p>\n<b>Home Owned/Rented</b>: R\n</p>\n<p>\n<b>Home value/monthly rental</b>: 15\n</p>\n<p>\n<b>Farm?</b>: No\n</p>\n<p>\n<b>Relationship</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 55\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: no\n</p>\n<p>\n<b>Highest grade completed</b>: H1\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: same place\n</p>\n<p>\n<b>On a Farm (Y/N)</b>: no\n</p>\n<p>\n<b>At Work during week March 24-30</b>: Yes\n</p>\n<p>\n<b># hours worked during week March 24-30, 1940</b>: 40\n</p>\n<p>\n<b>Occupation</b>: Tagging\n</p>\n<p>\n<b>Industry</b>: Sheep\n</p>\n<p>\n<b>Class of worker</b>: P.W.\n</p>\n<p>\n<b># weeks worked in 1939</b>: 35\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 2000\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: no\n</p>\n</div>",
@@ -23307,7 +23374,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-464
+475
 ],
 "place": 587,
 "text": "",
@@ -23322,7 +23389,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-464
+475
 ],
 "place": 370,
 "text": "",
@@ -23339,15 +23406,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
-471,
+473,
+475,
 477,
-479,
-758
+480,
+481,
+482,
+488,
+490,
+769
 ],
 "place": 172,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 127\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 1A\n</p>\n<p>\n<b>Division of County</b>: Elkoh Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-18\n</p>\n<p>\n<b>Name</b>: Hamblin, Claudius\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 25\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 5/12\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Miner\n</p>\n<p>\n<b>Nature of industry</b>: Coal Mine\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Out of work</b>: yes\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: 0\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -23364,9 +23431,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-465
+476
 ],
-"place": 679,
+"place": 680,
 "text": "",
 "type": "Birth"
 },
@@ -23379,9 +23446,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-465
+476
 ],
-"place": 679,
+"place": 680,
 "text": "",
 "type": "Death"
 },
@@ -23394,9 +23461,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-465
+476
 ],
-"place": 679,
+"place": 680,
 "text": "",
 "type": "Burial"
 }
@@ -23411,7 +23478,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-466
+477
 ],
 "place": 411,
 "text": "",
@@ -23426,7 +23493,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-466
+477
 ],
 "place": 468,
 "text": "",
@@ -23441,7 +23508,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-466
+477
 ],
 "place": 370,
 "text": "",
@@ -23458,17 +23525,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
+473,
+475,
 477,
-478,
-479,
-758
+480,
+481,
+488,
+489,
+490,
+769
 ],
-"place": 688,
+"place": 689,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 300\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 61\n</p>\n<p>\n<b>Sheet No.</b>: 10\n</p>\n<p>\n<b>Division of County</b>: Election District no 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-15\n</p>\n<p>\n<b>Name</b>: Hamblin, Rollin\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: May\n</p>\n<p>\n<b>Year of birth</b>: 1887\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: California\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Attended school</b>: 8\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
 "type": "Census"
 },
@@ -23483,15 +23550,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
-471,
+473,
+475,
 477,
-479,
-758
+480,
+481,
+482,
+488,
+490,
+769
 ],
 "place": 172,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 127\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 1A\n</p>\n<p>\n<b>Division of County</b>: Elkoh Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-18\n</p>\n<p>\n<b>Name</b>: Hamblin, Rollins\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 23\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Farm Labor\n</p>\n<p>\n<b>Nature of industry</b>: Home Farm\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Out of work</b>: no\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: 0\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -23508,9 +23575,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-467
+478
 ],
-"place": 679,
+"place": 680,
 "text": "",
 "type": "Birth"
 },
@@ -23523,7 +23590,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-467
+478
 ],
 "place": 411,
 "text": "",
@@ -23538,7 +23605,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-467
+478
 ],
 "place": 410,
 "text": "",
@@ -23555,14 +23622,34 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-242,
-467,
-476,
-477,
-480
+246,
+478,
+487,
+488,
+491
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 5\n</p>\n<p>\n<b>Sheet No.</b>: 27\n</p>\n<p>\n<b>Minor Civil Division</b>: District no. 7 Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 33\n</p>\n<p>\n<b>Family No.</b>: 32\n</p>\n<p>\n<b>Name</b>: Hamblin, Elizabeth\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n<p>\n<b>Cannot write</b>: Y\n</p>\n</div>",
+"type": "Census"
+},
+{
+"cita": [
+124
+],
+"date": "1860-06-01",
+"date_sdn": 2400563,
+"descr": "",
+"gid": "E2636",
+"media": [],
+"part_family": [],
+"part_person": [
+246,
+478,
+486,
+487
+],
+"place": 679,
+"text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 153\n</p>\n<p>\n<b>Sheet No.</b>: 1038\n</p>\n<p>\n<b>Minor Civil Division</b>: Tonaquint\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-07-27\n</p>\n<p>\n<b>Post Office</b>: Santa Clara\n</p>\n<p>\n<b>Line No.</b>: 7\n</p>\n<p>\n<b>Family No.</b>: 1130\n</p>\n<p>\n<b>Name</b>: Hamblin, Elizabeth\n</p>\n<p>\n<b>Age</b>: 3\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 }
 ],
@@ -23576,7 +23663,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-468
+479
 ],
 "place": 599,
 "text": "",
@@ -23591,7 +23678,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-468
+479
 ],
 "place": 487,
 "text": "",
@@ -23606,7 +23693,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-468
+479
 ],
 "place": 77,
 "text": "",
@@ -23623,7 +23710,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-469
+480
 ],
 "place": 411,
 "text": "",
@@ -23638,7 +23725,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-469
+480
 ],
 "place": 587,
 "text": "",
@@ -23653,7 +23740,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-469
+480
 ],
 "place": 174,
 "text": "",
@@ -23670,17 +23757,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
+473,
+475,
 477,
-478,
-479,
-758
+480,
+481,
+488,
+489,
+490,
+769
 ],
-"place": 688,
+"place": 689,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 300\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 61\n</p>\n<p>\n<b>Sheet No.</b>: 10\n</p>\n<p>\n<b>Division of County</b>: Election District no 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-15\n</p>\n<p>\n<b>Name</b>: Hamblin, Marcene\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Mar\n</p>\n<p>\n<b>Year of birth</b>: 1897\n</p>\n<p>\n<b>Age</b>: 3\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: California\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
 "type": "Census"
 },
@@ -23695,10 +23782,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-469,
-471,
-477,
-758
+480,
+482,
+488,
+769
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 11\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 99\n</p>\n<p>\n<b>Page No.</b>: 278\n</p>\n<p>\n<b>City, Town, Village</b>: Lyman Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-05\n</p>\n<p>\n<b>Name</b>: Hamblin, Marsene\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 25\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Mother's mother tongue</b>: English\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: Salesman\n</p>\n<p>\n<b>Industry</b>: Hardware\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: W\n</p>\n</div>",
@@ -23715,15 +23802,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
-471,
+473,
+475,
 477,
-479,
-758
+480,
+481,
+482,
+488,
+490,
+769
 ],
 "place": 172,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 127\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 1A\n</p>\n<p>\n<b>Division of County</b>: Elkoh Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-18\n</p>\n<p>\n<b>Name</b>: Hamblin, Marcene\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: yes\n</p>\n</div>",
@@ -23740,8 +23827,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-470
+473,
+481
 ],
 "place": 411,
 "text": "",
@@ -23756,7 +23843,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-470
+481
 ],
 "place": 183,
 "text": "",
@@ -23771,7 +23858,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-470
+481
 ],
 "place": 370,
 "text": "",
@@ -23788,17 +23875,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
+473,
+475,
 477,
-478,
-479,
-758
+480,
+481,
+488,
+489,
+490,
+769
 ],
-"place": 688,
+"place": 689,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 300\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 61\n</p>\n<p>\n<b>Sheet No.</b>: 10\n</p>\n<p>\n<b>Division of County</b>: Election District no 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-15\n</p>\n<p>\n<b>Name</b>: Hamblin, Ida\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Feb\n</p>\n<p>\n<b>Year of birth</b>: 1891\n</p>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: California\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Attended school</b>: 8\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
 "type": "Census"
 },
@@ -23813,15 +23900,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
-471,
+473,
+475,
 477,
-479,
-758
+480,
+481,
+482,
+488,
+490,
+769
 ],
 "place": 172,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 127\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 1A\n</p>\n<p>\n<b>Division of County</b>: Elkoh Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-18\n</p>\n<p>\n<b>Name</b>: Hamblin, Ida M\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Saleslady\n</p>\n<p>\n<b>Nature of industry</b>: Store\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Out of work</b>: no\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: 0\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -23838,7 +23925,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-471
+482
 ],
 "place": 135,
 "text": "",
@@ -23853,7 +23940,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-471
+482
 ],
 "place": -1,
 "text": "",
@@ -23868,7 +23955,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-471
+482
 ],
 "place": 182,
 "text": "",
@@ -23885,10 +23972,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-469,
-471,
-477,
-758
+480,
+482,
+488,
+769
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 11\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 99\n</p>\n<p>\n<b>Page No.</b>: 278\n</p>\n<p>\n<b>City, Town, Village</b>: Lyman Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-05\n</p>\n<p>\n<b>Name</b>: Hamblin, Robert\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 18\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Mother's mother tongue</b>: English\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: W\n</p>\n</div>",
@@ -23905,15 +23992,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
-471,
+473,
+475,
 477,
-479,
-758
+480,
+481,
+482,
+488,
+490,
+769
 ],
 "place": 172,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 127\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 1A\n</p>\n<p>\n<b>Division of County</b>: Elkoh Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-18\n</p>\n<p>\n<b>Name</b>: Hamblin, Robert\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: yes\n</p>\n</div>",
@@ -23930,7 +24017,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-472
+483
 ],
 "place": 223,
 "text": "",
@@ -23945,7 +24032,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-472
+483
 ],
 "place": -1,
 "text": "",
@@ -23960,7 +24047,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-472
+483
 ],
 "place": 370,
 "text": "",
@@ -23977,10 +24064,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-353,
-464,
-472,
-473
+357,
+475,
+483,
+484
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 99\n</p>\n<p>\n<b>Page No.</b>: 287\n</p>\n<p>\n<b>Division of County</b>: No 11 Precinct 2\n</p>\n<p>\n<b>Ward of city</b>: Millbourne\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-25 to 1920-01-27\n</p>\n<p>\n<b>Street Address</b>: Lyman City\n</p>\n<p>\n<b>Name</b>: Hambline, Lela E\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1919</b>: Yes\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -23997,7 +24084,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-473
+484
 ],
 "place": 372,
 "text": "",
@@ -24012,7 +24099,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-473
+484
 ],
 "place": -1,
 "text": "",
@@ -24029,10 +24116,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-353,
-464,
-472,
-473
+357,
+475,
+483,
+484
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 99\n</p>\n<p>\n<b>Page No.</b>: 287\n</p>\n<p>\n<b>Division of County</b>: No 11 Precinct 2\n</p>\n<p>\n<b>Ward of city</b>: Millbourne\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-25 to 1920-01-27\n</p>\n<p>\n<b>Street Address</b>: Lyman City\n</p>\n<p>\n<b>Name</b>: Hambline, Margaret\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1919</b>: Yes\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -24049,9 +24136,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-353,
-464,
-473
+357,
+475,
+484
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Division of County</b>: Outside Lyman Town\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 4\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 21-16\n</p>\n<p>\n<b>Page No.</b>: 193\n</p>\n<p>\n<b>Sheet No.</b>: 1B\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-04\n</p>\n<p>\n<b>Name</b>: Hamblin, Margaret\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Marital condition</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: Yes\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Wyoming\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Wyoming\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -24068,7 +24155,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-474
+485
 ],
 "place": 599,
 "text": "",
@@ -24083,7 +24170,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-474
+485
 ],
 "place": 599,
 "text": "",
@@ -24098,7 +24185,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-474
+485
 ],
 "place": 599,
 "text": "",
@@ -24115,7 +24202,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-475
+486
 ],
 "place": 40,
 "text": "",
@@ -24130,7 +24217,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-475
+486
 ],
 "place": 411,
 "text": "",
@@ -24145,11 +24232,48 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-475
+486
 ],
 "place": 410,
 "text": "",
 "type": "Burial"
+},
+{
+"cita": [
+123
+],
+"date": "1850-06-01",
+"date_sdn": 2396910,
+"descr": "",
+"gid": "E2635",
+"media": [],
+"part_family": [],
+"part_person": [
+486
+],
+"place": 680,
+"text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 117\n</p>\n<p>\n<b>Minor Civil Division</b>: Tooele\n</p>\n<p>\n<b>County of</b>: Tooele\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Family No.</b>: 7\n</p>\n<p>\n<b>Name</b>: Hamblin, Oscar\n</p>\n<p>\n<b>Age</b>: 18\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Ohio\n</p>\n</div>",
+"type": "Census"
+},
+{
+"cita": [
+124
+],
+"date": "1860-06-01",
+"date_sdn": 2400563,
+"descr": "",
+"gid": "E2636",
+"media": [],
+"part_family": [],
+"part_person": [
+246,
+478,
+486,
+487
+],
+"place": 679,
+"text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 153\n</p>\n<p>\n<b>Sheet No.</b>: 1038\n</p>\n<p>\n<b>Minor Civil Division</b>: Tonaquint\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-07-27\n</p>\n<p>\n<b>Post Office</b>: Santa Clara\n</p>\n<p>\n<b>Line No.</b>: 7\n</p>\n<p>\n<b>Family No.</b>: 1130\n</p>\n<p>\n<b>Name</b>: Hamblin, Oscar\n</p>\n<p>\n<b>Age</b>: 25\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Value of real estate</b>: 250\n</p>\n<p>\n<b>Value of personal estate</b>: 950\n</p>\n<p>\n<b>Place of birth</b>: Iowa\n</p>\n</div>",
+"type": "Census"
 }
 ],
 [
@@ -24162,7 +24286,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-476
+487
 ],
 "place": 599,
 "text": "",
@@ -24177,7 +24301,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-476
+487
 ],
 "place": 411,
 "text": "",
@@ -24192,7 +24316,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-476
+487
 ],
 "place": 410,
 "text": "",
@@ -24209,14 +24333,34 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-242,
-467,
-476,
-477,
-480
+246,
+478,
+487,
+488,
+491
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 5\n</p>\n<p>\n<b>Sheet No.</b>: 27\n</p>\n<p>\n<b>Minor Civil Division</b>: District no. 7 Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 33\n</p>\n<p>\n<b>Family No.</b>: 32\n</p>\n<p>\n<b>Name</b>: Hamblin, Oscar Jr\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
+"type": "Census"
+},
+{
+"cita": [
+124
+],
+"date": "1860-06-01",
+"date_sdn": 2400563,
+"descr": "",
+"gid": "E2636",
+"media": [],
+"part_family": [],
+"part_person": [
+246,
+478,
+486,
+487
+],
+"place": 679,
+"text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 153\n</p>\n<p>\n<b>Sheet No.</b>: 1038\n</p>\n<p>\n<b>Minor Civil Division</b>: Tonaquint\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-07-27\n</p>\n<p>\n<b>Post Office</b>: Santa Clara\n</p>\n<p>\n<b>Line No.</b>: 7\n</p>\n<p>\n<b>Family No.</b>: 1130\n</p>\n<p>\n<b>Name</b>: Hamblin, Oscar Jr\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n</div>",
 "type": "Census"
 }
 ],
@@ -24230,7 +24374,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-477
+488
 ],
 "place": 599,
 "text": "",
@@ -24245,7 +24389,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-477
+488
 ],
 "place": 372,
 "text": "",
@@ -24260,7 +24404,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-477
+488
 ],
 "place": 370,
 "text": "",
@@ -24277,17 +24421,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
+473,
+475,
 477,
-478,
-479,
-758
+480,
+481,
+488,
+489,
+490,
+769
 ],
-"place": 688,
+"place": 689,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 300\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 61\n</p>\n<p>\n<b>Sheet No.</b>: 10\n</p>\n<p>\n<b>Division of County</b>: Election District no 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-15\n</p>\n<p>\n<b>Name</b>: Hamblin, Wallace\n</p>\n<p>\n<b>Relation to head</b>: Head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: April\n</p>\n<p>\n<b>Year of birth</b>: 1862\n</p>\n<p>\n<b>Age</b>: 38\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 19\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Ohio\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n<p>\n<b>Number of farm schedule</b>: 125\n</p>\n</div>",
 "type": "Census"
 },
@@ -24302,8 +24446,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-477,
-758
+488,
+769
 ],
 "place": 235,
 "text": "<div>\n<p>\n<b>State of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Sweetwater\n</p>\n<p>\n<b>Division of County</b>: Green River Town\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 4\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 19-13\n</p>\n<p>\n<b>Page No.</b>: 120\n</p>\n<p>\n<b>Sheet No.</b>: 18B\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-19\n</p>\n<p>\n<b>Street Address</b>: 240 North Alley\n</p>\n<p>\n<b>Name</b>: Hamblin, Wallace\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: R\n</p>\n<p>\n<b>Value of home or monthly rental</b>: 826\n</p>\n<p>\n<b>Farm?</b>: No\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 67\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 18\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Ohio\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Machinist Helper\n</p>\n<p>\n<b>Industry</b>: Railroad\n</p>\n<p>\n<b>Class of worker</b>: W\n</p>\n<p>\n<b>Employed</b>: Yes\n</p>\n<p>\n<b>Veteran</b>: No\n</p>\n</div>",
@@ -24320,10 +24464,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-469,
-471,
-477,
-758
+480,
+482,
+488,
+769
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 11\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 99\n</p>\n<p>\n<b>Page No.</b>: 278\n</p>\n<p>\n<b>City, Town, Village</b>: Lyman Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-05\n</p>\n<p>\n<b>Name</b>: Hamblin, Wallace\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>If owned, free or mortgaged</b>: F\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 57\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Mother's mother tongue</b>: English\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n</div>",
@@ -24340,15 +24484,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
-471,
+473,
+475,
 477,
-479,
-758
+480,
+481,
+482,
+488,
+490,
+769
 ],
 "place": 172,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 127\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 1A\n</p>\n<p>\n<b>Division of County</b>: Elkoh Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-18\n</p>\n<p>\n<b>Name</b>: Hamblin, Wallace\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 48\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 28\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Ohio\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Labor\n</p>\n<p>\n<b>Nature of industry</b>: Coal Mine\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Out of work</b>: no\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: 0\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: R\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n</div>",
@@ -24365,9 +24509,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-242,
-477,
-480
+246,
+488,
+491
 ],
 "place": 49,
 "text": "<div>\n<p>\n<b>Page No.</b>: 5\n</p>\n<p>\n<b>Sheet No.</b>: A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 106\n</p>\n<p>\n<b>Minor Civil Division</b>: Star Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-15\n</p>\n<p>\n<b>Line No.</b>: 5\n</p>\n<p>\n<b>Name</b>: Hamblin, Wallace\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 18\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Rancher\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Ohio\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -24384,11 +24528,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-242,
-467,
-476,
-477,
-480
+246,
+478,
+487,
+488,
+491
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 5\n</p>\n<p>\n<b>Sheet No.</b>: 27\n</p>\n<p>\n<b>Minor Civil Division</b>: District no. 7 Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 33\n</p>\n<p>\n<b>Family No.</b>: 32\n</p>\n<p>\n<b>Name</b>: Hamblin, Wallace\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -24405,7 +24549,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-478
+489
 ],
 "place": 411,
 "text": "",
@@ -24420,7 +24564,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-478
+489
 ],
 "place": 372,
 "text": "",
@@ -24435,7 +24579,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-478
+489
 ],
 "place": 586,
 "text": "",
@@ -24452,17 +24596,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
+473,
+475,
 477,
-478,
-479,
-758
+480,
+481,
+488,
+489,
+490,
+769
 ],
-"place": 688,
+"place": 689,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 300\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 61\n</p>\n<p>\n<b>Sheet No.</b>: 10\n</p>\n<p>\n<b>Division of County</b>: Election District no 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-15\n</p>\n<p>\n<b>Name</b>: Hamblin, Eugene\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Dec\n</p>\n<p>\n<b>Year of birth</b>: 1882\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: California\n</p>\n<p>\n<b>Occupation</b>: Farm Laborer\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
 "type": "Census"
 }
@@ -24477,7 +24621,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-479
+490
 ],
 "place": 411,
 "text": "",
@@ -24492,7 +24636,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-479
+490
 ],
 "place": 559,
 "text": "",
@@ -24507,7 +24651,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-479
+490
 ],
 "place": 558,
 "text": "",
@@ -24524,17 +24668,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
+473,
+475,
 477,
-478,
-479,
-758
+480,
+481,
+488,
+489,
+490,
+769
 ],
-"place": 688,
+"place": 689,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 300\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 61\n</p>\n<p>\n<b>Sheet No.</b>: 10\n</p>\n<p>\n<b>Division of County</b>: Election District no 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-15\n</p>\n<p>\n<b>Name</b>: Hamblin, Clark\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Sept\n</p>\n<p>\n<b>Year of birth</b>: 1894\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: California\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Attended school</b>: 8\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
 "type": "Census"
 },
@@ -24549,15 +24693,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
-471,
+473,
+475,
 477,
-479,
-758
+480,
+481,
+482,
+488,
+490,
+769
 ],
 "place": 172,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 127\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 1A\n</p>\n<p>\n<b>Division of County</b>: Elkoh Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-18\n</p>\n<p>\n<b>Name</b>: Hamblin, Clark\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -24574,7 +24718,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-480
+491
 ],
 "place": 599,
 "text": "",
@@ -24589,7 +24733,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-480
+491
 ],
 "place": 344,
 "text": "",
@@ -24604,7 +24748,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-480
+491
 ],
 "place": 370,
 "text": "",
@@ -24621,9 +24765,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-242,
-477,
-480
+246,
+488,
+491
 ],
 "place": 49,
 "text": "<div>\n<p>\n<b>Page No.</b>: 5\n</p>\n<p>\n<b>Sheet No.</b>: A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 106\n</p>\n<p>\n<b>Minor Civil Division</b>: Star Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-15\n</p>\n<p>\n<b>Line No.</b>: 5\n</p>\n<p>\n<b>Name</b>: Hamblin, William\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 18\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Rancher\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Ohio\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -24640,11 +24784,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-242,
-467,
-476,
-477,
-480
+246,
+478,
+487,
+488,
+491
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 5\n</p>\n<p>\n<b>Sheet No.</b>: 27\n</p>\n<p>\n<b>Minor Civil Division</b>: District no. 7 Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 33\n</p>\n<p>\n<b>Family No.</b>: 32\n</p>\n<p>\n<b>Name</b>: Hamblin, William\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -24661,9 +24805,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-481
+492
 ],
-"place": 687,
+"place": 688,
 "text": "",
 "type": "Birth"
 },
@@ -24676,7 +24820,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-481
+492
 ],
 "place": 465,
 "text": "",
@@ -24691,7 +24835,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-481
+492
 ],
 "place": 464,
 "text": "",
@@ -24713,15 +24857,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-485,
-779,
-806,
-819,
-820,
-827,
-831
+496,
+790,
+817,
+830,
+831,
+838,
+842
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 425\n</p>\n<p>\n<b>Sheet No.</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Precinct\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Harmon, Willis M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 29\n</p>\n<p>\n<b>Relationship to head</b>: son in law\n</p>\n<p>\n<b>Married</b>: M\n</p>\n<p>\n<b>Occupation</b>: Mill Wright\n</p>\n<p>\n<b>Place of birth</b>: United States\n</p>\n<p>\n<b>Place of birth of father</b>: United States\n</p>\n<p>\n<b>Place of birth of mother</b>: United States\n</p>\n</div>",
 "type": "Census"
 }
@@ -24737,7 +24881,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-487
+498
 ],
 "place": 264,
 "text": "",
@@ -24752,7 +24896,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-487
+498
 ],
 "place": 68,
 "text": "",
@@ -24769,7 +24913,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-488
+499
 ],
 "place": 340,
 "text": "",
@@ -24784,7 +24928,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-488
+499
 ],
 "place": 6,
 "text": "",
@@ -24799,7 +24943,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-488
+499
 ],
 "place": 67,
 "text": "",
@@ -24822,7 +24966,7 @@ I_events_0 = [
 29,
 36,
 37,
-488
+499
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1336\n</p>\n<p>\n<b>Page No.</b>: 10\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: West Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 3\n</p>\n<p>\n<b>Family No.</b>: 2\n</p>\n<p>\n<b>Name</b>: Barlow, Lucy\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 43\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: keeping house\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -24848,10 +24992,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-496,
-856,
-857,
-859
+507,
+867,
+868,
+870
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T625\n</p>\n<p>\n<b>Roll No.</b>: 1865\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 90\n</p>\n<p>\n<b>Page No.</b>: 231\n</p>\n<p>\n<b>Division of County</b>: Precinct 11\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-10\n</p>\n<p>\n<b>Street Address</b>: 340 Coatsville Avenue\n</p>\n<p>\n<b>Name</b>: Hendry, Milton A\n</p>\n<p>\n<b>Relationship to head</b>: Son in law\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 21\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Attended school since Sept. 1, 1919</b>: no\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Father mother tongue</b>: Scotch\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Mother's mother tongue</b>: English\n</p>\n<p>\n<b>Able to speak English</b>: tes\n</p>\n<p>\n<b>Occupation</b>: Auto Mechanic\n</p>\n<p>\n<b>Industry</b>: Millinay Co\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: W\n</p>\n</div>",
@@ -24870,9 +25014,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-499
+510
 ],
-"place": 766,
+"place": 767,
 "text": "",
 "type": "Birth"
 }
@@ -24888,9 +25032,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-501
+512
 ],
-"place": 750,
+"place": 751,
 "text": "",
 "type": "Birth"
 },
@@ -24903,7 +25047,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-501
+512
 ],
 "place": 68,
 "text": "",
@@ -24918,7 +25062,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-501
+512
 ],
 "place": 67,
 "text": "",
@@ -24935,14 +25079,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-107,
-109,
-111,
+110,
+112,
 114,
-120,
-127,
-501,
-587
+117,
+123,
+130,
+512,
+598
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-15\n</p>\n<p>\n<b>Post Office</b>: Stoker\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 110\n</p>\n<p>\n<b>Name</b>: Call, Charlotte\n</p>\n<p>\n<b>Age</b>: 26\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Ohio\n</p>\n</div>",
@@ -24959,7 +25103,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502
+513
 ],
 "place": 219,
 "text": "",
@@ -24974,7 +25118,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502
+513
 ],
 "place": 68,
 "text": "",
@@ -24989,7 +25133,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502
+513
 ],
 "place": 67,
 "text": "",
@@ -25006,12 +25150,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502,
-896,
-899,
-910
+513,
+907,
+910,
+921
 ],
-"place": 680,
+"place": 681,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 113\n</p>\n<p>\n<b>County of</b>: Tooele\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Line No.</b>: 33\n</p>\n<p>\n<b>Name</b>: Tolman, Sarah\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n</div>",
 "type": "Census"
 },
@@ -25026,17 +25170,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502,
-879,
-888,
-892,
-894,
-896,
+513,
+890,
 899,
-902,
+903,
+905,
+907,
 910,
-911,
-914
+913,
+921,
+922,
+925
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Sheet No.</b>: 346\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-14\n</p>\n<p>\n<b>Post Office</b>: Salt Lake\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 77\n</p>\n<p>\n<b>Name</b>: Tolman, Sarah\n</p>\n<p>\n<b>Age</b>: 26\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n</div>",
@@ -25054,7 +25198,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-504
+515
 ],
 "place": 471,
 "text": "",
@@ -25069,7 +25213,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-504
+515
 ],
 "place": 163,
 "text": "",
@@ -25086,7 +25230,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-505
+516
 ],
 "place": 29,
 "text": "",
@@ -25101,7 +25245,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-505
+516
 ],
 "place": 29,
 "text": "",
@@ -25118,7 +25262,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-506
+517
 ],
 "place": 163,
 "text": "",
@@ -25133,7 +25277,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-506
+517
 ],
 "place": 17,
 "text": "",
@@ -25148,7 +25292,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-506
+517
 ],
 "place": 16,
 "text": "",
@@ -25165,7 +25309,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-507
+518
 ],
 "place": 163,
 "text": "",
@@ -25180,7 +25324,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-507
+518
 ],
 "place": 223,
 "text": "",
@@ -25195,7 +25339,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-507
+518
 ],
 "place": 626,
 "text": "",
@@ -25212,7 +25356,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-508
+519
 ],
 "place": 45,
 "text": "",
@@ -25227,7 +25371,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-508
+519
 ],
 "place": 17,
 "text": "",
@@ -25242,7 +25386,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-508
+519
 ],
 "place": 16,
 "text": "",
@@ -25259,9 +25403,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-509
+520
 ],
-"place": 762,
+"place": 763,
 "text": "",
 "type": "Birth"
 },
@@ -25274,7 +25418,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-509
+520
 ],
 "place": 559,
 "text": "",
@@ -25289,7 +25433,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-509
+520
 ],
 "place": 16,
 "text": "",
@@ -25306,7 +25450,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-510
+521
 ],
 "place": 82,
 "text": "",
@@ -25321,7 +25465,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-510
+521
 ],
 "place": 82,
 "text": "",
@@ -25338,9 +25482,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-511
+522
 ],
-"place": 738,
+"place": 739,
 "text": "",
 "type": "Birth"
 },
@@ -25353,7 +25497,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-511
+522
 ],
 "place": 183,
 "text": "",
@@ -25368,7 +25512,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-511
+522
 ],
 "place": 182,
 "text": "",
@@ -25385,13 +25529,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338,
-348,
+342,
 352,
-353,
-354,
+356,
 357,
-511
+358,
+361,
+522
 ],
 "place": 17,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 124\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 59\n</p>\n<p>\n<b>Sheet No.</b>: 4A\n</p>\n<p>\n<b>Division of County</b>: Almy Precinct No 1, Election District No 2\n</p>\n<p>\n<b>City, Town, Village</b>: Town of Almy\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Easton, Maggie\n</p>\n<p>\n<b>Relation to head</b>: Head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Apr\n</p>\n<p>\n<b>Year of birth</b>: 1872\n</p>\n<p>\n<b>Age</b>: 28\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 11\n</p>\n<p>\n<b>Mother of how many children</b>: 6\n</p>\n<p>\n<b>Number of children living</b>: 6\n</p>\n<p>\n<b>Place of birth</b>: Scotland\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Year of immigration</b>: 1882\n</p>\n<p>\n<b>Number of years in US</b>: 18\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n</div>",
@@ -25408,15 +25552,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338,
 342,
-345,
-348,
+346,
+349,
 352,
-354,
 356,
-357,
-511
+358,
+360,
+361,
+522
 ],
 "place": 147,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 128\n</p>\n<p>\n<b>Page No.</b>: 81\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Diamondville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Diamondville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-07\n</p>\n<p>\n<b>Name</b>: Easton, Margaret\n</p>\n<p>\n<b>Relationship to head</b>: wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 37\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 20\n</p>\n<p>\n<b>Mother of how many children</b>: 10\n</p>\n<p>\n<b>Number of children living</b>: 9\n</p>\n<p>\n<b>Place of birth</b>: Scotland\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Year of immigration</b>: 1883\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -25433,11 +25577,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-342,
-348,
-355,
-356,
-511
+346,
+352,
+359,
+360,
+522
 ],
 "place": 183,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 89\n</p>\n<p>\n<b>Page No.</b>: 5B\n</p>\n<p>\n<b>City, Town, Village</b>: Evanston Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-11\n</p>\n<p>\n<b>Street Address</b>: Morse Lee St\n</p>\n<p>\n<b>Name</b>: Easton, Margaret\n</p>\n<p>\n<b>Relationship to head</b>: wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 47\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Year of immigration</b>: 1881\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Year of naturalization</b>: 1890\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Scotland\n</p>\n<p>\n<b>Mother tongue</b>: Scotch\n</p>\n<p>\n<b>Place of birth of father</b>: Scotland\n</p>\n<p>\n<b>Father mother tongue</b>: Scotch\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Mother's mother tongue</b>: Scotch\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -25454,7 +25598,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-512
+523
 ],
 "place": 313,
 "text": "",
@@ -25469,7 +25613,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-512
+523
 ],
 "place": 468,
 "text": "",
@@ -25484,7 +25628,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-512
+523
 ],
 "place": 467,
 "text": "",
@@ -25501,8 +25645,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-513,
-517
+524,
+528
 ],
 "place": 163,
 "text": "",
@@ -25517,7 +25661,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-513
+524
 ],
 "place": 163,
 "text": "",
@@ -25534,7 +25678,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-514
+525
 ],
 "place": 529,
 "text": "",
@@ -25549,7 +25693,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-514
+525
 ],
 "place": 186,
 "text": "",
@@ -25564,7 +25708,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-514
+525
 ],
 "place": 185,
 "text": "",
@@ -25581,9 +25725,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-515
+526
 ],
-"place": 739,
+"place": 740,
 "text": "",
 "type": "Birth"
 },
@@ -25596,7 +25740,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-515
+526
 ],
 "place": 304,
 "text": "",
@@ -25611,7 +25755,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-515
+526
 ],
 "place": 626,
 "text": "",
@@ -25628,9 +25772,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-516
+527
 ],
-"place": 739,
+"place": 740,
 "text": "",
 "type": "Birth"
 },
@@ -25643,7 +25787,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-516
+527
 ],
 "place": 186,
 "text": "",
@@ -25658,7 +25802,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-516
+527
 ],
 "place": 185,
 "text": "",
@@ -25675,8 +25819,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-513,
-517
+524,
+528
 ],
 "place": 163,
 "text": "",
@@ -25691,7 +25835,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-517
+528
 ],
 "place": 163,
 "text": "",
@@ -25708,9 +25852,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-518
+529
 ],
-"place": 711,
+"place": 712,
 "text": "",
 "type": "Birth"
 },
@@ -25723,7 +25867,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-518
+529
 ],
 "place": 610,
 "text": "",
@@ -25738,7 +25882,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-518
+529
 ],
 "place": 610,
 "text": "",
@@ -25755,7 +25899,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-519
+530
 ],
 "place": 610,
 "text": "",
@@ -25770,7 +25914,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-519
+530
 ],
 "place": 610,
 "text": "",
@@ -25787,7 +25931,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-520
+531
 ],
 "place": 610,
 "text": "",
@@ -25802,7 +25946,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-520
+531
 ],
 "place": 498,
 "text": "",
@@ -25817,7 +25961,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-520
+531
 ],
 "place": 497,
 "text": "",
@@ -25834,7 +25978,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-521
+532
 ],
 "place": 610,
 "text": "",
@@ -25849,7 +25993,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-521
+532
 ],
 "place": 610,
 "text": "",
@@ -25864,7 +26008,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-521
+532
 ],
 "place": 609,
 "text": "",
@@ -25881,7 +26025,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-522
+533
 ],
 "place": -1,
 "text": "",
@@ -25896,7 +26040,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-522
+533
 ],
 "place": 610,
 "text": "",
@@ -25913,7 +26057,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-523
+534
 ],
 "place": 610,
 "text": "",
@@ -25930,7 +26074,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-524
+535
 ],
 "place": 610,
 "text": "",
@@ -25945,7 +26089,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-524
+535
 ],
 "place": 610,
 "text": "",
@@ -25962,7 +26106,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-525
+536
 ],
 "place": 610,
 "text": "",
@@ -25979,15 +26123,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-366,
 371,
-372,
-373,
-374,
+376,
 377,
-380,
-381,
-525
+378,
+379,
+382,
+385,
+386,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 29\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07 to 1880-06-08\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 72\n</p>\n<p>\n<b>Name</b>: Eyre, Rebecca\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 48\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Married</b>: M\n</p>\n<p>\n<b>Occupation</b>: Keeping House\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -26002,7 +26146,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-525
+536
 ],
 "place": 372,
 "text": "",
@@ -26017,7 +26161,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-525
+536
 ],
 "place": 370,
 "text": "",
@@ -26034,13 +26178,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-371,
-372,
-373,
-374,
+376,
 377,
+378,
 379,
-525
+382,
+384,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 4\n</p>\n<p>\n<b>Minor Civil Division</b>: District nw of Minersville\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-22\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 22\n</p>\n<p>\n<b>Name</b>: Eyre, Rebecca\n</p>\n<p>\n<b>Age</b>: 38\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Keeping House\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -26057,8 +26201,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-371,
-525
+376,
+536
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Division of County</b>: Minersville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Minersville Town\n</p>\n<p>\n<b>Street Address</b>: Second West Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-02\n</p>\n<p>\n<b>Name</b>: Eyre, Rebecca\n</p>\n<p>\n<b>Relation to head</b>: Wife\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Mar\n</p>\n<p>\n<b>Year of birth</b>: 1832\n</p>\n<p>\n<b>Age</b>: 68\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 39\n</p>\n<p>\n<b>Mother of how many children</b>: 8\n</p>\n<p>\n<b>Number of children living</b>: 5\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Year of immigration</b>: 1861\n</p>\n<p>\n<b>Number of years in US</b>: 39\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -26075,8 +26219,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-371,
-525
+376,
+536
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 133\n</p>\n<p>\n<b>Page No.</b>: 131\n</p>\n<p>\n<b>Sheet No.</b>: 7B\n</p>\n<p>\n<b>Division of County</b>: Township 15 & 16 Lyman Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Lyman Villate\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-16\n</p>\n<p>\n<b>Name</b>: Eyre, Rebekah\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 78\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 49\n</p>\n<p>\n<b>Mother of how many children</b>: 9\n</p>\n<p>\n<b>Number of children living</b>: 7\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: Engalnd\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Year of immigration</b>: 1861\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n</div>",
@@ -26093,7 +26237,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-526
+537
 ],
 "place": 20,
 "text": "",
@@ -26108,7 +26252,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-526
+537
 ],
 "place": 435,
 "text": "",
@@ -26125,7 +26269,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-527
+538
 ],
 "place": 59,
 "text": "",
@@ -26140,7 +26284,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-527
+538
 ],
 "place": 241,
 "text": "",
@@ -26155,7 +26299,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-527
+538
 ],
 "place": 240,
 "text": "",
@@ -26172,12 +26316,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-527,
-530,
-531,
-532,
-533,
-535
+538,
+541,
+542,
+543,
+544,
+546
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 2\n</p>\n<p>\n<b>Sheet No.</b>: 210\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 25\n</p>\n<p>\n<b>Family No.</b>: 58\n</p>\n<p>\n<b>Name</b>: Howard, Elizabeth\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -26194,7 +26338,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-528
+539
 ],
 "place": 31,
 "text": "",
@@ -26209,7 +26353,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-528
+539
 ],
 "place": 330,
 "text": "",
@@ -26224,7 +26368,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-528
+539
 ],
 "place": 67,
 "text": "",
@@ -26241,7 +26385,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-529
+540
 ],
 "place": 31,
 "text": "",
@@ -26256,9 +26400,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-529
+540
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Death"
 },
@@ -26271,7 +26415,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-529
+540
 ],
 "place": 67,
 "text": "",
@@ -26288,7 +26432,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-530
+541
 ],
 "place": 31,
 "text": "",
@@ -26303,7 +26447,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-530
+541
 ],
 "place": 612,
 "text": "",
@@ -26318,7 +26462,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-530
+541
 ],
 "place": -1,
 "text": "",
@@ -26335,12 +26479,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-527,
-530,
-531,
-532,
-533,
-535
+538,
+541,
+542,
+543,
+544,
+546
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 2\n</p>\n<p>\n<b>Sheet No.</b>: 210\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 25\n</p>\n<p>\n<b>Family No.</b>: 58\n</p>\n<p>\n<b>Name</b>: Howard, John\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -26357,7 +26501,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-531
+542
 ],
 "place": 316,
 "text": "",
@@ -26372,7 +26516,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-531
+542
 ],
 "place": 68,
 "text": "",
@@ -26387,7 +26531,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-531
+542
 ],
 "place": 67,
 "text": "",
@@ -26404,12 +26548,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-527,
-530,
-531,
-532,
-533,
-535
+538,
+541,
+542,
+543,
+544,
+546
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 2\n</p>\n<p>\n<b>Sheet No.</b>: 210\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 25\n</p>\n<p>\n<b>Family No.</b>: 58\n</p>\n<p>\n<b>Name</b>: Howard, Joseph\n</p>\n<p>\n<b>Age</b>: 50\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Value of real estate</b>: 800\n</p>\n<p>\n<b>Value of personal estate</b>: 700\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -26426,7 +26570,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-532
+543
 ],
 "place": 59,
 "text": "",
@@ -26441,7 +26585,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-532
+543
 ],
 "place": 587,
 "text": "",
@@ -26456,7 +26600,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-532
+543
 ],
 "place": 67,
 "text": "",
@@ -26473,12 +26617,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-527,
-530,
-531,
-532,
-533,
-535
+538,
+541,
+542,
+543,
+544,
+546
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 2\n</p>\n<p>\n<b>Sheet No.</b>: 210\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 25\n</p>\n<p>\n<b>Family No.</b>: 58\n</p>\n<p>\n<b>Name</b>: Howard, Joseph Jr\n</p>\n<p>\n<b>Age</b>: 20\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Farm Hand\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -26495,7 +26639,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533
+544
 ],
 "place": 31,
 "text": "",
@@ -26510,7 +26654,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533
+544
 ],
 "place": 587,
 "text": "",
@@ -26525,7 +26669,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533
+544
 ],
 "place": 527,
 "text": "",
@@ -26542,14 +26686,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-880,
-889,
+544,
 891,
-897,
-899,
-904,
-909
+900,
+902,
+908,
+910,
+915,
+920
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 52\n</p>\n<p>\n<b>Sheet No.</b>: 2B\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Tolman, Mary A\n</p>\n<p>\n<b>Relation to head</b>: Wife\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Mch\n</p>\n<p>\n<b>Year of birth</b>: 1851\n</p>\n<p>\n<b>Age</b>: 49\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 26\n</p>\n<p>\n<b>Mother of how many children</b>: 11\n</p>\n<p>\n<b>Number of children living</b>: 11\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Year of immigration</b>: 1864\n</p>\n<p>\n<b>Number of years in US</b>: 35\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -26566,14 +26710,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-881,
-884,
-899,
-907,
-912
+544,
+892,
+895,
+910,
+918,
+923
 ],
-"place": 680,
+"place": 681,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 8\n</p>\n<p>\n<b>Sheet No.</b>: D\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 77\n</p>\n<p>\n<b>Minor Civil Division</b>: East Canyon Creek, Ophir Precinct\n</p>\n<p>\n<b>County of</b>: Tooele\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 14\n</p>\n<p>\n<b>Family No.</b>: 18\n</p>\n<p>\n<b>Name</b>: Howard, Mary A\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 29\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Housekeeping\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
 "type": "Census"
 },
@@ -26588,11 +26732,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-891,
-899,
-904,
-909
+544,
+902,
+910,
+915,
+920
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>Roll No.</b>: 227\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Oneida\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 41\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 240\n</p>\n<p>\n<b>Page No.</b>: 175\n</p>\n<p>\n<b>Sheet No.</b>: 16A\n</p>\n<p>\n<b>Division of County</b>: Preston Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Preston Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-04\n</p>\n<p>\n<b>Name</b>: Howard, Mary A\n</p>\n<p>\n<b>Relationship to head</b>: wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 59\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 37\n</p>\n<p>\n<b>Mother of how many children</b>: 11\n</p>\n<p>\n<b>Number of children living</b>: 11\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Year of immigration</b>: 1868\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -26609,12 +26753,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-527,
-530,
-531,
-532,
-533,
-535
+538,
+541,
+542,
+543,
+544,
+546
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 2\n</p>\n<p>\n<b>Sheet No.</b>: 210\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 25\n</p>\n<p>\n<b>Family No.</b>: 58\n</p>\n<p>\n<b>Name</b>: Howard, Maryann\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -26631,8 +26775,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-891
+544,
+902
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T625\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Franklin\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 158\n</p>\n<p>\n<b>Page No.</b>: 139\n</p>\n<p>\n<b>Division of County</b>: Precinct No 1\n</p>\n<p>\n<b>City, Town, Village</b>: Preston City\n</p>\n<p>\n<b>Ward of city</b>: 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-17\n</p>\n<p>\n<b>Name</b>: Howard, Mary Ann\n</p>\n<p>\n<b>Relationship to head</b>: Mother\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 68\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: Wd\n</p>\n<p>\n<b>Year of immigration</b>: 1862\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Year of naturalization</b>: 1894\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Mother's mother tongue</b>: English\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -26649,7 +26793,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-534
+545
 ],
 "place": 31,
 "text": "",
@@ -26664,7 +26808,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-534
+545
 ],
 "place": 436,
 "text": "",
@@ -26679,7 +26823,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-534
+545
 ],
 "place": -1,
 "text": "",
@@ -26696,7 +26840,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-535
+546
 ],
 "place": 31,
 "text": "",
@@ -26711,7 +26855,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-535
+546
 ],
 "place": 587,
 "text": "",
@@ -26726,7 +26870,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-535
+546
 ],
 "place": 67,
 "text": "",
@@ -26743,12 +26887,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-527,
-530,
-531,
-532,
-533,
-535
+538,
+541,
+542,
+543,
+544,
+546
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 2\n</p>\n<p>\n<b>Sheet No.</b>: 210\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 25\n</p>\n<p>\n<b>Family No.</b>: 58\n</p>\n<p>\n<b>Name</b>: Howard, Samuel\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at home\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -26765,7 +26909,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-536
+547
 ],
 "place": 31,
 "text": "",
@@ -26780,7 +26924,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-536
+547
 ],
 "place": -1,
 "text": "",
@@ -26797,7 +26941,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-537
+548
 ],
 "place": 59,
 "text": "",
@@ -26812,7 +26956,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-537
+548
 ],
 "place": 68,
 "text": "",
@@ -26827,7 +26971,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-537
+548
 ],
 "place": 67,
 "text": "",
@@ -26844,7 +26988,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-538
+549
 ],
 "place": 59,
 "text": "",
@@ -26859,7 +27003,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-538
+549
 ],
 "place": 68,
 "text": "",
@@ -26874,7 +27018,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-538
+549
 ],
 "place": 67,
 "text": "",
@@ -26891,7 +27035,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-539
+550
 ],
 "place": 541,
 "text": "",
@@ -26908,7 +27052,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-540
+551
 ],
 "place": 447,
 "text": "",
@@ -26923,7 +27067,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-540
+551
 ],
 "place": 463,
 "text": "",
@@ -26940,7 +27084,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-541
+552
 ],
 "place": 541,
 "text": "",
@@ -26955,7 +27099,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-541
+552
 ],
 "place": 541,
 "text": "",
@@ -26970,7 +27114,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-541
+552
 ],
 "place": 540,
 "text": "",
@@ -26987,7 +27131,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-542
+553
 ],
 "place": 447,
 "text": "",
@@ -27002,7 +27146,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-542
+553
 ],
 "place": 541,
 "text": "",
@@ -27019,7 +27163,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-543
+554
 ],
 "place": 404,
 "text": "",
@@ -27034,7 +27178,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-543
+554
 ],
 "place": 190,
 "text": "",
@@ -27051,7 +27195,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-544
+555
 ],
 "place": 160,
 "text": "",
@@ -27066,7 +27210,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-544
+555
 ],
 "place": 411,
 "text": "",
@@ -27081,7 +27225,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-544
+555
 ],
 "place": 410,
 "text": "",
@@ -27106,10 +27250,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-551,
-670,
-673
+259,
+562,
+681,
+684
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 96\n</p>\n<p>\n<b>Page No.</b>: 144\n</p>\n<p>\n<b>Sheet No.</b>: 25B\n</p>\n<p>\n<b>Division of County</b>: 2nd District\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-20\n</p>\n<p>\n<b>Name</b>: Ingham, William H\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 41\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 13\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Salesman\n</p>\n<p>\n<b>Nature of industry</b>: Shoe Store\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Out of work</b>: No\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: 8\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n</div>",
@@ -27126,9 +27270,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-552
+563
 ],
-"place": 728,
+"place": 729,
 "text": "",
 "type": "Birth"
 },
@@ -27141,7 +27285,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-552
+563
 ],
 "place": 296,
 "text": "",
@@ -27156,7 +27300,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-552
+563
 ],
 "place": 586,
 "text": "",
@@ -27174,16 +27318,16 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 47,
-552,
-605,
-630,
-632,
-639,
-654,
-666,
+563,
+616,
+641,
+643,
+650,
+665,
 677,
-679,
-683
+688,
+690,
+694
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 16\n</p>\n<p>\n<b>County of</b>: Salt Lake County\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Line No.</b>: 9\n</p>\n<p>\n<b>Name</b>: Pack, Julia\n</p>\n</div>",
@@ -27201,7 +27345,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-554
+565
 ],
 "place": 374,
 "text": "",
@@ -27216,7 +27360,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-554
+565
 ],
 "place": 271,
 "text": "",
@@ -27233,7 +27377,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-555
+566
 ],
 "place": 433,
 "text": "",
@@ -27248,7 +27392,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-555
+566
 ],
 "place": 107,
 "text": "",
@@ -27271,7 +27415,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-562
+573
 ],
 "place": 635,
 "text": "",
@@ -27286,7 +27430,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-562
+573
 ],
 "place": 61,
 "text": "",
@@ -27301,7 +27445,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-562
+573
 ],
 "place": 284,
 "text": "",
@@ -27318,12 +27462,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-208,
-562,
-567,
+211,
 573,
-577,
-578
+578,
+584,
+588,
+589
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 27\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-04\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 11\n</p>\n<p>\n<b>Family No.</b>: 1945\n</p>\n<p>\n<b>Name</b>: Kendall, Ada M\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n</div>",
@@ -27340,7 +27484,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-563
+574
 ],
 "place": 635,
 "text": "",
@@ -27355,7 +27499,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-563
+574
 ],
 "place": 635,
 "text": "",
@@ -27372,7 +27516,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-564
+575
 ],
 "place": 635,
 "text": "",
@@ -27387,7 +27531,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-564
+575
 ],
 "place": 531,
 "text": "",
@@ -27402,7 +27546,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-564
+575
 ],
 "place": 175,
 "text": "",
@@ -27419,15 +27563,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-564,
-569,
-574,
-578,
-581,
-582,
-583,
-585
+212,
+575,
+580,
+585,
+589,
+592,
+593,
+594,
+596
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 18\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 82\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville City & Precinct\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 42\n</p>\n<p>\n<b>Name</b>: Kendall, Bertha P\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 5\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Missouri\n</p>\n</div>",
@@ -27444,7 +27588,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-565
+576
 ],
 "place": 485,
 "text": "",
@@ -27459,7 +27603,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-565
+576
 ],
 "place": -1,
 "text": "",
@@ -27476,7 +27620,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-566
+577
 ],
 "place": 635,
 "text": "",
@@ -27491,7 +27635,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-566
+577
 ],
 "place": 635,
 "text": "",
@@ -27506,7 +27650,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-566
+577
 ],
 "place": 262,
 "text": "",
@@ -27523,7 +27667,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-567
+578
 ],
 "place": 635,
 "text": "",
@@ -27538,9 +27682,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-567
+578
 ],
-"place": 710,
+"place": 711,
 "text": "",
 "type": "Death"
 },
@@ -27553,9 +27697,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-567
+578
 ],
-"place": 709,
+"place": 710,
 "text": "",
 "type": "Burial"
 },
@@ -27570,12 +27714,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-208,
-562,
-567,
+211,
 573,
-577,
-578
+578,
+584,
+588,
+589
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 27\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-04\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 11\n</p>\n<p>\n<b>Family No.</b>: 1945\n</p>\n<p>\n<b>Name</b>: Kendall, Charlotte A\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n</div>",
@@ -27592,7 +27736,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-568
+579
 ],
 "place": 635,
 "text": "",
@@ -27607,7 +27751,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-568
+579
 ],
 "place": 587,
 "text": "",
@@ -27622,7 +27766,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-568
+579
 ],
 "place": 184,
 "text": "",
@@ -27639,7 +27783,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-569
+580
 ],
 "place": 635,
 "text": "",
@@ -27654,7 +27798,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-569
+580
 ],
 "place": 176,
 "text": "",
@@ -27669,7 +27813,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-569
+580
 ],
 "place": 175,
 "text": "",
@@ -27686,16 +27830,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-569,
-572,
-578,
+212,
 580,
-581,
 583,
-584,
-585,
-586
+589,
+591,
+592,
+594,
+595,
+596,
+597
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21\n</p>\n<p>\n<b>Sheet No.</b>: 334\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-09\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 148\n</p>\n<p>\n<b>Name</b>: Kendall, Electa\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At Home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -27712,15 +27856,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-564,
-569,
-574,
-578,
-581,
-582,
-583,
-585
+212,
+575,
+580,
+585,
+589,
+592,
+593,
+594,
+596
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 18\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 82\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville City & Precinct\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 42\n</p>\n<p>\n<b>Name</b>: Kendall, Electa V\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: At Home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Missouri\n</p>\n</div>",
@@ -27737,7 +27881,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-570
+581
 ],
 "place": 635,
 "text": "",
@@ -27752,7 +27896,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-570
+581
 ],
 "place": 531,
 "text": "",
@@ -27767,7 +27911,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-570
+581
 ],
 "place": 530,
 "text": "",
@@ -27784,7 +27928,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-571
+582
 ],
 "place": 635,
 "text": "",
@@ -27799,7 +27943,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-571
+582
 ],
 "place": -1,
 "text": "",
@@ -27816,7 +27960,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-572
+583
 ],
 "place": 635,
 "text": "",
@@ -27831,7 +27975,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-572
+583
 ],
 "place": 197,
 "text": "",
@@ -27846,7 +27990,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-572
+583
 ],
 "place": 151,
 "text": "",
@@ -27863,16 +28007,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-569,
-572,
-578,
+212,
 580,
-581,
 583,
-584,
-585,
-586
+589,
+591,
+592,
+594,
+595,
+596,
+597
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21\n</p>\n<p>\n<b>Sheet No.</b>: 334\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-09\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 148\n</p>\n<p>\n<b>Name</b>: Kendall, Elenor\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: No Occupation\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -27889,12 +28033,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-572,
-580,
-584,
-586,
-974
+212,
+583,
+591,
+595,
+597,
+985
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 278\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-04\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 7\n</p>\n<p>\n<b>Family No.</b>: 1946\n</p>\n<p>\n<b>Name</b>: Kenell, Ellenor\n</p>\n<p>\n<b>Age</b>: 3\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -27911,7 +28055,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-573
+584
 ],
 "place": 587,
 "text": "",
@@ -27926,7 +28070,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-573
+584
 ],
 "place": 485,
 "text": "",
@@ -27941,7 +28085,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-573
+584
 ],
 "place": 484,
 "text": "",
@@ -27958,12 +28102,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-208,
-562,
-567,
+211,
 573,
-577,
-578
+578,
+584,
+588,
+589
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 27\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-04\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 11\n</p>\n<p>\n<b>Family No.</b>: 1945\n</p>\n<p>\n<b>Name</b>: Kendall, Joseph\n</p>\n<p>\n<b>Age</b>: 7\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -27980,7 +28124,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-574
+585
 ],
 "place": 635,
 "text": "",
@@ -27995,7 +28139,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-574
+585
 ],
 "place": 531,
 "text": "",
@@ -28010,7 +28154,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-574
+585
 ],
 "place": 467,
 "text": "",
@@ -28027,15 +28171,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-564,
-569,
-574,
-578,
-581,
-582,
-583,
-585
+212,
+575,
+580,
+585,
+589,
+592,
+593,
+594,
+596
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 18\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 82\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville City & Precinct\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 42\n</p>\n<p>\n<b>Name</b>: Kendall, Julius N\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Missouri\n</p>\n</div>",
@@ -28052,9 +28196,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-208,
-574,
-578
+211,
+585,
+589
 ],
 "place": 389,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1687\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 157\n</p>\n<p>\n<b>Page No.</b>: 68\n</p>\n<p>\n<b>Sheet No.</b>: 12B\n</p>\n<p>\n<b>Division of County</b>: Mapleton Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-23\n</p>\n<p>\n<b>Name</b>: Kendall, Julius Nathaniel\n</p>\n<p>\n<b>Relation to head</b>: son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: November\n</p>\n<p>\n<b>Year of birth</b>: 1872\n</p>\n<p>\n<b>Age</b>: 27\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 6\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Ohio\n</p>\n<p>\n<b>Occupation</b>: Farm Laborer\n</p>\n<p>\n<b>Months not employed</b>: 0\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -28071,7 +28215,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-575
+586
 ],
 "place": 587,
 "text": "",
@@ -28086,7 +28230,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-575
+586
 ],
 "place": 587,
 "text": "",
@@ -28101,7 +28245,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-575
+586
 ],
 "place": 586,
 "text": "",
@@ -28111,8 +28255,8 @@ I_events_0 = [
 [
 {
 "cita": [
-121,
-162
+125,
+166
 ],
 "date": "1798-06-13",
 "date_sdn": 2377930,
@@ -28121,7 +28265,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-576
+587
 ],
 "place": 570,
 "text": "",
@@ -28129,7 +28273,7 @@ I_events_0 = [
 },
 {
 "cita": [
-164
+168
 ],
 "date": "1822-04-19",
 "date_sdn": 2386640,
@@ -28138,7 +28282,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-576
+587
 ],
 "place": 353,
 "text": "",
@@ -28153,7 +28297,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-576
+587
 ],
 "place": 353,
 "text": "",
@@ -28168,7 +28312,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-576
+587
 ],
 "place": 353,
 "text": "",
@@ -28185,7 +28329,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-577
+588
 ],
 "place": 587,
 "text": "",
@@ -28200,9 +28344,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-577
+588
 ],
-"place": 704,
+"place": 705,
 "text": "",
 "type": "Death"
 },
@@ -28215,9 +28359,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-577
+588
 ],
-"place": 703,
+"place": 704,
 "text": "",
 "type": "Burial"
 },
@@ -28232,12 +28376,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-208,
-562,
-567,
+211,
 573,
-577,
-578
+578,
+584,
+588,
+589
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 27\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-04\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 11\n</p>\n<p>\n<b>Family No.</b>: 1945\n</p>\n<p>\n<b>Name</b>: Kendall, Levi C\n</p>\n<p>\n<b>Age</b>: 10\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -28254,7 +28398,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-578
+589
 ],
 "place": 353,
 "text": "",
@@ -28269,7 +28413,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-578
+589
 ],
 "place": 389,
 "text": "",
@@ -28284,7 +28428,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-578
+589
 ],
 "place": 184,
 "text": "",
@@ -28301,16 +28445,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-569,
-572,
-578,
+212,
 580,
-581,
 583,
-584,
-585,
-586
+589,
+591,
+592,
+594,
+595,
+596,
+597
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21\n</p>\n<p>\n<b>Sheet No.</b>: 334\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-09\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 148\n</p>\n<p>\n<b>Name</b>: Kendall, Levi Newell\n</p>\n<p>\n<b>Age</b>: 48\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Laborer\n</p>\n<p>\n<b>Place of birth</b>: Michigan\n</p>\n<p>\n<b>Male citizen 21 and over</b>: Y\n</p>\n</div>",
@@ -28327,12 +28471,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-208,
-562,
-567,
+211,
 573,
-577,
-578
+578,
+584,
+588,
+589
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 27\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-04\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 11\n</p>\n<p>\n<b>Family No.</b>: 1945\n</p>\n<p>\n<b>Name</b>: Kendall, L. N.\n</p>\n<p>\n<b>Age</b>: 31\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Occupation</b>: F(armer?)\n</p>\n<p>\n<b>Value of real estate</b>: 200\n</p>\n<p>\n<b>Value of personal estate</b>: 175\n</p>\n<p>\n<b>Place of birth</b>: Michigan\n</p>\n</div>",
@@ -28349,15 +28493,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-564,
-569,
-574,
-578,
-581,
-582,
-583,
-585
+212,
+575,
+580,
+585,
+589,
+592,
+593,
+594,
+596
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 18\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 82\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville City & Precinct\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 42\n</p>\n<p>\n<b>Name</b>: Kendall, Levi Newell\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 58\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Laborer\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Canada\n</p>\n</div>",
@@ -28374,9 +28518,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-208,
-574,
-578
+211,
+585,
+589
 ],
 "place": 389,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1687\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 157\n</p>\n<p>\n<b>Page No.</b>: 68\n</p>\n<p>\n<b>Sheet No.</b>: 12B\n</p>\n<p>\n<b>Division of County</b>: Mapleton Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-23\n</p>\n<p>\n<b>Name</b>: Kendall, Levi Newell\n</p>\n<p>\n<b>Relation to head</b>: head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: April\n</p>\n<p>\n<b>Year of birth</b>: 1822\n</p>\n<p>\n<b>Age</b>: 78\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 52\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: New York\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Months not employed</b>: 0\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n<p>\n<b>Number of farm schedule</b>: 93\n</p>\n</div>",
@@ -28393,7 +28537,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-579
+590
 ],
 "place": 587,
 "text": "",
@@ -28408,7 +28552,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-579
+590
 ],
 "place": 587,
 "text": "",
@@ -28423,7 +28567,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-579
+590
 ],
 "place": 586,
 "text": "",
@@ -28440,7 +28584,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-580
+591
 ],
 "place": 587,
 "text": "",
@@ -28455,7 +28599,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-580
+591
 ],
 "place": 363,
 "text": "",
@@ -28470,7 +28614,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-580
+591
 ],
 "place": 22,
 "text": "",
@@ -28487,16 +28631,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-569,
-572,
-578,
+212,
 580,
-581,
 583,
-584,
-585,
-586
+589,
+591,
+592,
+594,
+595,
+596,
+597
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21\n</p>\n<p>\n<b>Sheet No.</b>: 334\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-09\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 148\n</p>\n<p>\n<b>Name</b>: Kendall, Lucy\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: No Occupation\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -28513,12 +28657,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-572,
-580,
-584,
-586,
-974
+212,
+583,
+591,
+595,
+597,
+985
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 278\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-04\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 7\n</p>\n<p>\n<b>Family No.</b>: 1946\n</p>\n<p>\n<b>Name</b>: Kenell, Lucy\n</p>\n<p>\n<b>Age</b>: 7\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -28535,7 +28679,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-581
+592
 ],
 "place": 635,
 "text": "",
@@ -28550,7 +28694,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-581
+592
 ],
 "place": 635,
 "text": "",
@@ -28565,7 +28709,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-581
+592
 ],
 "place": 262,
 "text": "",
@@ -28582,16 +28726,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-569,
-572,
-578,
+212,
 580,
-581,
 583,
-584,
-585,
-586
+589,
+591,
+592,
+594,
+595,
+596,
+597
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21\n</p>\n<p>\n<b>Sheet No.</b>: 334\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-09\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 148\n</p>\n<p>\n<b>Name</b>: Kendall, Margaret\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At Home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -28608,15 +28752,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-564,
-569,
-574,
-578,
-581,
-582,
-583,
-585
+212,
+575,
+580,
+585,
+589,
+592,
+593,
+594,
+596
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 18\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 82\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville City & Precinct\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 42\n</p>\n<p>\n<b>Name</b>: Kendall, Margaret L\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: At Home\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Missouri\n</p>\n</div>",
@@ -28633,7 +28777,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-582
+593
 ],
 "place": 635,
 "text": "",
@@ -28648,7 +28792,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-582
+593
 ],
 "place": 21,
 "text": "",
@@ -28663,7 +28807,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-582
+593
 ],
 "place": 0,
 "text": "",
@@ -28680,15 +28824,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-564,
-569,
-574,
-578,
-581,
-582,
-583,
-585
+212,
+575,
+580,
+585,
+589,
+592,
+593,
+594,
+596
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 18\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 82\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville City & Precinct\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 42\n</p>\n<p>\n<b>Name</b>: Kendall, Owen E\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 3\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Missouri\n</p>\n</div>",
@@ -28705,9 +28849,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-582,
-585
+212,
+593,
+596
 ],
 "place": 485,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 231\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 140\n</p>\n<p>\n<b>Page No.</b>: 174\n</p>\n<p>\n<b>Sheet No.</b>: 6B\n</p>\n<p>\n<b>Division of County</b>: Oxford Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Cotton wood village\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-07\n</p>\n<p>\n<b>Name</b>: Kendall, Owen\n</p>\n<p>\n<b>Relation to head</b>: brother\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: July\n</p>\n<p>\n<b>Year of birth</b>: 1877\n</p>\n<p>\n<b>Age</b>: 22\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Ohio\n</p>\n<p>\n<b>Place of birth of mother</b>: Missouri\n</p>\n<p>\n<b>Occupation</b>: Farm Laborer\n</p>\n<p>\n<b>Months not employed</b>: 0\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -28724,7 +28868,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-583
+594
 ],
 "place": 635,
 "text": "",
@@ -28739,7 +28883,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-583
+594
 ],
 "place": 667,
 "text": "",
@@ -28754,7 +28898,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-583
+594
 ],
 "place": 666,
 "text": "",
@@ -28771,16 +28915,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-569,
-572,
-578,
+212,
 580,
-581,
 583,
-584,
-585,
-586
+589,
+591,
+592,
+594,
+595,
+596,
+597
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21\n</p>\n<p>\n<b>Sheet No.</b>: 334\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-09\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 148\n</p>\n<p>\n<b>Name</b>: Kendall, Reuben\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At Home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -28797,15 +28941,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-564,
-569,
-574,
-578,
-581,
-582,
-583,
-585
+212,
+575,
+580,
+585,
+589,
+592,
+593,
+594,
+596
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 18\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 82\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville City & Precinct\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 42\n</p>\n<p>\n<b>Name</b>: Kendall, Reuben N\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: At Home\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Missouri\n</p>\n</div>",
@@ -28822,7 +28966,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-584
+595
 ],
 "place": 635,
 "text": "",
@@ -28837,7 +28981,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-584
+595
 ],
 "place": 544,
 "text": "",
@@ -28852,7 +28996,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-584
+595
 ],
 "place": 655,
 "text": "",
@@ -28869,16 +29013,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-569,
-572,
-578,
+212,
 580,
-581,
 583,
-584,
-585,
-586
+589,
+591,
+592,
+594,
+595,
+596,
+597
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21\n</p>\n<p>\n<b>Sheet No.</b>: 334\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-09\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 148\n</p>\n<p>\n<b>Name</b>: Kendall, Jane\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: No Occupation\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Cannot read</b>: Y\n</p>\n<p>\n<b>Cannot write</b>: Y\n</p>\n</div>",
@@ -28895,12 +29039,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-572,
-580,
-584,
-586,
-974
+212,
+583,
+591,
+595,
+597,
+985
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 278\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-04\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 7\n</p>\n<p>\n<b>Family No.</b>: 1946\n</p>\n<p>\n<b>Name</b>: Kenell, Roxie J\n</p>\n<p>\n<b>Age</b>: 8/12\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -28917,7 +29061,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-585
+596
 ],
 "place": 635,
 "text": "",
@@ -28932,7 +29076,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-585
+596
 ],
 "place": 1,
 "text": "",
@@ -28947,7 +29091,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-585
+596
 ],
 "place": 0,
 "text": "",
@@ -28964,16 +29108,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-569,
-572,
-578,
+212,
 580,
-581,
 583,
-584,
-585,
-586
+589,
+591,
+592,
+594,
+595,
+596,
+597
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21\n</p>\n<p>\n<b>Sheet No.</b>: 334\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-09\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 148\n</p>\n<p>\n<b>Name</b>: Kendall, Samuel\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At Home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -28990,15 +29134,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-564,
-569,
-574,
-578,
-581,
-582,
-583,
-585
+212,
+575,
+580,
+585,
+589,
+592,
+593,
+594,
+596
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 18\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 82\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville City & Precinct\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 42\n</p>\n<p>\n<b>Name</b>: Kendall, Samuel D\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Missouri\n</p>\n</div>",
@@ -29015,9 +29159,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-582,
-585
+212,
+593,
+596
 ],
 "place": 485,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 231\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 140\n</p>\n<p>\n<b>Page No.</b>: 174\n</p>\n<p>\n<b>Sheet No.</b>: 6B\n</p>\n<p>\n<b>Division of County</b>: Oxford Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Cotton wood village\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-07\n</p>\n<p>\n<b>Name</b>: Kendall, Samuel\n</p>\n<p>\n<b>Relation to head</b>: head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: December\n</p>\n<p>\n<b>Year of birth</b>: 1869\n</p>\n<p>\n<b>Age</b>: 30\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 5\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Missouri\n</p>\n<p>\n<b>Occupation</b>: Famer\n</p>\n<p>\n<b>Months not employed</b>: 0\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n<p>\n<b>Number of farm schedule</b>: 86\n</p>\n</div>",
@@ -29034,7 +29178,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-586
+597
 ],
 "place": 587,
 "text": "",
@@ -29049,7 +29193,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-586
+597
 ],
 "place": 37,
 "text": "",
@@ -29064,7 +29208,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-586
+597
 ],
 "place": 37,
 "text": "",
@@ -29081,11 +29225,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-297,
-308,
-316,
-331,
-586
+301,
+312,
+320,
+335,
+597
 ],
 "place": 607,
 "text": "<div>\n<p>\n<b>Page No.</b>: 42\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 69\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Bend Preccinct\n</p>\n<p>\n<b>County of</b>: Sevier\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-24\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 403\n</p>\n<p>\n<b>Name</b>: Durfee, Sarah E\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 24\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Keeps House\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: States\n</p>\n</div>",
@@ -29102,10 +29246,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-295,
-328,
-586,
-897
+299,
+332,
+597,
+908
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Franklin\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 158\n</p>\n<p>\n<b>Page No.</b>: 139\n</p>\n<p>\n<b>Division of County</b>: Precinct No. 1\n</p>\n<p>\n<b>City, Town, Village</b>: Preston City\n</p>\n<p>\n<b>Ward of city</b>: 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-17\n</p>\n<p>\n<b>Street Address</b>: Farm\n</p>\n<p>\n<b>Name</b>: Durfee, Sarah E\n</p>\n<p>\n<b>Relationship to head</b>: Mother in law\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 64\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Pennsylvania\n</p>\n<p>\n<b>Place of birth of mother</b>: United States\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -29122,16 +29266,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-569,
-572,
-578,
+212,
 580,
-581,
 583,
-584,
-585,
-586
+589,
+591,
+592,
+594,
+595,
+596,
+597
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21\n</p>\n<p>\n<b>Sheet No.</b>: 334\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-09\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 148\n</p>\n<p>\n<b>Name</b>: Kendall, Sarah\n</p>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: No Occupation\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -29148,12 +29292,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-572,
-580,
-584,
-586,
-974
+212,
+583,
+591,
+595,
+597,
+985
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 278\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-04\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 7\n</p>\n<p>\n<b>Family No.</b>: 1946\n</p>\n<p>\n<b>Name</b>: Kenell, Sarah E\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -29170,7 +29314,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-587
+598
 ],
 "place": 653,
 "text": "",
@@ -29185,7 +29329,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-587
+598
 ],
 "place": 33,
 "text": "",
@@ -29200,7 +29344,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-587
+598
 ],
 "place": 32,
 "text": "",
@@ -29217,14 +29361,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-107,
-109,
-111,
+110,
+112,
 114,
-120,
-127,
-501,
-587
+117,
+123,
+130,
+512,
+598
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-15\n</p>\n<p>\n<b>Post Office</b>: Stoker\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 110\n</p>\n<p>\n<b>Name</b>: Call, Eliza\n</p>\n<p>\n<b>Age</b>: 26\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Ohio\n</p>\n</div>",
@@ -29241,7 +29385,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-588
+599
 ],
 "place": 611,
 "text": "",
@@ -29256,7 +29400,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-588
+599
 ],
 "place": 587,
 "text": "",
@@ -29271,7 +29415,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-588
+599
 ],
 "place": 314,
 "text": "",
@@ -29294,7 +29438,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-595
+606
 ],
 "place": 587,
 "text": "",
@@ -29309,7 +29453,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-595
+606
 ],
 "place": -1,
 "text": "",
@@ -29319,7 +29463,7 @@ I_events_0 = [
 [
 {
 "cita": [
-167
+171
 ],
 "date": "1823-06-29",
 "date_sdn": 2387076,
@@ -29328,15 +29472,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596
+607
 ],
-"place": 777,
+"place": 778,
 "text": "",
 "type": "Birth"
 },
 {
 "cita": [
-176
+180
 ],
 "date": "1903-02-19",
 "date_sdn": 2416165,
@@ -29345,7 +29489,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596
+607
 ],
 "place": 629,
 "text": "<div>\n<p>\n<b>Cause</b>: Old Age\n</p>\n</div>",
@@ -29360,7 +29504,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596
+607
 ],
 "place": 586,
 "text": "",
@@ -29368,7 +29512,7 @@ I_events_0 = [
 },
 {
 "cita": [
-174
+178
 ],
 "date": "1853-01-23",
 "date_sdn": 2397877,
@@ -29377,11 +29521,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-712,
-717,
-718
+607,
+719,
+723,
+728,
+729
 ],
 "place": 349,
 "text": "<div>\n<p>\n<b>Identification Number</b>: \n</p>\n<div>\n<i class=\"NoteType\">\nAttribute Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nShip named Golcanda\n</p>\n</div>\n</div>\n<p>\n<b>Age</b>: 28\n</p>\n<p>\n<b>Number of Children</b>: 3\n</p>\n</div>",
@@ -29389,7 +29533,7 @@ I_events_0 = [
 },
 {
 "cita": [
-174
+178
 ],
 "date": "1853-03-26",
 "date_sdn": 2397939,
@@ -29398,11 +29542,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-712,
-717,
-718
+607,
+719,
+723,
+728,
+729
 ],
 "place": 444,
 "text": "<div>\n<p>\n<b>Age</b>: 28\n</p>\n<p>\n<b>Number of Children</b>: 3\n</p>\n</div>",
@@ -29410,7 +29554,7 @@ I_events_0 = [
 },
 {
 "cita": [
-175
+179
 ],
 "date": "1853-06-03",
 "date_sdn": 2398008,
@@ -29419,10 +29563,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-712,
-717,
-718
+607,
+723,
+728,
+729
 ],
 "place": 309,
 "text": "<div>\n<p>\n<b>Age</b>: 29\n</p>\n<p>\n<b>Number of Children</b>: 3\n</p>\n</div>",
@@ -29430,7 +29574,7 @@ I_events_0 = [
 },
 {
 "cita": [
-175
+179
 ],
 "date": "1853-09-17",
 "date_sdn": 2398114,
@@ -29439,11 +29583,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-712,
-717,
-718
+607,
+719,
+723,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 29\n</p>\n<p>\n<b>Number of Children</b>: 3\n</p>\n</div>",
@@ -29451,7 +29595,7 @@ I_events_0 = [
 },
 {
 "cita": [
-168
+172
 ],
 "date": "about 1896",
 "date_sdn": 2413560,
@@ -29460,7 +29604,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596
+607
 ],
 "place": 629,
 "text": "",
@@ -29475,7 +29619,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596
+607
 ],
 "place": 629,
 "text": "<div>\n<p>\n<b>Cause</b>: Old Age\n</p>\n</div>",
@@ -29492,14 +29636,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-711,
-712,
-715,
-716,
-717,
-718
+607,
+719,
+722,
+723,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Page No.</b>: 226\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Great Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 30\n</p>\n<p>\n<b>Family No.</b>: 54\n</p>\n<p>\n<b>Name</b>: Poll, Charlotte\n</p>\n<p>\n<b>Age</b>: 35\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n</div>",
@@ -29516,17 +29660,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+607,
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1611\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: 10th Ward Salt Lake City\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-20\n</p>\n<p>\n<b>Post Office</b>: Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Paul, Charlotte\n</p>\n<p>\n<b>Age</b>: 47\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Keeping House\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -29544,7 +29688,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-598
+609
 ],
 "place": 312,
 "text": "",
@@ -29559,7 +29703,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-598
+609
 ],
 "place": 296,
 "text": "",
@@ -29574,7 +29718,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-598
+609
 ],
 "place": 208,
 "text": "",
@@ -29591,7 +29735,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-599
+610
 ],
 "place": 353,
 "text": "",
@@ -29606,7 +29750,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-599
+610
 ],
 "place": 541,
 "text": "",
@@ -29621,7 +29765,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-599
+610
 ],
 "place": 540,
 "text": "",
@@ -29638,7 +29782,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-600
+611
 ],
 "place": 98,
 "text": "",
@@ -29653,7 +29797,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-600
+611
 ],
 "place": 610,
 "text": "",
@@ -29668,7 +29812,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-600
+611
 ],
 "place": 610,
 "text": "",
@@ -29686,7 +29830,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-602
+613
 ],
 "place": 133,
 "text": "",
@@ -29701,7 +29845,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-602
+613
 ],
 "place": 37,
 "text": "",
@@ -29716,7 +29860,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-602
+613
 ],
 "place": 36,
 "text": "",
@@ -29733,7 +29877,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-603
+614
 ],
 "place": 146,
 "text": "",
@@ -29748,7 +29892,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-603
+614
 ],
 "place": 515,
 "text": "",
@@ -29763,9 +29907,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-603
+614
 ],
-"place": 757,
+"place": 758,
 "text": "",
 "type": "Burial"
 }
@@ -29780,7 +29924,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-604
+615
 ],
 "place": 587,
 "text": "",
@@ -29795,7 +29939,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-604
+615
 ],
 "place": 56,
 "text": "",
@@ -29810,7 +29954,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-604
+615
 ],
 "place": 586,
 "text": "",
@@ -29827,13 +29971,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-220,
 223,
-231,
-235,
-239,
-240,
-604
+226,
+234,
+238,
+242,
+243,
+615
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1684\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 42\n</p>\n<p>\n<b>Page No.</b>: 163\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Fourth Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 4\n</p>\n<p>\n<b>Street Address</b>: 375 M Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-04\n</p>\n<p>\n<b>Name</b>: Clissold, Annie\n</p>\n<p>\n<b>Relation to head</b>: Wife\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Oct\n</p>\n<p>\n<b>Year of birth</b>: 1863\n</p>\n<p>\n<b>Age</b>: 36\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 18\n</p>\n<p>\n<b>Mother of how many children</b>: 5\n</p>\n<p>\n<b>Number of children living</b>: 5\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Ireland\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
@@ -29850,7 +29994,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-605
+616
 ],
 "place": 526,
 "text": "",
@@ -29865,7 +30009,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-605
+616
 ],
 "place": 296,
 "text": "",
@@ -29880,7 +30024,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-605
+616
 ],
 "place": 208,
 "text": "",
@@ -29898,16 +30042,16 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 47,
-552,
-605,
-630,
-632,
-639,
-654,
-666,
+563,
+616,
+641,
+643,
+650,
+665,
 677,
-679,
-683
+688,
+690,
+694
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 16\n</p>\n<p>\n<b>County of</b>: Salt Lake County\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Line No.</b>: 9\n</p>\n<p>\n<b>Name</b>: Pack, Ruth\n</p>\n</div>",
@@ -29924,7 +30068,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-606
+617
 ],
 "place": 632,
 "text": "",
@@ -29939,7 +30083,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-606
+617
 ],
 "place": 585,
 "text": "",
@@ -29954,7 +30098,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-606
+617
 ],
 "place": 36,
 "text": "",
@@ -29972,7 +30116,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-608
+619
 ],
 "place": 195,
 "text": "",
@@ -29987,7 +30131,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-608
+619
 ],
 "place": 170,
 "text": "",
@@ -30002,7 +30146,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-608
+619
 ],
 "place": 371,
 "text": "",
@@ -30019,7 +30163,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-609
+620
 ],
 "place": 203,
 "text": "",
@@ -30034,7 +30178,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-609
+620
 ],
 "place": 620,
 "text": "",
@@ -30049,7 +30193,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-609
+620
 ],
 "place": 472,
 "text": "",
@@ -30075,8 +30219,8 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 17,
-81,
-616
+84,
+627
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 1\n</p>\n<p>\n<b>Page No.</b>: 9\n</p>\n<p>\n<b>Sheet No.</b>: 9A\n</p>\n<p>\n<b>Division of County</b>: Minersville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Minersville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-06\n</p>\n<p>\n<b>Name</b>: Myers, Moroni\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 43\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 22\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Nature of industry</b>: General Farm\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: Emplr\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n<p>\n<b>Number of farm schedule</b>: 26\n</p>\n</div>",
@@ -30093,7 +30237,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-617
+628
 ],
 "place": 257,
 "text": "",
@@ -30108,7 +30252,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-617
+628
 ],
 "place": 52,
 "text": "",
@@ -30123,7 +30267,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-617
+628
 ],
 "place": -1,
 "text": "",
@@ -30140,9 +30284,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-618
+629
 ],
-"place": 761,
+"place": 762,
 "text": "",
 "type": "Birth"
 },
@@ -30155,7 +30299,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-618
+629
 ],
 "place": 147,
 "text": "",
@@ -30170,7 +30314,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-618
+629
 ],
 "place": 626,
 "text": "",
@@ -30188,7 +30332,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-620
+631
 ],
 "place": 421,
 "text": "",
@@ -30203,7 +30347,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-620
+631
 ],
 "place": 587,
 "text": "",
@@ -30218,7 +30362,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-620
+631
 ],
 "place": 586,
 "text": "",
@@ -30235,9 +30379,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-620,
-857,
-859
+631,
+868,
+870
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T626\n</p>\n<p>\n<b>Roll No.</b>: 2418\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 18-16\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Page No.</b>: 118\n</p>\n<p>\n<b>Sheet No.</b>: 7A\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-09\n</p>\n<p>\n<b>Street Address</b>: 340 East Coatsville Avenue\n</p>\n<p>\n<b>Name</b>: Thomson, Lydia J\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 63\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 56\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Missouri\n</p>\n<p>\n<b>Place of birth of mother</b>: Pennsylvania\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -30254,8 +30398,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-620,
-859
+631,
+870
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T627\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 6\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 30-43\n</p>\n<p>\n<b>Page No.</b>: 805\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-15\n</p>\n<p>\n<b>Street Address</b>: 340 Coatsville Avenue\n</p>\n<p>\n<b>Name</b>: Thomson, Lydia J\n</p>\n<p>\n<b>Relationship</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 73\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: no\n</p>\n<p>\n<b>Highest grade completed</b>: C4\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same House\n</p>\n<p>\n<b>At Work during week March 24-30</b>: no\n</p>\n<p>\n<b>public Emergency Work?</b>: no\n</p>\n<p>\n<b>Seeking work?</b>: no\n</p>\n<p>\n<b>Have a Job?</b>: no\n</p>\n<p>\n<b>housework (H), school (S), unable to work (U) or other (Ot)</b>: H\n</p>\n<p>\n<b># weeks worked in 1939</b>: 0\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 0\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: no\n</p>\n</div>",
@@ -30272,7 +30416,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-621
+632
 ],
 "place": 536,
 "text": "",
@@ -30287,7 +30431,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-621
+632
 ],
 "place": 536,
 "text": "",
@@ -30302,7 +30446,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-621
+632
 ],
 "place": 536,
 "text": "",
@@ -30320,7 +30464,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-623
+634
 ],
 "place": 587,
 "text": "",
@@ -30335,7 +30479,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-623
+634
 ],
 "place": 600,
 "text": "",
@@ -30350,7 +30494,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-623
+634
 ],
 "place": 530,
 "text": "",
@@ -30367,7 +30511,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-624
+635
 ],
 "place": 587,
 "text": "",
@@ -30382,7 +30526,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-624
+635
 ],
 "place": 408,
 "text": "",
@@ -30397,9 +30541,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-624
+635
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 },
@@ -30414,20 +30558,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-624,
-640,
-642,
-647,
-650,
+259,
+635,
+651,
+653,
 658,
-660,
-662,
-663,
+661,
 669,
+671,
 673,
-682,
-683
+674,
+680,
+684,
+693,
+694
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21 or 26\n</p>\n<p>\n<b>Sheet No.</b>: 32A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 73\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-16\n</p>\n<p>\n<b>Line No.</b>: 36\n</p>\n<p>\n<b>Family No.</b>: 43\n</p>\n<p>\n<b>Name</b>: Pack, Bathara\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Single</b>: S\n</p>\n<p>\n<b>Occupation</b>: At home\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: N. Y.\n</p>\n<p>\n<b>Place of birth of mother</b>: Ill\n</p>\n</div>",
@@ -30444,7 +30588,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-625
+636
 ],
 "place": 587,
 "text": "",
@@ -30459,7 +30603,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-625
+636
 ],
 "place": 587,
 "text": "",
@@ -30474,7 +30618,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-625
+636
 ],
 "place": 586,
 "text": "",
@@ -30491,7 +30635,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-626
+637
 ],
 "place": 68,
 "text": "",
@@ -30506,7 +30650,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-626
+637
 ],
 "place": 587,
 "text": "",
@@ -30521,7 +30665,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-626
+637
 ],
 "place": 67,
 "text": "",
@@ -30538,7 +30682,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-627
+638
 ],
 "place": 296,
 "text": "",
@@ -30553,7 +30697,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-627
+638
 ],
 "place": 587,
 "text": "",
@@ -30568,7 +30712,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-627
+638
 ],
 "place": 586,
 "text": "",
@@ -30585,7 +30729,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-628
+639
 ],
 "place": 587,
 "text": "",
@@ -30600,7 +30744,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-628
+639
 ],
 "place": 296,
 "text": "",
@@ -30615,7 +30759,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-628
+639
 ],
 "place": 208,
 "text": "",
@@ -30632,7 +30776,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-629
+640
 ],
 "place": 587,
 "text": "",
@@ -30647,9 +30791,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-629
+640
 ],
-"place": 737,
+"place": 738,
 "text": "",
 "type": "Death"
 },
@@ -30662,7 +30806,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-629
+640
 ],
 "place": 67,
 "text": "",
@@ -30679,9 +30823,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-630
+641
 ],
-"place": 768,
+"place": 769,
 "text": "",
 "type": "Birth"
 },
@@ -30694,7 +30838,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-630
+641
 ],
 "place": 296,
 "text": "",
@@ -30709,7 +30853,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-630
+641
 ],
 "place": 391,
 "text": "",
@@ -30727,16 +30871,16 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 47,
-552,
-605,
-630,
-632,
-639,
-654,
-666,
+563,
+616,
+641,
+643,
+650,
+665,
 677,
-679,
-683
+688,
+690,
+694
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 16\n</p>\n<p>\n<b>County of</b>: Salt Lake County\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Line No.</b>: 9\n</p>\n<p>\n<b>Name</b>: Pack, Don\n</p>\n</div>",
@@ -30753,9 +30897,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-631
+642
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Birth"
 },
@@ -30768,9 +30912,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-631
+642
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Death"
 },
@@ -30783,7 +30927,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-631
+642
 ],
 "place": 67,
 "text": "",
@@ -30800,7 +30944,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-632
+643
 ],
 "place": 587,
 "text": "",
@@ -30815,7 +30959,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-632
+643
 ],
 "place": 587,
 "text": "",
@@ -30830,7 +30974,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-632
+643
 ],
 "place": 586,
 "text": "",
@@ -30848,16 +30992,16 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 47,
-552,
-605,
-630,
-632,
-639,
-654,
-666,
+563,
+616,
+641,
+643,
+650,
+665,
 677,
-679,
-683
+688,
+690,
+694
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 16\n</p>\n<p>\n<b>County of</b>: Salt Lake County\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Line No.</b>: 9\n</p>\n<p>\n<b>Name</b>: Pack, Eleanor P\n</p>\n</div>",
@@ -30874,7 +31018,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-633
+644
 ],
 "place": 587,
 "text": "",
@@ -30889,7 +31033,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-633
+644
 ],
 "place": 587,
 "text": "",
@@ -30904,7 +31048,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-633
+644
 ],
 "place": 586,
 "text": "",
@@ -30921,7 +31065,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-634
+645
 ],
 "place": 68,
 "text": "",
@@ -30936,7 +31080,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-634
+645
 ],
 "place": 68,
 "text": "",
@@ -30951,7 +31095,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-634
+645
 ],
 "place": 67,
 "text": "",
@@ -30968,7 +31112,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-635
+646
 ],
 "place": 587,
 "text": "",
@@ -30983,9 +31127,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-635
+646
 ],
-"place": 683,
+"place": 684,
 "text": "",
 "type": "Death"
 },
@@ -30998,7 +31142,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-635
+646
 ],
 "place": 618,
 "text": "",
@@ -31015,9 +31159,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-636
+647
 ],
-"place": 737,
+"place": 738,
 "text": "",
 "type": "Birth"
 },
@@ -31030,7 +31174,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-636
+647
 ],
 "place": 587,
 "text": "",
@@ -31045,7 +31189,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-636
+647
 ],
 "place": 67,
 "text": "",
@@ -31062,9 +31206,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-637
+648
 ],
-"place": 737,
+"place": 738,
 "text": "",
 "type": "Birth"
 },
@@ -31077,7 +31221,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-637
+648
 ],
 "place": 587,
 "text": "",
@@ -31092,7 +31236,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-637
+648
 ],
 "place": 586,
 "text": "",
@@ -31109,7 +31253,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-638
+649
 ],
 "place": 587,
 "text": "",
@@ -31124,7 +31268,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-638
+649
 ],
 "place": 227,
 "text": "",
@@ -31139,7 +31283,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-638
+649
 ],
 "place": 226,
 "text": "",
@@ -31156,7 +31300,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-639
+650
 ],
 "place": 435,
 "text": "",
@@ -31171,7 +31315,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-639
+650
 ],
 "place": 283,
 "text": "",
@@ -31186,7 +31330,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-639
+650
 ],
 "place": 391,
 "text": "",
@@ -31204,16 +31348,16 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 47,
-552,
-605,
-630,
-632,
-639,
-654,
-666,
+563,
+616,
+641,
+643,
+650,
+665,
 677,
-679,
-683
+688,
+690,
+694
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 16\n</p>\n<p>\n<b>County of</b>: Salt Lake County\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Line No.</b>: 9\n</p>\n<p>\n<b>Name</b>: Pack, George\n</p>\n</div>",
@@ -31230,7 +31374,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-640
+651
 ],
 "place": 355,
 "text": "",
@@ -31245,7 +31389,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-640
+651
 ],
 "place": 96,
 "text": "",
@@ -31260,7 +31404,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-640
+651
 ],
 "place": 178,
 "text": "",
@@ -31277,20 +31421,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-624,
-640,
-642,
-647,
-650,
+259,
+635,
+651,
+653,
 658,
-660,
-662,
-663,
+661,
 669,
+671,
 673,
-682,
-683
+674,
+680,
+684,
+693,
+694
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21 or 26\n</p>\n<p>\n<b>Sheet No.</b>: 32A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 73\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-16\n</p>\n<p>\n<b>Line No.</b>: 36\n</p>\n<p>\n<b>Family No.</b>: 43\n</p>\n<p>\n<b>Name</b>: Pack, Geo W\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 15\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Single</b>: S\n</p>\n<p>\n<b>Occupation</b>: At home\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: N. Y.\n</p>\n<p>\n<b>Place of birth of mother</b>: Ill\n</p>\n</div>",
@@ -31307,9 +31451,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-641
+652
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Birth"
 },
@@ -31322,7 +31466,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-641
+652
 ],
 "place": 587,
 "text": "",
@@ -31337,7 +31481,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-641
+652
 ],
 "place": 67,
 "text": "",
@@ -31354,7 +31498,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-642
+653
 ],
 "place": 296,
 "text": "",
@@ -31369,7 +31513,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-642
+653
 ],
 "place": 587,
 "text": "",
@@ -31384,7 +31528,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-642
+653
 ],
 "place": 586,
 "text": "",
@@ -31401,9 +31545,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140,
-150,
-642
+143,
+153,
+653
 ],
 "place": 108,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Tennessee\n</p>\n<p>\n<b>County of</b>: Hamilton\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 3\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 64\n</p>\n<p>\n<b>Page No.</b>: 8440\n</p>\n<p>\n<b>Sheet No.</b>: 17B\n</p>\n<p>\n<b>Division of County</b>: First Civil District\n</p>\n<p>\n<b>City, Town, Village</b>: Chattanooga\n</p>\n<p>\n<b>Ward of city</b>: 7\n</p>\n<p>\n<b>Name</b>: Callis, Grace E\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 37\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 7\n</p>\n<p>\n<b>Mother of how many children</b>: 5\n</p>\n<p>\n<b>Number of children living</b>: 3\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: New York\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n</div>",
@@ -31420,10 +31564,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140,
-150,
-154,
-642
+143,
+153,
+157,
+653
 ],
 "place": 108,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Tennessee\n</p>\n<p>\n<b>County of</b>: Hamilton\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 3\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 181\n</p>\n<p>\n<b>Page No.</b>: 45\n</p>\n<p>\n<b>City, Town, Village</b>: Chattanooga\n</p>\n<p>\n<b>Ward of city</b>: 7\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-21 to 1920-01-22\n</p>\n<p>\n<b>Street Address</b>: 711 Fairview Avenue\n</p>\n<p>\n<b>Name</b>: Callis, Grace E\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 46\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: New York\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Housekeeper\n</p>\n<p>\n<b>Industry</b>: Home\n</p>\n</div>",
@@ -31440,9 +31584,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140,
-154,
-642
+143,
+157,
+653
 ],
 "place": -1,
 "text": "<div>\n<p>\n<b>State of</b>: Georgia\n</p>\n<p>\n<b>County of</b>: Fulton\n</p>\n<p>\n<b>Incorporated place</b>: Atlanta Borough\n</p>\n<p>\n<b>Ward of city</b>: 4\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 4\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 61-55\n</p>\n<p>\n<b>Page No.</b>: 211\n</p>\n<p>\n<b>Sheet No.</b>: 11B\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-09\n</p>\n<p>\n<b>Name</b>: Callis, Grace E\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 56\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 28\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -31459,8 +31603,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140,
-642
+143,
+653
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake CIty\n</p>\n<p>\n<b>Ward of city</b>: 4\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 30-137\n</p>\n<p>\n<b>Page No.</b>: 1758\n</p>\n<p>\n<b>Sheet No.</b>: 5A\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-16\n</p>\n<p>\n<b>Name</b>: Pack, Grace\n</p>\n<p>\n<b>Relationship</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 66\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: No\n</p>\n<p>\n<b>Highest grade completed</b>: 8\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same House\n</p>\n<p>\n<b>At Work during week March 24-30</b>: No\n</p>\n<p>\n<b>public Emergency Work?</b>: No\n</p>\n<p>\n<b>Seeking work?</b>: No\n</p>\n<p>\n<b>Have a Job?</b>: No\n</p>\n<p>\n<b>housework (H), school (S), unable to work (U) or other (Ot)</b>: H\n</p>\n<p>\n<b># weeks worked in 1939</b>: 0\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 0\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: No\n</p>\n</div>",
@@ -31477,13 +31621,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-642,
-652,
-662,
+259,
+653,
+663,
 673,
-683,
-684
+684,
+694,
+695
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>Page No.</b>: 136\n</p>\n<p>\n<b>Sheet No.</b>: 14A\n</p>\n<p>\n<b>Division of County</b>: Kamas Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Kamas Village\n</p>\n<p>\n<b>Name</b>: Pack, Grace E\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Oct\n</p>\n<p>\n<b>Year of birth</b>: 1873\n</p>\n<p>\n<b>Age</b>: 26\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: New York\n</p>\n<p>\n<b>Occupation</b>: School Teacher\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -31500,20 +31644,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-624,
-640,
-642,
-647,
-650,
+259,
+635,
+651,
+653,
 658,
-660,
-662,
-663,
+661,
 669,
+671,
 673,
-682,
-683
+674,
+680,
+684,
+693,
+694
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21 or 26\n</p>\n<p>\n<b>Sheet No.</b>: 32A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 73\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-16\n</p>\n<p>\n<b>Line No.</b>: 36\n</p>\n<p>\n<b>Family No.</b>: 43\n</p>\n<p>\n<b>Name</b>: Pack, Elizabeth\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: N. Y.\n</p>\n<p>\n<b>Place of birth of mother</b>: Ill\n</p>\n</div>",
@@ -31530,9 +31674,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-643
+654
 ],
-"place": 737,
+"place": 738,
 "text": "",
 "type": "Birth"
 },
@@ -31545,7 +31689,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-643
+654
 ],
 "place": 227,
 "text": "",
@@ -31560,7 +31704,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-643
+654
 ],
 "place": 226,
 "text": "",
@@ -31577,9 +31721,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-644
+655
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Birth"
 },
@@ -31592,7 +31736,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-644
+655
 ],
 "place": 355,
 "text": "",
@@ -31607,7 +31751,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-644
+655
 ],
 "place": 382,
 "text": "",
@@ -31624,7 +31768,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-645
+656
 ],
 "place": 587,
 "text": "",
@@ -31639,7 +31783,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-645
+656
 ],
 "place": 502,
 "text": "",
@@ -31654,7 +31798,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-645
+656
 ],
 "place": 586,
 "text": "",
@@ -31671,9 +31815,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-646
+657
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Birth"
 },
@@ -31686,9 +31830,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-646
+657
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Death"
 },
@@ -31701,7 +31845,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-646
+657
 ],
 "place": 67,
 "text": "",
@@ -31718,7 +31862,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-647
+658
 ],
 "place": 296,
 "text": "",
@@ -31733,7 +31877,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-647
+658
 ],
 "place": 587,
 "text": "",
@@ -31748,7 +31892,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-647
+658
 ],
 "place": 184,
 "text": "",
@@ -31765,20 +31909,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-624,
-640,
-642,
-647,
-650,
+259,
+635,
+651,
+653,
 658,
-660,
-662,
-663,
+661,
 669,
+671,
 673,
-682,
-683
+674,
+680,
+684,
+693,
+694
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21 or 26\n</p>\n<p>\n<b>Sheet No.</b>: 32A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 73\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-16\n</p>\n<p>\n<b>Line No.</b>: 36\n</p>\n<p>\n<b>Family No.</b>: 43\n</p>\n<p>\n<b>Name</b>: Pack, May\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 10\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: N. Y.\n</p>\n<p>\n<b>Place of birth of mother</b>: Ill\n</p>\n</div>",
@@ -31795,7 +31939,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-648
+659
 ],
 "place": 296,
 "text": "",
@@ -31810,7 +31954,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-648
+659
 ],
 "place": 296,
 "text": "",
@@ -31825,7 +31969,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-648
+659
 ],
 "place": 391,
 "text": "",
@@ -31842,7 +31986,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-649
+660
 ],
 "place": 68,
 "text": "",
@@ -31857,7 +32001,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-649
+660
 ],
 "place": 587,
 "text": "",
@@ -31872,7 +32016,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-649
+660
 ],
 "place": 586,
 "text": "",
@@ -31889,7 +32033,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-650
+661
 ],
 "place": 587,
 "text": "",
@@ -31904,7 +32048,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-650
+661
 ],
 "place": 296,
 "text": "",
@@ -31919,9 +32063,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-650
+661
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 },
@@ -31936,20 +32080,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-624,
-640,
-642,
-647,
-650,
+259,
+635,
+651,
+653,
 658,
-660,
-662,
-663,
+661,
 669,
+671,
 673,
-682,
-683
+674,
+680,
+684,
+693,
+694
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21 or 26\n</p>\n<p>\n<b>Sheet No.</b>: 32A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 73\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-16\n</p>\n<p>\n<b>Line No.</b>: 36\n</p>\n<p>\n<b>Family No.</b>: 43\n</p>\n<p>\n<b>Name</b>: Pack, Orlan\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: N. Y.\n</p>\n<p>\n<b>Place of birth of mother</b>: Ill\n</p>\n</div>",
@@ -31966,9 +32110,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-651
+662
 ],
-"place": 737,
+"place": 738,
 "text": "",
 "type": "Birth"
 },
@@ -31981,9 +32125,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-651
+662
 ],
-"place": 737,
+"place": 738,
 "text": "",
 "type": "Death"
 },
@@ -31996,7 +32140,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-651
+662
 ],
 "place": 67,
 "text": "",
@@ -32013,7 +32157,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-652
+663
 ],
 "place": 296,
 "text": "",
@@ -32028,7 +32172,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-652
+663
 ],
 "place": 584,
 "text": "",
@@ -32043,7 +32187,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-652
+663
 ],
 "place": 342,
 "text": "",
@@ -32060,13 +32204,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-642,
-652,
-662,
+259,
+653,
+663,
 673,
-683,
-684
+684,
+694,
+695
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>Page No.</b>: 136\n</p>\n<p>\n<b>Sheet No.</b>: 14A\n</p>\n<p>\n<b>Division of County</b>: Kamas Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Kamas Village\n</p>\n<p>\n<b>Name</b>: Pack, Jessie G\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: June\n</p>\n<p>\n<b>Year of birth</b>: 1896\n</p>\n<p>\n<b>Age</b>: 3\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -32083,7 +32227,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-653
+664
 ],
 "place": 587,
 "text": "",
@@ -32098,7 +32242,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-653
+664
 ],
 "place": 587,
 "text": "",
@@ -32113,7 +32257,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-653
+664
 ],
 "place": 586,
 "text": "",
@@ -32130,7 +32274,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-654
+665
 ],
 "place": 435,
 "text": "",
@@ -32145,7 +32289,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-654
+665
 ],
 "place": 296,
 "text": "",
@@ -32160,7 +32304,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-654
+665
 ],
 "place": 391,
 "text": "",
@@ -32178,16 +32322,16 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 47,
-552,
-605,
-630,
-632,
-639,
-654,
-666,
+563,
+616,
+641,
+643,
+650,
+665,
 677,
-679,
-683
+688,
+690,
+694
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 16\n</p>\n<p>\n<b>County of</b>: Salt Lake County\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Line No.</b>: 9\n</p>\n<p>\n<b>Name</b>: Pack, John\n</p>\n</div>",
@@ -32204,7 +32348,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-655
+666
 ],
 "place": 582,
 "text": "",
@@ -32219,7 +32363,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-655
+666
 ],
 "place": 587,
 "text": "",
@@ -32234,7 +32378,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-655
+666
 ],
 "place": 586,
 "text": "",
@@ -32251,9 +32395,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-656
+667
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Birth"
 },
@@ -32266,7 +32410,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-656
+667
 ],
 "place": 468,
 "text": "",
@@ -32281,7 +32425,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-656
+667
 ],
 "place": 555,
 "text": "",
@@ -32298,7 +32442,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-657
+668
 ],
 "place": 587,
 "text": "",
@@ -32313,7 +32457,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-657
+668
 ],
 "place": 587,
 "text": "",
@@ -32328,7 +32472,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-657
+668
 ],
 "place": 586,
 "text": "",
@@ -32345,7 +32489,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-658
+669
 ],
 "place": 296,
 "text": "",
@@ -32360,7 +32504,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-658
+669
 ],
 "place": 562,
 "text": "",
@@ -32375,7 +32519,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-658
+669
 ],
 "place": 586,
 "text": "",
@@ -32392,20 +32536,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-624,
-640,
-642,
-647,
-650,
+259,
+635,
+651,
+653,
 658,
-660,
-662,
-663,
+661,
 669,
+671,
 673,
-682,
-683
+674,
+680,
+684,
+693,
+694
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21 or 26\n</p>\n<p>\n<b>Sheet No.</b>: 32A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 73\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-16\n</p>\n<p>\n<b>Line No.</b>: 36\n</p>\n<p>\n<b>Family No.</b>: 43\n</p>\n<p>\n<b>Name</b>: Pack, Austin\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: N. Y.\n</p>\n<p>\n<b>Place of birth of mother</b>: Ill\n</p>\n</div>",
@@ -32422,7 +32566,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-659
+670
 ],
 "place": 435,
 "text": "",
@@ -32437,7 +32581,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-659
+670
 ],
 "place": 136,
 "text": "",
@@ -32454,7 +32598,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-660
+671
 ],
 "place": 587,
 "text": "",
@@ -32469,7 +32613,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-660
+671
 ],
 "place": 502,
 "text": "",
@@ -32484,7 +32628,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-660
+671
 ],
 "place": 586,
 "text": "",
@@ -32501,20 +32645,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-624,
-640,
-642,
-647,
-650,
+259,
+635,
+651,
+653,
 658,
-660,
-662,
-663,
+661,
 669,
+671,
 673,
-682,
-683
+674,
+680,
+684,
+693,
+694
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21 or 26\n</p>\n<p>\n<b>Sheet No.</b>: 32A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 73\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-16\n</p>\n<p>\n<b>Line No.</b>: 36\n</p>\n<p>\n<b>Family No.</b>: 43\n</p>\n<p>\n<b>Name</b>: Pack, Julia\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 15\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Single</b>: S\n</p>\n<p>\n<b>Occupation</b>: At home\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: N. Y.\n</p>\n<p>\n<b>Place of birth of mother</b>: Ill\n</p>\n</div>",
@@ -32531,7 +32675,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-661
+672
 ],
 "place": 587,
 "text": "",
@@ -32546,7 +32690,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-661
+672
 ],
 "place": 621,
 "text": "",
@@ -32561,7 +32705,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-661
+672
 ],
 "place": 662,
 "text": "",
@@ -32578,7 +32722,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-662
+673
 ],
 "place": 296,
 "text": "",
@@ -32593,7 +32737,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-662
+673
 ],
 "place": 296,
 "text": "",
@@ -32608,7 +32752,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-662
+673
 ],
 "place": 208,
 "text": "",
@@ -32625,13 +32769,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-642,
-652,
-662,
+259,
+653,
+663,
 673,
-683,
-684
+684,
+694,
+695
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>Page No.</b>: 136\n</p>\n<p>\n<b>Sheet No.</b>: 14A\n</p>\n<p>\n<b>Division of County</b>: Kamas Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Kamas Village\n</p>\n<p>\n<b>Name</b>: Pack, Laura E\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Jan\n</p>\n<p>\n<b>Year of birth</b>: 1879\n</p>\n<p>\n<b>Age</b>: 21\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: New York\n</p>\n<p>\n<b>Occupation</b>: At school\n</p>\n<p>\n<b>Attended school</b>: 9\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -32648,20 +32792,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-624,
-640,
-642,
-647,
-650,
+259,
+635,
+651,
+653,
 658,
-660,
-662,
-663,
+661,
 669,
+671,
 673,
-682,
-683
+674,
+680,
+684,
+693,
+694
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21 or 26\n</p>\n<p>\n<b>Sheet No.</b>: 32A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 73\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-16\n</p>\n<p>\n<b>Line No.</b>: 36\n</p>\n<p>\n<b>Family No.</b>: 43\n</p>\n<p>\n<b>Name</b>: Pack, Ellinor\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: N. Y.\n</p>\n<p>\n<b>Place of birth of mother</b>: Ill\n</p>\n</div>",
@@ -32678,9 +32822,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-663
+674
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Birth"
 },
@@ -32693,7 +32837,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-663
+674
 ],
 "place": 587,
 "text": "",
@@ -32708,9 +32852,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-663
+674
 ],
-"place": 703,
+"place": 704,
 "text": "",
 "type": "Burial"
 },
@@ -32725,20 +32869,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-624,
-640,
-642,
-647,
-650,
+259,
+635,
+651,
+653,
 658,
-660,
-662,
-663,
+661,
 669,
+671,
 673,
-682,
-683
+674,
+680,
+684,
+693,
+694
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21 or 26\n</p>\n<p>\n<b>Sheet No.</b>: 32A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 73\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-16\n</p>\n<p>\n<b>Line No.</b>: 36\n</p>\n<p>\n<b>Family No.</b>: 43\n</p>\n<p>\n<b>Name</b>: Pack, Leon\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 18\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Single</b>: S\n</p>\n<p>\n<b>Occupation</b>: At home\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: N. Y.\n</p>\n<p>\n<b>Place of birth of mother</b>: Ill\n</p>\n</div>",
@@ -32755,9 +32899,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-664
+675
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Birth"
 },
@@ -32770,7 +32914,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-664
+675
 ],
 "place": 587,
 "text": "",
@@ -32785,7 +32929,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-664
+675
 ],
 "place": 67,
 "text": "",
@@ -32802,7 +32946,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-665
+676
 ],
 "place": 587,
 "text": "",
@@ -32817,7 +32961,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-665
+676
 ],
 "place": 587,
 "text": "",
@@ -32832,7 +32976,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-665
+676
 ],
 "place": 586,
 "text": "",
@@ -32849,7 +32993,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-666
+677
 ],
 "place": 319,
 "text": "",
@@ -32864,7 +33008,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-666
+677
 ],
 "place": 397,
 "text": "",
@@ -32879,7 +33023,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-666
+677
 ],
 "place": 396,
 "text": "",
@@ -32897,16 +33041,16 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 47,
-552,
-605,
-630,
-632,
-639,
-654,
-666,
+563,
+616,
+641,
+643,
+650,
+665,
 677,
-679,
-683
+688,
+690,
+694
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 16\n</p>\n<p>\n<b>County of</b>: Salt Lake County\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Line No.</b>: 9\n</p>\n<p>\n<b>Name</b>: Pack, Lucy\n</p>\n</div>",
@@ -32923,7 +33067,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-667
+678
 ],
 "place": 587,
 "text": "",
@@ -32938,7 +33082,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-667
+678
 ],
 "place": 587,
 "text": "",
@@ -32953,9 +33097,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-667
+678
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 }
@@ -32970,7 +33114,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-668
+679
 ],
 "place": 296,
 "text": "",
@@ -32985,7 +33129,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-668
+679
 ],
 "place": 587,
 "text": "",
@@ -33000,7 +33144,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-668
+679
 ],
 "place": 586,
 "text": "",
@@ -33017,7 +33161,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-669
+680
 ],
 "place": 587,
 "text": "",
@@ -33032,7 +33176,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-669
+680
 ],
 "place": 587,
 "text": "",
@@ -33047,7 +33191,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-669
+680
 ],
 "place": 586,
 "text": "",
@@ -33064,20 +33208,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-624,
-640,
-642,
-647,
-650,
+259,
+635,
+651,
+653,
 658,
-660,
-662,
-663,
+661,
 669,
+671,
 673,
-682,
-683
+674,
+680,
+684,
+693,
+694
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21 or 26\n</p>\n<p>\n<b>Sheet No.</b>: 32A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 73\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-16\n</p>\n<p>\n<b>Line No.</b>: 36\n</p>\n<p>\n<b>Family No.</b>: 43\n</p>\n<p>\n<b>Name</b>: Pack, Marvin\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Single</b>: S\n</p>\n<p>\n<b>Occupation</b>: At home\n</p>\n<p>\n<b>Attended school within the census year</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: N. Y.\n</p>\n<p>\n<b>Place of birth of mother</b>: Ill\n</p>\n</div>",
@@ -33094,7 +33238,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-670
+681
 ],
 "place": 587,
 "text": "",
@@ -33109,7 +33253,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-670
+681
 ],
 "place": 462,
 "text": "",
@@ -33124,9 +33268,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-670
+681
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 },
@@ -33141,10 +33285,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-551,
-670,
-673
+259,
+562,
+681,
+684
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 96\n</p>\n<p>\n<b>Page No.</b>: 144\n</p>\n<p>\n<b>Sheet No.</b>: 25B\n</p>\n<p>\n<b>Division of County</b>: 2nd District\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-20\n</p>\n<p>\n<b>Name</b>: Ingham, Mary A\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 41\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 13\n</p>\n<p>\n<b>Mother of how many children</b>: 6\n</p>\n<p>\n<b>Number of children living</b>: 6\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: New York\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n</div>",
@@ -33161,7 +33305,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-671
+682
 ],
 "place": 587,
 "text": "",
@@ -33176,7 +33320,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-671
+682
 ],
 "place": 274,
 "text": "",
@@ -33191,9 +33335,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-671
+682
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 }
@@ -33208,7 +33352,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-672
+683
 ],
 "place": 68,
 "text": "",
@@ -33223,7 +33367,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-672
+683
 ],
 "place": 296,
 "text": "",
@@ -33238,7 +33382,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-672
+683
 ],
 "place": 208,
 "text": "",
@@ -33255,7 +33399,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-673
+684
 ],
 "place": 296,
 "text": "",
@@ -33270,7 +33414,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-673
+684
 ],
 "place": 123,
 "text": "",
@@ -33285,7 +33429,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-673
+684
 ],
 "place": 586,
 "text": "",
@@ -33302,13 +33446,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-642,
-652,
-662,
+259,
+653,
+663,
 673,
-683,
-684
+684,
+694,
+695
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>Page No.</b>: 136\n</p>\n<p>\n<b>Sheet No.</b>: 14A\n</p>\n<p>\n<b>Division of County</b>: Kamas Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Kamas Village\n</p>\n<p>\n<b>Name</b>: Pack, Pearl I\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Nov\n</p>\n<p>\n<b>Year of birth</b>: 1875\n</p>\n<p>\n<b>Age</b>: 24\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: New York\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -33325,20 +33469,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-624,
-640,
-642,
-647,
-650,
+259,
+635,
+651,
+653,
 658,
-660,
-662,
-663,
+661,
 669,
+671,
 673,
-682,
-683
+674,
+680,
+684,
+693,
+694
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21 or 26\n</p>\n<p>\n<b>Sheet No.</b>: 32A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 73\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-16\n</p>\n<p>\n<b>Line No.</b>: 36\n</p>\n<p>\n<b>Family No.</b>: 43\n</p>\n<p>\n<b>Name</b>: Pack, Pearl\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 5\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: N. Y.\n</p>\n<p>\n<b>Place of birth of mother</b>: Ill\n</p>\n</div>",
@@ -33355,10 +33499,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-551,
-670,
-673
+259,
+562,
+681,
+684
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 96\n</p>\n<p>\n<b>Page No.</b>: 144\n</p>\n<p>\n<b>Sheet No.</b>: 25B\n</p>\n<p>\n<b>Division of County</b>: 2nd District\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-20\n</p>\n<p>\n<b>Name</b>: Pack, Pearl I\n</p>\n<p>\n<b>Relationship to head</b>: Sister in Law\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 30\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: New York\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Proof Reader\n</p>\n<p>\n<b>Nature of industry</b>: News Paper\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Out of work</b>: No\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n</div>",
@@ -33375,9 +33519,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-674
+685
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Birth"
 },
@@ -33390,7 +33534,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-674
+685
 ],
 "place": 587,
 "text": "",
@@ -33405,7 +33549,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-674
+685
 ],
 "place": 351,
 "text": "",
@@ -33422,7 +33566,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-675
+686
 ],
 "place": 587,
 "text": "",
@@ -33437,7 +33581,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-675
+686
 ],
 "place": 227,
 "text": "",
@@ -33452,7 +33596,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-675
+686
 ],
 "place": 226,
 "text": "",
@@ -33469,7 +33613,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-676
+687
 ],
 "place": 587,
 "text": "",
@@ -33484,7 +33628,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-676
+687
 ],
 "place": 587,
 "text": "",
@@ -33499,7 +33643,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-676
+687
 ],
 "place": 586,
 "text": "",
@@ -33516,7 +33660,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-677
+688
 ],
 "place": 587,
 "text": "",
@@ -33531,7 +33675,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-677
+688
 ],
 "place": 296,
 "text": "",
@@ -33546,7 +33690,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-677
+688
 ],
 "place": 208,
 "text": "",
@@ -33564,16 +33708,16 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 47,
-552,
-605,
-630,
-632,
-639,
-654,
-666,
+563,
+616,
+641,
+643,
+650,
+665,
 677,
-679,
-683
+688,
+690,
+694
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 16\n</p>\n<p>\n<b>County of</b>: Salt Lake County\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Line No.</b>: 9\n</p>\n<p>\n<b>Name</b>: Pack, Sarah A\n</p>\n</div>",
@@ -33590,7 +33734,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-678
+689
 ],
 "place": 587,
 "text": "",
@@ -33605,7 +33749,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-678
+689
 ],
 "place": 64,
 "text": "",
@@ -33620,7 +33764,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-678
+689
 ],
 "place": 424,
 "text": "",
@@ -33637,7 +33781,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-679
+690
 ],
 "place": 587,
 "text": "",
@@ -33652,7 +33796,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-679
+690
 ],
 "place": 296,
 "text": "",
@@ -33667,7 +33811,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-679
+690
 ],
 "place": 208,
 "text": "",
@@ -33685,16 +33829,16 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 47,
-552,
-605,
-630,
-632,
-639,
-654,
-666,
+563,
+616,
+641,
+643,
+650,
+665,
 677,
-679,
-683
+688,
+690,
+694
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 16\n</p>\n<p>\n<b>County of</b>: Salt Lake County\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Line No.</b>: 9\n</p>\n<p>\n<b>Name</b>: Pack, Silas M\n</p>\n</div>",
@@ -33711,7 +33855,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-680
+691
 ],
 "place": 587,
 "text": "",
@@ -33726,7 +33870,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-680
+691
 ],
 "place": 528,
 "text": "",
@@ -33741,7 +33885,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-680
+691
 ],
 "place": 549,
 "text": "",
@@ -33758,9 +33902,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-681
+692
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Birth"
 },
@@ -33773,9 +33917,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-681
+692
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Death"
 },
@@ -33788,7 +33932,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-681
+692
 ],
 "place": 67,
 "text": "",
@@ -33805,7 +33949,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-682
+693
 ],
 "place": 68,
 "text": "",
@@ -33820,7 +33964,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-682
+693
 ],
 "place": 587,
 "text": "",
@@ -33835,9 +33979,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-682
+693
 ],
-"place": 703,
+"place": 704,
 "text": "",
 "type": "Burial"
 },
@@ -33852,20 +33996,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-624,
-640,
-642,
-647,
-650,
+259,
+635,
+651,
+653,
 658,
-660,
-662,
-663,
+661,
 669,
+671,
 673,
-682,
-683
+674,
+680,
+684,
+693,
+694
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21 or 26\n</p>\n<p>\n<b>Sheet No.</b>: 32A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 73\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-16\n</p>\n<p>\n<b>Line No.</b>: 36\n</p>\n<p>\n<b>Family No.</b>: 43\n</p>\n<p>\n<b>Name</b>: Pack, Ward E Jr\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 20\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Single</b>: S\n</p>\n<p>\n<b>Occupation</b>: At home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: N. Y.\n</p>\n<p>\n<b>Place of birth of mother</b>: Ill\n</p>\n</div>",
@@ -33882,10 +34026,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-99,
-255,
-682,
-683
+102,
+259,
+693,
+694
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 178\n</p>\n<p>\n<b>Minor Civil Division</b>: 17th Ward Great Salt Lake City\n</p>\n<p>\n<b>County of</b>: Great Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-07-17\n</p>\n<p>\n<b>Post Office</b>: Great Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 13\n</p>\n<p>\n<b>Family No.</b>: 61\n</p>\n<p>\n<b>Name</b>: Pack, Ward E\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Iowa\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -33902,9 +34046,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-683
+694
 ],
-"place": 728,
+"place": 729,
 "text": "",
 "type": "Birth"
 },
@@ -33917,9 +34061,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-683
+694
 ],
-"place": 704,
+"place": 705,
 "text": "",
 "type": "Death"
 },
@@ -33932,9 +34076,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-683
+694
 ],
-"place": 703,
+"place": 704,
 "text": "",
 "type": "Burial"
 },
@@ -33949,13 +34093,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-642,
-652,
-662,
+259,
+653,
+663,
 673,
-683,
-684
+684,
+694,
+695
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>Page No.</b>: 136\n</p>\n<p>\n<b>Sheet No.</b>: 14A\n</p>\n<p>\n<b>Division of County</b>: Kamas Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Kamas Village\n</p>\n<p>\n<b>Name</b>: Pack, Ward E\n</p>\n<p>\n<b>Relation to head</b>: Head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: April\n</p>\n<p>\n<b>Year of birth</b>: 1834\n</p>\n<p>\n<b>Age</b>: 66\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 42\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: New York\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Months not employed</b>: 0\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n<p>\n<b>Number of farm schedule</b>: 165\n</p>\n</div>",
@@ -33972,20 +34116,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-624,
-640,
-642,
-647,
-650,
+259,
+635,
+651,
+653,
 658,
-660,
-662,
-663,
+661,
 669,
+671,
 673,
-682,
-683
+674,
+680,
+684,
+693,
+694
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>Page No.</b>: 21 or 26\n</p>\n<p>\n<b>Sheet No.</b>: 32A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 73\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-16\n</p>\n<p>\n<b>Line No.</b>: 36\n</p>\n<p>\n<b>Family No.</b>: 43\n</p>\n<p>\n<b>Name</b>: Pack, Ward E\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 66\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Married</b>: M\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Place of birth</b>: N. Y.\n</p>\n<p>\n<b>Place of birth of father</b>: N. B.\n</p>\n<p>\n<b>Place of birth of mother</b>: N. Y.\n</p>\n</div>",
@@ -34003,16 +34147,16 @@ I_events_0 = [
 "part_family": [],
 "part_person": [
 47,
-552,
-605,
-630,
-632,
-639,
-654,
-666,
+563,
+616,
+641,
+643,
+650,
+665,
 677,
-679,
-683
+688,
+690,
+694
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 16\n</p>\n<p>\n<b>County of</b>: Salt Lake County\n</p>\n<p>\n<b>State of</b>: Deseret\n</p>\n<p>\n<b>Line No.</b>: 9\n</p>\n<p>\n<b>Name</b>: Pack, Ward\n</p>\n</div>",
@@ -34029,10 +34173,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-99,
-255,
-682,
-683
+102,
+259,
+693,
+694
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 178\n</p>\n<p>\n<b>Minor Civil Division</b>: 17th Ward Great Salt Lake City\n</p>\n<p>\n<b>County of</b>: Great Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-07-17\n</p>\n<p>\n<b>Post Office</b>: Great Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 13\n</p>\n<p>\n<b>Family No.</b>: 61\n</p>\n<p>\n<b>Name</b>: Pack, Ward E\n</p>\n<p>\n<b>Age</b>: 26\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Value of personal estate</b>: 150\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n</div>",
@@ -34049,7 +34193,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-684
+695
 ],
 "place": 322,
 "text": "",
@@ -34064,7 +34208,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-684
+695
 ],
 "place": 587,
 "text": "",
@@ -34079,7 +34223,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-684
+695
 ],
 "place": 586,
 "text": "",
@@ -34096,13 +34240,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255,
-642,
-652,
-662,
+259,
+653,
+663,
 673,
-683,
-684
+684,
+694,
+695
 ],
 "place": 296,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>Page No.</b>: 136\n</p>\n<p>\n<b>Sheet No.</b>: 14A\n</p>\n<p>\n<b>Division of County</b>: Kamas Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Kamas Village\n</p>\n<p>\n<b>Name</b>: Pack, Wehrli D\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: July\n</p>\n<p>\n<b>Year of birth</b>: 1889\n</p>\n<p>\n<b>Age</b>: 10\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Hawaii\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: At school\n</p>\n<p>\n<b>Attended school</b>: 8\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -34119,7 +34263,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-685
+696
 ],
 "place": 587,
 "text": "",
@@ -34134,7 +34278,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-685
+696
 ],
 "place": 587,
 "text": "",
@@ -34149,7 +34293,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-685
+696
 ],
 "place": 586,
 "text": "",
@@ -34166,7 +34310,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-686
+697
 ],
 "place": 296,
 "text": "",
@@ -34181,7 +34325,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-686
+697
 ],
 "place": 587,
 "text": "",
@@ -34196,9 +34340,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-686
+697
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 }
@@ -34213,7 +34357,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-687
+698
 ],
 "place": 68,
 "text": "",
@@ -34228,7 +34372,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-687
+698
 ],
 "place": 574,
 "text": "",
@@ -34243,9 +34387,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-687
+698
 ],
-"place": 693,
+"place": 694,
 "text": "",
 "type": "Burial"
 }
@@ -34261,7 +34405,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-689
+700
 ],
 "place": 448,
 "text": "",
@@ -34276,7 +34420,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-689
+700
 ],
 "place": 587,
 "text": "",
@@ -34291,7 +34435,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-689
+700
 ],
 "place": 586,
 "text": "",
@@ -34323,7 +34467,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-705
+716
 ],
 "place": 506,
 "text": "",
@@ -34338,7 +34482,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-705
+716
 ],
 "place": -1,
 "text": "",
@@ -34355,7 +34499,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-706
+717
 ],
 "place": 649,
 "text": "",
@@ -34370,7 +34514,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-706
+717
 ],
 "place": 127,
 "text": "",
@@ -34385,7 +34529,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-706
+717
 ],
 "place": 127,
 "text": "",
@@ -34402,7 +34546,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707
+718
 ],
 "place": 587,
 "text": "",
@@ -34417,7 +34561,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707
+718
 ],
 "place": 587,
 "text": "",
@@ -34432,16 +34576,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>National Origin</b>: United States of America\n</p>\n</div>",
@@ -34456,11 +34600,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707,
-709,
-713,
-714,
-717
+718,
+720,
+724,
+725,
+728
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>National Origin</b>: United States of America\n</p>\n</div>",
@@ -34475,7 +34619,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707
+718
 ],
 "place": 586,
 "text": "",
@@ -34492,17 +34636,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+607,
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1611\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: 10th Ward Salt Lake City\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-20\n</p>\n<p>\n<b>Post Office</b>: Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Paul, Alice\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at house\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -34519,9 +34663,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-708
+719
 ],
-"place": 777,
+"place": 778,
 "text": "",
 "type": "Birth"
 },
@@ -34534,7 +34678,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-708
+719
 ],
 "place": 229,
 "text": "",
@@ -34549,11 +34693,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-708,
-712,
-718
+719,
+723,
+729
 ],
-"place": 777,
+"place": 778,
 "text": "<div>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>National Origin</b>: England\n</p>\n</div>",
 "type": "Census"
 },
@@ -34566,13 +34710,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-708,
-711,
-712,
-715,
-716,
-717,
-718
+719,
+722,
+723,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>National Origin</b>: England\n</p>\n</div>",
@@ -34580,7 +34724,7 @@ I_events_0 = [
 },
 {
 "cita": [
-174
+178
 ],
 "date": "1853-01-23",
 "date_sdn": 2397877,
@@ -34589,11 +34733,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-712,
-717,
-718
+607,
+719,
+723,
+728,
+729
 ],
 "place": 349,
 "text": "<div>\n<p>\n<b>Identification Number</b>: \n</p>\n<div>\n<i class=\"NoteType\">\nAttribute Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nShip named Golcanda\n</p>\n</div>\n</div>\n<p>\n<b>Father's Age</b>: 28\n</p>\n<p>\n<b>Mother's Age</b>: 28\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n</div>",
@@ -34601,7 +34745,7 @@ I_events_0 = [
 },
 {
 "cita": [
-174
+178
 ],
 "date": "1853-01-23",
 "date_sdn": 2397877,
@@ -34610,11 +34754,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-712,
-717,
-718
+607,
+719,
+723,
+728,
+729
 ],
 "place": 349,
 "text": "<div>\n<p>\n<b>Identification Number</b>: \n</p>\n<div>\n<i class=\"NoteType\">\nAttribute Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nShip named Golcanda\n</p>\n</div>\n</div>\n<p>\n<b>Father's Age</b>: 28\n</p>\n<p>\n<b>Mother's Age</b>: 29\n</p>\n<p>\n<b>Age</b>: 7\n</p>\n</div>",
@@ -34622,7 +34766,7 @@ I_events_0 = [
 },
 {
 "cita": [
-174
+178
 ],
 "date": "1853-03-26",
 "date_sdn": 2397939,
@@ -34631,11 +34775,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-712,
-717,
-718
+607,
+719,
+723,
+728,
+729
 ],
 "place": 444,
 "text": "<div>\n<p>\n<b>Father's Age</b>: 28\n</p>\n<p>\n<b>Mother's Age</b>: 28\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n</div>",
@@ -34643,7 +34787,7 @@ I_events_0 = [
 },
 {
 "cita": [
-175
+179
 ],
 "date": "1853-09-17",
 "date_sdn": 2398114,
@@ -34652,11 +34796,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-712,
-717,
-718
+607,
+719,
+723,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 7\n</p>\n<p>\n<b>Father's Age</b>: 29\n</p>\n<p>\n<b>Mother's Age</b>: 29\n</p>\n</div>",
@@ -34673,14 +34817,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-711,
-712,
-715,
-716,
-717,
-718
+607,
+719,
+722,
+723,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Page No.</b>: 226\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Great Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 30\n</p>\n<p>\n<b>Family No.</b>: 54\n</p>\n<p>\n<b>Name</b>: Poll, Ann M\n</p>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n</div>",
@@ -34697,7 +34841,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-709
+720
 ],
 "place": 229,
 "text": "",
@@ -34712,7 +34856,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-709
+720
 ],
 "place": 629,
 "text": "",
@@ -34727,16 +34871,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>National Origin</b>: United States of America\n</p>\n</div>",
@@ -34751,11 +34895,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707,
-709,
-713,
-714,
-717
+718,
+720,
+724,
+725,
+728
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>National Origin</b>: United States of America\n</p>\n</div>",
@@ -34770,7 +34914,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-709
+720
 ],
 "place": 586,
 "text": "",
@@ -34787,17 +34931,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+607,
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1611\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: 10th Ward Salt Lake City\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-20\n</p>\n<p>\n<b>Post Office</b>: Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Paul, Charles\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at house\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -34814,7 +34958,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-710
+721
 ],
 "place": 369,
 "text": "",
@@ -34829,7 +34973,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-710
+721
 ],
 "place": 369,
 "text": "",
@@ -34846,7 +34990,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-711
+722
 ],
 "place": 587,
 "text": "",
@@ -34861,7 +35005,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-711
+722
 ],
 "place": 629,
 "text": "",
@@ -34876,13 +35020,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-708,
-711,
-712,
-715,
-716,
-717,
-718
+719,
+722,
+723,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Father's Age</b>: 35\n</p>\n<p>\n<b>Mother's Age</b>: 35\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>National Origin</b>: England\n</p>\n</div>",
@@ -34897,16 +35041,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>National Origin</b>: United States of America\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Nickname</b>: Eliza\n</p>\n</div>",
@@ -34921,7 +35065,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-711
+722
 ],
 "place": 628,
 "text": "",
@@ -34938,14 +35082,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-711,
-712,
-715,
-716,
-717,
-718
+607,
+719,
+722,
+723,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Page No.</b>: 226\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Great Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 30\n</p>\n<p>\n<b>Family No.</b>: 54\n</p>\n<p>\n<b>Name</b>: Poll, Elizabeth J\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n</div>",
@@ -34962,17 +35106,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+607,
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1611\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: 10th Ward Salt Lake City\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-20\n</p>\n<p>\n<b>Post Office</b>: Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Paul, Eliza\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at house\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -34989,7 +35133,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-712
+723
 ],
 "place": 233,
 "text": "",
@@ -35004,7 +35148,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-712
+723
 ],
 "place": 587,
 "text": "",
@@ -35019,11 +35163,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-708,
-712,
-718
+719,
+723,
+729
 ],
-"place": 777,
+"place": 778,
 "text": "<div>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>National Origin</b>: England\n</p>\n</div>",
 "type": "Census"
 },
@@ -35036,13 +35180,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-708,
-711,
-712,
-715,
-716,
-717,
-718
+719,
+722,
+723,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>National Origin</b>: England\n</p>\n</div>",
@@ -35050,7 +35194,7 @@ I_events_0 = [
 },
 {
 "cita": [
-174
+178
 ],
 "date": "1853-01-23",
 "date_sdn": 2397877,
@@ -35059,11 +35203,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-712,
-717,
-718
+607,
+719,
+723,
+728,
+729
 ],
 "place": 349,
 "text": "<div>\n<p>\n<b>Identification Number</b>: \n</p>\n<div>\n<i class=\"NoteType\">\nAttribute Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nShip named Golcanda\n</p>\n</div>\n</div>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Father's Age</b>: 28\n</p>\n<p>\n<b>Mother's Age</b>: 28\n</p>\n</div>",
@@ -35071,7 +35215,7 @@ I_events_0 = [
 },
 {
 "cita": [
-174
+178
 ],
 "date": "1853-03-26",
 "date_sdn": 2397939,
@@ -35080,11 +35224,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-712,
-717,
-718
+607,
+719,
+723,
+728,
+729
 ],
 "place": 444,
 "text": "<div>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Father's Age</b>: 28\n</p>\n<p>\n<b>Mother's Age</b>: 28\n</p>\n</div>",
@@ -35092,7 +35236,7 @@ I_events_0 = [
 },
 {
 "cita": [
-175
+179
 ],
 "date": "1853-06-03",
 "date_sdn": 2398008,
@@ -35101,10 +35245,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-712,
-717,
-718
+607,
+723,
+728,
+729
 ],
 "place": 309,
 "text": "<div>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Father's Age</b>: 28\n</p>\n<p>\n<b>Mother's Age</b>: 29\n</p>\n</div>",
@@ -35112,7 +35256,7 @@ I_events_0 = [
 },
 {
 "cita": [
-175
+179
 ],
 "date": "1853-09-17",
 "date_sdn": 2398114,
@@ -35121,11 +35265,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-712,
-717,
-718
+607,
+719,
+723,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Father's Age</b>: 29\n</p>\n<p>\n<b>Mother's Age</b>: 29\n</p>\n</div>",
@@ -35140,16 +35284,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>National Origin</b>: England\n</p>\n<p>\n<b>Age</b>: 21\n</p>\n</div>",
@@ -35164,7 +35308,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-712
+723
 ],
 "place": 586,
 "text": "",
@@ -35181,14 +35325,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-711,
-712,
-715,
-716,
-717,
-718
+607,
+719,
+722,
+723,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Page No.</b>: 226\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Great Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 30\n</p>\n<p>\n<b>Family No.</b>: 54\n</p>\n<p>\n<b>Name</b>: Poll, Frederick\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n</div>",
@@ -35205,17 +35349,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+607,
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1611\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: 10th Ward Salt Lake City\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-20\n</p>\n<p>\n<b>Post Office</b>: Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Paul, Fred. R\n</p>\n<p>\n<b>Age</b>: 21\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at house\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -35232,7 +35376,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-713
+724
 ],
 "place": 581,
 "text": "",
@@ -35247,7 +35391,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-713
+724
 ],
 "place": 468,
 "text": "",
@@ -35262,16 +35406,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>National Origin</b>: United States of America\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n</div>",
@@ -35286,11 +35430,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707,
-709,
-713,
-714,
-717
+718,
+720,
+724,
+725,
+728
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>National Origin</b>: United States of America\n</p>\n</div>",
@@ -35305,7 +35449,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-713
+724
 ],
 "place": 301,
 "text": "",
@@ -35322,17 +35466,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+607,
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1611\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: 10th Ward Salt Lake City\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-20\n</p>\n<p>\n<b>Post Office</b>: Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Paul, Harriett\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at house\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -35349,7 +35493,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-714
+725
 ],
 "place": 587,
 "text": "",
@@ -35364,7 +35508,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-714
+725
 ],
 "place": 587,
 "text": "",
@@ -35379,16 +35523,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>National Origin</b>: United States of America\n</p>\n</div>",
@@ -35403,11 +35547,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707,
-709,
-713,
-714,
-717
+718,
+720,
+724,
+725,
+728
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>National Origin</b>: United States of America\n</p>\n</div>",
@@ -35422,7 +35566,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-714
+725
 ],
 "place": 586,
 "text": "",
@@ -35439,17 +35583,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+607,
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1611\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: 10th Ward Salt Lake City\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-20\n</p>\n<p>\n<b>Post Office</b>: Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Paul, Joseph\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at house\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -35466,7 +35610,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715
+726
 ],
 "place": 587,
 "text": "",
@@ -35481,7 +35625,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715
+726
 ],
 "place": 587,
 "text": "",
@@ -35496,7 +35640,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715
+726
 ],
 "place": 586,
 "text": "",
@@ -35511,13 +35655,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-708,
-711,
-712,
-715,
-716,
-717,
-718
+719,
+722,
+723,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Father's Age</b>: 35\n</p>\n<p>\n<b>Mother's Age</b>: 35\n</p>\n<p>\n<b>National Origin</b>: United States of America\n</p>\n</div>",
@@ -35532,16 +35676,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>National Origin</b>: United States of America\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n</div>",
@@ -35558,9 +35702,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-849,
-859
+726,
+860,
+870
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Page No.</b>: 8\n</p>\n<p>\n<b>Sheet No.</b>: D\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 53\n</p>\n<p>\n<b>Minor Civil Division</b>: Salt Lake City\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-02\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 29\n</p>\n<p>\n<b>Name</b>: Thomson, Martha A\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 23\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -35577,15 +35721,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-847,
-848,
-856,
+726,
 858,
 859,
-860,
-861,
-863
+867,
+869,
+870,
+871,
+872,
+874
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1685\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 65\n</p>\n<p>\n<b>Page No.</b>: 192\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Farmers Precinct\n</p>\n<p>\n<b>Street Address</b>: 1861 4th East Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-21\n</p>\n<p>\n<b>Name</b>: Thomson, Martha A\n</p>\n<p>\n<b>Relation to head</b>: Wife\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Jan\n</p>\n<p>\n<b>Year of birth</b>: 1857\n</p>\n<p>\n<b>Age</b>: 43\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 23\n</p>\n<p>\n<b>Mother of how many children</b>: 8\n</p>\n<p>\n<b>Number of children living</b>: 8\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -35602,13 +35746,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-848,
-856,
+726,
 859,
-860,
-861,
-863
+867,
+870,
+871,
+872,
+874
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 243\n</p>\n<p>\n<b>Page No.</b>: 185\n</p>\n<p>\n<b>Sheet No.</b>: 4A\n</p>\n<p>\n<b>Division of County</b>: Precinct 2 Election Distr. 97\n</p>\n<p>\n<b>Name of Institution</b>: 340 Justice Street\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-16\n</p>\n<p>\n<b>Name</b>: Thomson, Martha A\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 53\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 33\n</p>\n<p>\n<b>Mother of how many children</b>: 8\n</p>\n<p>\n<b>Number of children living</b>: 7\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -35625,14 +35769,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-711,
-712,
-715,
-716,
-717,
-718
+607,
+719,
+722,
+723,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Page No.</b>: 226\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Great Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 30\n</p>\n<p>\n<b>Family No.</b>: 54\n</p>\n<p>\n<b>Name</b>: Poll, Martha Ann\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -35649,17 +35793,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+607,
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1611\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: 10th Ward Salt Lake City\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-20\n</p>\n<p>\n<b>Post Office</b>: Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Paul, Martha\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at house\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -35676,7 +35820,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-716
+727
 ],
 "place": 587,
 "text": "",
@@ -35691,7 +35835,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-716
+727
 ],
 "place": 587,
 "text": "",
@@ -35706,13 +35850,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-708,
-711,
-712,
-715,
-716,
-717,
-718
+719,
+722,
+723,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Father's Age</b>: 35\n</p>\n<p>\n<b>Mother's Age</b>: 35\n</p>\n<p>\n<b>National Origin</b>: United States of America\n</p>\n</div>",
@@ -35727,16 +35871,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>National Origin</b>: United States of America\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n</div>",
@@ -35751,7 +35895,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-716
+727
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 41\n</p>\n<p>\n<b>Number of Children</b>: 7\n</p>\n<p>\n<b>National Origin</b>: United States of America\n</p>\n</div>",
@@ -35766,7 +35910,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-716
+727
 ],
 "place": 586,
 "text": "",
@@ -35783,14 +35927,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-711,
-712,
-715,
-716,
-717,
-718
+607,
+719,
+722,
+723,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Page No.</b>: 226\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Great Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 30\n</p>\n<p>\n<b>Family No.</b>: 54\n</p>\n<p>\n<b>Name</b>: Poll, Mary Ann\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -35807,17 +35951,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+607,
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1611\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: 10th Ward Salt Lake City\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-20\n</p>\n<p>\n<b>Post Office</b>: Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Paul, Mary\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at house\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -35834,7 +35978,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-717
+728
 ],
 "place": 143,
 "text": "",
@@ -35849,7 +35993,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-717
+728
 ],
 "place": 587,
 "text": "",
@@ -35864,7 +36008,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-717
+728
 ],
 "place": 586,
 "text": "",
@@ -35872,7 +36016,7 @@ I_events_0 = [
 },
 {
 "cita": [
-123
+127
 ],
 "date": "about 1832",
 "date_sdn": 2390184,
@@ -35881,7 +36025,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-717
+728
 ],
 "place": -1,
 "text": "<div>\n<p>\n<b>Occupation</b>: Cabinet-Maker\n</p>\n</div>",
@@ -35889,7 +36033,7 @@ I_events_0 = [
 },
 {
 "cita": [
-174
+178
 ],
 "date": "1853-01-23",
 "date_sdn": 2397877,
@@ -35898,11 +36042,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-712,
-717,
-718
+607,
+719,
+723,
+728,
+729
 ],
 "place": 349,
 "text": "<div>\n<p>\n<b>Identification Number</b>: \n</p>\n<div>\n<i class=\"NoteType\">\nAttribute Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nShip named Golcanda\n</p>\n</div>\n</div>\n<p>\n<b>Age</b>: 28\n</p>\n<p>\n<b>Occupation</b>: Carpenter\n</p>\n<p>\n<b>Number of Children</b>: 3\n</p>\n</div>",
@@ -35910,7 +36054,7 @@ I_events_0 = [
 },
 {
 "cita": [
-174
+178
 ],
 "date": "1853-03-26",
 "date_sdn": 2397939,
@@ -35919,11 +36063,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-712,
-717,
-718
+607,
+719,
+723,
+728,
+729
 ],
 "place": 444,
 "text": "<div>\n<p>\n<b>Age</b>: 28\n</p>\n<p>\n<b>Number of Children</b>: 3\n</p>\n<p>\n<b>Occupation</b>: Carpenter\n</p>\n</div>",
@@ -35931,7 +36075,7 @@ I_events_0 = [
 },
 {
 "cita": [
-175
+179
 ],
 "date": "1853-06-03",
 "date_sdn": 2398008,
@@ -35940,10 +36084,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-712,
-717,
-718
+607,
+723,
+728,
+729
 ],
 "place": 309,
 "text": "<div>\n<p>\n<b>Age</b>: 28\n</p>\n<p>\n<b>Number of Children</b>: 3\n</p>\n</div>",
@@ -35951,7 +36095,7 @@ I_events_0 = [
 },
 {
 "cita": [
-175
+179
 ],
 "date": "1853-09-17",
 "date_sdn": 2398114,
@@ -35960,11 +36104,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-712,
-717,
-718
+607,
+719,
+723,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 29\n</p>\n<p>\n<b>Number of Children</b>: 3\n</p>\n</div>",
@@ -35979,13 +36123,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-708,
-711,
-712,
-715,
-716,
-717,
-718
+719,
+722,
+723,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 35\n</p>\n<p>\n<b>Number of Children</b>: 6\n</p>\n<p>\n<b>National Origin</b>: England\n</p>\n</div>",
@@ -36000,16 +36144,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 43\n</p>\n<div>\n<i class=\"NoteType\">\nAttribute Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nSurely a mistake, he would be 46.\n</p>\n</div>\n</div>\n<p>\n<b>Occupation</b>: Carpenter\n</p>\n<p>\n<b>Number of Children</b>: 9\n</p>\n<p>\n<b>National Origin</b>: England\n</p>\n</div>",
@@ -36024,11 +36168,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707,
-709,
-713,
-714,
-717
+718,
+720,
+724,
+725,
+728
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 56\n</p>\n<p>\n<b>National Origin</b>: England\n</p>\n<p>\n<b>Number of Children</b>: 4\n</p>\n</div>",
@@ -36045,14 +36189,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-711,
-712,
-715,
-716,
-717,
-718
+607,
+719,
+722,
+723,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Page No.</b>: 226\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Great Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 30\n</p>\n<p>\n<b>Family No.</b>: 54\n</p>\n<p>\n<b>Name</b>: Poll, William F\n</p>\n<p>\n<b>Age</b>: 35\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Occupation</b>: Carpenter & Farmer\n</p>\n<p>\n<b>Value of personal estate</b>: 400\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n</div>",
@@ -36069,17 +36213,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+607,
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1611\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: 10th Ward Salt Lake City\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-20\n</p>\n<p>\n<b>Post Office</b>: Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Paul, William\n</p>\n<p>\n<b>Age</b>: 45\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Carpenter\n</p>\n<p>\n<b>Value of real estate</b>: 500\n</p>\n<p>\n<b>Value of personal estate</b>: 100\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Male citizen 21 and over</b>: Y\n</p>\n</div>",
@@ -36096,9 +36240,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-718
+729
 ],
-"place": 777,
+"place": 778,
 "text": "",
 "type": "Birth"
 },
@@ -36111,7 +36255,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-718
+729
 ],
 "place": 587,
 "text": "",
@@ -36126,11 +36270,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-708,
-712,
-718
+719,
+723,
+729
 ],
-"place": 777,
+"place": 778,
 "text": "<div>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>National Origin</b>: England\n</p>\n</div>",
 "type": "Census"
 },
@@ -36143,13 +36287,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-708,
-711,
-712,
-715,
-716,
-717,
-718
+719,
+722,
+723,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>National Origin</b>: England\n</p>\n</div>",
@@ -36157,7 +36301,7 @@ I_events_0 = [
 },
 {
 "cita": [
-174
+178
 ],
 "date": "1853-01-23",
 "date_sdn": 2397877,
@@ -36166,11 +36310,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-712,
-717,
-718
+607,
+719,
+723,
+728,
+729
 ],
 "place": 349,
 "text": "<div>\n<p>\n<b>Identification Number</b>: \n</p>\n<div>\n<i class=\"NoteType\">\nAttribute Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nShip named Golcanda\n</p>\n</div>\n</div>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Father's Age</b>: 28\n</p>\n<p>\n<b>Mother's Age</b>: 28\n</p>\n</div>",
@@ -36178,7 +36322,7 @@ I_events_0 = [
 },
 {
 "cita": [
-174
+178
 ],
 "date": "1853-03-26",
 "date_sdn": 2397939,
@@ -36187,11 +36331,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-712,
-717,
-718
+607,
+719,
+723,
+728,
+729
 ],
 "place": 444,
 "text": "<div>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Father's Age</b>: 28\n</p>\n<p>\n<b>Mother's Age</b>: 28\n</p>\n</div>",
@@ -36199,7 +36343,7 @@ I_events_0 = [
 },
 {
 "cita": [
-175
+179
 ],
 "date": "1853-06-03",
 "date_sdn": 2398008,
@@ -36208,10 +36352,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-712,
-717,
-718
+607,
+723,
+728,
+729
 ],
 "place": 309,
 "text": "<div>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Father's Age</b>: 28\n</p>\n<p>\n<b>Mother's Age</b>: 29\n</p>\n</div>",
@@ -36219,7 +36363,7 @@ I_events_0 = [
 },
 {
 "cita": [
-175
+179
 ],
 "date": "1853-09-17",
 "date_sdn": 2398114,
@@ -36228,11 +36372,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-712,
-717,
-718
+607,
+719,
+723,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Mother's Age</b>: 29\n</p>\n<p>\n<b>Father's Age</b>: 29\n</p>\n</div>",
@@ -36247,16 +36391,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Age</b>: 25\n</p>\n<p>\n<b>National Origin</b>: England\n</p>\n</div>",
@@ -36271,7 +36415,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-718
+729
 ],
 "place": 586,
 "text": "",
@@ -36288,14 +36432,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-708,
-711,
-712,
-715,
-716,
-717,
-718
+607,
+719,
+722,
+723,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Page No.</b>: 226\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Great Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 30\n</p>\n<p>\n<b>Family No.</b>: 54\n</p>\n<p>\n<b>Name</b>: Poll, William F\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n</div>",
@@ -36312,17 +36456,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596,
-707,
-709,
-711,
-712,
-713,
-714,
-715,
-716,
-717,
-718
+607,
+718,
+720,
+722,
+723,
+724,
+725,
+726,
+727,
+728,
+729
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1611\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Minor Civil Division</b>: 10th Ward Salt Lake City\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-20\n</p>\n<p>\n<b>Post Office</b>: Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Paul, William\n</p>\n<p>\n<b>Age</b>: 25\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: at house\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -36339,7 +36483,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-719
+730
 ],
 "place": 15,
 "text": "",
@@ -36356,7 +36500,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-720
+731
 ],
 "place": 15,
 "text": "",
@@ -36373,7 +36517,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-721
+732
 ],
 "place": 258,
 "text": "",
@@ -36388,9 +36532,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-721
+732
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Death"
 },
@@ -36403,9 +36547,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-721
+732
 ],
-"place": 681,
+"place": 682,
 "text": "",
 "type": "Burial"
 },
@@ -36420,19 +36564,19 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-432,
-435,
 437,
-439,
-441,
-443,
+440,
+442,
+444,
 446,
-449,
-452,
-453,
-721
+448,
+451,
+454,
+457,
+458,
+732
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 463\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Line No.</b>: 1\n</p>\n<p>\n<b>Name</b>: Haight, Elizabeth\n</p>\n<p>\n<b>Age</b>: 38\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Keeping House\n</p>\n<p>\n<b>Place of birth</b>: Wales\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
@@ -36447,20 +36591,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426,
 431,
-432,
-434,
+436,
+437,
 439,
-441,
-443,
+444,
+446,
 448,
 453,
-454,
-721,
-772,
+458,
+459,
+732,
 783,
-845
+794,
+856
 ],
 "place": 102,
 "text": "<div>\n<p>\n<b>Page No.</b>: 165-166\n</p>\n<p>\n<b>Sheet No.</b>: 754\n</p>\n<p>\n<b>Minor Civil Division</b>: Cedar City\n</p>\n<p>\n<b>County of</b>: Iron\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Cedar\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 1215\n</p>\n<p>\n<b>Name</b>: Haight, Eliza A\n</p>\n<p>\n<b>Age</b>: 27\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n</div>",
@@ -36477,13 +36621,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-435,
-437,
 440,
-452,
-721
+442,
+445,
+457,
+732
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1336\n</p>\n<p>\n<b>Page No.</b>: 4\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Precinct\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 45\n</p>\n<p>\n<b>Family No.</b>: 32\n</p>\n<p>\n<b>Name</b>: Haight, Eliza Ann\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 47\n</p>\n<p>\n<b>Widowed, divorced</b>: Wd\n</p>\n<p>\n<b>Occupation</b>: Keeps House & Farm\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
 "type": "Census"
 },
@@ -36498,14 +36642,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-721,
-802,
-808,
-825
+458,
+732,
+813,
+819,
+836
 ],
-"place": 682,
-"text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 211\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Division of County</b>: Toquerville \n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Hight, Eliza A\n</p>\n<p>\n<b>Relationship to head</b>: Mother in law\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 78\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: Wd\n</p>\n<p>\n<b>Mother of how many children</b>: 10\n</p>\n<p>\n<b>Number of children living</b>: 8\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: Wales\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Year of immigration</b>: 1853\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n</div>",
+"place": 683,
+"text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 211\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Division of County</b>: Toquerville\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Hight, Eliza A\n</p>\n<p>\n<b>Relationship to head</b>: Mother in law\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 78\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: Wd\n</p>\n<p>\n<b>Mother of how many children</b>: 10\n</p>\n<p>\n<b>Number of children living</b>: 8\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: Wales\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Year of immigration</b>: 1853\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n</div>",
 "type": "Census"
 }
 ],
@@ -36519,7 +36663,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-722
+733
 ],
 "place": 259,
 "text": "",
@@ -36534,7 +36678,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-722
+733
 ],
 "place": -1,
 "text": "",
@@ -36551,7 +36695,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-723
+734
 ],
 "place": 500,
 "text": "",
@@ -36568,7 +36712,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-724
+735
 ],
 "place": 317,
 "text": "",
@@ -36585,7 +36729,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-725
+736
 ],
 "place": -1,
 "text": "",
@@ -36600,7 +36744,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-725
+736
 ],
 "place": -1,
 "text": "",
@@ -36617,7 +36761,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-726
+737
 ],
 "place": 259,
 "text": "",
@@ -36632,7 +36776,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-726
+737
 ],
 "place": -1,
 "text": "",
@@ -36649,7 +36793,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-727
+738
 ],
 "place": 15,
 "text": "",
@@ -36666,7 +36810,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-728
+739
 ],
 "place": 270,
 "text": "",
@@ -36681,7 +36825,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-728
+739
 ],
 "place": 587,
 "text": "",
@@ -36696,7 +36840,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-728
+739
 ],
 "place": 586,
 "text": "",
@@ -36713,7 +36857,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-729
+740
 ],
 "place": 610,
 "text": "",
@@ -36728,7 +36872,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-729
+740
 ],
 "place": 587,
 "text": "",
@@ -36743,7 +36887,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-729
+740
 ],
 "place": 182,
 "text": "",
@@ -36760,7 +36904,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-730
+741
 ],
 "place": 349,
 "text": "",
@@ -36775,7 +36919,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-730
+741
 ],
 "place": 385,
 "text": "",
@@ -36790,7 +36934,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-730
+741
 ],
 "place": 349,
 "text": "",
@@ -36807,7 +36951,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-731
+742
 ],
 "place": 349,
 "text": "",
@@ -36822,7 +36966,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-731
+742
 ],
 "place": 119,
 "text": "",
@@ -36837,7 +36981,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-731
+742
 ],
 "place": 118,
 "text": "",
@@ -36854,9 +36998,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140,
-731,
-968
+143,
+742,
+979
 ],
 "place": -1,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 101\n</p>\n<p>\n<b>Sheet No.</b>: 3B\n</p>\n<p>\n<b>Division of County</b>: Coalville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Coalville City\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-04\n</p>\n<p>\n<b>Name</b>: Williams, Charlotte\n</p>\n<p>\n<b>Relation to head</b>: Head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: May\n</p>\n<p>\n<b>Year of birth</b>: 1840\n</p>\n<p>\n<b>Age</b>: 60\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Mother of how many children</b>: 13\n</p>\n<p>\n<b>Number of children living</b>: 6\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: Isle of Man\n</p>\n<p>\n<b>Place of birth of mother</b>: Scotland\n</p>\n<p>\n<b>Year of immigration</b>: 1875\n</p>\n<p>\n<b>Number of years in US</b>: 25\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n</div>",
@@ -36873,12 +37017,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-138,
-140,
-148,
+141,
+143,
 151,
-731,
-971
+154,
+742,
+982
 ],
 "place": 119,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 72\n</p>\n<p>\n<b>Minor Civil Division</b>: Coalville Precinct\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 2\n</p>\n<p>\n<b>Family No.</b>: 142\n</p>\n<p>\n<b>Name</b>: Williams, Susannah\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 39\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Keeping House\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -36895,7 +37039,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-732
+743
 ],
 "place": 349,
 "text": "",
@@ -36910,7 +37054,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-732
+743
 ],
 "place": -1,
 "text": "",
@@ -36927,7 +37071,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-733
+744
 ],
 "place": 359,
 "text": "",
@@ -36942,7 +37086,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-733
+744
 ],
 "place": 166,
 "text": "",
@@ -36957,7 +37101,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-733
+744
 ],
 "place": 457,
 "text": "",
@@ -36974,9 +37118,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-734
+745
 ],
-"place": 742,
+"place": 743,
 "text": "",
 "type": "Birth"
 },
@@ -36989,7 +37133,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-734
+745
 ],
 "place": 490,
 "text": "",
@@ -37004,7 +37148,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-734
+745
 ],
 "place": 489,
 "text": "",
@@ -37021,7 +37165,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-735
+746
 ],
 "place": 59,
 "text": "",
@@ -37036,7 +37180,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-735
+746
 ],
 "place": 330,
 "text": "",
@@ -37051,7 +37195,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-735
+746
 ],
 "place": 67,
 "text": "",
@@ -37069,7 +37213,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-737
+748
 ],
 "place": 536,
 "text": "",
@@ -37084,7 +37228,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-737
+748
 ],
 "place": 536,
 "text": "",
@@ -37099,7 +37243,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-737
+748
 ],
 "place": 536,
 "text": "",
@@ -37118,7 +37262,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-740
+751
 ],
 "place": 583,
 "text": "",
@@ -37133,7 +37277,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-740
+751
 ],
 "place": 583,
 "text": "",
@@ -37150,7 +37294,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-741
+752
 ],
 "place": 583,
 "text": "",
@@ -37165,7 +37309,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-741
+752
 ],
 "place": 357,
 "text": "",
@@ -37182,7 +37326,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-742
+753
 ],
 "place": 583,
 "text": "",
@@ -37197,7 +37341,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-742
+753
 ],
 "place": -1,
 "text": "",
@@ -37214,7 +37358,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-743
+754
 ],
 "place": 571,
 "text": "",
@@ -37229,7 +37373,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-743
+754
 ],
 "place": -1,
 "text": "",
@@ -37246,7 +37390,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-744
+755
 ],
 "place": 475,
 "text": "",
@@ -37261,7 +37405,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-744
+755
 ],
 "place": 251,
 "text": "",
@@ -37276,7 +37420,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-744
+755
 ],
 "place": 299,
 "text": "",
@@ -37293,7 +37437,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-745
+756
 ],
 "place": -1,
 "text": "",
@@ -37308,7 +37452,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-745
+756
 ],
 "place": -1,
 "text": "",
@@ -37325,7 +37469,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-746
+757
 ],
 "place": 411,
 "text": "",
@@ -37340,7 +37484,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-746
+757
 ],
 "place": 411,
 "text": "",
@@ -37357,7 +37501,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-747
+758
 ],
 "place": 590,
 "text": "",
@@ -37372,7 +37516,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-747
+758
 ],
 "place": 590,
 "text": "",
@@ -37389,7 +37533,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-748
+759
 ],
 "place": 590,
 "text": "",
@@ -37404,7 +37548,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-748
+759
 ],
 "place": 372,
 "text": "",
@@ -37419,7 +37563,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-748
+759
 ],
 "place": 370,
 "text": "",
@@ -37436,11 +37580,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-748,
-758,
 759,
-760,
-918
+769,
+770,
+771,
+929
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville District\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-20\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 17\n</p>\n<p>\n<b>Family No.</b>: 7\n</p>\n<p>\n<b>Name</b>: Rollins, Charles L\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Farm Hand\n</p>\n<p>\n<b>Place of birth</b>: California\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -37457,8 +37601,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-749,
-750
+760,
+761
 ],
 "place": 411,
 "text": "",
@@ -37473,7 +37617,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-749
+760
 ],
 "place": 411,
 "text": "",
@@ -37488,7 +37632,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-749
+760
 ],
 "place": 410,
 "text": "",
@@ -37505,8 +37649,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-749,
-750
+760,
+761
 ],
 "place": 411,
 "text": "",
@@ -37521,7 +37665,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-750
+761
 ],
 "place": 411,
 "text": "",
@@ -37536,7 +37680,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-750
+761
 ],
 "place": 410,
 "text": "",
@@ -37553,7 +37697,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-751
+762
 ],
 "place": 590,
 "text": "",
@@ -37568,7 +37712,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-751
+762
 ],
 "place": 590,
 "text": "",
@@ -37585,7 +37729,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-752
+763
 ],
 "place": 435,
 "text": "",
@@ -37600,7 +37744,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-752
+763
 ],
 "place": 436,
 "text": "",
@@ -37615,7 +37759,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-752
+763
 ],
 "place": -1,
 "text": "",
@@ -37632,7 +37776,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-753
+764
 ],
 "place": 411,
 "text": "",
@@ -37647,7 +37791,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-753
+764
 ],
 "place": 48,
 "text": "",
@@ -37662,7 +37806,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-753
+764
 ],
 "place": 410,
 "text": "",
@@ -37679,7 +37823,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-754
+765
 ],
 "place": 492,
 "text": "",
@@ -37694,7 +37838,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-754
+765
 ],
 "place": 411,
 "text": "",
@@ -37709,7 +37853,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-754
+765
 ],
 "place": 410,
 "text": "",
@@ -37726,7 +37870,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-755
+766
 ],
 "place": 590,
 "text": "",
@@ -37741,7 +37885,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-755
+766
 ],
 "place": 411,
 "text": "",
@@ -37756,7 +37900,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-755
+766
 ],
 "place": 410,
 "text": "",
@@ -37773,7 +37917,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-756
+767
 ],
 "place": 411,
 "text": "",
@@ -37788,7 +37932,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-756
+767
 ],
 "place": 587,
 "text": "",
@@ -37803,7 +37947,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-756
+767
 ],
 "place": 68,
 "text": "",
@@ -37820,7 +37964,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-757
+768
 ],
 "place": 18,
 "text": "",
@@ -37835,7 +37979,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-757
+768
 ],
 "place": 18,
 "text": "",
@@ -37852,7 +37996,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-758
+769
 ],
 "place": 48,
 "text": "",
@@ -37867,7 +38011,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-758
+769
 ],
 "place": 559,
 "text": "",
@@ -37882,7 +38026,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-758
+769
 ],
 "place": 370,
 "text": "",
@@ -37899,17 +38043,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
+473,
+475,
 477,
-478,
-479,
-758
+480,
+481,
+488,
+489,
+490,
+769
 ],
-"place": 688,
+"place": 689,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uinta\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 300\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 61\n</p>\n<p>\n<b>Sheet No.</b>: 10\n</p>\n<p>\n<b>Division of County</b>: Election District no 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-15\n</p>\n<p>\n<b>Name</b>: Hamblin, Ida\n</p>\n<p>\n<b>Relation to head</b>: Wife\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Oct\n</p>\n<p>\n<b>Year of birth</b>: 1862\n</p>\n<p>\n<b>Age</b>: 37\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 19\n</p>\n<p>\n<b>Mother of how many children</b>: 7\n</p>\n<p>\n<b>Number of children living</b>: 7\n</p>\n<p>\n<b>Place of birth</b>: California\n</p>\n<p>\n<b>Place of birth of father</b>: California\n</p>\n<p>\n<b>Place of birth of mother</b>: California\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
 "type": "Census"
 },
@@ -37924,8 +38068,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-477,
-758
+488,
+769
 ],
 "place": 235,
 "text": "<div>\n<p>\n<b>State of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Sweetwater\n</p>\n<p>\n<b>Division of County</b>: Green River Town\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 4\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 19-13\n</p>\n<p>\n<b>Page No.</b>: 120\n</p>\n<p>\n<b>Sheet No.</b>: 18B\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-19\n</p>\n<p>\n<b>Street Address</b>: 240 North Alley\n</p>\n<p>\n<b>Name</b>: Hamblin, Ida\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 67\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 18\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Indiana\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -37942,10 +38086,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-469,
-471,
-477,
-758
+480,
+482,
+488,
+769
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 11\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 99\n</p>\n<p>\n<b>Page No.</b>: 278\n</p>\n<p>\n<b>City, Town, Village</b>: Lyman Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-05\n</p>\n<p>\n<b>Name</b>: Hamblin, Ida\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 57\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: Missouri\n</p>\n<p>\n<b>Mother's mother tongue</b>: English\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -37962,15 +38106,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462,
-464,
-466,
-469,
-470,
-471,
+473,
+475,
 477,
-479,
-758
+480,
+481,
+482,
+488,
+490,
+769
 ],
 "place": 172,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 330\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 127\n</p>\n<p>\n<b>Page No.</b>: 53\n</p>\n<p>\n<b>Sheet No.</b>: 1A\n</p>\n<p>\n<b>Division of County</b>: Elkoh Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-18\n</p>\n<p>\n<b>Name</b>: Hamblin, Ida M\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 47\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 28\n</p>\n<p>\n<b>Mother of how many children</b>: 9\n</p>\n<p>\n<b>Number of children living</b>: 9\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: New York\n</p>\n<p>\n<b>Place of birth of mother</b>: Indiana\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Dressmaker\n</p>\n<p>\n<b>Nature of industry</b>: Clothes\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Out of work</b>: no\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: 0\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -37987,9 +38131,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-758,
-759,
-918
+769,
+770,
+929
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 29 A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 8\n</p>\n<p>\n<b>Family No.</b>: 67\n</p>\n<p>\n<b>Name</b>: Rollins, Ida\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Assisting House\n</p>\n<p>\n<b>Attended school within the census year</b>: 6\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: N York\n</p>\n<p>\n<b>Place of birth of mother</b>: Indiana\n</p>\n</div>",
@@ -38006,11 +38150,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-748,
-758,
 759,
-760,
-918
+769,
+770,
+771,
+929
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville District\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-20\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 17\n</p>\n<p>\n<b>Family No.</b>: 7\n</p>\n<p>\n<b>Name</b>: Rollins, Ida M\n</p>\n<p>\n<b>Age</b>: 7\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -38027,7 +38171,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-758
+769
 ],
 "place": 372,
 "text": "<div>\n<p>\n<b>State of</b>: Wyoming\n</p>\n<p>\n<b>County of</b>: Uintah\n</p>\n<p>\n<b>Incorporated place</b>: Lyman Town\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 4\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 21-15\n</p>\n<p>\n<b>Page No.</b>: 98\n</p>\n<p>\n<b>Sheet No.</b>: 3B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-08\n</p>\n<p>\n<b>Name</b>: Hamblin, Ida M\n</p>\n<p>\n<b>Home Owned/Rented</b>: O\n</p>\n<p>\n<b>Home value/monthly rental</b>: 700\n</p>\n<p>\n<b>Farm?</b>: N\n</p>\n<p>\n<b>Relationship</b>: Head\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 77\n</p>\n<p>\n<b>Marital Status</b>: Wd\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: No\n</p>\n<p>\n<b>Highest grade completed</b>: H2\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same house\n</p>\n<p>\n<b>At Work during week March 24-30</b>: No\n</p>\n<p>\n<b>public Emergency Work?</b>: No\n</p>\n<p>\n<b>Seeking work?</b>: No\n</p>\n<p>\n<b>Have a Job?</b>: No\n</p>\n<p>\n<b>housework (H), school (S), unable to work (U) or other (Ot)</b>: H\n</p>\n<p>\n<b># weeks worked in 1939</b>: 0\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 0\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: yes\n</p>\n</div>",
@@ -38044,7 +38188,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-759
+770
 ],
 "place": 341,
 "text": "",
@@ -38059,7 +38203,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-759
+770
 ],
 "place": 372,
 "text": "",
@@ -38074,7 +38218,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-759
+770
 ],
 "place": 370,
 "text": "",
@@ -38091,9 +38235,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-758,
-759,
-918
+769,
+770,
+929
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 29 A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 8\n</p>\n<p>\n<b>Family No.</b>: 67\n</p>\n<p>\n<b>Name</b>: Rollins, James H\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 64\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n<p>\n<b>Place of birth of father</b>: Vermont\n</p>\n<p>\n<b>Place of birth of mother</b>: New York\n</p>\n</div>",
@@ -38110,11 +38254,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-748,
-758,
 759,
-760,
-918
+769,
+770,
+771,
+929
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville District\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-20\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 17\n</p>\n<p>\n<b>Family No.</b>: 7\n</p>\n<p>\n<b>Name</b>: Rollins, James H\n</p>\n<p>\n<b>Age</b>: 54\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Value of real estate</b>: 600\n</p>\n<p>\n<b>Value of personal estate</b>: 1000\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n<p>\n<b>Male citizen 21 and over</b>: Y\n</p>\n</div>",
@@ -38131,7 +38275,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-760
+771
 ],
 "place": 590,
 "text": "",
@@ -38146,7 +38290,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-760
+771
 ],
 "place": 372,
 "text": "",
@@ -38161,7 +38305,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-760
+771
 ],
 "place": 370,
 "text": "",
@@ -38178,11 +38322,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-748,
-758,
 759,
-760,
-918
+769,
+770,
+771,
+929
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville District\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-20\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 17\n</p>\n<p>\n<b>Family No.</b>: 7\n</p>\n<p>\n<b>Name</b>: Rollins, Watson\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At home\n</p>\n<p>\n<b>Place of birth</b>: California\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -38199,7 +38343,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-761
+772
 ],
 "place": 411,
 "text": "",
@@ -38214,7 +38358,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-761
+772
 ],
 "place": 411,
 "text": "",
@@ -38229,7 +38373,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-761
+772
 ],
 "place": 410,
 "text": "",
@@ -38246,7 +38390,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-762
+773
 ],
 "place": 413,
 "text": "",
@@ -38261,7 +38405,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-762
+773
 ],
 "place": 578,
 "text": "",
@@ -38276,7 +38420,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-762
+773
 ],
 "place": 577,
 "text": "",
@@ -38293,7 +38437,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-763
+774
 ],
 "place": 411,
 "text": "",
@@ -38308,7 +38452,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-763
+774
 ],
 "place": 102,
 "text": "",
@@ -38323,7 +38467,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-763
+774
 ],
 "place": 491,
 "text": "",
@@ -38340,7 +38484,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-764
+775
 ],
 "place": 411,
 "text": "",
@@ -38355,7 +38499,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-764
+775
 ],
 "place": 411,
 "text": "",
@@ -38370,7 +38514,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-764
+775
 ],
 "place": 410,
 "text": "",
@@ -38387,7 +38531,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-765
+776
 ],
 "place": 411,
 "text": "",
@@ -38402,7 +38546,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-765
+776
 ],
 "place": 79,
 "text": "",
@@ -38417,7 +38561,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-765
+776
 ],
 "place": 205,
 "text": "",
@@ -38434,7 +38578,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-766
+777
 ],
 "place": 435,
 "text": "",
@@ -38449,7 +38593,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-766
+777
 ],
 "place": 587,
 "text": "",
@@ -38464,7 +38608,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-766
+777
 ],
 "place": 587,
 "text": "",
@@ -38481,7 +38625,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-767
+778
 ],
 "place": 590,
 "text": "",
@@ -38496,7 +38640,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-767
+778
 ],
 "place": 87,
 "text": "",
@@ -38511,7 +38655,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-767
+778
 ],
 "place": 486,
 "text": "",
@@ -38528,7 +38672,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-768
+779
 ],
 "place": 587,
 "text": "",
@@ -38543,7 +38687,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-768
+779
 ],
 "place": 590,
 "text": "",
@@ -38560,7 +38704,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-769
+780
 ],
 "place": 169,
 "text": "",
@@ -38575,7 +38719,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-769
+780
 ],
 "place": -1,
 "text": "",
@@ -38592,7 +38736,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-770
+781
 ],
 "place": 557,
 "text": "",
@@ -38607,7 +38751,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-770
+781
 ],
 "place": 60,
 "text": "",
@@ -38622,7 +38766,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-770
+781
 ],
 "place": 60,
 "text": "",
@@ -38639,9 +38783,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-771
+782
 ],
-"place": 717,
+"place": 718,
 "text": "",
 "type": "Birth"
 },
@@ -38654,7 +38798,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-771
+782
 ],
 "place": 587,
 "text": "",
@@ -38669,7 +38813,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-771
+782
 ],
 "place": 586,
 "text": "",
@@ -38686,7 +38830,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-772
+783
 ],
 "place": 311,
 "text": "",
@@ -38701,7 +38845,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-772
+783
 ],
 "place": 102,
 "text": "",
@@ -38716,7 +38860,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-772
+783
 ],
 "place": 101,
 "text": "",
@@ -38733,20 +38877,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426,
 431,
-432,
-434,
+436,
+437,
 439,
-441,
-443,
+444,
+446,
 448,
 453,
-454,
-721,
-772,
+458,
+459,
+732,
 783,
-845
+794,
+856
 ],
 "place": 102,
 "text": "<div>\n<p>\n<b>Page No.</b>: 165-166\n</p>\n<p>\n<b>Sheet No.</b>: 754\n</p>\n<p>\n<b>Minor Civil Division</b>: Cedar City\n</p>\n<p>\n<b>County of</b>: Iron\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Cedar\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 1215\n</p>\n<p>\n<b>Name</b>: Haight, Anna B\n</p>\n<p>\n<b>Age</b>: 48\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Scotland\n</p>\n</div>",
@@ -38767,7 +38911,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-777
+788
 ],
 "place": 132,
 "text": "",
@@ -38782,7 +38926,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-777
+788
 ],
 "place": -1,
 "text": "",
@@ -38799,7 +38943,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-778
+789
 ],
 "place": 132,
 "text": "",
@@ -38814,7 +38958,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-778
+789
 ],
 "place": 132,
 "text": "",
@@ -38831,7 +38975,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779
+790
 ],
 "place": 132,
 "text": "",
@@ -38846,9 +38990,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779
+790
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Death"
 },
@@ -38861,9 +39005,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779
+790
 ],
-"place": 681,
+"place": 682,
 "text": "",
 "type": "Burial"
 },
@@ -38878,14 +39022,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-799,
-806,
-808,
-820,
-827
+790,
+810,
+817,
+819,
+831,
+838
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 466\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Post Office</b>: Tokerville\n</p>\n<p>\n<b>Line No.</b>: 15\n</p>\n<p>\n<b>Family No.</b>: 47\n</p>\n<p>\n<b>Name</b>: Spilsberry, Fannie\n</p>\n<p>\n<b>Age</b>: 43\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
@@ -38900,17 +39044,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-794,
-799,
-806,
-808,
+790,
+805,
 810,
-814,
-820
+817,
+819,
+821,
+825,
+831
 ],
 "place": 155,
-"text": "<div>\n<p>\n<b>Page No.</b>: 274\n</p>\n<p>\n<b>Sheet No.</b>: 51\n</p>\n<p>\n<b>County of</b>: Salt Lake \n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 40\n</p>\n<p>\n<b>Family No.</b>: 361\n</p>\n<p>\n<b>Name</b>: Spilsbury, Fannie\n</p>\n<p>\n<b>Age</b>: 32\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n</div>",
+"text": "<div>\n<p>\n<b>Page No.</b>: 274\n</p>\n<p>\n<b>Sheet No.</b>: 51\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 40\n</p>\n<p>\n<b>Family No.</b>: 361\n</p>\n<p>\n<b>Name</b>: Spilsbury, Fannie\n</p>\n<p>\n<b>Age</b>: 32\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n</div>",
 "type": "Census"
 },
 {
@@ -38924,15 +39068,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-485,
-779,
-806,
-819,
-820,
-827,
-831
+496,
+790,
+817,
+830,
+831,
+838,
+842
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 425\n</p>\n<p>\n<b>Sheet No.</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Precinct\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Spilsbury, Fanney\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 53\n</p>\n<p>\n<b>Relationship to head</b>: wife\n</p>\n<p>\n<b>Married</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Hereford England\n</p>\n<p>\n<b>Place of birth of father</b>: Hereford England\n</p>\n<p>\n<b>Place of birth of mother</b>: Woster Eng\n</p>\n</div>",
 "type": "Census"
 },
@@ -38947,11 +39091,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-806,
-827
+790,
+817,
+838
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 213\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 174\n</p>\n<p>\n<b>Page No.</b>: 179\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Toquerville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Toquerville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Smith, Fannie\n</p>\n<p>\n<b>Relation to head</b>: Wife\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Dec\n</p>\n<p>\n<b>Year of birth</b>: 1823\n</p>\n<p>\n<b>Age</b>: 76\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 57\n</p>\n<p>\n<b>Mother of how many children</b>: 14\n</p>\n<p>\n<b>Number of children living</b>: 5\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Year of immigration</b>: 1843\n</p>\n<p>\n<b>Number of years in US</b>: 57\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
 "type": "Census"
 }
@@ -38966,7 +39110,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-780
+791
 ],
 "place": 132,
 "text": "",
@@ -38981,7 +39125,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-780
+791
 ],
 "place": -1,
 "text": "",
@@ -38998,7 +39142,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-781
+792
 ],
 "place": 132,
 "text": "",
@@ -39013,7 +39157,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-781
+792
 ],
 "place": 132,
 "text": "",
@@ -39028,7 +39172,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-781
+792
 ],
 "place": 132,
 "text": "",
@@ -39045,7 +39189,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-782
+793
 ],
 "place": 132,
 "text": "",
@@ -39060,7 +39204,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-782
+793
 ],
 "place": -1,
 "text": "",
@@ -39077,7 +39221,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-783
+794
 ],
 "place": 605,
 "text": "",
@@ -39092,7 +39236,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-783
+794
 ],
 "place": 102,
 "text": "",
@@ -39107,7 +39251,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-783
+794
 ],
 "place": 101,
 "text": "",
@@ -39124,20 +39268,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426,
 431,
-432,
-434,
+436,
+437,
 439,
-441,
-443,
+444,
+446,
 448,
 453,
-454,
-721,
-772,
+458,
+459,
+732,
 783,
-845
+794,
+856
 ],
 "place": 102,
 "text": "<div>\n<p>\n<b>Page No.</b>: 165-166\n</p>\n<p>\n<b>Sheet No.</b>: 754\n</p>\n<p>\n<b>Minor Civil Division</b>: Cedar City\n</p>\n<p>\n<b>County of</b>: Iron\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Cedar\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 1215\n</p>\n<p>\n<b>Name</b>: Haight, Eliza\n</p>\n<p>\n<b>Age</b>: 45\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n</div>",
@@ -39154,12 +39298,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-428,
-431,
-441,
-448,
-454,
-783
+433,
+436,
+446,
+453,
+459,
+794
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 91\n</p>\n<p>\n<b>Family No.</b>: 3\n</p>\n<p>\n<b>Name</b>: Haight, Eliza\n</p>\n<p>\n<b>Age</b>: 35\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n</div>",
@@ -39186,7 +39330,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-794
+805
 ],
 "place": 601,
 "text": "",
@@ -39201,7 +39345,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-794
+805
 ],
 "place": 121,
 "text": "",
@@ -39216,7 +39360,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-794
+805
 ],
 "place": 488,
 "text": "",
@@ -39233,17 +39377,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-794,
-799,
-806,
-808,
+790,
+805,
 810,
-814,
-820
+817,
+819,
+821,
+825,
+831
 ],
 "place": 155,
-"text": "<div>\n<p>\n<b>Page No.</b>: 274\n</p>\n<p>\n<b>Sheet No.</b>: 51\n</p>\n<p>\n<b>County of</b>: Salt Lake \n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 40\n</p>\n<p>\n<b>Family No.</b>: 361\n</p>\n<p>\n<b>Name</b>: Spilsbury, Alma\n</p>\n<p>\n<b>Age</b>: 10\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Neb\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
+"text": "<div>\n<p>\n<b>Page No.</b>: 274\n</p>\n<p>\n<b>Sheet No.</b>: 51\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 40\n</p>\n<p>\n<b>Family No.</b>: 361\n</p>\n<p>\n<b>Name</b>: Spilsbury, Alma\n</p>\n<p>\n<b>Age</b>: 10\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Neb\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 }
 ],
@@ -39257,9 +39401,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-795
+806
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -39272,9 +39416,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-795
+806
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Death"
 },
@@ -39287,7 +39431,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-795
+806
 ],
 "place": 101,
 "text": "",
@@ -39304,18 +39448,18 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-795,
-805,
-807,
-808,
-809,
+458,
+806,
+816,
+818,
 819,
-824,
-825,
-828
+820,
+830,
+835,
+836,
+839
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 213\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 174\n</p>\n<p>\n<b>Page No.</b>: 179\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Toquerville Preccint\n</p>\n<p>\n<b>City, Town, Village</b>: Toquerville Town\n</p>\n<p>\n<b>Name</b>: Spilsbury, Archie P.\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Jan\n</p>\n<p>\n<b>Year of birth</b>: 1882\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Attended school</b>: 10\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
 "type": "Census"
 }
@@ -39330,9 +39474,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-796
+807
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -39345,9 +39489,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-796
+807
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Death"
 },
@@ -39360,9 +39504,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-796
+807
 ],
-"place": 681,
+"place": 682,
 "text": "",
 "type": "Burial"
 }
@@ -39377,7 +39521,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-797
+808
 ],
 "place": 334,
 "text": "",
@@ -39392,7 +39536,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-797
+808
 ],
 "place": -1,
 "text": "",
@@ -39409,7 +39553,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-798
+809
 ],
 "place": 642,
 "text": "",
@@ -39424,7 +39568,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-798
+809
 ],
 "place": 75,
 "text": "",
@@ -39441,7 +39585,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-799
+810
 ],
 "place": 155,
 "text": "",
@@ -39456,7 +39600,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-799
+810
 ],
 "place": 587,
 "text": "",
@@ -39471,9 +39615,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-799
+810
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 },
@@ -39488,14 +39632,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-799,
-806,
-808,
-820,
-827
+790,
+810,
+817,
+819,
+831,
+838
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 466\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Post Office</b>: Tokerville\n</p>\n<p>\n<b>Line No.</b>: 15\n</p>\n<p>\n<b>Family No.</b>: 47\n</p>\n<p>\n<b>Name</b>: Spilsberry, David\n</p>\n<p>\n<b>Age</b>: 10\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
@@ -39510,17 +39654,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-794,
-799,
-806,
-808,
+790,
+805,
 810,
-814,
-820
+817,
+819,
+821,
+825,
+831
 ],
 "place": 155,
-"text": "<div>\n<p>\n<b>Page No.</b>: 274\n</p>\n<p>\n<b>Sheet No.</b>: 51\n</p>\n<p>\n<b>County of</b>: Salt Lake \n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 40\n</p>\n<p>\n<b>Family No.</b>: 361\n</p>\n<p>\n<b>Name</b>: Spilsbury, David\n</p>\n<p>\n<b>Age</b>: 1/12\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
+"text": "<div>\n<p>\n<b>Page No.</b>: 274\n</p>\n<p>\n<b>Sheet No.</b>: 51\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 40\n</p>\n<p>\n<b>Family No.</b>: 361\n</p>\n<p>\n<b>Name</b>: Spilsbury, David\n</p>\n<p>\n<b>Age</b>: 1/12\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
 "type": "Census"
 }
 ],
@@ -39534,7 +39678,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-800
+811
 ],
 "place": 334,
 "text": "",
@@ -39549,7 +39693,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-800
+811
 ],
 "place": 334,
 "text": "",
@@ -39566,7 +39710,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-801
+812
 ],
 "place": 132,
 "text": "",
@@ -39581,7 +39725,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-801
+812
 ],
 "place": -1,
 "text": "",
@@ -39598,9 +39742,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-802
+813
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -39615,14 +39759,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-721,
-802,
-808,
-825
+458,
+732,
+813,
+819,
+836
 ],
-"place": 682,
-"text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 211\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Division of County</b>: Toquerville \n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Spilsbury, Erwin R\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: Yes\n</p>\n</div>",
+"place": 683,
+"text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 211\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Division of County</b>: Toquerville\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Spilsbury, Erwin R\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: Yes\n</p>\n</div>",
 "type": "Census"
 },
 {
@@ -39636,9 +39780,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-424,
-802,
-807
+429,
+813,
+818
 ],
 "place": 402,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Arizona\n</p>\n<p>\n<b>County of</b>: Manicopa\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 26\n</p>\n<p>\n<b>Page No.</b>: 28B\n</p>\n<p>\n<b>Division of County</b>: Precinct 5, Mesa Precinct 3\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-02-24\n</p>\n<p>\n<b>Name</b>: Spilsbury, Irvin\n</p>\n<p>\n<b>Relationship to head</b>: Brother\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 18\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1919</b>: Yes\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -39655,8 +39799,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-150,
-802
+153,
+813
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>State of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Franklin\n</p>\n<p>\n<b>Division of County</b>: Preston Precinct No 1\n</p>\n<p>\n<b>Incorporated place</b>: Preston City\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 7\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2-16\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Name</b>: Spilsbury, Erwin Roswell\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: R\n</p>\n<p>\n<b>Value of home or monthly rental</b>: 16\n</p>\n<p>\n<b>Farm?</b>: No\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 28\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 27\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Teacher\n</p>\n<p>\n<b>Industry</b>: High School\n</p>\n<p>\n<b>Class of worker</b>: W\n</p>\n<p>\n<b>Employed</b>: Yes\n</p>\n<p>\n<b>Veteran</b>: No\n</p>\n</div>",
@@ -39673,8 +39817,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-150,
-802
+153,
+813
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>State of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Franklin\n</p>\n<p>\n<b>Division of County</b>: 15\n</p>\n<p>\n<b>Incorporated place</b>: Preston\n</p>\n<p>\n<b>Ward of city</b>: 3\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 21-19\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-10\n</p>\n<p>\n<b>Street Address</b>: 74 West 100 North\n</p>\n<p>\n<b>Name</b>: Spilsbury, Erwin Roswell\n</p>\n<p>\n<b>Home Owned/Rented</b>: R\n</p>\n<p>\n<b>Home value/monthly rental</b>: 33\n</p>\n<p>\n<b>Farm?</b>: No\n</p>\n<p>\n<b>Relationship</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 38\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: No\n</p>\n<p>\n<b>Highest grade completed</b>: C5\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same Place\n</p>\n<p>\n<b>At Work during week March 24-30</b>: Yes\n</p>\n<p>\n<b># hours worked during week March 24-30, 1940</b>: 50\n</p>\n<p>\n<b>Occupation</b>: Superintendent\n</p>\n<p>\n<b>Industry</b>: Public School\n</p>\n<p>\n<b>Class of worker</b>: GW\n</p>\n<p>\n<b># weeks worked in 1939</b>: 48\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 2010\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: yes\n</p>\n</div>",
@@ -39689,7 +39833,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-802
+813
 ],
 "place": 531,
 "text": "",
@@ -39704,7 +39848,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-802
+813
 ],
 "place": 586,
 "text": "",
@@ -39721,9 +39865,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-803
+814
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -39736,9 +39880,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-803
+814
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Death"
 },
@@ -39751,9 +39895,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-803
+814
 ],
-"place": 681,
+"place": 682,
 "text": "",
 "type": "Burial"
 }
@@ -39768,7 +39912,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-804
+815
 ],
 "place": 435,
 "text": "",
@@ -39783,7 +39927,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-804
+815
 ],
 "place": 435,
 "text": "",
@@ -39798,7 +39942,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-804
+815
 ],
 "place": 435,
 "text": "",
@@ -39815,9 +39959,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-805
+816
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -39830,7 +39974,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-805
+816
 ],
 "place": 587,
 "text": "",
@@ -39845,7 +39989,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-805
+816
 ],
 "place": 586,
 "text": "",
@@ -39862,18 +40006,18 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-795,
-805,
-807,
-808,
-809,
+458,
+806,
+816,
+818,
 819,
-824,
-825,
-828
+820,
+830,
+835,
+836,
+839
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 213\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 174\n</p>\n<p>\n<b>Page No.</b>: 179\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Toquerville Preccint\n</p>\n<p>\n<b>City, Town, Village</b>: Toquerville Town\n</p>\n<p>\n<b>Name</b>: Spilsbury, Frankie E.\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Feb\n</p>\n<p>\n<b>Year of birth</b>: 1884\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Attended school</b>: 5\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
 "type": "Census"
 }
@@ -39888,7 +40032,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-806
+817
 ],
 "place": 334,
 "text": "",
@@ -39903,9 +40047,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-806
+817
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Death"
 },
@@ -39918,9 +40062,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-806
+817
 ],
-"place": 681,
+"place": 682,
 "text": "",
 "type": "Burial"
 },
@@ -39935,14 +40079,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-799,
-806,
-808,
-820,
-827
+790,
+810,
+817,
+819,
+831,
+838
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 466\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Post Office</b>: Tokerville\n</p>\n<p>\n<b>Line No.</b>: 15\n</p>\n<p>\n<b>Family No.</b>: 47\n</p>\n<p>\n<b>Name</b>: Spilsberry, George\n</p>\n<p>\n<b>Age</b>: 45\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Brick Mason\n</p>\n<p>\n<b>Value of real estate</b>: 1500\n</p>\n<p>\n<b>Value of personal estate</b>: 600\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Male citizen 21 and over</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
@@ -39957,17 +40101,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-794,
-799,
-806,
-808,
+790,
+805,
 810,
-814,
-820
+817,
+819,
+821,
+825,
+831
 ],
 "place": 155,
-"text": "<div>\n<p>\n<b>Page No.</b>: 274\n</p>\n<p>\n<b>Sheet No.</b>: 51\n</p>\n<p>\n<b>County of</b>: Salt Lake \n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 40\n</p>\n<p>\n<b>Family No.</b>: 361\n</p>\n<p>\n<b>Name</b>: Spilsbury, George\n</p>\n<p>\n<b>Age</b>: 35\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Occupation</b>: Master Carpenter & Joiner\n</p>\n<p>\n<b>Value of real estate</b>: 75\n</p>\n<p>\n<b>Value of personal estate</b>: 250\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n</div>",
+"text": "<div>\n<p>\n<b>Page No.</b>: 274\n</p>\n<p>\n<b>Sheet No.</b>: 51\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 40\n</p>\n<p>\n<b>Family No.</b>: 361\n</p>\n<p>\n<b>Name</b>: Spilsbury, George\n</p>\n<p>\n<b>Age</b>: 35\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Occupation</b>: Master Carpenter & Joiner\n</p>\n<p>\n<b>Value of real estate</b>: 75\n</p>\n<p>\n<b>Value of personal estate</b>: 250\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n</div>",
 "type": "Census"
 },
 {
@@ -39981,15 +40125,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-485,
-779,
-806,
-819,
-820,
-827,
-831
+496,
+790,
+817,
+830,
+831,
+838,
+842
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 425\n</p>\n<p>\n<b>Sheet No.</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Precinct\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Spilsbury, George\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 55\n</p>\n<p>\n<b>Relationship to head</b>: head\n</p>\n<p>\n<b>Married</b>: M\n</p>\n<p>\n<b>Occupation</b>: Brick Mason\n</p>\n<p>\n<b>Place of birth</b>: Woster England\n</p>\n<p>\n<b>Place of birth of father</b>: Woster England\n</p>\n<p>\n<b>Place of birth of mother</b>: Hereford Eng\n</p>\n</div>",
 "type": "Census"
 },
@@ -40004,11 +40148,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-806,
-827
+790,
+817,
+838
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 213\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 174\n</p>\n<p>\n<b>Page No.</b>: 179\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Toquerville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Toquerville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Spilsbury, George\n</p>\n<p>\n<b>Relation to head</b>: Head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Apr\n</p>\n<p>\n<b>Year of birth</b>: 1823\n</p>\n<p>\n<b>Age</b>: 77\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 57\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Year of immigration</b>: 1843\n</p>\n<p>\n<b>Number of years in US</b>: 57\n</p>\n<p>\n<b>Naturalization</b>: Na\n</p>\n<p>\n<b>Occupation</b>: Merchant\n</p>\n<p>\n<b>Months not employed</b>: 0\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n<p>\n<b>Number of farm schedule</b>: 19\n</p>\n</div>",
 "type": "Census"
 }
@@ -40023,9 +40167,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-807
+818
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -40038,9 +40182,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-807
+818
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Death"
 },
@@ -40053,9 +40197,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-807
+818
 ],
-"place": 681,
+"place": 682,
 "text": "",
 "type": "Burial"
 },
@@ -40070,9 +40214,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-424,
-802,
-807
+429,
+813,
+818
 ],
 "place": 402,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Arizona\n</p>\n<p>\n<b>County of</b>: Manicopa\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 26\n</p>\n<p>\n<b>Page No.</b>: 28B\n</p>\n<p>\n<b>Division of County</b>: Precinct 5, Mesa Precinct 3\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-02-24\n</p>\n<p>\n<b>Name</b>: Spilsbury, George Chauncy\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>If owned, free or mortgaged</b>: M\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 43\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Industry</b>: General\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: Em\n</p>\n<p>\n<b>Number of farm schedule</b>: 173\n</p>\n</div>",
@@ -40089,18 +40233,18 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-795,
-805,
-807,
-808,
-809,
+458,
+806,
+816,
+818,
 819,
-824,
-825,
-828
+820,
+830,
+835,
+836,
+839
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 213\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 174\n</p>\n<p>\n<b>Page No.</b>: 179\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Toquerville Preccint\n</p>\n<p>\n<b>City, Town, Village</b>: Toquerville Town\n</p>\n<p>\n<b>Name</b>: Spilsbury, George C.\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Sep\n</p>\n<p>\n<b>Year of birth</b>: 1876\n</p>\n<p>\n<b>Age</b>: 23\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: School Teacher\n</p>\n<p>\n<b>Months not employed</b>: 0\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
 "type": "Census"
 },
@@ -40115,13 +40259,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-807,
-808,
-809,
-813
+458,
+818,
+819,
+820,
+824
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 6\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Preccint\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-03 to 1880-06-04\n</p>\n<p>\n<b>Line No.</b>: 16\n</p>\n<p>\n<b>Family No.</b>: 44\n</p>\n<p>\n<b>Name</b>: Spilsbury, George Chancy\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 3\n</p>\n<p>\n<b>Occupation</b>: Son\n</p>\n<p>\n<b>Place of birth</b>: Toquerville\n</p>\n<p>\n<b>Place of birth of father</b>: Salt Lake\n</p>\n<p>\n<b>Place of birth of mother</b>: Cedar City\n</p>\n</div>",
 "type": "Census"
 }
@@ -40136,7 +40280,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-808
+819
 ],
 "place": 587,
 "text": "",
@@ -40153,14 +40297,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-721,
-802,
-808,
-825
+458,
+732,
+813,
+819,
+836
 ],
-"place": 682,
-"text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 211\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Division of County</b>: Toquerville \n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Spilsbury, George M\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 57\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 36\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Nature of industry</b>: General Farm\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: Emp\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n<p>\n<b>Number of farm schedule</b>: 96\n</p>\n</div>",
+"place": 683,
+"text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 211\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Division of County</b>: Toquerville\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Spilsbury, George M\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 57\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 36\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Nature of industry</b>: General Farm\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: Emp\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n<p>\n<b>Number of farm schedule</b>: 96\n</p>\n</div>",
 "type": "Census"
 },
 {
@@ -40172,9 +40316,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-808
+819
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Death"
 },
@@ -40187,9 +40331,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-808
+819
 ],
-"place": 681,
+"place": 682,
 "text": "",
 "type": "Burial"
 },
@@ -40204,9 +40348,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-808
+819
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Division of County</b>: Toquerville Precinct\n</p>\n<p>\n<b>Incorporated place</b>: Toquerville Town\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 4\n</p>\n<p>\n<b>Page No.</b>: 252\n</p>\n<p>\n<b>Sheet No.</b>: 3B\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-04\n</p>\n<p>\n<b>Street Address</b>: Gilcrest Farms Unnumbered\n</p>\n<p>\n<b>Name</b>: Spilsbury, George Moroni\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Value of home or monthly rental</b>: 5000\n</p>\n<p>\n<b>Radio set</b>: R\n</p>\n<p>\n<b>Farm?</b>: No\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 77\n</p>\n<p>\n<b>Marital condition</b>: Wd\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: no\n</p>\n<p>\n<b>Able to read and write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Veteran</b>: no\n</p>\n</div>",
 "type": "Census"
 },
@@ -40221,11 +40365,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-808,
-825
+458,
+819,
+836
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 232\n</p>\n<p>\n<b>Page No.</b>: 70\n</p>\n<p>\n<b>Division of County</b>: Toquerville Township\n</p>\n<p>\n<b>City, Town, Village</b>: Toquerville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-02\n</p>\n<p>\n<b>Street Address</b>: Farm on State Road\n</p>\n<p>\n<b>Name</b>: Spilsbury, Moroni G.\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>If owned, free or mortgaged</b>: F\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 67\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Mother's mother tongue</b>: English\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Farming\n</p>\n<p>\n<b>Industry</b>: General Farming\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: Em\n</p>\n<p>\n<b>Number of farm schedule</b>: 6\n</p>\n</div>",
 "type": "Census"
 },
@@ -40240,18 +40384,18 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-795,
-805,
-807,
-808,
-809,
+458,
+806,
+816,
+818,
 819,
-824,
-825,
-828
+820,
+830,
+835,
+836,
+839
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 213\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 174\n</p>\n<p>\n<b>Page No.</b>: 179\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Toquerville Preccint\n</p>\n<p>\n<b>City, Town, Village</b>: Toquerville Town\n</p>\n<p>\n<b>Name</b>: Spilsbury, George M.\n</p>\n<p>\n<b>Relation to head</b>: Head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Oct\n</p>\n<p>\n<b>Year of birth</b>: 1852\n</p>\n<p>\n<b>Age</b>: 47\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 26\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Months not employed</b>: 0\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n<p>\n<b>Number of farm schedule</b>: 15\n</p>\n</div>",
 "type": "Census"
 },
@@ -40266,13 +40410,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-807,
-808,
-809,
-813
+458,
+818,
+819,
+820,
+824
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 6\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Preccint\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-03 to 1880-06-04\n</p>\n<p>\n<b>Line No.</b>: 16\n</p>\n<p>\n<b>Family No.</b>: 44\n</p>\n<p>\n<b>Name</b>: Spilsbury, Moroni\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 27\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Place of birth</b>: Salt Lake City\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
 "type": "Census"
 },
@@ -40287,14 +40431,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-799,
-806,
-808,
-820,
-827
+790,
+810,
+817,
+819,
+831,
+838
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 466\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Post Office</b>: Tokerville\n</p>\n<p>\n<b>Line No.</b>: 15\n</p>\n<p>\n<b>Family No.</b>: 47\n</p>\n<p>\n<b>Name</b>: Spilsberry, Moroni\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Farm Laborer\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
@@ -40309,17 +40453,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-794,
-799,
-806,
-808,
+790,
+805,
 810,
-814,
-820
+817,
+819,
+821,
+825,
+831
 ],
 "place": 155,
-"text": "<div>\n<p>\n<b>Page No.</b>: 274\n</p>\n<p>\n<b>Sheet No.</b>: 51\n</p>\n<p>\n<b>County of</b>: Salt Lake \n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 40\n</p>\n<p>\n<b>Family No.</b>: 361\n</p>\n<p>\n<b>Name</b>: Spilsbury, Moroni\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
+"text": "<div>\n<p>\n<b>Page No.</b>: 274\n</p>\n<p>\n<b>Sheet No.</b>: 51\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 40\n</p>\n<p>\n<b>Family No.</b>: 361\n</p>\n<p>\n<b>Name</b>: Spilsbury, Moroni\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 }
 ],
@@ -40333,9 +40477,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-809
+820
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -40348,7 +40492,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-809
+820
 ],
 "place": 587,
 "text": "",
@@ -40363,9 +40507,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-809
+820
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 },
@@ -40380,18 +40524,18 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-795,
-805,
-807,
-808,
-809,
+458,
+806,
+816,
+818,
 819,
-824,
-825,
-828
+820,
+830,
+835,
+836,
+839
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 213\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 174\n</p>\n<p>\n<b>Page No.</b>: 179\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Toquerville Preccint\n</p>\n<p>\n<b>City, Town, Village</b>: Toquerville Town\n</p>\n<p>\n<b>Name</b>: Spilsbury, Georgiana\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Oct\n</p>\n<p>\n<b>Year of birth</b>: 1878\n</p>\n<p>\n<b>Age</b>: 21\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: School Teacher\n</p>\n<p>\n<b>Months not employed</b>: 6\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
 "type": "Census"
 },
@@ -40406,13 +40550,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-807,
-808,
-809,
-813
+458,
+818,
+819,
+820,
+824
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 6\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Preccint\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-03 to 1880-06-04\n</p>\n<p>\n<b>Line No.</b>: 16\n</p>\n<p>\n<b>Family No.</b>: 44\n</p>\n<p>\n<b>Name</b>: Spilsbury, Georginna\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Occupation</b>: Daughter\n</p>\n<p>\n<b>Place of birth</b>: Toquerville\n</p>\n<p>\n<b>Place of birth of father</b>: Salt Lake\n</p>\n<p>\n<b>Place of birth of mother</b>: Cedar City\n</p>\n</div>",
 "type": "Census"
 }
@@ -40427,7 +40571,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-810
+821
 ],
 "place": 587,
 "text": "",
@@ -40442,7 +40586,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-810
+821
 ],
 "place": 561,
 "text": "",
@@ -40459,17 +40603,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-794,
-799,
-806,
-808,
+790,
+805,
 810,
-814,
-820
+817,
+819,
+821,
+825,
+831
 ],
 "place": 155,
-"text": "<div>\n<p>\n<b>Page No.</b>: 274\n</p>\n<p>\n<b>Sheet No.</b>: 51\n</p>\n<p>\n<b>County of</b>: Salt Lake \n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 40\n</p>\n<p>\n<b>Family No.</b>: 361\n</p>\n<p>\n<b>Name</b>: Spilsbury, Geo E\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
+"text": "<div>\n<p>\n<b>Page No.</b>: 274\n</p>\n<p>\n<b>Sheet No.</b>: 51\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 40\n</p>\n<p>\n<b>Family No.</b>: 361\n</p>\n<p>\n<b>Name</b>: Spilsbury, Geo E\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
 "type": "Census"
 }
 ],
@@ -40483,7 +40627,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-811
+822
 ],
 "place": 334,
 "text": "",
@@ -40498,9 +40642,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-811
+822
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Death"
 },
@@ -40513,9 +40657,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-811
+822
 ],
-"place": 681,
+"place": 682,
 "text": "",
 "type": "Burial"
 }
@@ -40530,7 +40674,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-812
+823
 ],
 "place": 334,
 "text": "",
@@ -40545,7 +40689,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-812
+823
 ],
 "place": 334,
 "text": "",
@@ -40562,9 +40706,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-813
+824
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -40577,7 +40721,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-813
+824
 ],
 "place": 587,
 "text": "",
@@ -40592,9 +40736,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-813
+824
 ],
-"place": 720,
+"place": 721,
 "text": "",
 "type": "Burial"
 },
@@ -40609,13 +40753,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-807,
-808,
-809,
-813
+458,
+818,
+819,
+820,
+824
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 6\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Preccint\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-03 to 1880-06-04\n</p>\n<p>\n<b>Line No.</b>: 16\n</p>\n<p>\n<b>Family No.</b>: 44\n</p>\n<p>\n<b>Name</b>: Spilsbury, Isabell\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 5\n</p>\n<p>\n<b>Occupation</b>: Daughter\n</p>\n<p>\n<b>Place of birth</b>: Toquerville\n</p>\n<p>\n<b>Place of birth of father</b>: Salt Lake\n</p>\n<p>\n<b>Place of birth of mother</b>: Cedar City\n</p>\n</div>",
 "type": "Census"
 }
@@ -40630,7 +40774,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-814
+825
 ],
 "place": 587,
 "text": "",
@@ -40645,7 +40789,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-814
+825
 ],
 "place": 229,
 "text": "",
@@ -40660,7 +40804,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-814
+825
 ],
 "place": 229,
 "text": "",
@@ -40677,17 +40821,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-794,
-799,
-806,
-808,
+790,
+805,
 810,
-814,
-820
+817,
+819,
+821,
+825,
+831
 ],
 "place": 155,
-"text": "<div>\n<p>\n<b>Page No.</b>: 274\n</p>\n<p>\n<b>Sheet No.</b>: 51\n</p>\n<p>\n<b>County of</b>: Salt Lake \n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 40\n</p>\n<p>\n<b>Family No.</b>: 361\n</p>\n<p>\n<b>Name</b>: Spilsbury, Isabella\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
+"text": "<div>\n<p>\n<b>Page No.</b>: 274\n</p>\n<p>\n<b>Sheet No.</b>: 51\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 40\n</p>\n<p>\n<b>Family No.</b>: 361\n</p>\n<p>\n<b>Name</b>: Spilsbury, Isabella\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 }
 ],
@@ -40701,7 +40845,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-815
+826
 ],
 "place": 334,
 "text": "",
@@ -40716,7 +40860,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-815
+826
 ],
 "place": 334,
 "text": "",
@@ -40733,7 +40877,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-816
+827
 ],
 "place": 155,
 "text": "",
@@ -40748,7 +40892,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-816
+827
 ],
 "place": 155,
 "text": "",
@@ -40765,7 +40909,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-817
+828
 ],
 "place": 334,
 "text": "",
@@ -40780,7 +40924,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-817
+828
 ],
 "place": 334,
 "text": "",
@@ -40797,7 +40941,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-818
+829
 ],
 "place": 132,
 "text": "",
@@ -40812,7 +40956,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-818
+829
 ],
 "place": 132,
 "text": "",
@@ -40827,7 +40971,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-818
+829
 ],
 "place": 132,
 "text": "",
@@ -40844,7 +40988,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-819
+830
 ],
 "place": 634,
 "text": "",
@@ -40859,9 +41003,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-819
+830
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Death"
 },
@@ -40876,18 +41020,18 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-795,
-805,
-807,
-808,
-809,
+458,
+806,
+816,
+818,
 819,
-824,
-825,
-828
+820,
+830,
+835,
+836,
+839
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 213\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 174\n</p>\n<p>\n<b>Page No.</b>: 179\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Toquerville Preccint\n</p>\n<p>\n<b>City, Town, Village</b>: Toquerville Town\n</p>\n<p>\n<b>Name</b>: Spilsbury, Lorum\n</p>\n<p>\n<b>Relation to head</b>: Boarder\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Jul\n</p>\n<p>\n<b>Year of birth</b>: 1871\n</p>\n<p>\n<b>Age</b>: 29\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: Farm Laborer\n</p>\n<p>\n<b>Months not employed</b>: 0\n</p>\n<p>\n<b>Attended school</b>: yes\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
 "type": "Census"
 },
@@ -40902,15 +41046,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-485,
-779,
-806,
-819,
-820,
-827,
-831
+496,
+790,
+817,
+830,
+831,
+838,
+842
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 425\n</p>\n<p>\n<b>Sheet No.</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Precinct\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Spilsbury, Loran P\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Relationship to head</b>: adopted son\n</p>\n<p>\n<b>Cannot read</b>: Yes\n</p>\n<p>\n<b>Cannot write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Washington Co UT\n</p>\n</div>",
 "type": "Census"
 }
@@ -40925,7 +41069,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-820
+831
 ],
 "place": 587,
 "text": "",
@@ -40940,7 +41084,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-820
+831
 ],
 "place": 587,
 "text": "",
@@ -40955,7 +41099,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-820
+831
 ],
 "place": 387,
 "text": "",
@@ -40972,14 +41116,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-799,
-806,
-808,
-820,
-827
+790,
+810,
+817,
+819,
+831,
+838
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 466\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Post Office</b>: Tokerville\n</p>\n<p>\n<b>Line No.</b>: 15\n</p>\n<p>\n<b>Family No.</b>: 47\n</p>\n<p>\n<b>Name</b>: Spilsberry, Martha\n</p>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: No Occupation\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
@@ -40994,17 +41138,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-794,
-799,
-806,
-808,
+790,
+805,
 810,
-814,
-820
+817,
+819,
+821,
+825,
+831
 ],
 "place": 155,
-"text": "<div>\n<p>\n<b>Page No.</b>: 274\n</p>\n<p>\n<b>Sheet No.</b>: 51\n</p>\n<p>\n<b>County of</b>: Salt Lake \n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 40\n</p>\n<p>\n<b>Family No.</b>: 361\n</p>\n<p>\n<b>Name</b>: Spilsbury, Martha E\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
+"text": "<div>\n<p>\n<b>Page No.</b>: 274\n</p>\n<p>\n<b>Sheet No.</b>: 51\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 40\n</p>\n<p>\n<b>Family No.</b>: 361\n</p>\n<p>\n<b>Name</b>: Spilsbury, Martha E\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
 {
@@ -41018,15 +41162,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-485,
-779,
-806,
-819,
-820,
-827,
-831
+496,
+790,
+817,
+830,
+831,
+838,
+842
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 425\n</p>\n<p>\n<b>Sheet No.</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Precinct\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Harmon, Martha Elizabeth\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 23\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Married</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Salt Lake City UT\n</p>\n<p>\n<b>Place of birth of father</b>: Woster\n</p>\n<p>\n<b>Place of birth of mother</b>: Hereford Eng\n</p>\n</div>",
 "type": "Census"
 }
@@ -41041,7 +41185,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-821
+832
 ],
 "place": 334,
 "text": "",
@@ -41056,7 +41200,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-821
+832
 ],
 "place": -1,
 "text": "",
@@ -41073,7 +41217,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-822
+833
 ],
 "place": 435,
 "text": "",
@@ -41088,7 +41232,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-822
+833
 ],
 "place": 435,
 "text": "",
@@ -41105,7 +41249,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-823
+834
 ],
 "place": 229,
 "text": "",
@@ -41120,7 +41264,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-823
+834
 ],
 "place": 229,
 "text": "",
@@ -41137,9 +41281,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-824
+835
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -41152,9 +41296,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-824
+835
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Death"
 },
@@ -41167,9 +41311,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-824
+835
 ],
-"place": 681,
+"place": 682,
 "text": "",
 "type": "Burial"
 },
@@ -41184,18 +41328,18 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-795,
-805,
-807,
-808,
-809,
+458,
+806,
+816,
+818,
 819,
-824,
-825,
-828
+820,
+830,
+835,
+836,
+839
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 213\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 174\n</p>\n<p>\n<b>Page No.</b>: 179\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Toquerville Preccint\n</p>\n<p>\n<b>City, Town, Village</b>: Toquerville Town\n</p>\n<p>\n<b>Name</b>: Spilsbury, Myrtle\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Feb\n</p>\n<p>\n<b>Year of birth</b>: 1891\n</p>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Attended school</b>: 6\n</p>\n</div>",
 "type": "Census"
 }
@@ -41210,9 +41354,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-825
+836
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -41225,7 +41369,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-825
+836
 ],
 "place": -1,
 "text": "",
@@ -41240,7 +41384,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-825
+836
 ],
 "place": 205,
 "text": "",
@@ -41257,14 +41401,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-721,
-802,
-808,
-825
+458,
+732,
+813,
+819,
+836
 ],
-"place": 682,
-"text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 211\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Division of County</b>: Toquerville \n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Spilsbury, Raymond\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 21\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: Yes\n</p>\n</div>",
+"place": 683,
+"text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 211\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Division of County</b>: Toquerville\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-25\n</p>\n<p>\n<b>Name</b>: Spilsbury, Raymond\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 21\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: Yes\n</p>\n</div>",
 "type": "Census"
 },
 {
@@ -41278,11 +41422,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-808,
-825
+458,
+819,
+836
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 232\n</p>\n<p>\n<b>Page No.</b>: 70\n</p>\n<p>\n<b>Division of County</b>: Toquerville Township\n</p>\n<p>\n<b>City, Town, Village</b>: Toquerville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-02\n</p>\n<p>\n<b>Street Address</b>: Farm on State Road\n</p>\n<p>\n<b>Name</b>: Spilsbury, Raymond\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 31\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
 "type": "Census"
 },
@@ -41297,18 +41441,18 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-795,
-805,
-807,
-808,
-809,
+458,
+806,
+816,
+818,
 819,
-824,
-825,
-828
+820,
+830,
+835,
+836,
+839
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 213\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 174\n</p>\n<p>\n<b>Page No.</b>: 179\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Toquerville Preccint\n</p>\n<p>\n<b>City, Town, Village</b>: Toquerville Town\n</p>\n<p>\n<b>Name</b>: Spilsbury, Raymond\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Oct\n</p>\n<p>\n<b>Year of birth</b>: 1888\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Attended school</b>: 5\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
 "type": "Census"
 }
@@ -41323,7 +41467,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-826
+837
 ],
 "place": 640,
 "text": "",
@@ -41338,7 +41482,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-826
+837
 ],
 "place": 640,
 "text": "",
@@ -41355,7 +41499,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-827
+838
 ],
 "place": 155,
 "text": "",
@@ -41370,9 +41514,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-827
+838
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Death"
 },
@@ -41385,9 +41529,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-827
+838
 ],
-"place": 681,
+"place": 682,
 "text": "",
 "type": "Burial"
 },
@@ -41402,14 +41546,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-799,
-806,
-808,
-820,
-827
+790,
+810,
+817,
+819,
+831,
+838
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 466\n</p>\n<p>\n<b>Minor Civil Division</b>: Tokerville\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-14\n</p>\n<p>\n<b>Post Office</b>: Tokerville\n</p>\n<p>\n<b>Line No.</b>: 15\n</p>\n<p>\n<b>Family No.</b>: 47\n</p>\n<p>\n<b>Name</b>: Spilsberry, Vilate\n</p>\n<p>\n<b>Age</b>: 5\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
 "type": "Census"
 },
@@ -41424,15 +41568,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-485,
-779,
-806,
-819,
-820,
-827,
-831
+496,
+790,
+817,
+830,
+831,
+838,
+842
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 425\n</p>\n<p>\n<b>Sheet No.</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Precinct\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Spilsbury, Vilate\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 18\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Place of birth</b>: Draper S L City\n</p>\n</div>",
 "type": "Census"
 },
@@ -41447,11 +41591,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779,
-806,
-827
+790,
+817,
+838
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 213\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 174\n</p>\n<p>\n<b>Page No.</b>: 179\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Toquerville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Toquerville Town\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Kleinman, Vilate\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Dec\n</p>\n<p>\n<b>Year of birth</b>: 1863\n</p>\n<p>\n<b>Age</b>: 37\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: Wd\n</p>\n<p>\n<b>Mother of how many children</b>: 4\n</p>\n<p>\n<b>Number of children living</b>: 3\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
 "type": "Census"
 }
@@ -41466,9 +41610,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-828
+839
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -41481,9 +41625,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-828
+839
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Death"
 },
@@ -41496,9 +41640,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-828
+839
 ],
-"place": 681,
+"place": 682,
 "text": "",
 "type": "Burial"
 },
@@ -41513,18 +41657,18 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453,
-795,
-805,
-807,
-808,
-809,
+458,
+806,
+816,
+818,
 819,
-824,
-825,
-828
+820,
+830,
+835,
+836,
+839
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 213\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 174\n</p>\n<p>\n<b>Page No.</b>: 179\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Toquerville Preccint\n</p>\n<p>\n<b>City, Town, Village</b>: Toquerville Town\n</p>\n<p>\n<b>Name</b>: Spilsbury, Victor R.\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Apr\n</p>\n<p>\n<b>Year of birth</b>: 1895\n</p>\n<p>\n<b>Age</b>: 5\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n</div>",
 "type": "Census"
 }
@@ -41539,9 +41683,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-829
+840
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Birth"
 },
@@ -41554,9 +41698,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-829
+840
 ],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Death"
 },
@@ -41569,9 +41713,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-829
+840
 ],
-"place": 681,
+"place": 682,
 "text": "",
 "type": "Burial"
 }
@@ -41586,7 +41730,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-830
+841
 ],
 "place": 334,
 "text": "",
@@ -41601,7 +41745,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-830
+841
 ],
 "place": -1,
 "text": "",
@@ -41618,7 +41762,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-831
+842
 ],
 "place": 587,
 "text": "",
@@ -41633,7 +41777,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-831
+842
 ],
 "place": 590,
 "text": "",
@@ -41648,7 +41792,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-831
+842
 ],
 "place": 509,
 "text": "",
@@ -41665,15 +41809,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-485,
-779,
-806,
-819,
-820,
-827,
-831
+496,
+790,
+817,
+830,
+831,
+838,
+842
 ],
-"place": 682,
+"place": 683,
 "text": "<div>\n<p>\n<b>Page No.</b>: 425\n</p>\n<p>\n<b>Sheet No.</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 28\n</p>\n<p>\n<b>Minor Civil Division</b>: Toquerville Precinct\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 4\n</p>\n<p>\n<b>Name</b>: Spilsbury, William George\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 23\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Occupation</b>: Butcher\n</p>\n<p>\n<b>Place of birth</b>: Salt Lake City UT\n</p>\n<p>\n<b>Place of birth of father</b>: Woster\n</p>\n<p>\n<b>Place of birth of mother</b>: Cambridge Eng\n</p>\n</div>",
 "type": "Census"
 }
@@ -41688,7 +41832,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-832
+843
 ],
 "place": 203,
 "text": "",
@@ -41703,7 +41847,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-832
+843
 ],
 "place": 88,
 "text": "",
@@ -41718,9 +41862,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-832
+843
 ],
-"place": 690,
+"place": 691,
 "text": "",
 "type": "Burial"
 }
@@ -41735,7 +41879,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-833
+844
 ],
 "place": 447,
 "text": "",
@@ -41752,7 +41896,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-834
+845
 ],
 "place": 150,
 "text": "",
@@ -41767,7 +41911,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-834
+845
 ],
 "place": 587,
 "text": "",
@@ -41782,7 +41926,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-834
+845
 ],
 "place": 586,
 "text": "",
@@ -41799,7 +41943,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-835
+846
 ],
 "place": 206,
 "text": "",
@@ -41814,9 +41958,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-835
+846
 ],
-"place": 737,
+"place": 738,
 "text": "",
 "type": "Death"
 },
@@ -41829,7 +41973,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-835
+846
 ],
 "place": 67,
 "text": "",
@@ -41849,7 +41993,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-839
+850
 ],
 "place": 426,
 "text": "",
@@ -41864,7 +42008,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-839
+850
 ],
 "place": 68,
 "text": "",
@@ -41879,7 +42023,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-839
+850
 ],
 "place": 67,
 "text": "",
@@ -41901,9 +42045,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-845
+856
 ],
-"place": 776,
+"place": 777,
 "text": "",
 "type": "Birth"
 },
@@ -41916,7 +42060,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-845
+856
 ],
 "place": 102,
 "text": "",
@@ -41931,7 +42075,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-845
+856
 ],
 "place": 101,
 "text": "",
@@ -41948,20 +42092,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426,
 431,
-432,
-434,
+436,
+437,
 439,
-441,
-443,
+444,
+446,
 448,
 453,
-454,
-721,
-772,
+458,
+459,
+732,
 783,
-845
+794,
+856
 ],
 "place": 102,
 "text": "<div>\n<p>\n<b>Page No.</b>: 165-166\n</p>\n<p>\n<b>Sheet No.</b>: 754\n</p>\n<p>\n<b>Minor Civil Division</b>: Cedar City\n</p>\n<p>\n<b>County of</b>: Iron\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-01\n</p>\n<p>\n<b>Post Office</b>: Cedar\n</p>\n<p>\n<b>Line No.</b>: 39\n</p>\n<p>\n<b>Family No.</b>: 1215\n</p>\n<p>\n<b>Name</b>: Haight, Elizth\n</p>\n<p>\n<b>Age</b>: 35\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n</div>",
@@ -41978,7 +42122,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-846
+857
 ],
 "place": 587,
 "text": "",
@@ -41993,7 +42137,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-846
+857
 ],
 "place": 587,
 "text": "",
@@ -42008,7 +42152,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-846
+857
 ],
 "place": 586,
 "text": "",
@@ -42025,7 +42169,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-847
+858
 ],
 "place": 587,
 "text": "",
@@ -42040,7 +42184,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-847
+858
 ],
 "place": 587,
 "text": "",
@@ -42055,7 +42199,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-847
+858
 ],
 "place": 586,
 "text": "",
@@ -42072,15 +42216,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-847,
-848,
-856,
+726,
 858,
 859,
-860,
-861,
-863
+867,
+869,
+870,
+871,
+872,
+874
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1685\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 65\n</p>\n<p>\n<b>Page No.</b>: 192\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Farmers Precinct\n</p>\n<p>\n<b>Street Address</b>: 1861 4th East Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-21\n</p>\n<p>\n<b>Name</b>: Thomson, Alice\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Oct\n</p>\n<p>\n<b>Year of birth</b>: 1880\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -42097,7 +42241,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-848
+859
 ],
 "place": 587,
 "text": "",
@@ -42112,9 +42256,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-848
+859
 ],
-"place": 723,
+"place": 724,
 "text": "",
 "type": "Death"
 },
@@ -42127,7 +42271,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-848
+859
 ],
 "place": 586,
 "text": "",
@@ -42144,15 +42288,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-847,
-848,
-856,
+726,
 858,
 859,
-860,
-861,
-863
+867,
+869,
+870,
+871,
+872,
+874
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1685\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 65\n</p>\n<p>\n<b>Page No.</b>: 192\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Farmers Precinct\n</p>\n<p>\n<b>Street Address</b>: 1861 4th East Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-21\n</p>\n<p>\n<b>Name</b>: Thomson, Alvin\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Feb\n</p>\n<p>\n<b>Year of birth</b>: 1886\n</p>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: At school\n</p>\n<p>\n<b>Attended school</b>: 9\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -42169,13 +42313,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-848,
-856,
+726,
 859,
-860,
-861,
-863
+867,
+870,
+871,
+872,
+874
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 243\n</p>\n<p>\n<b>Page No.</b>: 185\n</p>\n<p>\n<b>Sheet No.</b>: 4A\n</p>\n<p>\n<b>Division of County</b>: Precinct 2 Election Distr. 97\n</p>\n<p>\n<b>Name of Institution</b>: 340 Justice Street\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-16\n</p>\n<p>\n<b>Name</b>: Thomson, Alvin P\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 24\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Purchasing Agent\n</p>\n<p>\n<b>Nature of industry</b>: Railroad Co\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: w\n</p>\n<p>\n<b>Out of work</b>: no\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: 0\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -42192,7 +42336,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-849
+860
 ],
 "place": 587,
 "text": "",
@@ -42209,12 +42353,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-216,
-217,
-224,
-234,
+219,
+220,
+227,
 237,
-849
+240,
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 95\n</p>\n<p>\n<b>Page No.</b>: 105\n</p>\n<p>\n<b>Sheet No.</b>: 7B\n</p>\n<p>\n<b>Division of County</b>: Voting District #1\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: Waterloo\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-19\n</p>\n<p>\n<b>Name</b>: Clissold, Lattie\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 30\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 14\n</p>\n<p>\n<b>Mother of how many children</b>: 5\n</p>\n<p>\n<b>Number of children living</b>: 4\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n</div>",
@@ -42233,9 +42377,9 @@ I_events_0 = [
 "part_person": [
 9,
 10,
-234,
 237,
-849
+240,
+860
 ],
 "place": 468,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Weber\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 15\n</p>\n<p>\n<b>Page No.</b>: 221\n</p>\n<p>\n<b>Division of County</b>: Precinct #4\n</p>\n<p>\n<b>City, Town, Village</b>: Ogden City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-16\n</p>\n<p>\n<b>Street Address</b>: 203 13th Street\n</p>\n<p>\n<b>Name</b>: Bagley, Charlotte\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 41\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -42254,9 +42398,9 @@ I_events_0 = [
 "part_person": [
 9,
 10,
-234,
 237,
-849
+240,
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-16\n</p>\n<p>\n<b>Page No.</b>: 118\n</p>\n<p>\n<b>Sheet No.</b>: 7A\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-09\n</p>\n<p>\n<b>Street Address</b>: 332 East Coatsville Avenue\n</p>\n<p>\n<b>Name</b>: Baggley, Charlotte I\n</p>\n<p>\n<b>Relationship to head</b>: Wife H\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 52\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 18\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -42271,7 +42415,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-849
+860
 ],
 "place": 587,
 "text": "",
@@ -42286,7 +42430,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-849
+860
 ],
 "place": 587,
 "text": "",
@@ -42303,10 +42447,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-216,
-217,
-224,
-849
+219,
+220,
+227,
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 42\n</p>\n<p>\n<b>Page No.</b>: 162\n</p>\n<p>\n<b>Sheet No.</b>: 2A\n</p>\n<p>\n<b>Division of County</b>: Fourth Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 4\n</p>\n<p>\n<b>Street Address</b>: 624 Seventh Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-02\n</p>\n<p>\n<b>Name</b>: Clissold, Charlotte\n</p>\n<p>\n<b>Relation to head</b>: Wife\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Apr\n</p>\n<p>\n<b>Year of birth</b>: 1878\n</p>\n<p>\n<b>Age</b>: 22\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 4\n</p>\n<p>\n<b>Mother of how many children</b>: 2\n</p>\n<p>\n<b>Number of children living</b>: 2\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
@@ -42325,7 +42469,7 @@ I_events_0 = [
 "part_person": [
 9,
 10,
-849
+860
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 6\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 30-43\n</p>\n<p>\n<b>Page No.</b>: 605\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-15\n</p>\n<p>\n<b>Name</b>: Baggaley, Charlotte\n</p>\n<p>\n<b>Relationship</b>: Wife\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 62\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: no\n</p>\n<p>\n<b>Highest grade completed</b>: 6\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same House\n</p>\n<p>\n<b>At Work during week March 24-30</b>: No\n</p>\n<p>\n<b>public Emergency Work?</b>: No\n</p>\n<p>\n<b>Seeking work?</b>: No\n</p>\n<p>\n<b>Have a Job?</b>: No\n</p>\n<p>\n<b>housework (H), school (S), unable to work (U) or other (Ot)</b>: H\n</p>\n<p>\n<b># weeks worked in 1939</b>: 0\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 0\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: no\n</p>\n</div>",
@@ -42342,9 +42486,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-849,
-859
+726,
+860,
+870
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Page No.</b>: 8\n</p>\n<p>\n<b>Sheet No.</b>: D\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 53\n</p>\n<p>\n<b>Minor Civil Division</b>: Salt Lake City\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-02\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 29\n</p>\n<p>\n<b>Name</b>: Thomson, Lottie I\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n</div>",
@@ -42361,7 +42505,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-850
+861
 ],
 "place": 254,
 "text": "",
@@ -42376,7 +42520,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-850
+861
 ],
 "place": 587,
 "text": "",
@@ -42391,7 +42535,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-850
+861
 ],
 "place": 586,
 "text": "",
@@ -42408,7 +42552,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-851
+862
 ],
 "place": 73,
 "text": "",
@@ -42423,7 +42567,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-851
+862
 ],
 "place": -1,
 "text": "",
@@ -42438,7 +42582,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-851
+862
 ],
 "place": 586,
 "text": "",
@@ -42455,7 +42599,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-852
+863
 ],
 "place": 587,
 "text": "",
@@ -42470,7 +42614,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-852
+863
 ],
 "place": 587,
 "text": "",
@@ -42485,7 +42629,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-852
+863
 ],
 "place": 586,
 "text": "",
@@ -42502,7 +42646,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-853
+864
 ],
 "place": 587,
 "text": "",
@@ -42517,7 +42661,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-853
+864
 ],
 "place": 587,
 "text": "",
@@ -42532,7 +42676,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-853
+864
 ],
 "place": 586,
 "text": "",
@@ -42549,7 +42693,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-854
+865
 ],
 "place": 254,
 "text": "",
@@ -42564,7 +42708,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-854
+865
 ],
 "place": 587,
 "text": "",
@@ -42579,7 +42723,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-854
+865
 ],
 "place": 586,
 "text": "",
@@ -42596,7 +42740,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-855
+866
 ],
 "place": 587,
 "text": "",
@@ -42611,7 +42755,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-855
+866
 ],
 "place": 587,
 "text": "",
@@ -42626,7 +42770,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-855
+866
 ],
 "place": 586,
 "text": "",
@@ -42643,7 +42787,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-856
+867
 ],
 "place": 587,
 "text": "",
@@ -42658,7 +42802,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-856
+867
 ],
 "place": 587,
 "text": "",
@@ -42673,7 +42817,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-856
+867
 ],
 "place": 586,
 "text": "",
@@ -42690,15 +42834,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-847,
-848,
-856,
+726,
 858,
 859,
-860,
-861,
-863
+867,
+869,
+870,
+871,
+872,
+874
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1685\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 65\n</p>\n<p>\n<b>Page No.</b>: 192\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Farmers Precinct\n</p>\n<p>\n<b>Street Address</b>: 1861 4th East Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-21\n</p>\n<p>\n<b>Name</b>: Thomson, Nettie R\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Aug\n</p>\n<p>\n<b>Year of birth</b>: 1899\n</p>\n<p>\n<b>Age</b>: 9/12\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Can read</b>: no\n</p>\n<p>\n<b>Can write</b>: no\n</p>\n<p>\n<b>Can speak English</b>: no\n</p>\n</div>",
@@ -42715,13 +42859,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-848,
-856,
+726,
 859,
-860,
-861,
-863
+867,
+870,
+871,
+872,
+874
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 243\n</p>\n<p>\n<b>Page No.</b>: 185\n</p>\n<p>\n<b>Sheet No.</b>: 4A\n</p>\n<p>\n<b>Division of County</b>: Precinct 2 Election Distr. 97\n</p>\n<p>\n<b>Name of Institution</b>: 340 Justice Street\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-16\n</p>\n<p>\n<b>Name</b>: Thomson, Nettie R\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 10\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -42738,10 +42882,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-496,
-856,
-857,
-859
+507,
+867,
+868,
+870
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T625\n</p>\n<p>\n<b>Roll No.</b>: 1865\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 90\n</p>\n<p>\n<b>Page No.</b>: 231\n</p>\n<p>\n<b>Division of County</b>: Precinct 11\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-10\n</p>\n<p>\n<b>Street Address</b>: 340 Coatsville Avenue\n</p>\n<p>\n<b>Name</b>: Hendry, Nettie R\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 20\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Attended school since Sept. 1, 1919</b>: no\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: tes\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -42758,7 +42902,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-857
+868
 ],
 "place": 587,
 "text": "",
@@ -42773,7 +42917,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-857
+868
 ],
 "place": 587,
 "text": "",
@@ -42788,7 +42932,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-857
+868
 ],
 "place": 586,
 "text": "",
@@ -42805,10 +42949,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-496,
-856,
-857,
-859
+507,
+867,
+868,
+870
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T625\n</p>\n<p>\n<b>Roll No.</b>: 1865\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 90\n</p>\n<p>\n<b>Page No.</b>: 231\n</p>\n<p>\n<b>Division of County</b>: Precinct 11\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-10\n</p>\n<p>\n<b>Street Address</b>: 340 Coatsville Avenue\n</p>\n<p>\n<b>Name</b>: Thomson, Norman J.\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1919</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n</div>",
@@ -42825,9 +42969,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-620,
-857,
-859
+631,
+868,
+870
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T626\n</p>\n<p>\n<b>Roll No.</b>: 2418\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 18-16\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Page No.</b>: 118\n</p>\n<p>\n<b>Sheet No.</b>: 7A\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-09\n</p>\n<p>\n<b>Street Address</b>: 340 East Coatsville Avenue\n</p>\n<p>\n<b>Name</b>: Thomson, Norman J\n</p>\n<p>\n<b>Relationship to head</b>: Adopted Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Marital condition</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Helper\n</p>\n<p>\n<b>Industry</b>: Dentist\n</p>\n<p>\n<b>Class of worker</b>: W\n</p>\n<p>\n<b>Employed</b>: yes\n</p>\n</div>",
@@ -42844,7 +42988,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-858
+869
 ],
 "place": 587,
 "text": "",
@@ -42859,7 +43003,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-858
+869
 ],
 "place": 432,
 "text": "",
@@ -42874,7 +43018,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-858
+869
 ],
 "place": 586,
 "text": "",
@@ -42891,15 +43035,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-847,
-848,
-856,
+726,
 858,
 859,
-860,
-861,
-863
+867,
+869,
+870,
+871,
+872,
+874
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1685\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 65\n</p>\n<p>\n<b>Page No.</b>: 192\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Farmers Precinct\n</p>\n<p>\n<b>Street Address</b>: 1861 4th East Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-21\n</p>\n<p>\n<b>Name</b>: Thomson, Orson L\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: June\n</p>\n<p>\n<b>Year of birth</b>: 1883\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: Printer\n</p>\n<p>\n<b>Months not employed</b>: 0\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -42916,7 +43060,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-859
+870
 ],
 "place": 73,
 "text": "",
@@ -42931,7 +43075,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-859
+870
 ],
 "place": 587,
 "text": "",
@@ -42946,7 +43090,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-859
+870
 ],
 "place": 586,
 "text": "",
@@ -42963,9 +43107,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-849,
-859
+726,
+860,
+870
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>Page No.</b>: 8\n</p>\n<p>\n<b>Sheet No.</b>: D\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 53\n</p>\n<p>\n<b>Minor Civil Division</b>: Salt Lake City\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-02\n</p>\n<p>\n<b>Line No.</b>: 12\n</p>\n<p>\n<b>Family No.</b>: 29\n</p>\n<p>\n<b>Name</b>: Thomson, Orson S\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 25\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Printer\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
@@ -42982,15 +43126,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-847,
-848,
-856,
+726,
 858,
 859,
-860,
-861,
-863
+867,
+869,
+870,
+871,
+872,
+874
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1685\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 65\n</p>\n<p>\n<b>Page No.</b>: 192\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Farmers Precinct\n</p>\n<p>\n<b>Street Address</b>: 1861 4th East Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-21\n</p>\n<p>\n<b>Name</b>: Thomson, Orson S\n</p>\n<p>\n<b>Relation to head</b>: Head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Apr\n</p>\n<p>\n<b>Year of birth</b>: 1855\n</p>\n<p>\n<b>Age</b>: 45\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 23\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Year of immigration</b>: 1861\n</p>\n<p>\n<b>Number of years in US</b>: 38\n</p>\n<p>\n<b>Occupation</b>: Printer\n</p>\n<p>\n<b>Months not employed</b>: 0\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: R\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n</div>",
@@ -43007,13 +43151,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-848,
-856,
+726,
 859,
-860,
-861,
-863
+867,
+870,
+871,
+872,
+874
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 243\n</p>\n<p>\n<b>Page No.</b>: 185\n</p>\n<p>\n<b>Sheet No.</b>: 4A\n</p>\n<p>\n<b>Division of County</b>: Precinct 2 Election Distr. 97\n</p>\n<p>\n<b>Name of Institution</b>: 340 Justice Street\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-16\n</p>\n<p>\n<b>Name</b>: Thomson, Orson S\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 54\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Year of immigration</b>: 1862\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Printer\n</p>\n<p>\n<b>Nature of industry</b>: Commercial\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: oa\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: M\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n</div>",
@@ -43030,10 +43174,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-496,
-856,
-857,
-859
+507,
+867,
+868,
+870
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T625\n</p>\n<p>\n<b>Roll No.</b>: 1865\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 90\n</p>\n<p>\n<b>Page No.</b>: 231\n</p>\n<p>\n<b>Division of County</b>: Precinct 11\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-10\n</p>\n<p>\n<b>Street Address</b>: 340 Coatsville Avenue\n</p>\n<p>\n<b>Name</b>: Thomson, Orson S.\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>If owned, free or mortgaged</b>: H\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 64\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: W\n</p>\n<p>\n<b>Year of immigration</b>: 1863\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Father mother tongue</b>: English\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Mother's mother tongue</b>: English\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: Printer\n</p>\n<p>\n<b>Industry</b>: Printer Office\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: Em\n</p>\n</div>",
@@ -43050,9 +43194,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-620,
-857,
-859
+631,
+868,
+870
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T626\n</p>\n<p>\n<b>Roll No.</b>: 2418\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 18-16\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Page No.</b>: 118\n</p>\n<p>\n<b>Sheet No.</b>: 7A\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-09\n</p>\n<p>\n<b>Street Address</b>: 340 East Coatsville Avenue\n</p>\n<p>\n<b>Name</b>: Thomson, Orson S\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Value of home or monthly rental</b>: 3000\n</p>\n<p>\n<b>Radio set</b>: R\n</p>\n<p>\n<b>Farm?</b>: No\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 74\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 21\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: No\n</p>\n<p>\n<b>Able to read and write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Language before coming to US</b>: English\n</p>\n<p>\n<b>Year of immigration</b>: 1863\n</p>\n<p>\n<b>Naturalized or alien</b>: Na\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Printer\n</p>\n<p>\n<b>Industry</b>: Office\n</p>\n<p>\n<b>Class of worker</b>: O\n</p>\n<p>\n<b>Employed</b>: yes\n</p>\n<p>\n<b>Veteran</b>: No\n</p>\n</div>",
@@ -43069,8 +43213,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-620,
-859
+631,
+870
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T627\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Incorporated place</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 6\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 30-43\n</p>\n<p>\n<b>Page No.</b>: 805\n</p>\n<p>\n<b>Sheet No.</b>: 8B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-15\n</p>\n<p>\n<b>Street Address</b>: 340 Coatsville Avenue\n</p>\n<p>\n<b>Name</b>: Thomson, Orson S\n</p>\n<p>\n<b>Home Owned/Rented</b>: O\n</p>\n<p>\n<b>Home value/monthly rental</b>: 2500\n</p>\n<p>\n<b>Relationship</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 84\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: no\n</p>\n<p>\n<b>Highest grade completed</b>: C1\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same House\n</p>\n<p>\n<b>At Work during week March 24-30</b>: no\n</p>\n<p>\n<b>public Emergency Work?</b>: no\n</p>\n<p>\n<b>Seeking work?</b>: no\n</p>\n<p>\n<b>Have a Job?</b>: no\n</p>\n<p>\n<b>housework (H), school (S), unable to work (U) or other (Ot)</b>: n\n</p>\n<p>\n<b># weeks worked in 1939</b>: 0\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 0\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: yes\n</p>\n</div>",
@@ -43087,7 +43231,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-860
+871
 ],
 "place": 587,
 "text": "",
@@ -43102,7 +43246,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-860
+871
 ],
 "place": 215,
 "text": "",
@@ -43117,7 +43261,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-860
+871
 ],
 "place": 279,
 "text": "",
@@ -43134,15 +43278,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-847,
-848,
-856,
+726,
 858,
 859,
-860,
-861,
-863
+867,
+869,
+870,
+871,
+872,
+874
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1685\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 65\n</p>\n<p>\n<b>Page No.</b>: 192\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Farmers Precinct\n</p>\n<p>\n<b>Street Address</b>: 1861 4th East Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-21\n</p>\n<p>\n<b>Name</b>: Thomson, Raymond\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Jan\n</p>\n<p>\n<b>Year of birth</b>: 1893\n</p>\n<p>\n<b>Age</b>: 7\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: At school\n</p>\n<p>\n<b>Attended school</b>: 9\n</p>\n<p>\n<b>Can read</b>: no\n</p>\n<p>\n<b>Can write</b>: no\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -43159,13 +43303,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-848,
-856,
+726,
 859,
-860,
-861,
-863
+867,
+870,
+871,
+872,
+874
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 243\n</p>\n<p>\n<b>Page No.</b>: 185\n</p>\n<p>\n<b>Sheet No.</b>: 4A\n</p>\n<p>\n<b>Division of County</b>: Precinct 2 Election Distr. 97\n</p>\n<p>\n<b>Name of Institution</b>: 340 Justice Street\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-16\n</p>\n<p>\n<b>Name</b>: Thomson, Raymond C\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Pressman\n</p>\n<p>\n<b>Nature of industry</b>: Printing Co\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: w\n</p>\n<p>\n<b>Out of work</b>: no\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: 0\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -43182,7 +43326,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-861
+872
 ],
 "place": 587,
 "text": "",
@@ -43197,7 +43341,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-861
+872
 ],
 "place": 438,
 "text": "",
@@ -43212,7 +43356,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-861
+872
 ],
 "place": 415,
 "text": "",
@@ -43229,15 +43373,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-847,
-848,
-856,
+726,
 858,
 859,
-860,
-861,
-863
+867,
+869,
+870,
+871,
+872,
+874
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1685\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 65\n</p>\n<p>\n<b>Page No.</b>: 192\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Farmers Precinct\n</p>\n<p>\n<b>Street Address</b>: 1861 4th East Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-21\n</p>\n<p>\n<b>Name</b>: Thomson, Ruby\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Oct\n</p>\n<p>\n<b>Year of birth</b>: 1890\n</p>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: At school\n</p>\n<p>\n<b>Attended school</b>: 9\n</p>\n<p>\n<b>Can read</b>: no\n</p>\n<p>\n<b>Can write</b>: no\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -43254,13 +43398,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-848,
-856,
+726,
 859,
-860,
-861,
-863
+867,
+870,
+871,
+872,
+874
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 243\n</p>\n<p>\n<b>Page No.</b>: 185\n</p>\n<p>\n<b>Sheet No.</b>: 4A\n</p>\n<p>\n<b>Division of County</b>: Precinct 2 Election Distr. 97\n</p>\n<p>\n<b>Name of Institution</b>: 340 Justice Street\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-16\n</p>\n<p>\n<b>Name</b>: Thomson, Ruby\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: no\n</p>\n</div>",
@@ -43277,7 +43421,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-862
+873
 ],
 "place": 73,
 "text": "",
@@ -43292,7 +43436,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-862
+873
 ],
 "place": -1,
 "text": "",
@@ -43309,7 +43453,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-863
+874
 ],
 "place": 587,
 "text": "",
@@ -43324,7 +43468,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-863
+874
 ],
 "place": 155,
 "text": "",
@@ -43339,7 +43483,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-863
+874
 ],
 "place": 586,
 "text": "",
@@ -43356,15 +43500,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-847,
-848,
-856,
+726,
 858,
 859,
-860,
-861,
-863
+867,
+869,
+870,
+871,
+872,
+874
 ],
 "place": 588,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T623\n</p>\n<p>\n<b>Roll No.</b>: 1685\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 65\n</p>\n<p>\n<b>Page No.</b>: 192\n</p>\n<p>\n<b>Sheet No.</b>: 15A\n</p>\n<p>\n<b>Division of County</b>: Farmers Precinct\n</p>\n<p>\n<b>Street Address</b>: 1861 4th East Street\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-21\n</p>\n<p>\n<b>Name</b>: Thomson, Willie F\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: May\n</p>\n<p>\n<b>Year of birth</b>: 1887\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: At school\n</p>\n<p>\n<b>Attended school</b>: 9\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -43381,13 +43525,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-715,
-848,
-856,
+726,
 859,
-860,
-861,
-863
+867,
+870,
+871,
+872,
+874
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: Utah\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 243\n</p>\n<p>\n<b>Page No.</b>: 185\n</p>\n<p>\n<b>Sheet No.</b>: 4A\n</p>\n<p>\n<b>Division of County</b>: Precinct 2 Election Distr. 97\n</p>\n<p>\n<b>Name of Institution</b>: 340 Justice Street\n</p>\n<p>\n<b>City, Town, Village</b>: Salt Lake City\n</p>\n<p>\n<b>Ward of city</b>: 1\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-16\n</p>\n<p>\n<b>Name</b>: Thomson, William F\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 22\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: England\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Teamster\n</p>\n<p>\n<b>Nature of industry</b>: Contracting Co\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: w\n</p>\n<p>\n<b>Out of work</b>: no\n</p>\n<p>\n<b>Weeks out of work in 1909</b>: 26\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -43404,7 +43548,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-864
+875
 ],
 "place": 68,
 "text": "",
@@ -43419,7 +43563,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-864
+875
 ],
 "place": 68,
 "text": "",
@@ -43434,7 +43578,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-864
+875
 ],
 "place": 67,
 "text": "",
@@ -43460,7 +43604,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874
+885
 ],
 "place": 68,
 "text": "",
@@ -43475,7 +43619,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874
+885
 ],
 "place": 241,
 "text": "",
@@ -43490,7 +43634,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874
+885
 ],
 "place": 240,
 "text": "",
@@ -43507,21 +43651,21 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874,
-877,
-882,
-887,
-892,
-894,
-896,
-899,
-902,
-906,
+885,
+888,
+893,
+898,
+903,
+905,
+907,
 910,
-911,
 913,
-914,
-916
+917,
+921,
+922,
+924,
+925,
+927
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 22\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 183\n</p>\n<p>\n<b>Name</b>: Tolman, Alice\n</p>\n<p>\n<b>Age</b>: 7\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -43538,7 +43682,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-875
+886
 ],
 "place": 575,
 "text": "",
@@ -43553,7 +43697,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-875
+886
 ],
 "place": 33,
 "text": "",
@@ -43568,7 +43712,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-875
+886
 ],
 "place": 32,
 "text": "",
@@ -43585,8 +43729,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-876,
-883
+887,
+894
 ],
 "place": 68,
 "text": "",
@@ -43601,7 +43745,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-876
+887
 ],
 "place": 68,
 "text": "",
@@ -43616,7 +43760,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-876
+887
 ],
 "place": 67,
 "text": "",
@@ -43633,7 +43777,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-877
+888
 ],
 "place": 68,
 "text": "",
@@ -43648,7 +43792,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-877
+888
 ],
 "place": 665,
 "text": "",
@@ -43663,7 +43807,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-877
+888
 ],
 "place": 664,
 "text": "",
@@ -43680,21 +43824,21 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874,
-877,
-882,
-887,
-892,
-894,
-896,
-899,
-902,
-906,
+885,
+888,
+893,
+898,
+903,
+905,
+907,
 910,
-911,
 913,
-914,
-916
+917,
+921,
+922,
+924,
+925,
+927
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 22\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 183\n</p>\n<p>\n<b>Name</b>: Tolman, Catherine\n</p>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -43711,7 +43855,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-878
+889
 ],
 "place": 68,
 "text": "",
@@ -43726,7 +43870,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-878
+889
 ],
 "place": 375,
 "text": "",
@@ -43741,7 +43885,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-878
+889
 ],
 "place": -1,
 "text": "",
@@ -43758,7 +43902,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-879
+890
 ],
 "place": 68,
 "text": "",
@@ -43773,7 +43917,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-879
+890
 ],
 "place": 68,
 "text": "",
@@ -43788,7 +43932,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-879
+890
 ],
 "place": 67,
 "text": "",
@@ -43805,17 +43949,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502,
-879,
-888,
-892,
-894,
-896,
+513,
+890,
 899,
-902,
+903,
+905,
+907,
 910,
-911,
-914
+913,
+921,
+922,
+925
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Sheet No.</b>: 346\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-14\n</p>\n<p>\n<b>Post Office</b>: Salt Lake\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 77\n</p>\n<p>\n<b>Name</b>: Tolman, Charlotte\n</p>\n<p>\n<b>Age</b>: 6/12\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n</div>",
@@ -43832,7 +43976,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-880
+891
 ],
 "place": 112,
 "text": "",
@@ -43847,7 +43991,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-880
+891
 ],
 "place": 42,
 "text": "",
@@ -43862,7 +44006,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-880
+891
 ],
 "place": 527,
 "text": "",
@@ -43879,14 +44023,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-880,
-889,
+544,
 891,
-897,
-899,
-904,
-909
+900,
+902,
+908,
+910,
+915,
+920
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 52\n</p>\n<p>\n<b>Sheet No.</b>: 2B\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Tolman, Charlotte M\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Nov\n</p>\n<p>\n<b>Year of birth</b>: 1883\n</p>\n<p>\n<b>Age</b>: 16\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -43903,7 +44047,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-881
+892
 ],
 "place": 575,
 "text": "",
@@ -43918,7 +44062,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-881
+892
 ],
 "place": 400,
 "text": "",
@@ -43933,7 +44077,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-881
+892
 ],
 "place": 399,
 "text": "",
@@ -43950,14 +44094,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-881,
-884,
-899,
-907,
-912
+544,
+892,
+895,
+910,
+918,
+923
 ],
-"place": 680,
+"place": 681,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 8\n</p>\n<p>\n<b>Sheet No.</b>: D\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 77\n</p>\n<p>\n<b>Minor Civil Division</b>: East Canyon Creek, Ophir Precinct\n</p>\n<p>\n<b>County of</b>: Tooele\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 14\n</p>\n<p>\n<b>Family No.</b>: 18\n</p>\n<p>\n<b>Name</b>: Tolman, Clara E\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 5/12\n</p>\n<p>\n<b>Month, if born within the census year</b>: January\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
 "type": "Census"
 }
@@ -43972,7 +44116,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-882
+893
 ],
 "place": 68,
 "text": "",
@@ -43987,7 +44131,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-882
+893
 ],
 "place": 621,
 "text": "",
@@ -44002,7 +44146,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-882
+893
 ],
 "place": 67,
 "text": "",
@@ -44019,21 +44163,21 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874,
-877,
-882,
-887,
-892,
-894,
-896,
-899,
-902,
-906,
+885,
+888,
+893,
+898,
+903,
+905,
+907,
 910,
-911,
 913,
-914,
-916
+917,
+921,
+922,
+924,
+925,
+927
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 22\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 183\n</p>\n<p>\n<b>Name</b>: Tolman, Cyrus\n</p>\n<p>\n<b>Age</b>: 5\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -44050,8 +44194,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-876,
-883
+887,
+894
 ],
 "place": 68,
 "text": "",
@@ -44066,7 +44210,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-883
+894
 ],
 "place": 68,
 "text": "",
@@ -44081,7 +44225,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-883
+894
 ],
 "place": 67,
 "text": "",
@@ -44098,9 +44242,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-884
+895
 ],
-"place": 771,
+"place": 772,
 "text": "",
 "type": "Birth"
 },
@@ -44113,7 +44257,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-884
+895
 ],
 "place": 528,
 "text": "",
@@ -44128,7 +44272,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-884
+895
 ],
 "place": 527,
 "text": "",
@@ -44145,14 +44289,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-881,
-884,
-899,
-907,
-912
+544,
+892,
+895,
+910,
+918,
+923
 ],
-"place": 680,
+"place": 681,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 8\n</p>\n<p>\n<b>Sheet No.</b>: D\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 77\n</p>\n<p>\n<b>Minor Civil Division</b>: East Canyon Creek, Ophir Precinct\n</p>\n<p>\n<b>County of</b>: Tooele\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 14\n</p>\n<p>\n<b>Family No.</b>: 18\n</p>\n<p>\n<b>Name</b>: Tolman, Dora M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Cannot read</b>: Y\n</p>\n<p>\n<b>Cannot write</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
 "type": "Census"
 }
@@ -44167,7 +44311,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-885
+896
 ],
 "place": 68,
 "text": "",
@@ -44182,7 +44326,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-885
+896
 ],
 "place": 468,
 "text": "",
@@ -44197,7 +44341,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-885
+896
 ],
 "place": 301,
 "text": "",
@@ -44214,7 +44358,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-886
+897
 ],
 "place": 68,
 "text": "",
@@ -44229,7 +44373,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-886
+897
 ],
 "place": 587,
 "text": "",
@@ -44244,7 +44388,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-886
+897
 ],
 "place": 67,
 "text": "",
@@ -44261,7 +44405,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-887
+898
 ],
 "place": 68,
 "text": "",
@@ -44276,7 +44420,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-887
+898
 ],
 "place": 468,
 "text": "",
@@ -44291,7 +44435,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-887
+898
 ],
 "place": 664,
 "text": "",
@@ -44308,21 +44452,21 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874,
-877,
-882,
-887,
-892,
-894,
-896,
-899,
-902,
-906,
+885,
+888,
+893,
+898,
+903,
+905,
+907,
 910,
-911,
 913,
-914,
-916
+917,
+921,
+922,
+924,
+925,
+927
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 22\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 183\n</p>\n<p>\n<b>Name</b>: Tolman, Esther J\n</p>\n<p>\n<b>Age</b>: 8\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -44339,7 +44483,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-888
+899
 ],
 "place": 68,
 "text": "",
@@ -44354,7 +44498,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-888
+899
 ],
 "place": 68,
 "text": "",
@@ -44369,7 +44513,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-888
+899
 ],
 "place": 67,
 "text": "",
@@ -44386,17 +44530,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502,
-879,
-888,
-892,
-894,
-896,
+513,
+890,
 899,
-902,
+903,
+905,
+907,
 910,
-911,
-914
+913,
+921,
+922,
+925
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Sheet No.</b>: 346\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-14\n</p>\n<p>\n<b>Post Office</b>: Salt Lake\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 77\n</p>\n<p>\n<b>Name</b>: Tolman, Hannah A\n</p>\n<p>\n<b>Age</b>: 4\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n</div>",
@@ -44413,7 +44557,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-889
+900
 ],
 "place": 112,
 "text": "",
@@ -44428,7 +44572,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-889
+900
 ],
 "place": 85,
 "text": "",
@@ -44443,7 +44587,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-889
+900
 ],
 "place": 93,
 "text": "",
@@ -44460,14 +44604,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-880,
-889,
+544,
 891,
-897,
-899,
-904,
-909
+900,
+902,
+908,
+910,
+915,
+920
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 52\n</p>\n<p>\n<b>Sheet No.</b>: 2B\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Tolman, Hannah L\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: April\n</p>\n<p>\n<b>Year of birth</b>: 1888\n</p>\n<p>\n<b>Age</b>: 12\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Attended school</b>: 7\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -44484,7 +44628,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-890
+901
 ],
 "place": 560,
 "text": "",
@@ -44499,7 +44643,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-890
+901
 ],
 "place": -1,
 "text": "",
@@ -44514,7 +44658,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-890
+901
 ],
 "place": 2,
 "text": "",
@@ -44531,7 +44675,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-891
+902
 ],
 "place": 112,
 "text": "",
@@ -44546,7 +44690,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-891
+902
 ],
 "place": 79,
 "text": "",
@@ -44561,9 +44705,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-891
+902
 ],
-"place": 698,
+"place": 699,
 "text": "",
 "type": "Burial"
 },
@@ -44578,14 +44722,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-880,
-889,
+544,
 891,
-897,
-899,
-904,
-909
+900,
+902,
+908,
+910,
+915,
+920
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 52\n</p>\n<p>\n<b>Sheet No.</b>: 2B\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Tolman, Howard M\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Mch\n</p>\n<p>\n<b>Year of birth</b>: 1893\n</p>\n<p>\n<b>Age</b>: 7\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Attended school</b>: 7\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -44602,11 +44746,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-891,
-899,
-904,
-909
+544,
+902,
+910,
+915,
+920
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>Roll No.</b>: 227\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Oneida\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 41\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 240\n</p>\n<p>\n<b>Page No.</b>: 175\n</p>\n<p>\n<b>Sheet No.</b>: 16A\n</p>\n<p>\n<b>Division of County</b>: Preston Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Preston Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-04\n</p>\n<p>\n<b>Name</b>: Tolman, Howard M\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Building\n</p>\n<p>\n<b>Nature of industry</b>: Cement\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -44623,8 +44767,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-891
+544,
+902
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T625\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Franklin\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 158\n</p>\n<p>\n<b>Page No.</b>: 139\n</p>\n<p>\n<b>Division of County</b>: Precinct No 1\n</p>\n<p>\n<b>City, Town, Village</b>: Preston City\n</p>\n<p>\n<b>Ward of city</b>: 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-17\n</p>\n<p>\n<b>Name</b>: Tolman, Howard\n</p>\n<p>\n<b>Relationship to head</b>: head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>If owned, free or mortgaged</b>: M\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 26\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Mother's mother tongue</b>: English\n</p>\n<p>\n<b>Able to speak English</b>: yes\n</p>\n<p>\n<b>Occupation</b>: Foundry\n</p>\n<p>\n<b>Industry</b>: Foundry\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: Em\n</p>\n</div>",
@@ -44641,9 +44785,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-892
+903
 ],
-"place": 679,
+"place": 680,
 "text": "",
 "type": "Birth"
 },
@@ -44656,7 +44800,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-892
+903
 ],
 "place": 68,
 "text": "",
@@ -44671,7 +44815,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-892
+903
 ],
 "place": 67,
 "text": "",
@@ -44688,17 +44832,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502,
-879,
-888,
-892,
-894,
-896,
+513,
+890,
 899,
-902,
+903,
+905,
+907,
 910,
-911,
-914
+913,
+921,
+922,
+925
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Sheet No.</b>: 346\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-14\n</p>\n<p>\n<b>Post Office</b>: Salt Lake\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 77\n</p>\n<p>\n<b>Name</b>: Tolman, Jaren\n</p>\n<p>\n<b>Age</b>: 7\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -44715,21 +44859,21 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874,
-877,
-882,
-887,
-892,
-894,
-896,
-899,
-902,
-906,
+885,
+888,
+893,
+898,
+903,
+905,
+907,
 910,
-911,
 913,
-914,
-916
+917,
+921,
+922,
+924,
+925,
+927
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 22\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 183\n</p>\n<p>\n<b>Name</b>: Tolman, Jaren\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Laborer\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -44746,7 +44890,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-893
+904
 ],
 "place": 68,
 "text": "",
@@ -44761,7 +44905,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-893
+904
 ],
 "place": 493,
 "text": "",
@@ -44776,7 +44920,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-893
+904
 ],
 "place": 67,
 "text": "",
@@ -44793,9 +44937,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-894
+905
 ],
-"place": 679,
+"place": 680,
 "text": "",
 "type": "Birth"
 },
@@ -44808,7 +44952,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-894
+905
 ],
 "place": 61,
 "text": "",
@@ -44823,7 +44967,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-894
+905
 ],
 "place": 281,
 "text": "",
@@ -44840,17 +44984,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502,
-879,
-888,
-892,
-894,
-896,
+513,
+890,
 899,
-902,
+903,
+905,
+907,
 910,
-911,
-914
+913,
+921,
+922,
+925
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Sheet No.</b>: 346\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-14\n</p>\n<p>\n<b>Post Office</b>: Salt Lake\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 77\n</p>\n<p>\n<b>Name</b>: Tolman, Joseph\n</p>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -44867,21 +45011,21 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874,
-877,
-882,
-887,
-892,
-894,
-896,
-899,
-902,
-906,
+885,
+888,
+893,
+898,
+903,
+905,
+907,
 910,
-911,
 913,
-914,
-916
+917,
+921,
+922,
+924,
+925,
+927
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 22\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 183\n</p>\n<p>\n<b>Name</b>: Tolman, Joseph\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Laborer\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -44898,7 +45042,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-895
+906
 ],
 "place": 554,
 "text": "",
@@ -44913,7 +45057,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-895
+906
 ],
 "place": 554,
 "text": "",
@@ -44928,7 +45072,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-895
+906
 ],
 "place": 527,
 "text": "",
@@ -44945,7 +45089,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-896
+907
 ],
 "place": 34,
 "text": "",
@@ -44960,7 +45104,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-896
+907
 ],
 "place": 68,
 "text": "",
@@ -44975,7 +45119,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-896
+907
 ],
 "place": 67,
 "text": "",
@@ -44992,12 +45136,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502,
-896,
-899,
-910
+513,
+907,
+910,
+921
 ],
-"place": 680,
+"place": 681,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 113\n</p>\n<p>\n<b>County of</b>: Tooele\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Line No.</b>: 33\n</p>\n<p>\n<b>Name</b>: Tolman, Judson\n</p>\n<p>\n<b>Age</b>: 25\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Value of real estate</b>: 400\n</p>\n<p>\n<b>Place of birth</b>: Maine\n</p>\n</div>",
 "type": "Census"
 },
@@ -45012,17 +45156,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502,
-879,
-888,
-892,
-894,
-896,
+513,
+890,
 899,
-902,
+903,
+905,
+907,
 910,
-911,
-914
+913,
+921,
+922,
+925
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Sheet No.</b>: 346\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-14\n</p>\n<p>\n<b>Post Office</b>: Salt Lake\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 77\n</p>\n<p>\n<b>Name</b>: Tolman, Judson\n</p>\n<p>\n<b>Age</b>: 33\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Occupation</b>: Lumbering\n</p>\n<p>\n<b>Value of real estate</b>: 200\n</p>\n<p>\n<b>Value of personal estate</b>: 260\n</p>\n<p>\n<b>Place of birth</b>: Maine\n</p>\n</div>",
@@ -45039,21 +45183,21 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874,
-877,
-882,
-887,
-892,
-894,
-896,
-899,
-902,
-906,
+885,
+888,
+893,
+898,
+903,
+905,
+907,
 910,
-911,
 913,
-914,
-916
+917,
+921,
+922,
+924,
+925,
+927
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 22\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 183\n</p>\n<p>\n<b>Name</b>: Tolman, Judson\n</p>\n<p>\n<b>Age</b>: 48\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Value of real estate</b>: 1000\n</p>\n<p>\n<b>Value of personal estate</b>: 100\n</p>\n<p>\n<b>Place of birth</b>: Maine\n</p>\n<p>\n<b>Male citizen 21 and over</b>: Y\n</p>\n</div>",
@@ -45070,7 +45214,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-897
+908
 ],
 "place": 112,
 "text": "",
@@ -45087,8 +45231,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-119,
-897
+122,
+908
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Oneida\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 46\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 240\n</p>\n<p>\n<b>Page No.</b>: 174\n</p>\n<p>\n<b>Sheet No.</b>: 15B\n</p>\n<p>\n<b>Division of County</b>: Preston Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Preston Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-05\n</p>\n<p>\n<b>Name</b>: Tolman, Judson Adonirum\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 24\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 7\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Hearding?\n</p>\n<p>\n<b>Nature of industry</b>: Cream le cream?\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: M\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n<p>\n<b>Number of farm schedule</b>: 13\n</p>\n</div>",
@@ -45105,10 +45249,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-295,
-328,
-586,
-897
+299,
+332,
+597,
+908
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Franklin\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 158\n</p>\n<p>\n<b>Page No.</b>: 139\n</p>\n<p>\n<b>Division of County</b>: Precinct No. 1\n</p>\n<p>\n<b>City, Town, Village</b>: Preston City\n</p>\n<p>\n<b>Ward of city</b>: 2\n</p>\n<p>\n<b>Enumeration Date</b>: 1920-01-17\n</p>\n<p>\n<b>Street Address</b>: Farm\n</p>\n<p>\n<b>Name</b>: Tolman, Judson A\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>If owned, free or mortgaged</b>: M\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 34\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Able to read</b>: Yes\n</p>\n<p>\n<b>Able to write</b>: Yes\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Mother's mother tongue</b>: English\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Industry</b>: General Farm\n</p>\n<p>\n<b>Employer, worker or working on own account</b>: O A\n</p>\n<p>\n<b>Number of farm schedule</b>: 85\n</p>\n</div>",
@@ -45123,7 +45267,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-897
+908
 ],
 "place": 265,
 "text": "",
@@ -45138,7 +45282,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-897
+908
 ],
 "place": 528,
 "text": "",
@@ -45155,9 +45299,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-295,
-897,
-898
+299,
+908,
+909
 ],
 "place": 408,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Division of County</b>: Precinct 1\n</p>\n<p>\n<b>Unincorporated place</b>: East Mill Creek\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-97\n</p>\n<p>\n<b>Page No.</b>: 210\n</p>\n<p>\n<b>Sheet No.</b>: 1B\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-02\n</p>\n<p>\n<b>Street Address</b>: Mill Creek Canyon Road\n</p>\n<p>\n<b>Name</b>: Tolman, Judson A\n</p>\n<p>\n<b>Relationship to head</b>: Head\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Value of home or monthly rental</b>: 3000\n</p>\n<p>\n<b>Radio set</b>: R\n</p>\n<p>\n<b>Farm?</b>: no\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 44\n</p>\n<p>\n<b>Marital condition</b>: M\n</p>\n<p>\n<b>Age at first marriage</b>: 17\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: no\n</p>\n<p>\n<b>Able to read and write</b>: yes\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: United States\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English</b>: Yes\n</p>\n<p>\n<b>Occupation</b>: Stationary Engineer\n</p>\n<p>\n<b>Industry</b>: Office Bldgs\n</p>\n<p>\n<b>Class of worker</b>: W\n</p>\n<p>\n<b>Employed</b>: Yes\n</p>\n<p>\n<b>Veteran</b>: No\n</p>\n</div>",
@@ -45174,8 +45318,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-295,
-897
+299,
+908
 ],
 "place": 265,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Division of County</b>: E.P. 1\n</p>\n<p>\n<b>Unincorporated place</b>: Holladay\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-3\n</p>\n<p>\n<b>Page No.</b>: 49\n</p>\n<p>\n<b>Sheet No.</b>: 5B\n</p>\n<p>\n<b>Enumeration Date</b>: 1940-04-09\n</p>\n<p>\n<b>Street Address</b>: 4863 Viemont St.\n</p>\n<p>\n<b>Name</b>: Tolman, Judson A\n</p>\n<p>\n<b>Home Owned/Rented</b>: O\n</p>\n<p>\n<b>Home value/monthly rental</b>: 3000\n</p>\n<p>\n<b>Relationship</b>: Head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color/Race</b>: W\n</p>\n<p>\n<b>Age at Last Birthday</b>: 53\n</p>\n<p>\n<b>Marital Status</b>: M\n</p>\n<p>\n<b>Attended school/college since March 1, 1940</b>: no\n</p>\n<p>\n<b>Highest grade completed</b>: 8\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>City (April 1, 1935)</b>: Same House\n</p>\n<p>\n<b>At Work during week March 24-30</b>: Yes\n</p>\n<p>\n<b># hours worked during week March 24-30, 1940</b>: 40\n</p>\n<p>\n<b>Occupation</b>: Stationary Engineer\n</p>\n<p>\n<b>Industry</b>: PoweronSight\n</p>\n<p>\n<b>Class of worker</b>: PW\n</p>\n<p>\n<b># weeks worked in 1939</b>: 52\n</p>\n<p>\n<b>Amount of money, wages, salary in 1939</b>: 1700\n</p>\n<p>\n<b>Income of more than $50 from other sources?</b>: no\n</p>\n</div>",
@@ -45192,14 +45336,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-880,
-889,
+544,
 891,
-897,
-899,
-904,
-909
+900,
+902,
+908,
+910,
+915,
+920
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 52\n</p>\n<p>\n<b>Sheet No.</b>: 2B\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Tolman, Judson A\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Jan\n</p>\n<p>\n<b>Year of birth</b>: 1886\n</p>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Occupation</b>: Farm Laborer\n</p>\n<p>\n<b>Months not employed</b>: 4\n</p>\n<p>\n<b>Attended school</b>: 4\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -45216,7 +45360,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-898
+909
 ],
 "place": 587,
 "text": "",
@@ -45231,7 +45375,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-898
+909
 ],
 "place": 587,
 "text": "",
@@ -45246,7 +45390,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-898
+909
 ],
 "place": 527,
 "text": "",
@@ -45263,9 +45407,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-295,
-897,
-898
+299,
+908,
+909
 ],
 "place": 408,
 "text": "<div>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Division of County</b>: Precinct 1\n</p>\n<p>\n<b>Unincorporated place</b>: East Mill Creek\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 2\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 18-97\n</p>\n<p>\n<b>Page No.</b>: 210\n</p>\n<p>\n<b>Sheet No.</b>: 1B\n</p>\n<p>\n<b>Enumeration Date</b>: 1930-04-02\n</p>\n<p>\n<b>Street Address</b>: Mill Creek Canyon Road\n</p>\n<p>\n<b>Name</b>: Tolman, Judson A Jr\n</p>\n<p>\n<b>Relationship to head</b>: Son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 4 10/12\n</p>\n<p>\n<b>Marital condition</b>: S\n</p>\n<p>\n<b>Attended school since Sept. 1, 1929</b>: no\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Idaho\n</p>\n<p>\n<b>Place of birth of mother</b>: Utah\n</p>\n<p>\n<b>Occupation</b>: None\n</p>\n</div>",
@@ -45282,9 +45426,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-899
+910
 ],
-"place": 679,
+"place": 680,
 "text": "",
 "type": "Birth"
 },
@@ -45297,7 +45441,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-899
+910
 ],
 "place": 528,
 "text": "",
@@ -45312,7 +45456,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-899
+910
 ],
 "place": 527,
 "text": "",
@@ -45329,14 +45473,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-880,
-889,
+544,
 891,
-897,
-899,
-904,
-909
+900,
+902,
+908,
+910,
+915,
+920
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 52\n</p>\n<p>\n<b>Sheet No.</b>: 2B\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Tolman, Judson A\n</p>\n<p>\n<b>Relation to head</b>: Head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: Feby\n</p>\n<p>\n<b>Year of birth</b>: 1850\n</p>\n<p>\n<b>Age</b>: 50\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 26\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Maine\n</p>\n<p>\n<b>Place of birth of mother</b>: Maine\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Months not employed</b>: 0\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n<p>\n<b>Number of farm schedule</b>: 27\n</p>\n</div>",
@@ -45353,12 +45497,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502,
-896,
-899,
-910
+513,
+907,
+910,
+921
 ],
-"place": 680,
+"place": 681,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 113\n</p>\n<p>\n<b>County of</b>: Tooele\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Line No.</b>: 33\n</p>\n<p>\n<b>Name</b>: Tolman, Addison\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Deseret\n</p>\n</div>",
 "type": "Census"
 },
@@ -45373,17 +45517,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502,
-879,
-888,
-892,
-894,
-896,
+513,
+890,
 899,
-902,
+903,
+905,
+907,
 910,
-911,
-914
+913,
+921,
+922,
+925
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Sheet No.</b>: 346\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-14\n</p>\n<p>\n<b>Post Office</b>: Salt Lake\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 77\n</p>\n<p>\n<b>Name</b>: Tolman, Judson A\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -45400,21 +45544,21 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874,
-877,
-882,
-887,
-892,
-894,
-896,
-899,
-902,
-906,
+885,
+888,
+893,
+898,
+903,
+905,
+907,
 910,
-911,
 913,
-914,
-916
+917,
+921,
+922,
+924,
+925,
+927
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 22\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 183\n</p>\n<p>\n<b>Name</b>: Tolman, Judson\n</p>\n<p>\n<b>Age</b>: 21\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Laborer\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Male citizen 21 and over</b>: Y\n</p>\n</div>",
@@ -45431,14 +45575,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-881,
-884,
-899,
-907,
-912
+544,
+892,
+895,
+910,
+918,
+923
 ],
-"place": 680,
+"place": 681,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 8\n</p>\n<p>\n<b>Sheet No.</b>: D\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 77\n</p>\n<p>\n<b>Minor Civil Division</b>: East Canyon Creek, Ophir Precinct\n</p>\n<p>\n<b>County of</b>: Tooele\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 14\n</p>\n<p>\n<b>Family No.</b>: 18\n</p>\n<p>\n<b>Name</b>: Tolman, Judson A\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 30\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Maine\n</p>\n<p>\n<b>Place of birth of mother</b>: Illinois\n</p>\n</div>",
 "type": "Census"
 },
@@ -45453,11 +45597,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-891,
-899,
-904,
-909
+544,
+902,
+910,
+915,
+920
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>Roll No.</b>: 227\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Oneida\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 41\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 240\n</p>\n<p>\n<b>Page No.</b>: 175\n</p>\n<p>\n<b>Sheet No.</b>: 16A\n</p>\n<p>\n<b>Division of County</b>: Preston Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Preston Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-04\n</p>\n<p>\n<b>Name</b>: Tolman, Judson A\n</p>\n<p>\n<b>Relationship to head</b>: head\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 60\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: M\n</p>\n<p>\n<b>Years of present marriage</b>: 37\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: U S\n</p>\n<p>\n<b>Place of birth of mother</b>: U S\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: Farmer\n</p>\n<p>\n<b>Nature of industry</b>: dry\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: Oa\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n</div>",
@@ -45474,7 +45618,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-900
+911
 ],
 "place": 68,
 "text": "",
@@ -45489,7 +45633,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-900
+911
 ],
 "place": 468,
 "text": "",
@@ -45504,7 +45648,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-900
+911
 ],
 "place": 67,
 "text": "",
@@ -45521,7 +45665,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-901
+912
 ],
 "place": 68,
 "text": "",
@@ -45536,7 +45680,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-901
+912
 ],
 "place": 339,
 "text": "",
@@ -45551,7 +45695,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-901
+912
 ],
 "place": 67,
 "text": "",
@@ -45568,7 +45712,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-902
+913
 ],
 "place": 68,
 "text": "",
@@ -45583,7 +45727,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-902
+913
 ],
 "place": 567,
 "text": "",
@@ -45598,7 +45742,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-902
+913
 ],
 "place": 111,
 "text": "",
@@ -45615,17 +45759,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502,
-879,
-888,
-892,
-894,
-896,
+513,
+890,
 899,
-902,
+903,
+905,
+907,
 910,
-911,
-914
+913,
+921,
+922,
+925
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Sheet No.</b>: 346\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-14\n</p>\n<p>\n<b>Post Office</b>: Salt Lake\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 77\n</p>\n<p>\n<b>Name</b>: Tolman, Lamoni\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n</div>",
@@ -45642,21 +45786,21 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874,
-877,
-882,
-887,
-892,
-894,
-896,
-899,
-902,
-906,
+885,
+888,
+893,
+898,
+903,
+905,
+907,
 910,
-911,
 913,
-914,
-916
+917,
+921,
+922,
+924,
+925,
+927
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 22\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 183\n</p>\n<p>\n<b>Name</b>: Tolman, Lamoni\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -45673,7 +45817,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-903
+914
 ],
 "place": 68,
 "text": "",
@@ -45688,7 +45832,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-903
+914
 ],
 "place": 543,
 "text": "",
@@ -45703,7 +45847,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-903
+914
 ],
 "place": 35,
 "text": "",
@@ -45720,7 +45864,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-904
+915
 ],
 "place": 112,
 "text": "",
@@ -45735,7 +45879,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-904
+915
 ],
 "place": 597,
 "text": "",
@@ -45750,7 +45894,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-904
+915
 ],
 "place": 549,
 "text": "",
@@ -45767,14 +45911,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-880,
-889,
+544,
 891,
-897,
-899,
-904,
-909
+900,
+902,
+908,
+910,
+915,
+920
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 52\n</p>\n<p>\n<b>Sheet No.</b>: 2B\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Tolman, Lloyd W\n</p>\n<p>\n<b>Relation to head</b>: Son\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Month of birth</b>: May\n</p>\n<p>\n<b>Year of birth</b>: 1895\n</p>\n<p>\n<b>Age</b>: 5\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -45791,11 +45935,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-891,
-899,
-904,
-909
+544,
+902,
+910,
+915,
+920
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>Roll No.</b>: 227\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Oneida\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 41\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 240\n</p>\n<p>\n<b>Page No.</b>: 175\n</p>\n<p>\n<b>Sheet No.</b>: 16A\n</p>\n<p>\n<b>Division of County</b>: Preston Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Preston Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-04\n</p>\n<p>\n<b>Name</b>: Tolman, Lloyd W\n</p>\n<p>\n<b>Relationship to head</b>: son\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 14\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: none\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Attended school since Sept. 1, 1909</b>: yes\n</p>\n</div>",
@@ -45812,7 +45956,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-905
+916
 ],
 "place": 68,
 "text": "",
@@ -45827,7 +45971,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-905
+916
 ],
 "place": 68,
 "text": "",
@@ -45842,7 +45986,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-905
+916
 ],
 "place": 67,
 "text": "",
@@ -45859,7 +46003,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-906
+917
 ],
 "place": 68,
 "text": "",
@@ -45874,9 +46018,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-906
+917
 ],
-"place": 743,
+"place": 744,
 "text": "",
 "type": "Death"
 },
@@ -45889,7 +46033,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-906
+917
 ],
 "place": 664,
 "text": "",
@@ -45906,21 +46050,21 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874,
-877,
-882,
-887,
-892,
-894,
-896,
-899,
-902,
-906,
+885,
+888,
+893,
+898,
+903,
+905,
+907,
 910,
-911,
 913,
-914,
-916
+917,
+921,
+922,
+924,
+925,
+927
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 22\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 183\n</p>\n<p>\n<b>Name</b>: Tolman, Martha\n</p>\n<p>\n<b>Age</b>: 5/12\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Month, if born within the year</b>: December\n</p>\n</div>",
@@ -45937,9 +46081,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-907
+918
 ],
-"place": 679,
+"place": 680,
 "text": "",
 "type": "Birth"
 },
@@ -45952,7 +46096,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-907
+918
 ],
 "place": 68,
 "text": "",
@@ -45967,7 +46111,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-907
+918
 ],
 "place": 53,
 "text": "",
@@ -45984,14 +46128,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-881,
-884,
-899,
-907,
-912
+544,
+892,
+895,
+910,
+918,
+923
 ],
-"place": 680,
+"place": 681,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 8\n</p>\n<p>\n<b>Sheet No.</b>: D\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 77\n</p>\n<p>\n<b>Minor Civil Division</b>: East Canyon Creek, Ophir Precinct\n</p>\n<p>\n<b>County of</b>: Tooele\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 14\n</p>\n<p>\n<b>Family No.</b>: 18\n</p>\n<p>\n<b>Name</b>: Tolman, Mary E\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
 "type": "Census"
 }
@@ -46006,7 +46150,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-908
+919
 ],
 "place": 68,
 "text": "",
@@ -46021,7 +46165,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-908
+919
 ],
 "place": 68,
 "text": "",
@@ -46036,7 +46180,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-908
+919
 ],
 "place": 67,
 "text": "",
@@ -46053,7 +46197,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-909
+920
 ],
 "place": 112,
 "text": "",
@@ -46068,7 +46212,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-909
+920
 ],
 "place": 61,
 "text": "",
@@ -46083,7 +46227,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-909
+920
 ],
 "place": 655,
 "text": "",
@@ -46100,14 +46244,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-880,
-889,
+544,
 891,
-897,
-899,
-904,
-909
+900,
+902,
+908,
+910,
+915,
+920
 ],
 "place": 112,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Bannock\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 43\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 52\n</p>\n<p>\n<b>Sheet No.</b>: 2B\n</p>\n<p>\n<b>Division of County</b>: Chesterfield Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-05\n</p>\n<p>\n<b>Name</b>: Tolman, Myrtle\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: May\n</p>\n<p>\n<b>Year of birth</b>: 1891\n</p>\n<p>\n<b>Age</b>: 9\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Attended school</b>: 7\n</p>\n<p>\n<b>Can read</b>: yes\n</p>\n<p>\n<b>Can write</b>: yes\n</p>\n<p>\n<b>Can speak English</b>: yes\n</p>\n</div>",
@@ -46124,11 +46268,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-891,
-899,
-904,
-909
+544,
+902,
+910,
+915,
+920
 ],
 "place": 528,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>Roll No.</b>: 227\n</p>\n<p>\n<b>State (or Territory) of</b>: Idaho\n</p>\n<p>\n<b>County of</b>: Oneida\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 41\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 240\n</p>\n<p>\n<b>Page No.</b>: 175\n</p>\n<p>\n<b>Sheet No.</b>: 16A\n</p>\n<p>\n<b>Division of County</b>: Preston Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Preston Village\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-05-04\n</p>\n<p>\n<b>Name</b>: Tolman, Myrtle\n</p>\n<p>\n<b>Relationship to head</b>: daughter\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Idaho\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Nature of industry</b>: servant\n</p>\n<p>\n<b>Employer, employee or working on own account</b>: W\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n</div>",
@@ -46145,7 +46289,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-910
+921
 ],
 "place": 127,
 "text": "",
@@ -46160,7 +46304,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-910
+921
 ],
 "place": 68,
 "text": "",
@@ -46175,7 +46319,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-910
+921
 ],
 "place": 586,
 "text": "",
@@ -46192,12 +46336,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502,
-896,
-899,
-910
+513,
+907,
+910,
+921
 ],
-"place": 680,
+"place": 681,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 919\n</p>\n<p>\n<b>Page No.</b>: 113\n</p>\n<p>\n<b>County of</b>: Tooele\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Line No.</b>: 33\n</p>\n<p>\n<b>Name</b>: Tolman, Nancy J\n</p>\n<p>\n<b>Age</b>: 3\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Iowa\n</p>\n</div>",
 "type": "Census"
 },
@@ -46212,17 +46356,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502,
-879,
-888,
-892,
-894,
-896,
+513,
+890,
 899,
-902,
+903,
+905,
+907,
 910,
-911,
-914
+913,
+921,
+922,
+925
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Sheet No.</b>: 346\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-14\n</p>\n<p>\n<b>Post Office</b>: Salt Lake\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 77\n</p>\n<p>\n<b>Name</b>: Tolman, Nancy J\n</p>\n<p>\n<b>Age</b>: 13\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Iowa\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -46239,21 +46383,21 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874,
-877,
-882,
-887,
-892,
-894,
-896,
-899,
-902,
-906,
+885,
+888,
+893,
+898,
+903,
+905,
+907,
 910,
-911,
 913,
-914,
-916
+917,
+921,
+922,
+924,
+925,
+927
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 22\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 183\n</p>\n<p>\n<b>Name</b>: Tolman, Jane\n</p>\n<p>\n<b>Age</b>: 23\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Keeping House\n</p>\n<p>\n<b>Place of birth</b>: Iowa\n</p>\n</div>",
@@ -46270,7 +46414,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-911
+922
 ],
 "place": 68,
 "text": "",
@@ -46285,7 +46429,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-911
+922
 ],
 "place": 173,
 "text": "",
@@ -46300,7 +46444,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-911
+922
 ],
 "place": 173,
 "text": "",
@@ -46317,17 +46461,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502,
-879,
-888,
-892,
-894,
-896,
+513,
+890,
 899,
-902,
+903,
+905,
+907,
 910,
-911,
-914
+913,
+921,
+922,
+925
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Sheet No.</b>: 346\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-14\n</p>\n<p>\n<b>Post Office</b>: Salt Lake\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 77\n</p>\n<p>\n<b>Name</b>: Tolman, Samuel\n</p>\n<p>\n<b>Age</b>: 1\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n</div>",
@@ -46344,21 +46488,21 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874,
-877,
-882,
-887,
-892,
-894,
-896,
-899,
-902,
-906,
+885,
+888,
+893,
+898,
+903,
+905,
+907,
 910,
-911,
 913,
-914,
-916
+917,
+921,
+922,
+924,
+925,
+927
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 22\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 183\n</p>\n<p>\n<b>Name</b>: Tolman, Samuel\n</p>\n<p>\n<b>Age</b>: 11\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -46375,9 +46519,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-912
+923
 ],
-"place": 771,
+"place": 772,
 "text": "",
 "type": "Birth"
 },
@@ -46390,7 +46534,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-912
+923
 ],
 "place": 61,
 "text": "",
@@ -46405,7 +46549,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-912
+923
 ],
 "place": 239,
 "text": "",
@@ -46422,14 +46566,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533,
-881,
-884,
-899,
-907,
-912
+544,
+892,
+895,
+910,
+918,
+923
 ],
-"place": 680,
+"place": 681,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 8\n</p>\n<p>\n<b>Sheet No.</b>: D\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 77\n</p>\n<p>\n<b>Minor Civil Division</b>: East Canyon Creek, Ophir Precinct\n</p>\n<p>\n<b>County of</b>: Tooele\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 14\n</p>\n<p>\n<b>Family No.</b>: 18\n</p>\n<p>\n<b>Name</b>: Tolman, Sarah A\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 6\n</p>\n<p>\n<b>Relationship to head</b>: Daughter\n</p>\n<p>\n<b>Single</b>: Y\n</p>\n<p>\n<b>Occupation</b>: At Home\n</p>\n<p>\n<b>Cannot read</b>: Y\n</p>\n<p>\n<b>Cannot write</b>: Y\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Utah\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n</div>",
 "type": "Census"
 }
@@ -46444,7 +46588,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-913
+924
 ],
 "place": 68,
 "text": "",
@@ -46459,7 +46603,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-913
+924
 ],
 "place": 80,
 "text": "",
@@ -46476,21 +46620,21 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874,
-877,
-882,
-887,
-892,
-894,
-896,
-899,
-902,
-906,
+885,
+888,
+893,
+898,
+903,
+905,
+907,
 910,
-911,
 913,
-914,
-916
+917,
+921,
+922,
+924,
+925,
+927
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 22\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 183\n</p>\n<p>\n<b>Name</b>: Tolman, Sarah A\n</p>\n<p>\n<b>Age</b>: 2\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -46507,7 +46651,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-914
+925
 ],
 "place": 68,
 "text": "",
@@ -46522,7 +46666,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-914
+925
 ],
 "place": 68,
 "text": "",
@@ -46537,7 +46681,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-914
+925
 ],
 "place": 67,
 "text": "",
@@ -46554,17 +46698,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502,
-879,
-888,
-892,
-894,
-896,
+513,
+890,
 899,
-902,
+903,
+905,
+907,
 910,
-911,
-914
+913,
+921,
+922,
+925
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 13\n</p>\n<p>\n<b>Sheet No.</b>: 346\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-06-14\n</p>\n<p>\n<b>Post Office</b>: Salt Lake\n</p>\n<p>\n<b>Line No.</b>: 20\n</p>\n<p>\n<b>Family No.</b>: 77\n</p>\n<p>\n<b>Name</b>: Tolman, Sarah L\n</p>\n<p>\n<b>Age</b>: 5\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Utah Territory\n</p>\n</div>",
@@ -46581,21 +46725,21 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874,
-877,
-882,
-887,
-892,
-894,
-896,
-899,
-902,
-906,
+885,
+888,
+893,
+898,
+903,
+905,
+907,
 910,
-911,
 913,
-914,
-916
+917,
+921,
+922,
+924,
+925,
+927
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 22\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 183\n</p>\n<p>\n<b>Name</b>: Tolman, Sarah\n</p>\n<p>\n<b>Age</b>: 15\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: At Home\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Attended school within the year</b>: Y\n</p>\n</div>",
@@ -46612,7 +46756,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-915
+926
 ],
 "place": 532,
 "text": "",
@@ -46627,7 +46771,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-915
+926
 ],
 "place": 286,
 "text": "",
@@ -46642,7 +46786,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-915
+926
 ],
 "place": 127,
 "text": "",
@@ -46659,7 +46803,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-916
+927
 ],
 "place": 68,
 "text": "",
@@ -46674,7 +46818,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-916
+927
 ],
 "place": 355,
 "text": "",
@@ -46689,7 +46833,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-916
+927
 ],
 "place": 354,
 "text": "",
@@ -46706,21 +46850,21 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874,
-877,
-882,
-887,
-892,
-894,
-896,
-899,
-902,
-906,
+885,
+888,
+893,
+898,
+903,
+905,
+907,
 910,
-911,
 913,
-914,
-916
+917,
+921,
+922,
+924,
+925,
+927
 ],
 "place": 68,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1610\n</p>\n<p>\n<b>Page No.</b>: 22\n</p>\n<p>\n<b>Minor Civil Division</b>: Bountiful\n</p>\n<p>\n<b>County of</b>: Davis\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-18\n</p>\n<p>\n<b>Post Office</b>: Bountiful\n</p>\n<p>\n<b>Line No.</b>: 28\n</p>\n<p>\n<b>Family No.</b>: 183\n</p>\n<p>\n<b>Name</b>: Tolman, Wallace\n</p>\n<p>\n<b>Age</b>: 3\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n</div>",
@@ -46737,7 +46881,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-917
+928
 ],
 "place": 385,
 "text": "",
@@ -46752,7 +46896,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-917
+928
 ],
 "place": 155,
 "text": "",
@@ -46767,7 +46911,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-917
+928
 ],
 "place": 154,
 "text": "",
@@ -46784,20 +46928,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388,
-392,
-399,
-400,
-402,
+393,
+397,
+404,
 405,
-406,
-409,
+407,
 410,
+411,
 414,
 415,
-917,
-970,
-972
+419,
+420,
+928,
+981,
+983
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 276\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 6\n</p>\n<p>\n<b>Family No.</b>: 308\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Agnes\n</p>\n<p>\n<b>Age</b>: 23\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n</div>",
@@ -46814,9 +46958,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-918
+929
 ],
-"place": 763,
+"place": 764,
 "text": "",
 "type": "Birth"
 },
@@ -46829,7 +46973,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-918
+929
 ],
 "place": 372,
 "text": "",
@@ -46844,7 +46988,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-918
+929
 ],
 "place": 370,
 "text": "",
@@ -46861,9 +47005,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-758,
-759,
-918
+769,
+770,
+929
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 7\n</p>\n<p>\n<b>Sheet No.</b>: 29 A\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville Precinct\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-07\n</p>\n<p>\n<b>Line No.</b>: 8\n</p>\n<p>\n<b>Family No.</b>: 67\n</p>\n<p>\n<b>Name</b>: Rollins, Eveline\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Age</b>: 57\n</p>\n<p>\n<b>Relationship to head</b>: Wife\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Keeping House\n</p>\n<p>\n<b>Place of birth</b>: Indiana\n</p>\n<p>\n<b>Place of birth of father</b>: N Jersey\n</p>\n<p>\n<b>Place of birth of mother</b>: N York\n</p>\n</div>",
@@ -46880,11 +47024,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-748,
-758,
 759,
-760,
-918
+769,
+770,
+771,
+929
 ],
 "place": 411,
 "text": "<div>\n<p>\n<b>Page No.</b>: 2\n</p>\n<p>\n<b>Minor Civil Division</b>: Minersville District\n</p>\n<p>\n<b>County of</b>: Beaver\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-20\n</p>\n<p>\n<b>Post Office</b>: Minersville\n</p>\n<p>\n<b>Line No.</b>: 17\n</p>\n<p>\n<b>Family No.</b>: 7\n</p>\n<p>\n<b>Name</b>: Rollins, Caroline\n</p>\n<p>\n<b>Age</b>: 47\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Keeping House\n</p>\n<p>\n<b>Place of birth</b>: Indiana\n</p>\n</div>",
@@ -46901,7 +47045,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-919
+930
 ],
 "place": 638,
 "text": "",
@@ -46916,9 +47060,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-919
+930
 ],
-"place": 772,
+"place": 773,
 "text": "",
 "type": "Death"
 },
@@ -46931,7 +47075,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-919
+930
 ],
 "place": 67,
 "text": "",
@@ -46948,7 +47092,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-920
+931
 ],
 "place": 501,
 "text": "",
@@ -46963,7 +47107,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-920
+931
 ],
 "place": -1,
 "text": "",
@@ -46980,7 +47124,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-921
+932
 ],
 "place": 68,
 "text": "",
@@ -46995,7 +47139,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-921
+932
 ],
 "place": 33,
 "text": "",
@@ -47010,7 +47154,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-921
+932
 ],
 "place": 32,
 "text": "",
@@ -47027,9 +47171,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-922
+933
 ],
-"place": 771,
+"place": 772,
 "text": "",
 "type": "Birth"
 },
@@ -47042,7 +47186,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-922
+933
 ],
 "place": 6,
 "text": "",
@@ -47057,7 +47201,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-922
+933
 ],
 "place": 32,
 "text": "",
@@ -47074,7 +47218,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-923
+934
 ],
 "place": 68,
 "text": "",
@@ -47089,7 +47233,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-923
+934
 ],
 "place": 517,
 "text": "",
@@ -47104,7 +47248,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-923
+934
 ],
 "place": 429,
 "text": "",
@@ -47121,7 +47265,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-924
+935
 ],
 "place": 68,
 "text": "",
@@ -47136,7 +47280,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-924
+935
 ],
 "place": 33,
 "text": "",
@@ -47151,7 +47295,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-924
+935
 ],
 "place": 32,
 "text": "",
@@ -47168,7 +47312,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-925
+936
 ],
 "place": 34,
 "text": "",
@@ -47183,7 +47327,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-925
+936
 ],
 "place": 33,
 "text": "",
@@ -47198,7 +47342,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-925
+936
 ],
 "place": 32,
 "text": "",
@@ -47215,9 +47359,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-926
+937
 ],
-"place": 771,
+"place": 772,
 "text": "",
 "type": "Birth"
 },
@@ -47230,7 +47374,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-926
+937
 ],
 "place": 33,
 "text": "",
@@ -47245,7 +47389,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-926
+937
 ],
 "place": 32,
 "text": "",
@@ -47262,9 +47406,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-927
+938
 ],
-"place": 771,
+"place": 772,
 "text": "",
 "type": "Birth"
 },
@@ -47277,7 +47421,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-927
+938
 ],
 "place": 587,
 "text": "",
@@ -47292,7 +47436,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-927
+938
 ],
 "place": 32,
 "text": "",
@@ -47309,7 +47453,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-928
+939
 ],
 "place": 132,
 "text": "",
@@ -47324,7 +47468,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-928
+939
 ],
 "place": -1,
 "text": "",
@@ -47342,7 +47486,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-930
+941
 ],
 "place": 59,
 "text": "",
@@ -47359,7 +47503,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-931
+942
 ],
 "place": 59,
 "text": "",
@@ -47374,7 +47518,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-931
+942
 ],
 "place": 302,
 "text": "",
@@ -47389,7 +47533,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-931
+942
 ],
 "place": 586,
 "text": "",
@@ -47406,7 +47550,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-932
+943
 ],
 "place": 59,
 "text": "",
@@ -47423,7 +47567,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-933
+944
 ],
 "place": 59,
 "text": "",
@@ -47438,7 +47582,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-933
+944
 ],
 "place": -1,
 "text": "",
@@ -47455,7 +47599,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-934
+945
 ],
 "place": 59,
 "text": "",
@@ -47470,7 +47614,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-934
+945
 ],
 "place": 48,
 "text": "",
@@ -47485,7 +47629,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-934
+945
 ],
 "place": 410,
 "text": "",
@@ -47502,7 +47646,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-935
+946
 ],
 "place": 169,
 "text": "",
@@ -47517,7 +47661,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-935
+946
 ],
 "place": 465,
 "text": "",
@@ -47532,7 +47676,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-935
+946
 ],
 "place": 464,
 "text": "",
@@ -47549,7 +47693,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-936
+947
 ],
 "place": 59,
 "text": "",
@@ -47564,7 +47708,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-936
+947
 ],
 "place": 587,
 "text": "",
@@ -47579,7 +47723,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-936
+947
 ],
 "place": 586,
 "text": "",
@@ -47596,7 +47740,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-937
+948
 ],
 "place": 59,
 "text": "",
@@ -47611,7 +47755,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-937
+948
 ],
 "place": 59,
 "text": "",
@@ -47626,7 +47770,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-937
+948
 ],
 "place": 59,
 "text": "",
@@ -47643,7 +47787,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-938
+949
 ],
 "place": 59,
 "text": "",
@@ -47658,7 +47802,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-938
+949
 ],
 "place": 394,
 "text": "",
@@ -47673,7 +47817,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-938
+949
 ],
 "place": 394,
 "text": "",
@@ -47690,7 +47834,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-939
+950
 ],
 "place": 59,
 "text": "",
@@ -47707,7 +47851,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-940
+951
 ],
 "place": 59,
 "text": "",
@@ -47722,7 +47866,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-940
+951
 ],
 "place": 438,
 "text": "",
@@ -47737,7 +47881,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-940
+951
 ],
 "place": 437,
 "text": "",
@@ -47754,7 +47898,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-941
+952
 ],
 "place": 59,
 "text": "",
@@ -47769,7 +47913,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-941
+952
 ],
 "place": 587,
 "text": "",
@@ -47784,7 +47928,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-941
+952
 ],
 "place": 586,
 "text": "",
@@ -47801,8 +47945,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-220,
-941
+223,
+952
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1611\n</p>\n<p>\n<b>Page No.</b>: 1\n</p>\n<p>\n<b>Sheet No.</b>: 575\n</p>\n<p>\n<b>Minor Civil Division</b>: 6th Ward Salt Lake City\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-08-24\n</p>\n<p>\n<b>Post Office</b>: Salt Lake City\n</p>\n<p>\n<b>Line No.</b>: 29\n</p>\n<p>\n<b>Family No.</b>: 6\n</p>\n<p>\n<b>Name</b>: Clissold, Juliann\n</p>\n<p>\n<b>Age</b>: 19\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Keeping House\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -47819,7 +47963,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-942
+953
 ],
 "place": 59,
 "text": "",
@@ -47834,9 +47978,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-942
+953
 ],
-"place": 723,
+"place": 724,
 "text": "",
 "type": "Death"
 },
@@ -47849,7 +47993,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-942
+953
 ],
 "place": 198,
 "text": "",
@@ -47866,7 +48010,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-943
+954
 ],
 "place": 59,
 "text": "",
@@ -47881,7 +48025,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-943
+954
 ],
 "place": -1,
 "text": "",
@@ -47898,7 +48042,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-944
+955
 ],
 "place": 59,
 "text": "",
@@ -47913,7 +48057,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-944
+955
 ],
 "place": 411,
 "text": "",
@@ -47928,7 +48072,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-944
+955
 ],
 "place": 410,
 "text": "",
@@ -47945,7 +48089,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-945
+956
 ],
 "place": 59,
 "text": "",
@@ -47962,7 +48106,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-946
+957
 ],
 "place": 651,
 "text": "",
@@ -47979,7 +48123,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-947
+958
 ],
 "place": 651,
 "text": "",
@@ -47994,7 +48138,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-947
+958
 ],
 "place": 651,
 "text": "",
@@ -48011,7 +48155,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-948
+959
 ],
 "place": 59,
 "text": "",
@@ -48026,7 +48170,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-948
+959
 ],
 "place": -1,
 "text": "",
@@ -48043,7 +48187,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-949
+960
 ],
 "place": 613,
 "text": "",
@@ -48058,9 +48202,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-949
+960
 ],
-"place": 708,
+"place": 709,
 "text": "",
 "type": "Death"
 },
@@ -48073,11 +48217,47 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-949
+960
 ],
-"place": 707,
+"place": 708,
 "text": "",
 "type": "Burial"
+},
+{
+"cita": [
+121
+],
+"date": "1860-06-01",
+"date_sdn": 2400563,
+"descr": "",
+"gid": "E2570",
+"media": [],
+"part_family": [],
+"part_person": [
+86,
+960
+],
+"place": 709,
+"text": "<div>\n<p>\n<b>NARA publication</b>: M653\n</p>\n<p>\n<b>Page No.</b>: 142\n</p>\n<p>\n<b>Minor Civil Division</b>: Virgin City\n</p>\n<p>\n<b>County of</b>: Washington\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-07-24\n</p>\n<p>\n<b>Post Office</b>: Tokerville\n</p>\n<p>\n<b>Line No.</b>: 23\n</p>\n<p>\n<b>Family No.</b>: 1066\n</p>\n<p>\n<b>Name</b>: Bradshaw, Ann\n</p>\n<p>\n<b>Age</b>: 63\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n</div>",
+"type": "Census"
+},
+{
+"cita": [
+122
+],
+"date": "1870-06-01",
+"date_sdn": 2404215,
+"descr": "",
+"gid": "E2631",
+"media": [],
+"part_family": [],
+"part_person": [
+94,
+960
+],
+"place": 709,
+"text": "<div>\n<p>\n<b>NARA publication</b>: M593\n</p>\n<p>\n<b>Roll No.</b>: 1611\n</p>\n<p>\n<b>Page No.</b>: 3\n</p>\n<p>\n<b>Sheet No.</b>: 460\n</p>\n<p>\n<b>Minor Civil Division</b>: Virgin City\n</p>\n<p>\n<b>County of</b>: Kane\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-07-13\n</p>\n<p>\n<b>Post Office</b>: Virgin City\n</p>\n<p>\n<b>Line No.</b>: 11\n</p>\n<p>\n<b>Family No.</b>: 20\n</p>\n<p>\n<b>Name</b>: Bradshaw, Ann\n</p>\n<p>\n<b>Age</b>: 71\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: No Occupation\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
+"type": "Census"
 }
 ],
 [
@@ -48090,7 +48270,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-950
+961
 ],
 "place": 70,
 "text": "",
@@ -48105,7 +48285,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-950
+961
 ],
 "place": 587,
 "text": "",
@@ -48120,7 +48300,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-950
+961
 ],
 "place": 586,
 "text": "",
@@ -48147,7 +48327,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-961
+972
 ],
 "place": 448,
 "text": "",
@@ -48162,7 +48342,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-961
+972
 ],
 "place": 587,
 "text": "",
@@ -48177,7 +48357,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-961
+972
 ],
 "place": 586,
 "text": "",
@@ -48194,7 +48374,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-962
+973
 ],
 "place": 448,
 "text": "",
@@ -48209,7 +48389,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-962
+973
 ],
 "place": 448,
 "text": "",
@@ -48226,7 +48406,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-963
+974
 ],
 "place": 448,
 "text": "",
@@ -48241,7 +48421,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-963
+974
 ],
 "place": 587,
 "text": "",
@@ -48256,7 +48436,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-963
+974
 ],
 "place": 586,
 "text": "",
@@ -48273,7 +48453,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-964
+975
 ],
 "place": 119,
 "text": "",
@@ -48288,7 +48468,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-964
+975
 ],
 "place": 468,
 "text": "",
@@ -48303,7 +48483,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-964
+975
 ],
 "place": 118,
 "text": "",
@@ -48320,7 +48500,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-965
+976
 ],
 "place": 448,
 "text": "",
@@ -48335,7 +48515,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-965
+976
 ],
 "place": 408,
 "text": "",
@@ -48350,7 +48530,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-965
+976
 ],
 "place": 586,
 "text": "",
@@ -48367,7 +48547,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-966
+977
 ],
 "place": 137,
 "text": "",
@@ -48382,7 +48562,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-966
+977
 ],
 "place": 408,
 "text": "",
@@ -48397,7 +48577,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-966
+977
 ],
 "place": 586,
 "text": "",
@@ -48414,7 +48594,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-967
+978
 ],
 "place": 448,
 "text": "",
@@ -48429,7 +48609,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-967
+978
 ],
 "place": -1,
 "text": "",
@@ -48446,7 +48626,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-968
+979
 ],
 "place": 119,
 "text": "",
@@ -48461,7 +48641,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-968
+979
 ],
 "place": -1,
 "text": "",
@@ -48476,7 +48656,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-968
+979
 ],
 "place": 118,
 "text": "",
@@ -48493,9 +48673,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-140,
-731,
-968
+143,
+742,
+979
 ],
 "place": -1,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 137\n</p>\n<p>\n<b>Page No.</b>: 101\n</p>\n<p>\n<b>Sheet No.</b>: 3B\n</p>\n<p>\n<b>Division of County</b>: Coalville Precinct\n</p>\n<p>\n<b>City, Town, Village</b>: Coalville City\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-04\n</p>\n<p>\n<b>Name</b>: Williams, Mary Ann\n</p>\n<p>\n<b>Relation to head</b>: Daughter\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: July\n</p>\n<p>\n<b>Year of birth</b>: 1882\n</p>\n<p>\n<b>Age</b>: 17\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: S\n</p>\n<p>\n<b>Place of birth</b>: Utah\n</p>\n<p>\n<b>Place of birth of father</b>: Wales\n</p>\n<p>\n<b>Place of birth of mother</b>: England\n</p>\n<p>\n<b>Occupation</b>: At School\n</p>\n<p>\n<b>Attended school</b>: 8\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n</div>",
@@ -48512,7 +48692,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-969
+980
 ],
 "place": 231,
 "text": "",
@@ -48527,7 +48707,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-969
+980
 ],
 "place": 349,
 "text": "",
@@ -48544,7 +48724,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-970
+981
 ],
 "place": 448,
 "text": "",
@@ -48559,7 +48739,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-970
+981
 ],
 "place": 155,
 "text": "",
@@ -48574,7 +48754,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-970
+981
 ],
 "place": 154,
 "text": "",
@@ -48591,13 +48771,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-390,
-393,
-401,
-404,
-405,
-419,
-970
+395,
+398,
+406,
+409,
+410,
+424,
+981
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 273\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 60\n</p>\n<p>\n<b>Page No.</b>: 695\n</p>\n<p>\n<b>Sheet No.</b>: 6A\n</p>\n<p>\n<b>Division of County</b>: Draper Precinct\n</p>\n<p>\n<b>Enumeration Date</b>: 1900-06-09\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Sarah A\n</p>\n<p>\n<b>Relation to head</b>: Head\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Month of birth</b>: Mar\n</p>\n<p>\n<b>Year of birth</b>: 1841\n</p>\n<p>\n<b>Age</b>: 59\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: W\n</p>\n<p>\n<b>Mother of how many children</b>: 11\n</p>\n<p>\n<b>Number of children living</b>: 10\n</p>\n<p>\n<b>Place of birth</b>: Wales\n</p>\n<p>\n<b>Place of birth of father</b>: Wales\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Year of immigration</b>: 1856\n</p>\n<p>\n<b>Number of years in US</b>: 43\n</p>\n<p>\n<b>Can read</b>: Yes\n</p>\n<p>\n<b>Can write</b>: Yes\n</p>\n<p>\n<b>Can speak English</b>: Yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: F\n</p>\n<p>\n<b>Number of farm schedule</b>: 46\n</p>\n</div>",
@@ -48614,20 +48794,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388,
-392,
-399,
-400,
-402,
+393,
+397,
+404,
 405,
-406,
-409,
+407,
 410,
+411,
 414,
 415,
-917,
-970,
-972
+419,
+420,
+928,
+981,
+983
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 276\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 6\n</p>\n<p>\n<b>Family No.</b>: 308\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Sarah\n</p>\n<p>\n<b>Age</b>: 20\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: Wales\n</p>\n</div>",
@@ -48644,13 +48824,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-394,
-400,
-407,
-408,
-409,
-418,
-970
+399,
+405,
+412,
+413,
+414,
+423,
+981
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 6\n</p>\n<p>\n<b>Minor Civil Division</b>: Willow Creek Ward\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1870-09-13\n</p>\n<p>\n<b>Post Office</b>: Draperville\n</p>\n<p>\n<b>Line No.</b>: 21\n</p>\n<p>\n<b>Family No.</b>: 48\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Sarah\n</p>\n<p>\n<b>Age</b>: 29\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Occupation</b>: Keep House\n</p>\n<p>\n<b>Place of birth</b>: Wales\n</p>\n<p>\n<b>Father of foreign birth</b>: Y\n</p>\n<p>\n<b>Mother of foreign birth</b>: Y\n</p>\n</div>",
@@ -48667,9 +48847,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-393,
-401,
-970
+398,
+406,
+981
 ],
 "place": 587,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T624\n</p>\n<p>\n<b>State (or Territory) of</b>: Utah\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 1\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 87\n</p>\n<p>\n<b>Page No.</b>: 140\n</p>\n<p>\n<b>Sheet No.</b>: 3A\n</p>\n<p>\n<b>Division of County</b>: Precinct No 8\n</p>\n<p>\n<b>City, Town, Village</b>: District No 72\n</p>\n<p>\n<b>Enumeration Date</b>: 1910-04-20\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Sarah A\n</p>\n<p>\n<b>Relationship to head</b>: head\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Age</b>: 70\n</p>\n<p>\n<b>Single, married, widowed or divorced</b>: Wd\n</p>\n<p>\n<b>Mother of how many children</b>: 11\n</p>\n<p>\n<b>Number of children living</b>: 10\n</p>\n<p>\n<b>Place of birth</b>: Wales\n</p>\n<p>\n<b>Place of birth of father</b>: Wales\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n<p>\n<b>Able to speak English; if not, language spoken</b>: English\n</p>\n<p>\n<b>Occupation</b>: own income\n</p>\n<p>\n<b>Able to read</b>: yes\n</p>\n<p>\n<b>Able to write</b>: yes\n</p>\n<p>\n<b>Home owned or rented</b>: O\n</p>\n<p>\n<b>Owned free or mortgaged</b>: F\n</p>\n<p>\n<b>Farm or house</b>: H\n</p>\n</div>",
@@ -48686,7 +48866,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-971
+982
 ],
 "place": 201,
 "text": "",
@@ -48701,7 +48881,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-971
+982
 ],
 "place": 119,
 "text": "",
@@ -48716,7 +48896,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-971
+982
 ],
 "place": 118,
 "text": "",
@@ -48733,12 +48913,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-138,
-140,
-148,
+141,
+143,
 151,
-731,
-971
+154,
+742,
+982
 ],
 "place": 119,
 "text": "<div>\n<p>\n<b>NARA publication</b>: T9\n</p>\n<p>\n<b>Roll No.</b>: 1338\n</p>\n<p>\n<b>Page No.</b>: 14\n</p>\n<p>\n<b>Sheet No.</b>: B\n</p>\n<p>\n<b>Supervisor's Dist. No.</b>: 136\n</p>\n<p>\n<b>Enumeration Dist. No.</b>: 72\n</p>\n<p>\n<b>Minor Civil Division</b>: Coalville Precinct\n</p>\n<p>\n<b>County of</b>: Summit\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1880-06-01\n</p>\n<p>\n<b>Line No.</b>: 2\n</p>\n<p>\n<b>Family No.</b>: 142\n</p>\n<p>\n<b>Name</b>: Williams, Thomas W\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Sex</b>: M\n</p>\n<p>\n<b>Age</b>: 54\n</p>\n<p>\n<b>Married</b>: Y\n</p>\n<p>\n<b>Occupation</b>: Coal Miner\n</p>\n<p>\n<b>Place of birth</b>: Wales\n</p>\n<p>\n<b>Place of birth of father</b>: Wales\n</p>\n<p>\n<b>Place of birth of mother</b>: Wales\n</p>\n</div>",
@@ -48755,7 +48935,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-972
+983
 ],
 "place": 470,
 "text": "",
@@ -48770,7 +48950,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-972
+983
 ],
 "place": 155,
 "text": "",
@@ -48785,7 +48965,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-972
+983
 ],
 "place": 154,
 "text": "",
@@ -48802,20 +48982,20 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-388,
-392,
-399,
-400,
-402,
+393,
+397,
+404,
 405,
-406,
-409,
+407,
 410,
+411,
 414,
 415,
-917,
-970,
-972
+419,
+420,
+928,
+981,
+983
 ],
 "place": 155,
 "text": "<div>\n<p>\n<b>Page No.</b>: 276\n</p>\n<p>\n<b>County of</b>: Salt Lake\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-08-17\n</p>\n<p>\n<b>Post Office</b>: Draper\n</p>\n<p>\n<b>Line No.</b>: 6\n</p>\n<p>\n<b>Family No.</b>: 308\n</p>\n<p>\n<b>Name</b>: Fitzgerald, Ann\n</p>\n<p>\n<b>Age</b>: 47\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: England\n</p>\n</div>",
@@ -48832,7 +49012,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-973
+984
 ],
 "place": -1,
 "text": "",
@@ -48847,7 +49027,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-973
+984
 ],
 "place": -1,
 "text": "",
@@ -48862,9 +49042,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-973
+984
 ],
-"place": 681,
+"place": 682,
 "text": "",
 "type": "Burial"
 }
@@ -48879,7 +49059,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-974
+985
 ],
 "place": 256,
 "text": "",
@@ -48894,7 +49074,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-974
+985
 ],
 "place": 485,
 "text": "",
@@ -48909,7 +49089,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-974
+985
 ],
 "place": 484,
 "text": "",
@@ -48926,12 +49106,12 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209,
-572,
-580,
-584,
-586,
-974
+212,
+583,
+591,
+595,
+597,
+985
 ],
 "place": 635,
 "text": "<div>\n<p>\n<b>Page No.</b>: 278\n</p>\n<p>\n<b>Minor Civil Division</b>: Springville\n</p>\n<p>\n<b>County of</b>: Utah\n</p>\n<p>\n<b>State of</b>: Utah\n</p>\n<p>\n<b>Enumeration Date</b>: 1860-09-04\n</p>\n<p>\n<b>Post Office</b>: Springville\n</p>\n<p>\n<b>Line No.</b>: 7\n</p>\n<p>\n<b>Family No.</b>: 1946\n</p>\n<p>\n<b>Name</b>: Winchell, Ada\n</p>\n<p>\n<b>Age</b>: 53\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Color</b>: W\n</p>\n<p>\n<b>Place of birth</b>: NY\n</p>\n</div>",
@@ -48948,11 +49128,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-204,
-206,
+207,
 209,
-211,
-974
+212,
+214,
+985
 ],
 "place": 524,
 "text": "<div>\n<p>\n<b>NARA publication</b>: M432\n</p>\n<p>\n<b>Roll No.</b>: 188\n</p>\n<p>\n<b>Page No.</b>: 102\n</p>\n<p>\n<b>Minor Civil Division</b>: District Polk\n</p>\n<p>\n<b>County of</b>: Pottawattamie\n</p>\n<p>\n<b>State of</b>: Iowa\n</p>\n<p>\n<b>Enumeration Date</b>: 1950-10-03\n</p>\n<p>\n<b>Line No.</b>: 25\n</p>\n<p>\n<b>Family No.</b>: 605\n</p>\n<p>\n<b>Name</b>: Clemins, Ady\n</p>\n<p>\n<b>Age</b>: 48\n</p>\n<p>\n<b>Sex</b>: F\n</p>\n<p>\n<b>Place of birth</b>: New York\n</p>\n</div>",
@@ -48969,7 +49149,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-975
+986
 ],
 "place": -1,
 "text": "",
@@ -48984,7 +49164,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-975
+986
 ],
 "place": 587,
 "text": "",
@@ -49001,7 +49181,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-976
+987
 ],
 "place": 90,
 "text": "",
@@ -49016,7 +49196,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-976
+987
 ],
 "place": 590,
 "text": "",
@@ -49031,7 +49211,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-976
+987
 ],
 "place": 509,
 "text": "",
@@ -49048,7 +49228,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-977
+988
 ],
 "place": 7,
 "text": "",
@@ -49063,7 +49243,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-977
+988
 ],
 "place": 17,
 "text": "",
@@ -49078,7 +49258,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-977
+988
 ],
 "place": 16,
 "text": "",

@@ -14,90 +14,10 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Book",
 "note": "",
-"r_idx": 1
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 1
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 1
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 1
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 0
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 0
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 1
-}
-],
-[
-{
-"call_number": "",
-"media_type": "",
-"note": "",
-"r_idx": 6
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 0
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Electronic",
-"note": "",
 "r_idx": 0
 }
 ],
 [],
-[
-{
-"call_number": "",
-"media_type": "Electronic",
-"note": "",
-"r_idx": 4
-}
-],
 [],
 [
 {
@@ -110,68 +30,52 @@ S_repo_0 = [
 [
 {
 "call_number": "",
-"media_type": "",
+"media_type": "Book",
 "note": "",
-"r_idx": 6
+"r_idx": 1
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 1
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 1
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 1
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 1
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 1
 }
 ],
 [],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 1
-}
-],
-[
-{
-"call_number": "",
-"media_type": "",
-"note": "",
-"r_idx": 6
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 1
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 0
-}
-],
-[
-{
-"call_number": "",
-"media_type": "",
-"note": "",
-"r_idx": 6
-}
-],
-[
-{
-"call_number": "",
-"media_type": "",
-"note": "",
-"r_idx": 6
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 0
-}
-],
 [
 {
 "call_number": "",
@@ -191,9 +95,178 @@ S_repo_0 = [
 [
 {
 "call_number": "",
-"media_type": "",
+"media_type": "Electronic",
+"note": "",
+"r_idx": 4
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 1
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 1
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 0
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 0
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 1
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 0
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 1
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 1
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 0
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 0
+}
+],
+[],
+[
+{
+"call_number": "",
+"media_type": "Book",
 "note": "",
 "r_idx": 6
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 6
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 6
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 6
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 6
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 6
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 6
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 6
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 1
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 1
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 1
 }
 ],
 [
@@ -239,65 +312,17 @@ S_repo_0 = [
 [
 {
 "call_number": "",
-"media_type": "",
+"media_type": "Book",
 "note": "",
-"r_idx": 6
+"r_idx": 0
 }
 ],
 [
 {
 "call_number": "",
-"media_type": "Book",
+"media_type": "Electronic",
 "note": "",
-"r_idx": 1
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 1
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 1
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 1
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 1
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 1
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 1
+"r_idx": 3
 }
 ],
 [
@@ -306,6 +331,30 @@ S_repo_0 = [
 "media_type": "Book",
 "note": "",
 "r_idx": 0
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Electronic",
+"note": "",
+"r_idx": 0
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 1
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"r_idx": 1
 }
 ],
 [
@@ -329,39 +378,6 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Book",
 "note": "",
-"r_idx": 0
-}
-],
-[],
-[
-{
-"call_number": "",
-"media_type": "Electronic",
-"note": "",
-"r_idx": 3
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 1
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 1
-}
-],
-[
-{
-"call_number": "",
-"media_type": "",
-"note": "",
 "r_idx": 1
 }
 ],
@@ -459,22 +475,6 @@ S_repo_0 = [
 "media_type": "Electronic",
 "note": "",
 "r_idx": 5
-}
-],
-[
-{
-"call_number": "",
-"media_type": "",
-"note": "",
-"r_idx": 6
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"r_idx": 0
 }
 ]
 ]

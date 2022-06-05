@@ -680,6 +680,7 @@ P_name_0 = [
 "Thurston, Nebraska, United States of America",
 "Tioga, Pennsylvania, United States of America",
 "Tiverton, Newport, Rhode Island, United States of America",
+"Tonaquint, Washington, Utah, United States of America",
 "Tooele, Tooele, Utah, United States of America",
 "Tooele, Utah, United States of America",
 "Toquerville Cemetery, Toquerville, Washington, Utah, United States of America",

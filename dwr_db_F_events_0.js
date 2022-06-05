@@ -152,7 +152,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 768,
+"place": 769,
 "text": "",
 "type": "Marriage"
 }
@@ -380,7 +380,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 745,
+"place": 746,
 "text": "",
 "type": "Marriage"
 }
@@ -727,7 +727,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 713,
+"place": 714,
 "text": "",
 "type": "Marriage"
 }
@@ -742,7 +742,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 732,
+"place": 733,
 "text": "",
 "type": "Marriage"
 }
@@ -818,7 +818,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 701,
+"place": 702,
 "text": "",
 "type": "Marriage"
 }
@@ -1046,7 +1046,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 711,
+"place": 712,
 "text": "",
 "type": "Marriage"
 }
@@ -1101,7 +1101,7 @@ F_events_0 = [
 [
 {
 "cita": [
-163
+167
 ],
 "date": "1820-04-10",
 "date_sdn": 2385901,
@@ -1232,7 +1232,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 728,
+"place": 729,
 "text": "",
 "type": "Marriage"
 }
@@ -1363,7 +1363,7 @@ F_events_0 = [
 [
 {
 "cita": [
-173
+177
 ],
 "date": "1842-11-02",
 "date_sdn": 2394142,
@@ -1372,13 +1372,13 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 777,
+"place": 778,
 "text": "",
 "type": "Marriage"
 },
 {
 "cita": [
-123
+127
 ],
 "date": "after 1842-11-02",
 "date_sdn": 2394142,
@@ -1393,7 +1393,7 @@ F_events_0 = [
 },
 {
 "cita": [
-165
+169
 ],
 "date": "about 1861",
 "date_sdn": 2400777,
@@ -1582,7 +1582,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 774,
+"place": 775,
 "text": "",
 "type": "Marriage"
 }
@@ -1628,7 +1628,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 682,
+"place": 683,
 "text": "",
 "type": "Marriage"
 }
@@ -1871,7 +1871,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 687,
+"place": 688,
 "text": "",
 "type": "Marriage"
 }

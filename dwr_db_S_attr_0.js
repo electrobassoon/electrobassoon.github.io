@@ -52,6 +52,8 @@ S_attr_0 = [
 [],
 [],
 [],
+[],
+[],
 [
 {
 "cita": [],
@@ -124,8 +126,6 @@ S_attr_0 = [
 "value": "US1940"
 }
 ],
-[],
-[],
 []
 ]
 Dwr.ScriptLoaded('dwr_db_S_attr_0.js');

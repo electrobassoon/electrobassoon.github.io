@@ -6,25 +6,19 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "Book",
 "note": "",
-"s_idx": 5
+"s_idx": 1
 },
 {
 "call_number": "",
 "media_type": "Book",
 "note": "",
-"s_idx": 6
+"s_idx": 17
 },
 {
 "call_number": "",
 "media_type": "Book",
 "note": "",
-"s_idx": 9
-},
-{
-"call_number": "",
-"media_type": "Electronic",
-"note": "",
-"s_idx": 10
+"s_idx": 18
 },
 {
 "call_number": "",
@@ -42,7 +36,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "Book",
 "note": "",
-"s_idx": 30
+"s_idx": 24
 },
 {
 "call_number": "",
@@ -54,19 +48,25 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "Book",
 "note": "",
-"s_idx": 43
+"s_idx": 42
 },
 {
 "call_number": "",
 "media_type": "Book",
 "note": "",
-"s_idx": 50
+"s_idx": 44
+},
+{
+"call_number": "",
+"media_type": "Electronic",
+"note": "",
+"s_idx": 45
 },
 {
 "call_number": "",
 "media_type": "Book",
 "note": "",
-"s_idx": 62
+"s_idx": 52
 }
 ],
 [
@@ -80,25 +80,19 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "Book",
 "note": "",
-"s_idx": 1
-},
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"s_idx": 2
-},
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"s_idx": 3
-},
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
 "s_idx": 4
+},
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"s_idx": 5
+},
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"s_idx": 6
 },
 {
 "call_number": "",
@@ -110,13 +104,37 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "Book",
 "note": "",
-"s_idx": 14
+"s_idx": 8
 },
 {
 "call_number": "",
 "media_type": "Book",
 "note": "",
-"s_idx": 17
+"s_idx": 9
+},
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"s_idx": 10
+},
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"s_idx": 12
+},
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"s_idx": 15
+},
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"s_idx": 16
 },
 {
 "call_number": "",
@@ -128,37 +146,13 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "Book",
 "note": "",
-"s_idx": 24
+"s_idx": 21
 },
 {
 "call_number": "",
 "media_type": "Book",
 "note": "",
-"s_idx": 27
-},
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"s_idx": 28
-},
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"s_idx": 29
-},
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"s_idx": 31
-},
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"s_idx": 33
+"s_idx": 22
 },
 {
 "call_number": "",
@@ -216,13 +210,27 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "",
+"media_type": "Book",
 "note": "",
 "s_idx": 48
 },
 {
 "call_number": "",
 "media_type": "Book",
+"note": "",
+"s_idx": 50
+},
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"s_idx": 51
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Electronic",
 "note": "",
 "s_idx": 49
 }
@@ -232,7 +240,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "Electronic",
 "note": "",
-"s_idx": 42
+"s_idx": 43
 }
 ],
 [
@@ -240,36 +248,16 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "Electronic",
 "note": "",
-"s_idx": 45
+"s_idx": 13
+},
+{
+"call_number": "",
+"media_type": "Electronic",
+"note": "",
+"s_idx": 14
 }
 ],
 [
-{
-"call_number": "",
-"media_type": "Electronic",
-"note": "",
-"s_idx": 12
-},
-{
-"call_number": "",
-"media_type": "Electronic",
-"note": "",
-"s_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Book",
-"note": "",
-"s_idx": 51
-},
-{
-"call_number": "",
-"media_type": "Electronic",
-"note": "",
-"s_idx": 52
-},
 {
 "call_number": "",
 "media_type": "Book",
@@ -278,7 +266,7 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Book",
+"media_type": "Electronic",
 "note": "",
 "s_idx": 54
 },
@@ -302,7 +290,7 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Electronic",
+"media_type": "Book",
 "note": "",
 "s_idx": 58
 },
@@ -317,56 +305,68 @@ R_bks_0 = [
 "media_type": "Electronic",
 "note": "",
 "s_idx": 60
+},
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"s_idx": 61
+},
+{
+"call_number": "",
+"media_type": "Electronic",
+"note": "",
+"s_idx": 62
 }
 ],
 [
 {
 "call_number": "",
-"media_type": "",
-"note": "",
-"s_idx": 8
-},
-{
-"call_number": "",
-"media_type": "",
-"note": "",
-"s_idx": 15
-},
-{
-"call_number": "",
-"media_type": "",
-"note": "",
-"s_idx": 18
-},
-{
-"call_number": "",
-"media_type": "",
-"note": "",
-"s_idx": 21
-},
-{
-"call_number": "",
-"media_type": "",
-"note": "",
-"s_idx": 22
-},
-{
-"call_number": "",
-"media_type": "",
+"media_type": "Book",
 "note": "",
 "s_idx": 26
 },
 {
 "call_number": "",
-"media_type": "",
+"media_type": "Book",
+"note": "",
+"s_idx": 27
+},
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"s_idx": 28
+},
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"s_idx": 29
+},
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"s_idx": 30
+},
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"s_idx": 31
+},
+{
+"call_number": "",
+"media_type": "Book",
 "note": "",
 "s_idx": 32
 },
 {
 "call_number": "",
-"media_type": "",
+"media_type": "Book",
 "note": "",
-"s_idx": 61
+"s_idx": 33
 }
 ]
 ]

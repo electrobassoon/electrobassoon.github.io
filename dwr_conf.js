@@ -7,19 +7,19 @@ DWR_VERSION_500 = true;
 TITLE = "Bradshaw Family Ancestors";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 177,
+    "C": 181,
     "F": 157,
-    "I": 978,
+    "I": 989,
     "M": 51,
-    "N": 159,
-    "P": 783,
+    "N": 160,
+    "P": 784,
     "R": 7,
     "S": 63
 };NB_GENERATIONS_MAX = 10;
 PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html"];
 PAGES_TITLE = ["Home", "Indexes", "Tree", "Reports"];
-PAGES_FILE_INDEX = ["surnames.html", "persons.html", "sources.html", "medias.html", "places.html", "repositories.html"];
-PAGES_TITLE_INDEX = ["Surnames", "Individuals", "Sources", "Media", "Places", "Repositories"];
+PAGES_FILE_INDEX = ["surnames.html", "persons.html", "families.html", "sources.html", "medias.html", "places.html", "repositories.html"];
+PAGES_TITLE_INDEX = ["Surnames", "Individuals", "Families", "Sources", "Media", "Places", "Repositories"];
 SVG_TREE_TYPES_NAMES = ["Ascending tree", "Descending tree", "Descending tree with spouses", "Ascending and descending tree", "Ascending and descending tree with spouses"];
 SVG_TREE_SHAPES_NAMES = ["Vertical (↓)", "Vertical (↑)", "Horizontal (→)", "Horizontal (←)", "Full Circle", "Half Circle", "Quadrant"];
 SVG_TREE_DISTRIB_ASC_NAMES = ["Size proportional to number of ancestors", "Homogeneous parents distribution"];
@@ -69,7 +69,7 @@ SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"]
 FOOTER="";
 HEADER="";
 BRAND_TITLE="";
-COPYRIGHT="<p class=\'copyright\'>&copy; 2022 Benjamin Bradshaw</p>";
+COPYRIGHT="";
 INDEX_SURNAMES_TYPE=false;
 INDEX_PERSONS_TYPE=true;
 INDEX_FAMILIES_TYPE=true;
@@ -77,7 +77,7 @@ INDEX_SOURCES_TYPE=true;
 INDEX_PLACES_TYPE=false;
 INDEX_SHOW_DATES=true;
 INDEX_SHOW_PARTNER=true;
-INDEX_SHOW_PARENTS=false;
+INDEX_SHOW_PARENTS=true;
 INDEX_SHOW_PATH=false;
 INDEX_SHOW_BKREF_TYPE=false;
 INDEX_DEFAULT_SIZE = 0;
@@ -94,7 +94,7 @@ INC_ADDRESSES=false;
 MAP_PLACE=true;
 MAP_FAMILY=true;
 MAP_SERVICE="OpenStreetMap";
-SOURCE_AUTHOR_IN_TITLE=false;
+SOURCE_AUTHOR_IN_TITLE=true;
 TABBED_PANELS=true;
 INC_CHANGE_TIME=true;
 HIDE_GID=true;
