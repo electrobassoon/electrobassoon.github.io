@@ -302,21 +302,27 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Electronic",
+"media_type": "Book",
 "note": "",
 "s_idx": 60
 },
 {
 "call_number": "",
-"media_type": "Book",
+"media_type": "Electronic",
 "note": "",
 "s_idx": 61
 },
 {
 "call_number": "",
-"media_type": "Electronic",
+"media_type": "Book",
 "note": "",
 "s_idx": 62
+},
+{
+"call_number": "",
+"media_type": "Electronic",
+"note": "",
+"s_idx": 63
 }
 ],
 [

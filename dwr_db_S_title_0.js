@@ -56,6 +56,7 @@ S_title_0 = [
 "The Mountain Meadow Massacre",
 "United States Census 1850",
 "United States Census 1860",
+"United States Census, 1840",
 "United States Census, 1870",
 "United States Census, 1880",
 "United States Census, 1900",

@@ -7,14 +7,14 @@ DWR_VERSION_500 = true;
 TITLE = "Bradshaw Family Ancestors";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 181,
+    "C": 197,
     "F": 157,
-    "I": 989,
+    "I": 1011,
     "M": 51,
-    "N": 160,
+    "N": 166,
     "P": 784,
     "R": 7,
-    "S": 63
+    "S": 64
 };NB_GENERATIONS_MAX = 10;
 PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html"];
 PAGES_TITLE = ["Home", "Indexes", "Tree", "Reports"];

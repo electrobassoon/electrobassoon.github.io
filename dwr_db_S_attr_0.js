@@ -75,6 +75,14 @@ S_attr_0 = [
 "cita": [],
 "note": "",
 "type": "Form",
+"value": "US1840"
+}
+],
+[
+{
+"cita": [],
+"note": "",
+"type": "Form",
 "value": "US1870"
 }
 ],
