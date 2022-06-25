@@ -64,6 +64,9 @@ S_letter_0 = [
 "U",
 "U",
 "U",
+"U",
+"U",
+"U",
 "U"
 ]
 Dwr.ScriptLoaded('dwr_db_S_letter_0.js');

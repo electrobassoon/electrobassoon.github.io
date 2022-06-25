@@ -59,6 +59,38 @@ S_attr_0 = [
 "cita": [],
 "note": "",
 "type": "Form",
+"value": "US1810"
+}
+],
+[
+{
+"cita": [],
+"note": "",
+"type": "Form",
+"value": "US1820"
+}
+],
+[
+{
+"cita": [],
+"note": "",
+"type": "Form",
+"value": "US1830"
+}
+],
+[
+{
+"cita": [],
+"note": "",
+"type": "Form",
+"value": "US1840"
+}
+],
+[
+{
+"cita": [],
+"note": "",
+"type": "Form",
 "value": "US1850"
 }
 ],
@@ -68,14 +100,6 @@ S_attr_0 = [
 "note": "",
 "type": "Form",
 "value": "US1860"
-}
-],
-[
-{
-"cita": [],
-"note": "",
-"type": "Form",
-"value": "US1840"
 }
 ],
 [

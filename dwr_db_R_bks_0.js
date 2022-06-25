@@ -266,7 +266,7 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Electronic",
+"media_type": "Book",
 "note": "",
 "s_idx": 54
 },
@@ -290,7 +290,7 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Book",
+"media_type": "Electronic",
 "note": "",
 "s_idx": 58
 },
@@ -308,7 +308,7 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Electronic",
+"media_type": "Book",
 "note": "",
 "s_idx": 61
 },
@@ -320,9 +320,27 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Electronic",
+"media_type": "Book",
 "note": "",
 "s_idx": 63
+},
+{
+"call_number": "",
+"media_type": "Electronic",
+"note": "",
+"s_idx": 64
+},
+{
+"call_number": "",
+"media_type": "Book",
+"note": "",
+"s_idx": 65
+},
+{
+"call_number": "",
+"media_type": "Electronic",
+"note": "",
+"s_idx": 66
 }
 ],
 [
