@@ -9,7 +9,7 @@ SPLIT = 5000;
 DB_SIZES = {
     "C": 240,
     "F": 157,
-    "I": 1059,
+    "I": 1060,
     "M": 51,
     "N": 185,
     "P": 795,
@@ -69,7 +69,7 @@ SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"]
 FOOTER="";
 HEADER="";
 BRAND_TITLE="";
-COPYRIGHT="";
+COPYRIGHT="<p class=\'copyright\'>&copy; 2022 Benjamin Bradshaw</p>";
 INDEX_SURNAMES_TYPE=false;
 INDEX_PERSONS_TYPE=true;
 INDEX_FAMILIES_TYPE=true;

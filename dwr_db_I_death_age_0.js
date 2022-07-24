@@ -72,6 +72,7 @@ I_death_age_0 = [
 "",
 "",
 "",
+"",
 "78 years, 8 months, 4 days",
 "3 years, 14 days",
 "88 years, 4 months, 16 days",

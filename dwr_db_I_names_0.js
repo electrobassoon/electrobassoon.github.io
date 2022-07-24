@@ -1285,6 +1285,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Bradshaw, [Living]",
+"given": "[Living]",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Bradshaw"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Bradshaw, Catherine",
 "given": "Catherine",
 "nick": "",

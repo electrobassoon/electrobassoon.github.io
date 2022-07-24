@@ -451,6 +451,15 @@ I_famc_0 = [
 [
 {
 "cita": [],
+"index": 10,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
 "index": 12,
 "note": "",
 "to_father": "Birth",
