@@ -8,11 +8,11 @@ TITLE = "Bradshaw Family Ancestors";
 SPLIT = 5000;
 DB_SIZES = {
     "C": 240,
-    "F": 157,
-    "I": 1060,
+    "F": 169,
+    "I": 1147,
     "M": 51,
-    "N": 185,
-    "P": 795,
+    "N": 197,
+    "P": 835,
     "R": 7,
     "S": 67
 };NB_GENERATIONS_MAX = 10;
@@ -69,7 +69,7 @@ SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"]
 FOOTER="";
 HEADER="";
 BRAND_TITLE="";
-COPYRIGHT="<p class=\'copyright\'>&copy; 2022 Benjamin Bradshaw</p>";
+COPYRIGHT="<p class=\'copyright\'>&copy; 2023 Benjamin Bradshaw</p>";
 INDEX_SURNAMES_TYPE=false;
 INDEX_PERSONS_TYPE=true;
 INDEX_FAMILIES_TYPE=true;
