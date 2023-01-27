@@ -8,11 +8,11 @@ TITLE = "Bradshaw Family Ancestors";
 SPLIT = 5000;
 DB_SIZES = {
     "C": 240,
-    "F": 169,
-    "I": 1147,
+    "F": 181,
+    "I": 1243,
     "M": 51,
-    "N": 197,
-    "P": 835,
+    "N": 207,
+    "P": 889,
     "R": 7,
     "S": 67
 };NB_GENERATIONS_MAX = 10;
