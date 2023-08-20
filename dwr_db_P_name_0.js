@@ -346,6 +346,7 @@ P_name_0 = [
 "Germany",
 "Glasgow, Lanarkshire, Scotland",
 "Glencoe, Lincoln, Wyoming, United States of America",
+"Glendora, Los Angeles, California, United States of America",
 "Gloucester, South West England, England",
 "Gooding, Idaho, United States of America",
 "Goshen, Orange, New York, United States of America",
