@@ -69,7 +69,7 @@ SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"]
 FOOTER="";
 HEADER="";
 BRAND_TITLE="";
-COPYRIGHT="<p class=\'copyright\'>&copy; 2023 Benjamin Bradshaw</p>";
+COPYRIGHT="<p class=\'copyright\'>&copy; 2024 Benjamin Bradshaw</p>";
 INDEX_SURNAMES_TYPE=false;
 INDEX_PERSONS_TYPE=true;
 INDEX_FAMILIES_TYPE=true;

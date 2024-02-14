@@ -3617,8 +3617,8 @@ function mapUpdate()
 
 		var vectorLayer = new ol.layer.Vector({
 			source: osmVectorSource,
-			//style: OsmPointStyle
-			//style: iconStyle
+			style: OsmPointStyle
+			// style: iconStyle
 		});
 		mapObject.addLayer(vectorLayer);
 		mapObject.on('click', OsmClick);

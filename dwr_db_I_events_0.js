@@ -28734,7 +28734,7 @@ I_events_0 = [
 },
 {
 "cita": [],
-"date": "1886-09-08",
+"date": "between 1886-09-08 and 2023-09-16",
 "date_sdn": 2410158,
 "descr": "Burial of Haight, Isaac Chauncey",
 "gid": "E1869",
@@ -28744,7 +28744,22 @@ I_events_0 = [
 625
 ],
 "place": 960,
-"text": "",
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nDue to spending the end of his life in hiding, Isaac Haight was buried in Thatcher, Arizona, where he died. Due in large part to the efforts of Lane Peterson, he was reinterned in the Cedar City, Utah Cemetery next to three of his wives on September 16, 2023.\n</p>\n</div>\n</div>",
+"type": "Burial"
+},
+{
+"cita": [],
+"date": "2023-09-16",
+"date_sdn": 2460204,
+"descr": "",
+"gid": "E3703",
+"media": [],
+"part_family": [],
+"part_person": [
+625
+],
+"place": 153,
+"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nDue to spending the end of his life in hiding, Isaac Haight was buried in Thatcher, Arizona, where he died. Due in large part to the efforts of Lane Peterson, he was reinterned in the Cedar City, Utah Cemetery next to three of his wives on September 16, 2023.\n</p>\n</div>\n</div>",
 "type": "Burial"
 }
 ],
