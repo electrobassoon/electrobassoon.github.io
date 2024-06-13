@@ -641,6 +641,7 @@ P_name_0 = [
 "Muiravonside House, Stirlingshire, Scotland",
 "Multnomah, Oregon, United States of America",
 "Munson Township, Geauga, Ohio, United States of America",
+"Murray City Cemetery, Murray, Salt Lake, Utah, United States of America",
 "Murray, Salt Lake, Utah, United States of America",
 "Nampa, Canyon, Idaho, United States of America",
 "Napoleon, Henry, Ohio, United States of America",

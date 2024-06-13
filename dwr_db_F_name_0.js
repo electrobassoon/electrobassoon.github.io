@@ -97,7 +97,6 @@ F_name_0 = [
 "Family of Franklin, David and Simmons, Hannah",
 "Family of Haden, John and Vobe, Jemima",
 "Family of Haight, Caleb and Aldrich, Sarah",
-"Family of Haight, Caleb and Allen, Theodosia",
 "Family of Haight, Caleb and Horton, Keturah",
 "Family of Haight, Isaac and Bateman, Martha",
 "Family of Haight, Isaac Chauncey and Price, Eliza Ann",

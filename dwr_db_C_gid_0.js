@@ -1,6 +1,7 @@
 // This file is generated
 
 C_gid_0 = [
+"C0002",
 "C0003",
 "C0004",
 "C0013",

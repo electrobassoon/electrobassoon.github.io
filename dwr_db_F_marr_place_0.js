@@ -97,7 +97,6 @@ F_marr_place_0 = [
 "",
 "",
 "Nauvoo, Hancock, Illinois, United States of America",
-"Salt Lake City, Salt Lake, Utah, United States of America",
 "Greenville, Greene, New York, United States of America",
 "Stanford, Dutchess, New York, United States of America",
 "Salt Lake City, Salt Lake, Utah, United States of America",

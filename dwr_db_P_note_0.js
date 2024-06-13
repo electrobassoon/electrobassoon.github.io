@@ -440,6 +440,7 @@ P_note_0 = [
 "",
 "",
 "",
+"<div>\n<i class=\"NoteType\">\nResearch\n</i>\n<div class=\"grampsstylednote\">\n<p>\n<span style=\"font-family:'Baskervald ADF Std';\"></span><span style=\"font-size:14px;\"><span style=\"font-family:'Baskervald ADF Std';\">Isle of Man Research</span></span>\n</p>\n<p>\n<span style=\"font-size:12px;\"><span style=\"font-family:'Baskervald ADF Std';\">Quilliam line seems to be the main line that has Manx lineage.</span></span><span style=\"font-family:'Baskervald ADF Std';\"></span><span style=\"font-size:14px;\"><span style=\"font-family:'Baskervald ADF Std';\"></span></span>\n</p>\n<p>\nSusan Charlotte Quilliam (married name Callis) was born in Liverpool according to an England Census Record in 1861 (living in Liverpool as well) interestingly, it seems that there were some Cubbons possibly living with them. <br />\nI'm running into questions about the birth record. It seems she was born in Liverpool but baptized in Isle of Man. There is also a workhouse record for her (or one of her?) after she should have been married and in Ireland with John Callis.... Maybe there are two?\n</p>\n</div>\n</div>",
 "",
 "",
 "",

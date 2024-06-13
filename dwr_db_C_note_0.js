@@ -185,6 +185,7 @@ C_note_0 = [
 "",
 "",
 "",
+"",
 "<div>\n<i class=\"NoteType\">\nSource Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\n<span style=\"font-family:'Libre Baskerville';\">https://www.familysearch.org/ark:/61903/1:1:F4XD-CBY</span>\n</p>\n</div>\n</div>",
 "",
 "<div>\n<i class=\"NoteType\">\nCitation\n</i>\n<div class=\"grampsstylednote\">\n<p>\n<span style=\"font-family:'Libre Baskerville';\">Church Records have this ordinance completed January 7, 1849</span>\n</p>\n</div>\n</div>",

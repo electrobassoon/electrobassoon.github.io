@@ -7,17 +7,17 @@ DWR_VERSION_500 = true;
 TITLE = "Bradshaw Family Ancestors";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 240,
-    "F": 226,
-    "I": 1565,
+    "C": 241,
+    "F": 225,
+    "I": 1566,
     "M": 51,
     "N": 238,
-    "P": 1107,
+    "P": 1108,
     "R": 7,
     "S": 67
 };NB_GENERATIONS_MAX = 10;
 PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html"];
-PAGES_TITLE = ["Home", "Indexes", "Tree", "Reports"];
+PAGES_TITLE = ["DynWeb|Home", "Indexes", "Tree", "Reports"];
 PAGES_FILE_INDEX = ["surnames.html", "persons.html", "families.html", "sources.html", "medias.html", "places.html", "repositories.html"];
 PAGES_TITLE_INDEX = ["Surnames", "Individuals", "Families", "Sources", "Media", "Places", "Repositories"];
 SVG_TREE_TYPES_NAMES = ["Ascending tree", "Descending tree", "Descending tree with spouses", "Ascending and descending tree", "Ascending and descending tree with spouses"];
@@ -318,7 +318,8 @@ __ = {
 "Divorce": "Divorce",
 "Divorce Filing": "Divorce Filing",
 "Annulment": "Annulment",
-"Alternate Marriage": "Alternate Marriage"
+"Alternate Marriage": "Alternate Marriage",
+"Stillbirth": "Stillbirth"
 };
 URLTYPE_UNKNOWN = -1;
 URLTYPE_CUSTOM = 0;

@@ -1,6 +1,7 @@
 // This file is generated
 
 C_text_0 = [
+"<p>\n<b>\nDate: \n</b>\n1940-04-01\n</p>",
 "<p>\n<b>\nDate: \n</b>\n1910-04-15\n</p>",
 "<p>\n<b>\nDate: \n</b>\n1920-01-01\n</p>",
 "<p>\n<b>\nDate: \n</b>\n1910-04-15\n</p>",
